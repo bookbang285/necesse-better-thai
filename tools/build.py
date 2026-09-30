@@ -71,19 +71,30 @@ def compile_java(out: Path) -> None:
         raise BuildError("javac ล้มเหลว:\n" + r.stdout + r.stderr)
 
 
-def make_jar(jar: Path, modinfo: str, lang_text: str, classes: Path, font: Path | None,
-             font_scale: float = 1.0, font_license: Path | None = None, preview: Path | None = None) -> None:
+def font_entries(cfg: dict, fonts_dir: Path) -> list[tuple[str, Path, Path]]:
+    """[(ชื่อที่แสดงในเมนู, ไฟล์ฟอนต์, ไฟล์สัญญา OFL)] — ชื่อ = ส่วนก่อน '-' ของชื่อไฟล์ · ตัวแรก = ค่าเริ่มต้น"""
+    out = []
+    for name in cfg.get("fonts", []):
+        family = name.split("-")[0]
+        out.append((family, fonts_dir / name, fonts_dir / f"OFL-{family}.txt"))
+    return out
+
+
+def make_jar(jar: Path, modinfo: str, lang_text: str, classes: Path,
+             fonts: list[tuple[str, Path, Path]], size_percent: int = 100, preview: Path | None = None) -> None:
     jar.parent.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(jar, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("mod.info", modinfo)
         z.writestr("resources/locale/th.lang", lang_text.encode("utf-8"))
         for f in sorted(classes.rglob("*.class")):
             z.write(f, f.relative_to(classes).as_posix())
-        if font is not None:
-            z.write(font, "thaifont/thai.ttf")
-            z.writestr("thaifont/scale.txt", str(font_scale))
-        if font_license is not None:
-            z.write(font_license, "thaifont/OFL.txt")  # OFL บังคับแนบสัญญาไปกับฟอนต์
+        if fonts:
+            # ฟอนต์หลายตัวให้ผู้เล่นเลือกในเมนู (ตัวแรก = ค่าเริ่มต้น) · OFL บังคับแนบสัญญาไปกับฟอนต์
+            z.writestr("thaifont/fonts.txt", "".join(f"{n}|{f.name}\n" for n, f, _ in fonts).encode("utf-8"))
+            z.writestr("thaifont/size.txt", str(size_percent))
+            for _, f, lic in fonts:
+                z.write(f, f"thaifont/{f.name}")
+                z.write(lic, f"thaifont/{lic.name}")
         if preview is not None:
             z.write(preview, "resources/preview.png")  # ภาพในเมนู Mods + ภาพหน้า Workshop ตอนอัปโหลด
 
@@ -99,20 +110,19 @@ def main() -> None:
     template = (MOD_DIR / "mod.info.template").read_text(encoding="utf-8")
     info_cfg = {k: cfg[k] for k in ("modid", "name", "version", "gameVersion", "author", "description")}
     modinfo = render_modinfo(template, info_cfg, mods)
-    font = None
-    if cfg.get("font"):
-        font = BUILD / "thai.ttf"
-        thaifont.make(MOD_DIR / "fonts" / cfg["font"], font, cfg.get("highCap"))
     jar = BUILD / f"{cfg['jarName']}-{cfg['gameVersion']}-{cfg['version']}.jar"
-    scale = float(cfg.get("fontScale", 1.0))
-    lic = None
-    if cfg.get("font"):
-        lic = MOD_DIR / "fonts" / f"OFL-{cfg['font'].split('-')[0]}.txt"
+    fonts = []
+    for name, src, lic in font_entries(cfg, MOD_DIR / "fonts"):
         if not lic.exists():
             raise BuildError(f"ไม่พบไฟล์สัญญาอนุญาตฟอนต์ {lic} (OFL บังคับแนบ)")
+        out = BUILD / "fonts" / src.name
+        out.parent.mkdir(parents=True, exist_ok=True)
+        thaifont.make(src, out, cfg.get("highCap"))
+        fonts.append((name, out, lic))
+    size = int(cfg.get("fontSize", 100))
     preview = MOD_DIR / "preview.png"
-    make_jar(jar, modinfo, lang_text, BUILD / "classes", font, scale, lic, preview if preview.exists() else None)
-    print(f"สร้าง {jar.name}: {len(rows)} แถว · มอดที่แปล: {', '.join(mods) or '-'} · ฟอนต์: {cfg.get('font') or '-'} ×{scale}")
+    make_jar(jar, modinfo, lang_text, BUILD / "classes", fonts, size, preview if preview.exists() else None)
+    print(f"สร้าง {jar.name}: {len(rows)} แถว · มอดที่แปล: {', '.join(mods) or '-'} · ฟอนต์: {', '.join(n for n, _, _ in fonts) or '-'} · ขนาด {size}%")
     # โฟลเดอร์สำหรับอัปโหลด: เกมอัปโหลดได้เฉพาะ dev mod = โฟลเดอร์ที่มี jar ไฟล์เดียว (เปิดเกมด้วย -mod <โฟลเดอร์>)
     upload = BUILD / "workshop"
     if upload.exists():

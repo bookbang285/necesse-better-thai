@@ -1,10 +1,16 @@
 package thailanguage;
 
+import necesse.engine.modLoader.ModSettings;
 import necesse.engine.modLoader.annotations.ModEntry;
 import necesse.gfx.gameFont.FontManager;
 
 @ModEntry
 public class ThaiLanguageMod {
+    /** เกมโหลด/เซฟค่าให้เองที่ cfg/mods/<modid>.cfg */
+    public ModSettings initSettings() {
+        return new ThaiSettings();
+    }
+
     public void init() {
         // ให้เกมเตรียม glyph ของรูปสระ/วรรณยุกต์ที่ ThaiShaper สลับให้ (ไม่งั้นขึ้น ?)
         if (ThaiFont.available() && !FontManager.additionalFontCharacters.contains(ThaiShaper.PUA_CHARS)) {

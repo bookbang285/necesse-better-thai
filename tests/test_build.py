@@ -56,28 +56,40 @@ class TestAppendEnglish(unittest.TestCase):
 
 
 class TestJar(unittest.TestCase):
-    def test_single_th_lang_under_resources(self):
+    def test_jar_layout_with_several_fonts(self):
         with tempfile.TemporaryDirectory() as d:
             d = Path(d)
             classes = d / "classes" / "thailanguage"
             classes.mkdir(parents=True)
             (classes / "X.class").write_bytes(b"\xca\xfe")
-            font = d / "f.ttf"
-            font.write_bytes(b"ttf")
-            jar = d / "out.jar"
-            lic = d / "OFL.txt"
-            lic.write_text("SIL OFL", encoding="utf-8")
+            fa, fb = d / "Prompt-Medium.ttf", d / "Kanit-Medium.ttf"
+            fa.write_bytes(b"A")
+            fb.write_bytes(b"B")
+            la, lb = d / "OFL-Prompt.txt", d / "OFL-Kanit.txt"
+            la.write_text("OFL P", encoding="utf-8")
+            lb.write_text("OFL K", encoding="utf-8")
             prev = d / "p.png"
             prev.write_bytes(b"png")
-            build.make_jar(jar, "{\n}", "[item]\na=ก\n", d / "classes", font, 1.2, lic, prev)
+            jar = d / "out.jar"
+            build.make_jar(jar, "{\n}", "[item]\na=ก\n", d / "classes",
+                           [("Prompt", fa, la), ("Kanit", fb, lb)], 108, prev)
             with zipfile.ZipFile(jar) as z:
                 names = z.namelist()
                 self.assertEqual(z.read("resources/locale/th.lang").decode("utf-8"), "[item]\na=ก\n")
-                self.assertEqual(z.read("thaifont/scale.txt").decode("ascii"), "1.2")
-                self.assertEqual(z.read("thaifont/OFL.txt").decode("utf-8"), "SIL OFL")
+                self.assertEqual(z.read("thaifont/fonts.txt").decode("utf-8"),
+                                 "Prompt|Prompt-Medium.ttf\nKanit|Kanit-Medium.ttf\n")
+                self.assertEqual(z.read("thaifont/Prompt-Medium.ttf"), b"A")
+                self.assertEqual(z.read("thaifont/Kanit-Medium.ttf"), b"B")
+                self.assertEqual(z.read("thaifont/OFL-Kanit.txt").decode("utf-8"), "OFL K")
+                self.assertEqual(z.read("thaifont/size.txt").decode("ascii"), "108")
                 self.assertEqual(z.read("resources/preview.png"), b"png")
         self.assertIn("mod.info", names)
         self.assertIn("thailanguage/X.class", names)
-        self.assertIn("thaifont/thai.ttf", names)
         self.assertEqual([n for n in names if n.startswith("resources/") and n.endswith("th.lang")],
                          ["resources/locale/th.lang"])
+
+    def test_font_entries_from_config(self):
+        cfg = {"fonts": ["Prompt-Medium.ttf", "Kanit-Medium.ttf"]}
+        got = build.font_entries(cfg, Path("fonts"))
+        self.assertEqual([(n, f.name, l.name) for n, f, l in got],
+                         [("Prompt", "Prompt-Medium.ttf", "OFL-Prompt.txt"), ("Kanit", "Kanit-Medium.ttf", "OFL-Kanit.txt")])
