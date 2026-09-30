@@ -1,0 +1,238 @@
+{
+ "category": "bufftooltip",
+ "entries": [
+  {
+   "key": "canceltip",
+   "en": "Cancel",
+   "official": "ยกเลิก",
+   "th": "ยกเลิก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nomodifiers",
+   "en": "§9No modifiers given by buff",
+   "official": "§9ไม่มีเอฟเฟ็คจากบัฟ",
+   "th": "§9บัฟนี้ไม่มีผลต่อค่าสถานะ",
+   "status": "fixed",
+   "note": "สะกด + ปรับถ้อยคำ"
+  },
+  {
+   "key": "teleportsicknesstip",
+   "en": "Unable to teleport again",
+   "official": "ไม่สามารถเทเลพอร์ตได้อีก",
+   "th": "ยังวาร์ปอีกไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "settlementflagtip",
+   "en": "Mob spawns reduced significantly",
+   "official": "ลดการเกิดมอนสเตอร์อย่างมาก",
+   "th": "ลดการเกิดมอนสเตอร์อย่างมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "campfiretip1",
+   "en": "Mob spawns reduced",
+   "official": "ลดการเกิดมอนสเตอร์",
+   "th": "ลดการเกิดมอนสเตอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "campfiretip2",
+   "en": "Out of combat health regen",
+   "official": "ฟื้นฟูพลังชีวิตเมื่อไม่ได้ต่อสู้",
+   "th": "ฟื้นฟูพลังชีวิตเมื่อไม่ได้ต่อสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hungrytip",
+   "en": "No health regen",
+   "official": "พลังชีวิตไม่ฟื้นฟู",
+   "th": "ไม่ฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "starvingtip",
+   "en": "Slowed by 25%",
+   "official": "ช้าลง 25%",
+   "th": "ช้าลง 25%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manaexhaustiontip",
+   "en": "Reduced magic attack speed",
+   "official": "ลดความเร็วโจมตีเวทย์",
+   "th": "ลดความเร็วโจมตีเวทมนตร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "chargingmana",
+   "en": "Puny Lightning",
+   "official": "สายฟ้าจิ๋ว",
+   "th": "สายฟ้าจิ๋ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manacharged",
+   "en": "Powerful Lightning",
+   "official": "สายฟ้าอันทรงพลัง",
+   "th": "สายฟ้าอันทรงพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fullycharged",
+   "en": "Infinite Power!",
+   "official": "พลังอันไร้ขีดจำกัด!",
+   "th": "พลังอันไร้ขีดจำกัด!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quicksandtip",
+   "en": "Movements slowed",
+   "official": "ลดความเร็วเคลื่อนที่",
+   "th": "ลดความเร็วเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphireglyphtip",
+   "en": "Increases health regen",
+   "official": "เพิ่มอัตราฟื้นฟูพลังชีวิต",
+   "th": "เพิ่มอัตราฟื้นฟูพลังชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystglyphtip",
+   "en": "Increases movement speed",
+   "official": "เพิ่มความเร็วเคลื่อนที่",
+   "th": "เพิ่มความเร็วเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubyglyphtip",
+   "en": "Increases attack speed",
+   "official": "เพิ่มความเร็วโจมตี",
+   "th": "เพิ่มความเร็วโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldglyphtip",
+   "en": "Increases crit chance",
+   "official": "เพิ่มโอกาสคริติคอล",
+   "th": "เพิ่มโอกาสคริติคอล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazglyphtip",
+   "en": "Increases resilience",
+   "official": "เพิ่มความทนทาน",
+   "th": "เพิ่มความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "barkskintip",
+   "en": "Increases Armor by 10 per stack, but lose a stack when hit",
+   "official": "ได้รับ 10 เกราะต่อชาร์จ, แต่สูญเสียชาร์จเมื่อโดนโจมตี",
+   "th": "เกราะ +10 ต่อสแต็ก แต่เสีย 1 สแต็กเมื่อถูกโจมตี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "godmodetip",
+   "en": "§7Hunger doesn't drop\\nItems don't drop\\nInfinite placeables\\nNo collision",
+   "official": "§7หลอดอหารไม่ลด\\nไอเทมไม่ตก\\nวางของได้ไม่จำกัด\\nเดินทะลุทุกสิ่ง",
+   "th": "§7หลอดความหิวไม่ลด\\nไอเทมไม่ดรอป\\nวางของได้ไม่จำกัด\\nเดินทะลุทุกสิ่ง",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "cavelingsfoottip",
+   "en": "Movement speed is increased by <value>%",
+   "official": "ความเร็วในการเคลื่อนที่เพิ่มขึ้น <value>%",
+   "th": "ความเร็วเคลื่อนที่เพิ่มขึ้น <value>%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingscollectiontip",
+   "en": "All damage is increased by <value>%",
+   "official": "ความเสียหายทั้งหมดเพิ่มขึ้น <value>%",
+   "th": "ความเสียหายทั้งหมดเพิ่มขึ้น <value>%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicragetip",
+   "en": "Demonic rage",
+   "official": "โทสะปีศาจ",
+   "th": "โทสะปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soulseedtip",
+   "en": "<value> consecutive explosions",
+   "official": "<value> การระเบิดต่อเนื่อง",
+   "th": "ระเบิดต่อเนื่อง <value> ครั้ง",
+   "status": "fixed",
+   "note": "ลำดับคำไทย"
+  },
+  {
+   "key": "pharaohmanaspent",
+   "en": "Spending <value> mana will cause a locust to spawn",
+   "official": "ใช้ <value> มานา จะทำให้ลูกสมุนถูกสร้างออกมา",
+   "th": "ใช้มานาครบ <value> จะอัญเชิญตั๊กแตนออกมา",
+   "status": "fixed",
+   "note": "locust = ตั๊กแตน"
+  },
+  {
+   "key": "agedchampionprowesstip",
+   "en": "Greatly increases stamina regen",
+   "official": "เพิ่มการฟื้นฟูพลังกายอย่างมาก",
+   "th": "เพิ่มการฟื้นฟูพลังกายอย่างมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bullseyetipnew",
+   "en": "At 5 stacks you do a large critical hit",
+   "official": "เมื่อสะสมครบ 5 ครั้ง จะสร้างการโจมตีคริติคอลที่รุนแรง",
+   "th": "เมื่อสะสมครบ 5 สแต็ก จะโจมตีคริติคอลอย่างรุนแรง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stealthbaskethiding",
+   "en": "You are trying to hide!",
+   "official": "",
+   "th": "คุณกำลังพยายามซ่อนตัว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbaskethidden",
+   "en": "You're hidden!",
+   "official": "",
+   "th": "คุณซ่อนตัวอยู่!",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,494 @@
+{
+ "category": "enchantment",
+ "entries": [
+  {
+   "key": "format",
+   "en": "<enchantment> <item>",
+   "official": "<enchantment> <item>",
+   "th": "<enchantment> <item>",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "empoweredenchant",
+   "en": "Empowered enchant",
+   "official": "เสริมพลัง",
+   "th": "เสริมพลังแบบเพิ่มพลัง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Empowered"
+  },
+  {
+   "key": "keen",
+   "en": "Keen",
+   "official": "✦คม✦",
+   "th": "✦คม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blunt",
+   "en": "Blunt",
+   "official": "✦ทื่อ✦",
+   "th": "✦ทื่อ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nimble",
+   "en": "Nimble",
+   "official": "✦คล่องแคล่ว✦",
+   "th": "✦คล่องแคล่ว✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sluggish",
+   "en": "Sluggish",
+   "official": "✦เฉื่อย✦",
+   "th": "✦เฉื่อย✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quick",
+   "en": "Quick",
+   "official": "✦เร็ว✦",
+   "th": "✦เร็ว✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clumsy",
+   "en": "Clumsy",
+   "official": "✦เงอะงะ✦",
+   "th": "✦เงอะงะ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sturdy",
+   "en": "Sturdy",
+   "official": "✦แข็งแรง✦",
+   "th": "✦แข็งแรง✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "weak",
+   "en": "Weak",
+   "official": "✦อ่อน✦",
+   "th": "✦อ่อนแรง✦",
+   "status": "fixed",
+   "note": "ซ้ำความกับ Puny"
+  },
+  {
+   "key": "precise",
+   "en": "Precise",
+   "official": "✦แม่นยำ✦",
+   "th": "✦แม่นยำ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sloppy",
+   "en": "Sloppy",
+   "official": "✦เลอะเทอะ✦",
+   "th": "✦สะเพร่า✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "bulky",
+   "en": "Bulky",
+   "official": "✦ถึกทน✦",
+   "th": "✦ถึกทน✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "puny",
+   "en": "Puny",
+   "official": "✦อ่อนแอ✦",
+   "th": "✦อ่อนแอ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magical",
+   "en": "Magical",
+   "official": "✦มหัศจรรย์✦",
+   "th": "✦เปี่ยมเวท✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "draining",
+   "en": "Draining",
+   "official": "✦ดูดกลืน✦",
+   "th": "✦ดูดกลืน✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tenacious",
+   "en": "Tenacious",
+   "official": "✦หวงแหน✦",
+   "th": "✦ทรหด✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "flimsy",
+   "en": "Flimsy",
+   "official": "✦บอบบาง✦",
+   "th": "✦บอบบาง✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tough",
+   "en": "Tough",
+   "official": "✦แข็งแกร่ง✦",
+   "th": "✦แข็งแกร่ง✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fragile",
+   "en": "Fragile",
+   "official": "✦เปราะบาง✦",
+   "th": "✦เปราะบาง✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "berserk",
+   "en": "Berserk",
+   "official": "✦บ้าคลั่ง✦",
+   "th": "✦บ้าคลั่ง✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adamant",
+   "en": "Adamant",
+   "official": "✦แข็งแกร่ง✦",
+   "th": "✦แกร่งกล้า✦",
+   "status": "fixed",
+   "note": "ซ้ำกับ Tough"
+  },
+  {
+   "key": "agile",
+   "en": "Agile",
+   "official": "✦คล่องตัว✦",
+   "th": "✦คล่องตัว✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "harmful",
+   "en": "Harmful",
+   "official": "✦ร้ายกาจ✦",
+   "th": "✦ร้ายกาจ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grand",
+   "en": "Grand",
+   "official": "✦แกรนด์✦",
+   "th": "✦ยิ่งใหญ่✦",
+   "status": "fixed",
+   "note": "แปลแทนทับศัพท์"
+  },
+  {
+   "key": "docile",
+   "en": "Docile",
+   "official": "✦อ่อนน้อม✦",
+   "th": "✦อ่อนน้อม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shoddy",
+   "en": "Shoddy",
+   "official": "✦กระจอก✦",
+   "th": "✦กระจอก✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amateur",
+   "en": "Amateur",
+   "official": "✦มือสมัครเล่น✦",
+   "th": "✦มือสมัครเล่น✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "envious",
+   "en": "Envious",
+   "official": "✦ริษยา✦",
+   "th": "✦ริษยา✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "masterful",
+   "en": "Masterful",
+   "official": "✦เชี่ยวชาญ✦",
+   "th": "✦เชี่ยวชาญ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "skillful",
+   "en": "Skillful",
+   "official": "✦ชำนาญ✦",
+   "th": "✦ชำนาญ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tightened",
+   "en": "Tightened",
+   "official": "✦รัดกุม✦",
+   "th": "✦รัดกุม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modern",
+   "en": "Modern",
+   "official": "✦ล้ำยุค✦",
+   "th": "✦ล้ำยุค✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trained",
+   "en": "Trained",
+   "official": "✦ฝึกหัด✦",
+   "th": "✦ผ่านการฝึก✦",
+   "status": "fixed",
+   "note": "ซ้ำกับ Apprentice"
+  },
+  {
+   "key": "loose",
+   "en": "Loose",
+   "official": "✦หลวม✦",
+   "th": "✦หลวม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eroding",
+   "en": "Eroding",
+   "official": "✦กัดกร่อน✦",
+   "th": "✦กัดกร่อน✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "primitive",
+   "en": "Primitive",
+   "official": "✦ดั้งเดิม✦",
+   "th": "✦ดั้งเดิม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "faulty",
+   "en": "Faulty",
+   "official": "✦ผิดพลาด✦",
+   "th": "✦บกพร่อง✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "divine",
+   "en": "Divine",
+   "official": "✦พระเจ้า✦",
+   "th": "✦ดุจเทพ✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "wrathful",
+   "en": "Wrathful",
+   "official": "✦แค้น✦",
+   "th": "✦เดือดดาล✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "wise",
+   "en": "Wise",
+   "official": "✦ฉลาด✦",
+   "th": "✦ฉลาด✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adept",
+   "en": "Adept",
+   "official": "✦เชี่ยวชาญ✦",
+   "th": "✦ช่ำชอง✦",
+   "status": "fixed",
+   "note": "ซ้ำกับ Masterful"
+  },
+  {
+   "key": "apprentice",
+   "en": "Apprentice",
+   "official": "✦ฝึกหัด✦",
+   "th": "✦ฝึกหัด✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decaying",
+   "en": "Decaying",
+   "official": "✦ทรุดโทรม✦",
+   "th": "✦ทรุดโทรม✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "novice",
+   "en": "Novice",
+   "official": "✦ริเริ่ม✦",
+   "th": "✦มือใหม่✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "daft",
+   "en": "Daft",
+   "official": "✦โง่✦",
+   "th": "✦โง่✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "corrupt",
+   "en": "Corrupt",
+   "official": "✦ชั่ว✦",
+   "th": "✦เสื่อมทราม✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "savage",
+   "en": "Savage",
+   "official": "✦ป่าเถื่อน✦",
+   "th": "✦ป่าเถื่อน✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "athletic",
+   "en": "Athletic",
+   "official": "✦แข็งแรง✦",
+   "th": "✦บึกบึน✦",
+   "status": "fixed",
+   "note": "ซ้ำกับ Sturdy"
+  },
+  {
+   "key": "mindful",
+   "en": "Mindful",
+   "official": "✦ตั้งใจ✦",
+   "th": "✦มีสติ✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "proud",
+   "en": "Proud",
+   "official": "✦ยโส✦",
+   "th": "✦ยโส✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aware",
+   "en": "Aware",
+   "official": "✦รับรู้✦",
+   "th": "✦ตื่นตัว✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "spoiled",
+   "en": "Spoiled",
+   "official": "✦ใจแตก✦",
+   "th": "✦เอาแต่ใจ✦",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "sick",
+   "en": "Sick",
+   "official": "✦ป่วย✦",
+   "th": "✦ป่วย✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiteful",
+   "en": "Spiteful",
+   "official": "✦มุ่งร้าย✦",
+   "th": "✦มุ่งร้าย✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "naive",
+   "en": "Naive",
+   "official": "✦ไร้เดียงสา✦",
+   "th": "✦ไร้เดียงสา✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "master",
+   "en": "Master",
+   "official": "✦ผู้เชี่ยวชาญ✦",
+   "th": "✦ปรมาจารย์✦",
+   "status": "fixed",
+   "note": "ซ้ำความกับ Masterful"
+  },
+  {
+   "key": "shining",
+   "en": "Shining",
+   "official": "✦ระยิบระยับ✦",
+   "th": "✦ระยิบระยับ✦",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharp",
+   "en": "Sharp",
+   "official": "✦คม✦",
+   "th": "✦แหลมคม✦",
+   "status": "fixed",
+   "note": "ซ้ำกับ Keen"
+  },
+  {
+   "key": "absurd",
+   "en": "Absurd",
+   "official": "✦น่าหัวเราะ✦",
+   "th": "✦ไร้สาระ✦",
+   "status": "fixed",
+   "note": "ตรงความกว่า"
+  },
+  {
+   "key": "used",
+   "en": "Used",
+   "official": "✦มือสอง✦",
+   "th": "✦มือสอง✦",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,102 @@
+{
+ "category": "buffmodifiers",
+ "entries": [
+  {
+   "key": "magichealing",
+   "en": "<mod>% magic healing",
+   "official": "<mod>% การรักษาด้วยเวทมนตร์",
+   "th": "<mod>% การรักษาด้วยเวทมนตร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magichealingflat",
+   "en": "<mod> magic healing",
+   "official": "<mod> การรักษาด้วยเวทมนตร์",
+   "th": "<mod> การรักษาด้วยเวทมนตร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magichealingreceived",
+   "en": "<mod>% magic healing received",
+   "official": "<mod>% การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "th": "<mod>% การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magichealingreceivedflat",
+   "en": "<mod> magic healing received",
+   "official": "<mod> การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "th": "<mod> การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magichealinggrace",
+   "en": "<mod>% magic healing grace",
+   "official": "<mod>% พระคุณแห่งการรักษาด้วยเวทมนตร์",
+   "th": "<mod>% ช่วงผ่อนผันการรักษาด้วยเวทมนตร์",
+   "status": "fixed",
+   "note": "grace ไม่ใช่ พระคุณ"
+  },
+  {
+   "key": "arearange",
+   "en": "<mod>% area range",
+   "official": "<mod>% ระยะของพื้นที่",
+   "th": "<mod>% ระยะพื้นที่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "inspirationdamage",
+   "en": "<mod>% inspiration damage",
+   "official": "<mod>% ความเสียหายจากแรงบันดาลใจ",
+   "th": "<mod>% ความเสียหายจากแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationcritchance",
+   "en": "<mod>% inspiration crit chance",
+   "official": "<mod>% โอกาสคริติคอลจากแรงบันดาลใจ",
+   "th": "<mod>% โอกาสคริติคอลจากแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationcritdamage",
+   "en": "<mod>% inspiration crit damage",
+   "official": "<mod>% ความเสียหายคริติคอลจากแรงบันดาลใจ",
+   "th": "<mod>% ความเสียหายคริติคอลจากแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationeffect",
+   "en": "<mod>% inspiration effect",
+   "official": "<mod>% ผลของแรงบันดาลใจ",
+   "th": "<mod>% ผลของแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationabilityspeed",
+   "en": "<mod>% inspiration ability speed",
+   "official": "<mod>% ความเร็วของความสามารถจากแรงบันดาลใจ",
+   "th": "<mod>% ความเร็วของความสามารถจากแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "loyal",
+   "en": "The dagger is not lost when thrown",
+   "official": "มีดสั้นจะไม่หายไปเมื่อถูกขว้าง",
+   "th": "มีดสั้นจะไม่หายไปเมื่อขว้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  }
+ ],
+ "removed": []
+}

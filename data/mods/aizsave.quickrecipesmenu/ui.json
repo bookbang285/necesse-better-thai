@@ -1,0 +1,406 @@
+{
+ "category": "ui",
+ "entries": [
+  {
+   "key": "searchmodtip",
+   "en": "Search Mod / Vanilla",
+   "official": "",
+   "th": "ค้นหามอด / เกมหลัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "allitemsfilter",
+   "en": "All Items",
+   "official": "",
+   "th": "ไอเทมทั้งหมด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "matitemsfilter",
+   "en": "Material Items",
+   "official": "",
+   "th": "วัตถุดิบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weapon-meleeitemsfilter",
+   "en": "Melee Weapons",
+   "official": "",
+   "th": "อาวุธระยะประชิด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weapon-rangeitemsfilter",
+   "en": "Range Weapons",
+   "official": "",
+   "th": "อาวุธระยะไกล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weapon-magicitemsfilter",
+   "en": "Magic Weapons",
+   "official": "",
+   "th": "อาวุธเวทมนตร์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weapon-summonitemsfilter",
+   "en": "Summon Weapons",
+   "official": "",
+   "th": "อาวุธอัญเชิญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weapon-otheritemsfilter",
+   "en": "Other Weapons",
+   "official": "",
+   "th": "อาวุธอื่น ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "toolitemsfilter",
+   "en": "Tool Items",
+   "official": "",
+   "th": "เครื่องมือ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "armoritemsfilter",
+   "en": "Armor Items",
+   "official": "",
+   "th": "เกราะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cosmeticitemsfilter",
+   "en": "Cosmetic Items",
+   "official": "",
+   "th": "ไอเทมแฟชั่น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "trinketitemsfilter",
+   "en": "Trinket Items",
+   "official": "",
+   "th": "เครื่องประดับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mountitemsfilter",
+   "en": "Mount Items",
+   "official": "",
+   "th": "พาหนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "arrowitemsfilter",
+   "en": "Arrow Items",
+   "official": "",
+   "th": "ลูกธนู",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bulletitemsfilter",
+   "en": "Bullet Items",
+   "official": "",
+   "th": "กระสุนปืน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "seeditemsfilter",
+   "en": "Seed Items",
+   "official": "",
+   "th": "เมล็ดพืช",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "baititemsfilter",
+   "en": "Bait Items",
+   "official": "",
+   "th": "เหยื่อตกปลา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fooditemsfilter",
+   "en": "Food Items",
+   "official": "",
+   "th": "อาหาร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "consumableitemsfilter",
+   "en": "Consumable Items",
+   "official": "",
+   "th": "ของสิ้นเปลือง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "questitemsfilter",
+   "en": "Quest Items",
+   "official": "",
+   "th": "ไอเทมภารกิจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "miscitemsfilter",
+   "en": "Misc Items",
+   "official": "",
+   "th": "ไอเทมเบ็ดเตล็ด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "objectitemsfilter",
+   "en": "Object Items",
+   "official": "",
+   "th": "วัตถุ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tileitemsfilter",
+   "en": "Tile Items",
+   "official": "",
+   "th": "พื้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vinylitemsfilter",
+   "en": "Vinyl Items",
+   "official": "",
+   "th": "แผ่นเสียง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "recipes",
+   "en": "Recipes",
+   "official": "",
+   "th": "สูตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "items",
+   "en": "Items",
+   "official": "",
+   "th": "ไอเทม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mobs",
+   "en": "Mobs",
+   "official": "",
+   "th": "มอนสเตอร์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biomes",
+   "en": "Biomes",
+   "official": "",
+   "th": "ไบโอม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "unknownitem",
+   "en": "Unknown Item",
+   "official": "",
+   "th": "ไอเทมที่ไม่รู้จัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "unknownmob",
+   "en": "Unknown Mob",
+   "official": "",
+   "th": "มอนสเตอร์ที่ไม่รู้จัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "crafting",
+   "en": "Crafting",
+   "official": "",
+   "th": "ประดิษฐ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ingredients",
+   "en": "Ingredients",
+   "official": "",
+   "th": "ส่วนผสม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "loot",
+   "en": "Loot",
+   "official": "",
+   "th": "ของดรอป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "treasures",
+   "en": "Treasures",
+   "official": "",
+   "th": "สมบัติ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "droppedby",
+   "en": "Dropped by",
+   "official": "",
+   "th": "ดรอปจาก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "foundin",
+   "en": "Found in",
+   "official": "",
+   "th": "พบใน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "health",
+   "en": "Health",
+   "official": "",
+   "th": "พลังชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "armor",
+   "en": "Armor",
+   "official": "",
+   "th": "เกราะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "speed",
+   "en": "Speed",
+   "official": "",
+   "th": "ความเร็ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "damage",
+   "en": "Damage",
+   "official": "",
+   "th": "ความเสียหาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "knockback",
+   "en": "Knockback",
+   "official": "",
+   "th": "แรงผลัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "collisiondamage",
+   "en": "Collision Damage",
+   "official": "",
+   "th": "ความเสียหายจากการชน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "collisionknockback",
+   "en": "Collision Knockback",
+   "official": "",
+   "th": "แรงผลักจากการชน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlymobs",
+   "en": "Friendly Mobs",
+   "official": "",
+   "th": "มอนสเตอร์ที่เป็นมิตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hostilemobs",
+   "en": "Hostile Mobs",
+   "official": "",
+   "th": "มอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bosses",
+   "en": "Bosses",
+   "official": "",
+   "th": "บอส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlymobsloot",
+   "en": "Friendly Mobs Loot",
+   "official": "",
+   "th": "ของดรอปจากมอนสเตอร์ที่เป็นมิตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hostilemobsloot",
+   "en": "Hostile Mobs Loot",
+   "official": "",
+   "th": "ของดรอปจากมอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bossesloot",
+   "en": "Bosses Loot",
+   "official": "",
+   "th": "ของดรอปจากบอส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nomobs",
+   "en": "No Mobs found",
+   "official": "",
+   "th": "ไม่พบมอนสเตอร์",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

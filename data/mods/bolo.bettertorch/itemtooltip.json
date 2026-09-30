@@ -1,0 +1,14 @@
+{
+ "category": "itemtooltip",
+ "entries": [
+  {
+   "key": "bettertorchplacetip",
+   "en": "Better Torch",
+   "official": "",
+   "th": "คบเพลิงชั้นดี",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

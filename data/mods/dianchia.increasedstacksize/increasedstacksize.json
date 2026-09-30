@@ -1,0 +1,54 @@
+{
+ "category": "increasedstacksize",
+ "entries": [
+  {
+   "key": "multiplierschanged",
+   "en": "§#EED49FStack size multiplier for `<name>` changed to <multiplier>",
+   "official": "",
+   "th": "§#EED49Fเปลี่ยนตัวคูณขนาดสแต็กของ `<name>` เป็น <multiplier> แล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "multipliersunset",
+   "en": "§#A6da95Successfully unset stack size for `<name>`",
+   "official": "",
+   "th": "§#A6da95ยกเลิกการตั้งขนาดสแต็กของ `<name>` สำเร็จ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "errorsmaller",
+   "en": "§#ED8796Stack size multiplier cannot be smaller than 1",
+   "official": "",
+   "th": "§#ED8796ตัวคูณขนาดสแต็กต้องไม่น้อยกว่า 1",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nomultiplier",
+   "en": "§#ED8796Multiplier not specified",
+   "official": "",
+   "th": "§#ED8796ไม่ได้ระบุตัวคูณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "noitemname",
+   "en": "§#ED8796Item class not specified",
+   "official": "",
+   "th": "§#ED8796ไม่ได้ระบุคลาสไอเทม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "itemnotfound",
+   "en": "§#ED8796Item with name `<name>` not found",
+   "official": "",
+   "th": "§#ED8796ไม่พบไอเทมชื่อ `<name>`",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

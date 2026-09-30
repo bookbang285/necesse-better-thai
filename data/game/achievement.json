@@ -1,0 +1,862 @@
+{
+ "category": "achievement",
+ "entries": [
+  {
+   "key": "complete",
+   "en": "Complete",
+   "official": "เสร็จสิ้น",
+   "th": "สำเร็จแล้ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "incomplete",
+   "en": "Incomplete",
+   "official": "ยังไม่เสร็จ",
+   "th": "ยังไม่เสร็จ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "track",
+   "en": "Track <achievement>",
+   "official": "ติดตาม <achievement>",
+   "th": "ติดตาม <achievement>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chatcomplete",
+   "en": "§a<player> completed achievement §7<achievement>",
+   "official": "§a<player> ได้รับความสำเร็จ  §7<achievement>",
+   "th": "§a<player> ได้รับความสำเร็จ §7<achievement>",
+   "status": "fixed",
+   "note": "ช่องว่างซ้อน"
+  },
+  {
+   "key": "completedon",
+   "en": "Completed on <date>",
+   "official": "เสร็จสิ้นเมื่อ <date>",
+   "th": "สำเร็จเมื่อ <date>",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "spelunker",
+   "en": "Spelunker",
+   "official": "นักสำรวจ",
+   "th": "นักสำรวจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spelunker_desc",
+   "en": "Be careful to not get lost!",
+   "official": "ระวังหลงทางเหมือนโซโล!",
+   "th": "ระวังหลงทางล่ะ!",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "defeat_boss",
+   "en": "First of Many",
+   "official": "หนึ่งจากล้าน?",
+   "th": "แค่ตัวแรกเท่านั้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "defeat_boss_desc",
+   "en": "Defeat your first boss",
+   "official": "กำจัดบอสตัวแรก",
+   "th": "ปราบบอสตัวแรก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "get_pet",
+   "en": "Companion For Adventure",
+   "official": "ลุยกันเลยคู่หู่!",
+   "th": "คู่หูผจญภัย",
+   "status": "fixed",
+   "note": "สะกด (หู่)"
+  },
+  {
+   "key": "get_pet_desc",
+   "en": "Get your first pet",
+   "official": "ได้รับสัตว์เลี่ยงตัวแรก",
+   "th": "ได้สัตว์เลี้ยงตัวแรก",
+   "status": "fixed",
+   "note": "สะกด (เลี่ยง)"
+  },
+  {
+   "key": "start_settlement",
+   "en": "Do It Yourself",
+   "official": "ทำมันเองซะเลยสิ",
+   "th": "ทำมันเองซะเลยสิ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "start_settlement_desc",
+   "en": "Start a settlement",
+   "official": "เริ่มก่อตั้งถิ่นฐาน",
+   "th": "ก่อตั้งนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "set_spawn",
+   "en": "Instant Nap",
+   "official": "หัวถึงหมอนก็หลับละ",
+   "th": "หัวถึงหมอนก็หลับละ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "set_spawn_desc",
+   "en": "Change your spawn point",
+   "official": "เปลี่ยนจุดเกิดใหม่",
+   "th": "เปลี่ยนจุดเกิดของคุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "enchant_item",
+   "en": "Artificer",
+   "official": "ช่างมีฝีไม้ลายมือ",
+   "th": "ช่างมีฝีไม้ลายมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchant_item_desc",
+   "en": "Enchant an item using the mage",
+   "official": "เสริมพลังไอเทมโดยใช้นักเวท",
+   "th": "เสริมพลังไอเทมกับนักเวท",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "magical_drop",
+   "en": "Magical Drop",
+   "official": "วิเศษ! วิเศษจริงๆ",
+   "th": "วิเศษ! วิเศษจริง ๆ",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "magical_drop_desc",
+   "en": "Increase max trinket slots",
+   "official": "เพิ่มช่องใส่เครื่องประดับ",
+   "th": "เพิ่มช่องเครื่องประดับสูงสุด",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "hoarder",
+   "en": "Hoarder",
+   "official": "นักสะสม",
+   "th": "นักสะสม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoarder_desc",
+   "en": "Have an inventory full of different items",
+   "official": "ช่องเก็บของเต็มไปด้วยไอเทมที่ไม่ซํ้ากัน",
+   "th": "มีช่องเก็บของเต็มไปด้วยไอเทมที่ไม่ซ้ำกัน",
+   "status": "fixed",
+   "note": "สะกด (ซํ้า)"
+  },
+  {
+   "key": "self_proclaimed",
+   "en": "Self Proclaimed",
+   "official": "ข้า คือ กษัตริย์!",
+   "th": "ข้าคือกษัตริย์!",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "self_proclaimed_desc",
+   "en": "Wear a gold crown",
+   "official": "สวมมงกุฏทองคำ",
+   "th": "สวมมงกุฎทองคำ",
+   "status": "fixed",
+   "note": "สะกด (มงกุฏ)"
+  },
+  {
+   "key": "double_catch",
+   "en": "Double Catch",
+   "official": "ทีเดียว ท้องอิ่ม",
+   "th": "ทีเดียว ท้องอิ่ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "double_catch_desc",
+   "en": "Catch 2 fish in 1 throw",
+   "official": "จับปลาสองตัวได้ในหนึ่งครั้ง",
+   "th": "ตกปลาได้ 2 ตัวในการเหวี่ยงครั้งเดียว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "complete_host",
+   "en": "Complete Host",
+   "official": "รวมกันเราอยู่",
+   "th": "รวมกันเราอยู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "complete_host_desc",
+   "en": "Have all possible settler professions live in the same settlement",
+   "official": "มีผู้อพยพที่เชี่ยวชาญครบทุกด้านอาศัยอยู่ในถิ่นฐานเดียวกัน",
+   "th": "มีชาวนิคมครบทุกอาชีพอาศัยอยู่ในนิคมเดียวกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "getting_hot",
+   "en": "Getting Hot",
+   "official": "โอ้ยร้อน",
+   "th": "โอ้ยร้อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "getting_hot_desc",
+   "en": "Reach the deep caves",
+   "official": "เข้าถึงส่วนลึกของถํ้า",
+   "th": "ไปถึงถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "สะกด (ถํ้า) + ศัพท์"
+  },
+  {
+   "key": "my_jam",
+   "en": "My Jam",
+   "official": "เพลงนี้แหละใช่เลย!",
+   "th": "เพลงนี้แหละใช่เลย!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "my_jam_desc",
+   "en": "Listen to a vinyl on the music player",
+   "official": "ฟังเพลงจากเครื่องเล่นแผ่นเสียง",
+   "th": "ฟังแผ่นเสียงจากเครื่องเล่นเพลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cloud_nine",
+   "en": "Cloud Nine",
+   "official": "นี่แหละความสุข!",
+   "th": "นี่แหละความสุข!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cloud_nine_desc_new",
+   "en": "Have a settler reach Unrivaled Quality of Life level",
+   "official": "",
+   "th": "มีชาวนิคมที่คุณภาพชีวิตถึงระดับไร้เทียมทาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "one_tapped",
+   "en": "One Tapped",
+   "official": "ป๊าบเข้าให้",
+   "th": "ป๊าบเข้าให้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "one_tapped_desc",
+   "en": "Kill a Zombie in a single hit",
+   "official": "ฆ่าซอมบี้ในทีเดียว",
+   "th": "ฆ่าซอมบี้ได้ในทีเดียว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "too_easy",
+   "en": "Too Easy",
+   "official": "เร็วอีก เร็วกว่านี้อีก!",
+   "th": "ง่ายเกินไป",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "too_easy_desc",
+   "en": "Kill a boss in less than 30 seconds",
+   "official": "ฆ่าบอสภายใน 30 วินาที",
+   "th": "ฆ่าบอสภายในไม่ถึง 30 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "headhunter",
+   "en": "Headhunter",
+   "official": "นักล่าชาวบ้าน",
+   "th": "นักล่าหัวคน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "headhunter_desc",
+   "en": "Recruit your first settler",
+   "official": "รับสมัครผู้ตั้งถิ่นฐานคนแรกของคุณ",
+   "th": "ชวนชาวนิคมคนแรกเข้านิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rematch",
+   "en": "Rematch",
+   "official": "รีแมตช์ !",
+   "th": "รีแมตช์!",
+   "status": "fixed",
+   "note": "ไม่เว้นก่อน !"
+  },
+  {
+   "key": "rematch_desc",
+   "en": "Defeat the Fallen Wizard",
+   "official": "เอาชนะ พ่อมดแห่งความมืดผู้ตกอับ",
+   "th": "ปราบพ่อมดผู้ตกอับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "defeat_pirate",
+   "en": "Washed Up",
+   "official": "ถึงเวลาชำระล้าง",
+   "th": "เกยตื้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "defeat_pirate_desc",
+   "en": "Defeat the Pirate Captain",
+   "official": "เอาชนะกัปตันโจรสลัด",
+   "th": "ปราบกัปตันโจรสลัด",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "grave_digger",
+   "en": "Grave Digger",
+   "official": "ฉันไม่ใช่สัปเหร่อนะ !",
+   "th": "ฉันไม่ใช่สัปเหร่อนะ!",
+   "status": "fixed",
+   "note": "ไม่เว้นก่อน !"
+  },
+  {
+   "key": "grave_digger_desc",
+   "en": "Find and dig up a gravestone",
+   "official": "ค้นหาและขุดหลุมฝังศพ",
+   "th": "ค้นหาและขุดป้ายหลุมศพ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "equip_ability",
+   "en": "Watch Me!",
+   "official": "ดูนี่ซะ !",
+   "th": "ดูนี่ซะ!",
+   "status": "fixed",
+   "note": "ไม่เว้นก่อน !"
+  },
+  {
+   "key": "equip_ability_desc",
+   "en": "Equip your first trinket ability",
+   "official": "สวมใส่เครื่องประดับชิ้นแรกของคุณ",
+   "th": "สวมใส่เครื่องประดับความสามารถชิ้นแรกของคุณ",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "demolition_expert",
+   "en": "Demolition Expert",
+   "official": "ผู้ใช้เวทย์ ระเบิด!?",
+   "th": "ผู้เชี่ยวชาญการรื้อถอน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "demolition_expert_desc",
+   "en": "Kill an enemy with a bomb",
+   "official": "ฆ่ามอนสเตอร์ด้วยระเบิด",
+   "th": "ฆ่าศัตรูด้วยระเบิด",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "complete_incursion",
+   "en": "Take it to the next level",
+   "official": "พูดถึงระดับถัดไป",
+   "th": "ขึ้นไปอีกระดับ",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "complete_incursion_desc",
+   "en": "Complete an incursion",
+   "official": "สำเร็จอินเคอร์ชั่น",
+   "th": "ผ่านอินเคอร์ชันสำเร็จ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "master_of_sun_and_moon",
+   "en": "Master of Sun and Moon",
+   "official": "เทพแห่งดวงจันทร์และดวงอาทิตย์",
+   "th": "เจ้าแห่งตะวันและจันทรา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "master_of_sun_and_moon_desc",
+   "en": "Defeat Sunlight Champion and Moonlight Dancer at Tier 5 or higher",
+   "official": "เอาชนะ แชมป์เปี้ยนแห่งแสงตะวัน และ นักระบำใต้แสงจันทร์  ในระดับ 5 หรือสูงกว่า",
+   "th": "ปราบแชมเปียนแสงตะวันและนักระบำแสงจันทร์ที่ระดับ 5 ขึ้นไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ช่องว่าง"
+  },
+  {
+   "key": "teamwork",
+   "en": "Teamwork",
+   "official": "อย่าเรียกว่าหมาหมู เขาเรียกว่าทีมเวิร์ค",
+   "th": "ทีมเวิร์ก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "teamwork_desc",
+   "en": "Have a settler join your adventure party",
+   "official": "ชวนผู้อพยพเข้าร่วมปาร์ตี้ผจญภัยกับคุณ",
+   "th": "มีชาวนิคมเข้าร่วมปาร์ตี้ผจญภัยของคุณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "empowered",
+   "en": "Empowered",
+   "official": "สุดยอดแห่งพลัง",
+   "th": "เพิ่มพลัง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "empowered_desc",
+   "en": "Upgrade and equip a full set of Tier 5 armor",
+   "official": "อัปเกรดและสวมใส่ชุดเกราะ ระดับ 5 ครบเซ็ต",
+   "th": "อัปเกรดและสวมชุดเกราะระดับ 5 ครบเซ็ต",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "feeling_stylish",
+   "en": "Feeling Stylish",
+   "official": "ดูดีมีสไตล์",
+   "th": "ดูดีมีสไตล์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "feeling_stylish_desc",
+   "en": "Get a new look from the Stylist",
+   "official": "แต่งตัวกับช่างเสริมสวย",
+   "th": "เปลี่ยนลุคใหม่กับช่างเสริมสวย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "safety_last",
+   "en": "Safety Last",
+   "official": "ปลอดภัยไว้ทีหลัง",
+   "th": "ปลอดภัยไว้ทีหลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "safety_last_desc",
+   "en": "Take damage from a bundle of TNT",
+   "official": "ได้รับความเสียหายจากกองระเบิด TNT ",
+   "th": "ได้รับความเสียหายจากมัดระเบิด TNT",
+   "status": "fixed",
+   "note": "ช่องว่างท้าย"
+  },
+  {
+   "key": "get_4_item_sets",
+   "en": "Wardrobe on the go!",
+   "official": "ตู้เสื้อผ้าพร้อมลุย!",
+   "th": "ตู้เสื้อผ้าพร้อมลุย!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "get_4_item_sets_desc",
+   "en": "Get access to 4 item sets",
+   "official": "ได้รับ 4 ไอเทมเซ็ต",
+   "th": "ใช้เซ็ตไอเทมได้ 4 ชุด",
+   "status": "fixed",
+   "note": "สะกดเซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "hot_tub",
+   "en": "Hot Tub",
+   "official": "อาบน้ำร้อนมาก่อน",
+   "th": "แช่น้ำร้อน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "hot_tub_desc",
+   "en": "Swim in lava while under the effect of fire resistance",
+   "official": "ว่ายในลาวาขณะได้รับเอฟเฟ็คต้านไฟ",
+   "th": "ว่ายในลาวาขณะมีผลต้านทานไฟ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "adventure_begins",
+   "en": "Adventure Begins!",
+   "official": "การผจญภัยได้เริ่มขึ้นแล้ว!",
+   "th": "การผจญภัยได้เริ่มขึ้นแล้ว!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adventure_begins_desc_new",
+   "en": "Reach the first major story objective",
+   "official": "",
+   "th": "ไปถึงเป้าหมายหลักแรกของเนื้อเรื่อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "dodge_this",
+   "en": "Dodge This!",
+   "official": "หลบนี่ให้ได้สิ!",
+   "th": "หลบนี่ให้ได้สิ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dodge_this_desc",
+   "en": "Defeat the Fallen Wizard while 5 Fallen Dragons are alive",
+   "official": "เอาชนะพ่อมดแห่งความมืดผู้ตกอับ ในขณะที่ 5 มังกรของเขายังไม่ตาย",
+   "th": "ปราบพ่อมดผู้ตกอับขณะที่มังกรร่วงโรยยังมีชีวิตอยู่ 5 ตัว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ชื่อตาม mob: Fallen Dragon"
+  },
+  {
+   "key": "secret_service",
+   "en": "Secret Service",
+   "official": "หน่วยสืบราชการลับ",
+   "th": "หน่วยสืบราชการลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "secret_service_desc",
+   "en": "Have only 2 guards in your adventure party, both wearing sunglasses, blazer and dress shoes",
+   "official": "มีทหารยาม 2 คนอยู่ในปาร์ตี้เท่านั้น, ทั้งคู่ใส่แว่นกันแดด , เสื้อสูทแฟชั่น และรองเท้าเดรส",
+   "th": "มีเพียงทหารยาม 2 คนในปาร์ตี้ผจญภัย ทั้งคู่สวมแว่นกันแดด เสื้อสูทแฟชั่น และรองเท้าหนังทางการ",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น · ชื่อตาม item: Blazer / Dress Shoes"
+  },
+  {
+   "key": "home_alone",
+   "en": "Home Alone",
+   "official": "อยู่อย่างเหงาเหงา",
+   "th": "โดดเดี่ยวผู้น่ารัก",
+   "status": "fixed",
+   "note": "ชื่อไทยของ Home Alone"
+  },
+  {
+   "key": "home_alone_desc",
+   "en": "Kill a raider with a trap",
+   "official": "ฆ่าผู้รุกรานด้วยกับดัก",
+   "th": "ฆ่าผู้รุกรานด้วยกับดัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystallized",
+   "en": "Crystallized",
+   "official": "ตกผลึก",
+   "th": "ตกผลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystallized_desc",
+   "en": "Reach the full potential of the Ruby or Amethyst set",
+   "official": "เข้าถึงศักยภาพเต็มที่ของชุดเซ็ตทับทิม หรือ อเมทิสต์",
+   "th": "ปลดล็อกศักยภาพสูงสุดของเซ็ตทับทิมหรืออเมทิสต์",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "you_and_what_army",
+   "en": "You and what Army?",
+   "official": "กองกำลังติดอาวุธ?",
+   "th": "คุณกับกองทัพไหนล่ะ?",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "you_and_what_army_new_desc",
+   "en": "Have 10 settlers in your adventure party equip a tier 5 or higher armor set and weapon",
+   "official": "มีผู้อพยพ 10 คนในปาร์ตี้ผจญภัย ที่สวมใส่ชุดและอาวุธระดับ 5 ขึ้นไป",
+   "th": "มีชาวนิคม 10 คนในปาร์ตี้ผจญภัยที่สวมชุดเกราะและอาวุธระดับ 5 ขึ้นไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "me_and_this_army",
+   "en": "Me and this Army!",
+   "official": "ไม่จำเป็นต้องออกโรง !",
+   "th": "ฉันกับกองทัพนี้ไง!",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "me_and_this_army_desc",
+   "en": "Defeat an incursion boss with only damage from settlers",
+   "official": "เอาชนะบอสการรุกรานด้วยความเสียหายจากผู้อพยพเท่านั้น",
+   "th": "ปราบบอสอินเคอร์ชันโดยความเสียหายมาจากชาวนิคมเท่านั้น",
+   "status": "fixed",
+   "note": "แปลผิด (incursion)"
+  },
+  {
+   "key": "have_40_perks",
+   "en": "That's a lot of dust!",
+   "official": "มีผงมากมายขนาดนี้เลยเหรอ!",
+   "th": "มีผงมากมายขนาดนี้เลยเหรอ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "have_40_perks_desc",
+   "en": "Have 40 perks active in a single Fallen Altar at a time",
+   "official": "มีคุณสมบัติพิเศษ ที่ใช้งานอยู่ 40 อย่างในแท่นบูชาร้าง",
+   "th": "มีความสามารถพิเศษเปิดใช้งานพร้อมกัน 40 อย่างในแท่นบูชาร้างแท่นเดียว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "defeated_ascended",
+   "en": "Restored Reality",
+   "official": "กลับสู่ความเป็นจริง",
+   "th": "คืนสู่ความเป็นจริง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "defeated_ascended_desc",
+   "en": "Find and defeat the final boss",
+   "official": "เอาชนะบอสตัวสุดท้าย",
+   "th": "ตามหาและปราบบอสตัวสุดท้าย",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "overpowered",
+   "en": "Overpowered",
+   "official": "แกร่งเกินต้าน",
+   "th": "แกร่งเกินต้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overpowered_desc",
+   "en": "Upgrade and equip a full set of Tier 10 armor",
+   "official": "อัปเกรดและสวมใส่ชุดเกราะ ระดับ 10 ครบเซ็ต",
+   "th": "อัปเกรดและสวมชุดเกราะระดับ 10 ครบเซ็ต",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "settling_down",
+   "en": "Settling Down",
+   "official": "ลงหลักปักฐาน",
+   "th": "ลงหลักปักฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "settling_down_desc",
+   "en": "Upgrade your settlement size",
+   "official": "อัปเกรดขนาดถิ่นฐาน",
+   "th": "อัปเกรดขนาดนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "expansionist",
+   "en": "Expansionist",
+   "official": "กางอาณาเขต",
+   "th": "ขยายอาณาเขต",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "expansionist_desc",
+   "en": "Have a fully upgraded settlement size",
+   "official": "อัปเกรดขนาดถิ่นฐานถึงขั้นสุดท้าย",
+   "th": "อัปเกรดขนาดนิคมจนสุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "obtain_items",
+   "en": "Complete Collector",
+   "official": "นักสะสมสมบูรณ์แบบ",
+   "th": "นักสะสมตัวจริง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "obtain_items_desc",
+   "en": "Obtain all possible items",
+   "official": "ได้รับไอเทมที่เป็นไปได้ทั้งหมด",
+   "th": "ได้รับไอเทมทุกชิ้นที่มีในเกม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "visit_biomes",
+   "en": "Tourist",
+   "official": "นักท่องเที่ยว",
+   "th": "นักท่องเที่ยว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "visit_biomes_desc",
+   "en": "Visit all different biomes",
+   "official": "ค้นพบพื้นที่ที่แตกต่างกันทั้งหมด",
+   "th": "ไปเยือนไบโอมให้ครบทุกแบบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fish_up",
+   "en": "More Than A Hobby",
+   "official": "ไอหมอนี่มันหมกมุ่น",
+   "th": "มากกว่างานอดิเรก",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "fish_up_desc",
+   "en": "Fish up a total of 500 items",
+   "official": "ตกปลามากกว่า 500 ครั้ง",
+   "th": "ตกของได้รวม 500 ชิ้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "run_marathon",
+   "en": "Marathon Runner",
+   "official": "ฉันคือนักวิ่งมาราธอน",
+   "th": "นักวิ่งมาราธอน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "run_marathon_desc",
+   "en": "Run a full marathon on foot",
+   "official": "วิ่งฟูลมาราธอนด้วยการเดินเท้า",
+   "th": "วิ่งด้วยเท้าให้ครบระยะมาราธอน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "timewellspent",
+   "en": "Time Well Spent",
+   "official": "ดูดเวลา ฉันไป",
+   "th": "เวลาที่คุ้มค่า",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "timewellspent_desc",
+   "en": "Play the game for a full 24 hours",
+   "official": "เล่นเกมครบ 24 ชั่วโมง",
+   "th": "เล่นเกมครบ 24 ชั่วโมงเต็ม",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "speeding_ticket",
+   "en": "Speeding Ticket",
+   "official": "",
+   "th": "ใบสั่งขับเร็ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "speeding_ticket_desc",
+   "en": "Achieve MAXIMUM speed while driving a Bumper Car",
+   "official": "",
+   "th": "ทำความเร็วสูงสุดขณะขับรถบั๊ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "true_love",
+   "en": "True Love",
+   "official": "",
+   "th": "รักแท้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "true_love_desc",
+   "en": "Become Life Partners with one of your Settlers",
+   "official": "",
+   "th": "เป็นคู่ชีวิตกับชาวนิคมของคุณคนหนึ่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "rich_character",
+   "en": "Rich Character",
+   "official": "",
+   "th": "นิสัยหลากหลาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "rich_character_desc",
+   "en": "Recruit a Settler with 6 or more personalities",
+   "official": "",
+   "th": "ชวนชาวนิคมที่มีนิสัย 6 อย่างขึ้นไปเข้านิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cloud_ten",
+   "en": "Cloud Ten",
+   "official": "",
+   "th": "สวรรค์ชั้นสิบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cloud_ten_desc",
+   "en": "Achieve Unrivaled Quality of Life on 10 settlers at the same time",
+   "official": "",
+   "th": "มีชาวนิคม 10 คนที่คุณภาพชีวิตถึงระดับไร้เทียมทานพร้อมกัน",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,14 @@
+{
+ "category": "biome",
+ "entries": [
+  {
+   "key": "infectedfields",
+   "en": "Infected Fields",
+   "official": "ทุ่งที่ติดเชื้อ",
+   "th": "ทุ่งติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  }
+ ],
+ "removed": []
+}

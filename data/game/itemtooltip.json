@@ -1,0 +1,6438 @@
+{
+ "category": "itemtooltip",
+ "entries": [
+  {
+   "key": "headslot",
+   "en": "Head slot",
+   "official": "ส่วนศรีษะ",
+   "th": "ช่องศีรษะ",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ช่อง"
+  },
+  {
+   "key": "chestslot",
+   "en": "Chest slot",
+   "official": "ส่วนอก",
+   "th": "ช่องลำตัว",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "feetslot",
+   "en": "Feet slot",
+   "official": "ส่วนเท้า",
+   "th": "ช่องเท้า",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "cosmeticheadslot",
+   "en": "Cosmetic head slot",
+   "official": "ส่วนศรีษะแฟชั่น",
+   "th": "ช่องศีรษะแฟชั่น",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ช่อง"
+  },
+  {
+   "key": "cosmeticchestslot",
+   "en": "Cosmetic chest slot",
+   "official": "ส่วนอกแฟชั่น",
+   "th": "ช่องลำตัวแฟชั่น",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "cosmeticfeetslot",
+   "en": "Cosmetic feet slot",
+   "official": "ส่วนเท้าแฟชั่น",
+   "th": "ช่องเท้าแฟชั่น",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "cosmetic",
+   "en": "Cosmetic item",
+   "official": "ไอเทมแฟชั่น",
+   "th": "ไอเทมแฟชั่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cosmeticslot",
+   "en": "No stats in cosmetic slot",
+   "official": "ช่องสวมใส่แฟชั่นจะไม่เพิ่มค่าสถานะใดๆ",
+   "th": "ช่องแฟชั่นไม่เพิ่มค่าสถานะใด ๆ",
+   "status": "fixed",
+   "note": "กระชับ + ไม้ยมก"
+  },
+  {
+   "key": "armorvalue",
+   "en": "<value> armor",
+   "official": "<value> เกราะ",
+   "th": "เกราะ <value>",
+   "status": "fixed",
+   "note": "ลำดับไทย"
+  },
+  {
+   "key": "setbonus",
+   "en": "Set bonus:",
+   "official": "คุณสมบัติของเซ็ตที่สวมใส่:",
+   "th": "โบนัสเซ็ต:",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ninjaset1",
+   "en": "You're a freakin' ninja!",
+   "official": "เจ้าคือนินจางั้นรึ !",
+   "th": "คุณคือนินจาตัวจริงเลยนี่หว่า!",
+   "status": "fixed",
+   "note": "ธรรมชาติขึ้น + ไม่เว้นก่อน !"
+  },
+  {
+   "key": "ninjaset2",
+   "en": "Removes movement speed\\nreduction when attacking",
+   "official": "นำการลดความเร็วเคลื่อนออก\\nขณะโจมตี",
+   "th": "ไม่ถูกลดความเร็วเคลื่อนที่\\nขณะโจมตี",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "runicset1",
+   "en": "Press [input=setability] to rapidly gain attack damage while mana drains",
+   "official": "กด [input=setability] เพื่อรับการสร้างความเสียหายอย่างรวดเร็วในขณะที่มานาลดลง",
+   "th": "กด [input=setability] เพื่อเพิ่มความเสียหายอย่างรวดเร็วขณะที่มานาลดลง",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "runicset2",
+   "en": "Press [input=setability] to gain 3 life essence orbs",
+   "official": "กด [input=setability] เพื่อรับ 3 แก่นพลังชีวิต",
+   "th": "กด [input=setability] เพื่อรับลูกแก่นแท้พลังชีวิต 3 ลูก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pharaohssetbonustip1",
+   "en": "Periodically spawn locusts that explode on impact with enemies",
+   "official": "จะสร้างฝูงลูกสมุน ออกมาเป็นระยะ ซึ่งจะระเบิดเมื่อปะทะกับศัตรู",
+   "th": "ปล่อยตั๊กแตนออกมาเป็นระยะ ซึ่งจะระเบิดเมื่อชนศัตรู",
+   "status": "fixed",
+   "note": "แปลผิด (locust = ตั๊กแตน)"
+  },
+  {
+   "key": "pharaohssetbonustip2",
+   "en": "Spending <value> mana will also cause a locust to spawn",
+   "official": "ใช้ <value> มานา จะทำให้ลูกสมุนถูกสร้างออกมาด้วย",
+   "th": "ใช้มานาครบ <value> จะปล่อยตั๊กแตนออกมาด้วย",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "witchrobesset",
+   "en": "Being hit sometimes slows the attacker and spawns a charging baby crawling zombie",
+   "official": "เมื่อโดนโจมตีบางครั้งจะลดความเร็วศัตรู และเสกกีกี้ซอมบี้",
+   "th": "เมื่อถูกโจมตี บางครั้งจะทำให้ผู้โจมตีช้าลงและเสกซอมบี้คลานน้อยพุ่งเข้าใส่",
+   "status": "fixed",
+   "note": "แปลผิด/ไม่ครบ · ชื่อตาม mob: Baby Crawling Zombie"
+  },
+  {
+   "key": "ivyhoodset",
+   "en": "Attacks poison target for\\n15 damage over 5 seconds",
+   "official": "โจมตีเป็นพิษสร้างความเสียหายแก่ศัตรู \\n15 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายติดพิษ\\nความเสียหาย 15 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ช่องว่าง"
+  },
+  {
+   "key": "ivyhatset",
+   "en": "Attacks poison target for\\n15 damage over 5 seconds",
+   "official": "โจมตีเป็นพิษสร้างความเสียหายแก่ศัตรู \\n15 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายติดพิษ\\nความเสียหาย 15 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ช่องว่าง"
+  },
+  {
+   "key": "ivyhelmetset",
+   "en": "Being hit drops a poisonous goo",
+   "official": "เมื่อถูกโจมตีจะแพร่กระจายพิษออกไป",
+   "th": "เมื่อถูกโจมตีจะทิ้งเมือกพิษไว้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "ivycircletset",
+   "en": "While in combat, occasionally\\nspawn a poison slime",
+   "official": "ระหว่างต่อสู้, ในบางครั้งจะ\\nเรียกสไลม์พิษออกมา 1 ตัว",
+   "th": "ระหว่างต่อสู้ จะเสก\\nสไลม์พิษออกมาเป็นครั้งคราว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quartzcrownset",
+   "en": "Get a burst of movement\\nspeed after being hit\\n20 second cooldown",
+   "official": "เคลื่อนที่เร็วขึ้น\\nเมื่อถูกโจมตี\\nคูลดาว์น 20 วินาที",
+   "th": "เคลื่อนที่เร็วขึ้นชั่วครู่\\nหลังถูกโจมตี\\nคูลดาวน์ 20 วินาที",
+   "status": "fixed",
+   "note": "สะกดคูลดาวน์"
+  },
+  {
+   "key": "quartzhelmetset",
+   "en": "Gain 10 resilience and a burst of\\nmovement speed when you are hit\\n10 second cooldown",
+   "official": "ได้รับ 10 ความทนทาน และ\\nเคลื่อนที่เร็วขึ้นเมื่อถูกโจมตี\\nคูลดาว์น 10 วินาที",
+   "th": "ได้รับความทนทาน 10 และ\\nเคลื่อนที่เร็วขึ้นชั่วครู่เมื่อถูกโจมตี\\nคูลดาวน์ 10 วินาที",
+   "status": "fixed",
+   "note": "สะกดคูลดาวน์"
+  },
+  {
+   "key": "gunslingerset",
+   "en": "Press [input=setability] to rapidly shoot 6 bullets at surrounding enemies",
+   "official": "กด [input=setability] เพื่อยิงกระสุน 6 นัดออกไปอย่างรวดเร็วใส่ศัตรูรอบตัว",
+   "th": "กด [input=setability] เพื่อยิงกระสุน 6 นัดออกไปอย่างรวดเร็วใส่ศัตรูรอบตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidset",
+   "en": "Press [input=setability] to gain a burst of movement speed",
+   "official": "กด [input=setability] เพื่อเพิ่มความเร็วเคลื่อนที่อย่างมากชั่วคราว",
+   "th": "กด [input=setability] เพื่อเพิ่มความเร็วเคลื่อนที่ชั่วครู่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "tungstenset1",
+   "en": "Knockback resistance",
+   "official": "ลดการถูกผลักลง",
+   "th": "ต้านทานแรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tungstenset2",
+   "en": "50% increased knockback",
+   "official": "เพิ่มการผลักศัตรู 50%",
+   "th": "แรงผลักเพิ่มขึ้น 50%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "battlechefset",
+   "en": "You can now be affected by one more food buff at the same time",
+   "official": "ตอนนี้คุณสามารถได้รับผลของบัฟอาหาร เพิ่มขึ้นได้อีกหนึ่งอย่างในเวลาเดียวกัน",
+   "th": "ได้รับผลบัฟอาหารพร้อมกันเพิ่มได้อีก 1 อย่าง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "shadowhatset",
+   "en": "Magic attacks haunt target for\\n25 damage over 5 seconds",
+   "official": "การโจมตีด้วยเวทมนตร์จะสร้างความเสียแก่ศัตรู \\n25 ตลอด 5 วินาที",
+   "th": "การโจมตีเวทมนตร์จะหลอกหลอนเป้าหมาย\\nความเสียหาย 25 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "สะกดผิด (ความเสีย)"
+  },
+  {
+   "key": "shadowhoodset",
+   "en": "+10% damage while not moving",
+   "official": "+10% พลังโจมตี เมื่ออยู่กับที่",
+   "th": "ความเสียหาย +10% ขณะอยู่กับที่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "surgicalmasktip",
+   "en": "Keeps the people around you safer",
+   "official": "ปกป้องเพื่อนรอบๆตัวคุณ",
+   "th": "ทำให้คนรอบตัวคุณปลอดภัยขึ้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "spiderchest",
+   "en": "Reduces knockback",
+   "official": "ลดการถูกผลักลง",
+   "th": "ลดแรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiderset",
+   "en": "Attacks poison target for\\n10 damage over 5 seconds\\nGrants immunity to slows",
+   "official": "โจมตีเป็นพิษสร้างความเสียหายแก่ศัตรู \\n10 ตลอด 5 วินาที\\nจะะไม่ถูกลดความเร็ว",
+   "th": "การโจมตีทำให้เป้าหมายติดพิษ\\nความเสียหาย 10 ภายใน 5 วินาที\\nไม่ถูกลดความเร็ว",
+   "status": "fixed",
+   "note": "สะกด (จะะ)"
+  },
+  {
+   "key": "frostset",
+   "en": "Melee attacks slows and damages\\nthe target for 15 damage over 5 seconds",
+   "official": "การโจมตีจะลดความเร็วศัตรูและสร้างความเสียหายแก่เป้าหมาย \\n 15 ตลอด 5 วินาที",
+   "th": "การโจมตีระยะประชิดจะทำให้เป้าหมายช้าลง\\nและความเสียหาย 15 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ศัพท์"
+  },
+  {
+   "key": "glacialhelmetset",
+   "en": "Melee attacks shoot out an icicle",
+   "official": "การโจมตีปกติจะยิงน้ำแข็งออกมา",
+   "th": "การโจมตีระยะประชิดจะยิงแท่งน้ำแข็งออกไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "glacialcircletset",
+   "en": "Summon attacks slows target",
+   "official": "ยูนิตที่อัญเชิญจะลดความเร็วศัตรูเมื่อโจมตี",
+   "th": "การโจมตีของสิ่งอัญเชิญทำให้เป้าหมายช้าลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadset",
+   "en": "When out of combat, gain up to 3 Barkskin stacks which grants 10 armor each, but lose 1 stack every time you're hit",
+   "official": "เมื่ออกจากการต่อสู้, ได้รับ 3 ชาร์จเกราะเปลือกไม้ ที่จะเพิ่ม 10 เกราะต่อชาร์จ, แต่จะสูญเสีย 1 ชาร์จทุกครั้งที่โดนโจมตี.",
+   "th": "เมื่อไม่ได้ต่อสู้ จะได้รับสแต็กเกราะเปลือกไม้สูงสุด 3 สแต็ก สแต็กละเกราะ 10 แต่เสีย 1 สแต็กทุกครั้งที่ถูกโจมตี",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง · ชื่อตาม buff: Barkskin"
+  },
+  {
+   "key": "myceliumhoodset",
+   "en": "Hold down [input=setability] to root you to the ground\\nand gain +100% ranged attack speed",
+   "official": "กดปุ่ม [input=setability] ค้างเพื่อฝังตัวคุณลงบนดิน  \\n และได้รับ +100% ความเร็วโจมตีระยะไกล",
+   "th": "กด [input=setability] ค้างไว้เพื่อหยั่งรากลงดิน\\nและได้รับความเร็วโจมตีระยะไกล +100%",
+   "status": "fixed",
+   "note": "ช่องว่างซ้อน + ลื่นขึ้น"
+  },
+  {
+   "key": "myceliumscarfset",
+   "en": "Each hit on enemies gives +0.5%\\nmovement speed stacking up to 100",
+   "official": "ทุกๆครั้งที่โจมตีศัตรูโดนจะได้รับ +0.5%\\nความเร็วเคลื่อนที่ สะสมได้สูงสุด 100",
+   "th": "โจมตีโดนศัตรูแต่ละครั้งได้รับความเร็วเคลื่อนที่ +0.5%\\nสะสมได้สูงสุด 100 ครั้ง",
+   "status": "fixed",
+   "note": "ไม้ยมก + ลื่นขึ้น"
+  },
+  {
+   "key": "agedchampionset1",
+   "en": "Increases melee crit chance and gives resilience regen when at full health",
+   "official": "เพิ่มโอกาสคริติคอลระยะประชิด และเพิ่มอัตราฟื้นฟูความทนทาน เมื่อพลังชีวิตเต็ม",
+   "th": "เพิ่มโอกาสคริติคอลระยะประชิด และฟื้นฟูความทนทานเมื่อพลังชีวิตเต็ม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "agedchampionset2",
+   "en": "Blocking just before being hit greatly increases stamina regen",
+   "official": "การป้องกัน ก่อนที่จะถูกโจมตี จะช่วยเพิ่มการฟื้นฟูพลังกายได้อย่างมาก",
+   "th": "ป้องกันจังหวะก่อนถูกโจมตีพอดี จะเพิ่มการฟื้นฟูพลังกายอย่างมาก",
+   "status": "fixed",
+   "note": "ความหมายครบ (just before)"
+  },
+  {
+   "key": "widowset",
+   "en": "Attacks poison target for\\n25 damage over 5 seconds\\nGrants immunity to slows",
+   "official": "โจมตีเป็นพิษสร้างความเสียหายแก่ศัตรู \\n25 ตลอด 5 วินาที\\nจะะไม่ถูกลดความเร็ว",
+   "th": "การโจมตีทำให้เป้าหมายติดพิษ\\nความเสียหาย 25 ภายใน 5 วินาที\\nไม่ถูกลดความเร็ว",
+   "status": "fixed",
+   "note": "สะกด (จะะ)"
+  },
+  {
+   "key": "ancestorset",
+   "en": "Press [input=setability] to manifest ghostly ancestors to fight by your side for 15 seconds",
+   "official": "กด [input=setability] เพื่อสร้างผี ให้ออกมาร่วมต่อสู้เคียงข้างคุณเป็นเวลา 15 วินาที",
+   "th": "กด [input=setability] เพื่อเรียกวิญญาณบรรพบุรุษมาร่วมสู้เคียงข้างคุณเป็นเวลา 15 วินาที",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "ancientfossilset",
+   "en": "Press [input=setability] to gain 100% crit chance for 5 seconds",
+   "official": "กด [input=setability] เพื่อได้รับ 100%  โอกาสคริติคอลเป็นเวลา 5 วินาที",
+   "th": "กด [input=setability] เพื่อได้รับโอกาสคริติคอล 100% เป็นเวลา 5 วินาที",
+   "status": "fixed",
+   "note": "ช่องว่างซ้อน + ลำดับ"
+  },
+  {
+   "key": "sharpshootersetnew",
+   "en": "Ranged hits grants a stack of Bullseye\\nAt 5 stacks you do a large critical hit",
+   "official": "การโจมตีระยะไกลแต่ละครั้งจะได้รับบัฟ เข้าเป้า 1\\n เมื่อสะสมครบ 5 ครั้ง การโจมตีครั้งต่อไปจะเป็นการโจมตีติดคริติคอลอย่างรุนแรง",
+   "th": "การโจมตีระยะไกลที่โดนจะได้รับสแต็กเข้าเป้า 1 สแต็ก\\nเมื่อครบ 5 สแต็ก จะโจมตีคริติคอลอย่างรุนแรง",
+   "status": "fixed",
+   "note": "ศัพท์สแต็ก + ช่องว่าง"
+  },
+  {
+   "key": "phoenixsettip",
+   "en": "Prevents death once every 5 minutes by protecting you in an egg that heals you before exploding in a fiery blast",
+   "official": "",
+   "th": "ป้องกันความตายได้ทุก 5 นาที โดยห่อหุ้มคุณไว้ในไข่ที่ฟื้นฟูพลังชีวิต ก่อนจะระเบิดเป็นเปลวเพลิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "slimeset",
+   "en": "Press [input=setability] to reduce all damage you take to 1 for 5 seconds,\\nbut recieve considerably more knockback",
+   "official": "กด [input=setability] เพื่อลดความเสียหายที่ได้รับเหลือ 1 เป็นเวลา 5 วินาที,\\n แต่จะถูกผลักไกลขึ้น",
+   "th": "กด [input=setability] เพื่อลดความเสียหายที่ได้รับทั้งหมดเหลือ 1 เป็นเวลา 5 วินาที\\nแต่จะโดนแรงผลักมากขึ้นอย่างมาก",
+   "status": "fixed",
+   "note": "ช่องว่าง + ศัพท์"
+  },
+  {
+   "key": "nightsteelset",
+   "en": "Press [input=setability] to get a boost and become untargetable, but cannot attack for 3 seconds",
+   "official": "กด [input=setability] เพื่อเสริมพลัง และ ไม่่ถูกเล็งเป้า , แต่ไม่สามารถโจมตีได้ เป็นเวลา 3 วินาที",
+   "th": "กด [input=setability] เพื่อรับบัฟเสริมและไม่ถูกเล็งเป้า แต่โจมตีไม่ได้ เป็นเวลา 3 วินาที",
+   "status": "fixed",
+   "note": "สะกด (ไม่่) + ช่องว่าง"
+  },
+  {
+   "key": "bloodplateset",
+   "en": "After taking damage, your health regen is doubled for 4 seconds",
+   "official": "หลังจากได้รับความเสียหาย, อัตราการฟื้นฟูพลังชีวิตเพิ่มขึ้นสองเท่า เป็นเวลา 4 วินาที",
+   "th": "หลังได้รับความเสียหาย ฟื้นฟูพลังชีวิตเพิ่มเป็นสองเท่าเป็นเวลา 4 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spideriteset",
+   "en": "Press [input=setability] to manifest a line of toxic webs for 10 seconds\\nGrants immunity to slows",
+   "official": "กด [input=setability] เพื่อแสดงใยพิษ เป็นเวลา  10 วินาที\\n และได้รับต้านทานการลดความเร็ว",
+   "th": "กด [input=setability] เพื่อสร้างแนวใยพิษเป็นเวลา 10 วินาที\\nไม่ถูกลดความเร็ว",
+   "status": "fixed",
+   "note": "ความหมาย + ช่องว่าง"
+  },
+  {
+   "key": "ravenlordset",
+   "en": "Feathers spawn when moving, homing in on enemies and dealing damage based on your movement speed",
+   "official": "สร้างขนนกเมื่อเคลื่อนไหว, ติดตามศัตรู และ สร้างความเสียหายตามความเร็วเคลื่อนที่ ",
+   "th": "เมื่อเคลื่อนที่จะเกิดขนนกที่พุ่งติดตามศัตรู สร้างความเสียหายตามความเร็วเคลื่อนที่ของคุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ช่องว่างท้าย"
+  },
+  {
+   "key": "ravenlordsetdamage",
+   "en": "Feather damage: <damage>",
+   "official": "ความเสียหายขนนก: <damage>",
+   "th": "ความเสียหายขนนก: <damage>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnset",
+   "en": "Modifies Melee and Ranged attacks during daytime",
+   "official": "ปรับเปลี่ยนการโจมตีระยะประชิดและระยะไกลในช่วงกลางวัน",
+   "th": "ปรับเปลี่ยนการโจมตีระยะประชิดและระยะไกลในเวลากลางวัน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "duskset",
+   "en": "Modifies Magic and Summon attacks during nighttime",
+   "official": "ปรับเปลี่ยนการโจมตีเวทมนต์และรการอัญเชิญในช่วงกลางคืน",
+   "th": "ปรับเปลี่ยนการโจมตีเวทมนตร์และอัญเชิญในเวลากลางคืน",
+   "status": "fixed",
+   "note": "สะกดผิด"
+  },
+  {
+   "key": "amethystset",
+   "en": "Deal 1% increased damage per 10 max resilience",
+   "official": "สร้างความเสียหาย 1% เพิ่มขึ้นต่อค่า 10 ความทนทานสูงสุด",
+   "th": "ความเสียหายเพิ่มขึ้น 1% ต่อความทนทานสูงสุดทุก 10 หน่วย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "amethystbluetext",
+   "en": "<damage>% increased damage from Amethyst set. Pfft, weak",
+   "official": "ดาเมจ <damage>% เพิ่มขึ้นจากชุดเซ็ทอเมทิสต์ , อ่อน",
+   "th": "ความเสียหายเพิ่มขึ้น <damage>% จากเซ็ตอเมทิสต์ ชิ อ่อนจัง",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "amethystgreentext",
+   "en": "<damage>% increased damage from Amethyst set. Decent, not good, but decent",
+   "official": "ดาเมจ <damage>% เพิ่มขึ้นจากชุดเซ็ทอเมทิสต์ , ใช้ได้ , ไม่ได้แย่ แต่พอใช้ได้",
+   "th": "ความเสียหายเพิ่มขึ้น <damage>% จากเซ็ตอเมทิสต์ พอได้ ไม่ดีหรอก แต่ก็พอได้",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "amethystpurpletext",
+   "en": "<damage>% increased damage from Amethyst set. This is what a warrior looks like!",
+   "official": "ดาเมจ <damage>% เพิ่มขึ้นจากชุดเซ็ทอเมทิสต์ , ค่อยเป็นนักรบขึ้นมาหน่อย",
+   "th": "ความเสียหายเพิ่มขึ้น <damage>% จากเซ็ตอเมทิสต์ นี่แหละหน้าตานักรบ!",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "amethystorangetext",
+   "en": "<damage>% increased damage from Amethyst set. Please don't hit me!",
+   "official": "ดาเมจ <damage>% เพิ่มขึ้นจากชุดเซ็ทอเมทิสต์ , อย่าทำร้ายฉันเลย !",
+   "th": "ความเสียหายเพิ่มขึ้น <damage>% จากเซ็ตอเมทิสต์ อย่าตีฉันนะ!",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ไม่เว้นก่อน !"
+  },
+  {
+   "key": "rubysetnew",
+   "en": "Increase max summons by 1 per 150 max resilience",
+   "official": "จำนวนการอัญเชิญสูงสุดเพิ่มขึ้น 1 ต่อ 150 ความทนทานสูงสุด",
+   "th": "จำนวนอัญเชิญสูงสุด +1 ต่อความทนทานสูงสุดทุก 150 หน่วย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rubybluetext",
+   "en": "<summoncount> additional summon from Ruby set. Pfft, rookie numbers",
+   "official": "<summoncount> จำนวนการอัญเชิญที่เพิ่มขึ้นจากชุดเซ็ททับทิม , แค่เนี้ย?",
+   "th": "อัญเชิญเพิ่ม <summoncount> ตัวจากเซ็ตทับทิม ชิ กระจอกจัง",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "rubygreentext",
+   "en": "<summoncount> additional summon from Ruby set. Not too shabby",
+   "official": "<summoncount> จำนวนการอัญเชิญที่เพิ่มขึ้นจากชุดเซ็ททับทิม , ไม่ได้แย่เท่าไหร่",
+   "th": "อัญเชิญเพิ่ม <summoncount> ตัวจากเซ็ตทับทิม ไม่เลวนี่",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "rubypurpletext",
+   "en": "<summoncount> additional summon from Ruby set. Now we're cooking!",
+   "official": "<summoncount> จำนวนการอัญเชิญที่เพิ่มขึ้นจากชุดเซ็ททับทิม , ตอนนี้กำลังดีเลย",
+   "th": "อัญเชิญเพิ่ม <summoncount> ตัวจากเซ็ตทับทิม เริ่มเข้าท่าแล้ว!",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "rubyorangetext",
+   "en": "<summoncount> additional summon from Ruby set. Now you're just a showoff",
+   "official": "<summoncount> จำนวนการอัญเชิญที่เพิ่มขึ้นจากชุดเซ็ททับทิม , ตอนนี้เริ่มอวดดีแล้วนะ",
+   "th": "อัญเชิญเพิ่ม <summoncount> ตัวจากเซ็ตทับทิม นี่มันขี้อวดชัด ๆ",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต + ลื่นขึ้น"
+  },
+  {
+   "key": "sapphireset",
+   "en": "Press [input=setability] to increase resilience generation by 250% for 5 seconds",
+   "official": "กดปุ่ม [input=setability] สร้างการเพิ่มค่าความทนทานสูงสุด 250% เป็นเวลา 5 วินาที",
+   "th": "กด [input=setability] เพื่อเพิ่มอัตราสร้างความทนทาน 250% เป็นเวลา 5 วินาที",
+   "status": "fixed",
+   "note": "แปลผิด (ไม่ใช่ค่าสูงสุด)"
+  },
+  {
+   "key": "emeraldset",
+   "en": "You deal 50% more magic damage, but take 25% more damage as well",
+   "official": "สร้างความเสียหายเพิ่ม 50% , แต่ได้รับความเสียหายเพิ่มขึ้น 25% แทน",
+   "th": "สร้างความเสียหายเวทมนตร์เพิ่ม 50% แต่ได้รับความเสียหายเพิ่ม 25% ด้วย",
+   "status": "fixed",
+   "note": "ขาด magic + ช่องว่าง"
+  },
+  {
+   "key": "newarcanicset1",
+   "en": "Press [input=setability] to become Overcharged",
+   "official": "กดปุ่ม [input=setability] เพื่อเข้าสู่สถานะพลังงานเกินพิกัด",
+   "th": "กด [input=setability] เพื่อเข้าสู่สถานะพลังงานล้นเกิน",
+   "status": "fixed",
+   "note": "ศัพท์สั้นลง · ชื่อตาม buff: Overcharged"
+  },
+  {
+   "key": "newarcanicset2",
+   "en": "While Overcharged, you drain 0.75% of your max mana every second, but also gain 2 stacks of Overcharged Mana for every point of mana lost",
+   "official": "ในขณะที่อยู่ในสถานะพลังงานเกินพิกัด, คุณจะเสียมานา 0.75% ของค่ามานาสูงสุดในทุกๆ วินาที, แต่ก็จะได้รับ มานาเกินพิกัด 2 สะสม ต่อค่ามานาทุกๆ 1 หน่วยที่เสียไป",
+   "th": "ขณะพลังงานล้นเกิน จะเสียมานา 0.75% ของมานาสูงสุดทุกวินาที แต่ได้รับมานาปะทุ 2 สแต็กต่อมานาที่เสียไปทุก 1 หน่วย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ศัพท์สแต็ก · ชื่อตาม buff: Overcharged / Overcharged Mana"
+  },
+  {
+   "key": "newarcanicset3",
+   "en": "When you reach <value> stacks of Overcharged Mana, fire powerful lightning at nearby enemies",
+   "official": "เมื่อคุณสะสมมานาเกินพิกัด ครบ <value>, จะยิงสายฟ้าที่ทรงพลังใส่ศัตรูที่อยู่ใกล้เคียง",
+   "th": "เมื่อสะสมมานาปะทุครบ <value> สแต็ก จะยิงสายฟ้าอันทรงพลังใส่ศัตรูรอบตัว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อตาม buff: Overcharged Mana"
+  },
+  {
+   "key": "deepfrostset",
+   "en": "An animated bow will follow you and fire projectiles whenever you use a ranged weapon",
+   "official": "คันธนูมีชีวิต จะติดตามคุณและยิงกระสุนเมื่อใดก็ตามที่คุณใช้อาวุธระยะไกล",
+   "th": "ธนูมีชีวิตจะติดตามคุณและยิงกระสุนทุกครั้งที่คุณใช้อาวุธระยะไกล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cryowitchrobesset",
+   "en": "Press [input=setability] to encase yourself in ice while charging up a frost nova, freezing all nonhuman mobs in a large area",
+   "official": "กด [input=setability] เพื่อห่อหุ้มตัวเองด้วยน้ำแข็ง ขณะที่กำลังชาร์จพลังเพื่อปล่อยฟรอสต์โนวา, ซึ่งจะแช่แข็งศัตรูที่ไม่ใช่มนุษย์ทั้งหมดในพื้นที่ขนาดใหญ่",
+   "th": "กด [input=setability] เพื่อห่อหุ้มตัวเองในน้ำแข็งขณะชาร์จโนวาเยือกแข็ง ซึ่งจะแช่แข็งมอนสเตอร์ที่ไม่ใช่มนุษย์ทั้งหมดในพื้นที่กว้าง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "supportersetbonus",
+   "en": "Sparkling!",
+   "official": "เรืองแสง!",
+   "th": "วิบวับ!",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "sharkarmorsetbonustip1",
+   "en": "Successful attacks bleed the target for <value> damage over <duration> seconds",
+   "official": "การโจมตีที่สำเร็จจะทำให้เป้าหมายเลือดออก ความเสียหาย <value> เป็นระยะเวลา <duration> วินาที",
+   "th": "การโจมตีที่โดนจะทำให้เป้าหมายเลือดออก ความเสียหาย <value> ภายใน <duration> วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sharkarmorsetbonustip2",
+   "en": "You gain temporary movement speed and damage for every enemy bled recently",
+   "official": "คุณจะได้รับความเร็วในการเคลื่อนที่และพลังโจมตีชั่วคราว ต่อศัตรูแต่ละตัวที่ติดสถานะเลือดออก เมื่อไม่นานมานี้",
+   "th": "ได้รับความเร็วเคลื่อนที่และความเสียหายเพิ่มชั่วคราว ตามจำนวนศัตรูที่เพิ่งติดเลือดออก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ศัพท์"
+  },
+  {
+   "key": "arachnidset",
+   "en": "Spawns an additional spider summon for every third summon slot used",
+   "official": "จะอัญเชิญอสูรแมงมุมเพิ่มอีกหนึ่งตัว ต่อการอัญเชิญยูนิต 3 ตัว",
+   "th": "อัญเชิญแมงมุมเพิ่ม 1 ตัว ทุก ๆ ช่องอัญเชิญที่ใช้ครบ 3 ช่อง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "soulseedset",
+   "en": "Press [input=setability] to explode all your active summons dealing massive damage",
+   "official": "กด [input=setability] เพื่อระเบิดยูนิตที่อัญเชิญอยู่ทั้งหมดของคุณ สร้างความเสียหายมหาศาล",
+   "th": "กด [input=setability] เพื่อระเบิดสิ่งอัญเชิญทั้งหมดของคุณ สร้างความเสียหายมหาศาล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "demonicset",
+   "en": "Press [input=setability] to sacrifice a 10% of your health to temporarily increase damage, crit and movement speed",
+   "official": "กด [input=setability] เพื่อสละพลังชีวิต 10% ของคุณ เพื่อเพิ่มพลังโจมตี, อัตราคริติคอล และความเร็วในการเคลื่อนที่ ชั่วคราว",
+   "th": "กด [input=setability] เพื่อสละพลังชีวิต 10% เพิ่มความเสียหาย คริติคอล และความเร็วเคลื่อนที่ชั่วคราว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "soldierhelmetset",
+   "en": "Gain a stacking frenzy buff when you kill an enemy\\nFrenzy increases attack speed and movement speed",
+   "official": "ได้รับบัฟ บ้าคลั่ง เมื่อคุณสังหารศัตรู\\nบัฟ บ้าคลั่ง จะเพิ่มความเร็วในการโจมตีและความเร็วในการเคลื่อนที่",
+   "th": "ได้รับบัฟบ้าคลั่งสะสมเมื่อสังหารศัตรู\\nบ้าคลั่งเพิ่มความเร็วโจมตีและความเร็วเคลื่อนที่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ชื่อตาม buff: Frenzy"
+  },
+  {
+   "key": "soldiercapset",
+   "en": "Ranged weapon projectiles ricochet to other enemies on kill",
+   "official": "กระสุนของอาวุธระยะไกลจะกระดอนไปหาศัตรูตัวอื่นเมื่อสังหารศัตรูได้",
+   "th": "กระสุนอาวุธระยะไกลจะกระดอนไปหาศัตรูตัวอื่นเมื่อสังหารเป้าหมาย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "thiefset1",
+   "en": "You have a chance to steal coins from enemies on hit",
+   "official": "คุณมีโอกาสที่จะขโมยเหรียญจากศัตรูเมื่อโจมตีโดน",
+   "th": "มีโอกาสขโมยเหรียญจากศัตรูเมื่อโจมตีโดน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "thiefset2",
+   "en": "Press [input=setability] to throw a handful of coins at enemies",
+   "official": "กด [input=setability] เพื่อโยนเหรียญหนึ่งกำมือใส่ศัตรู",
+   "th": "กด [input=setability] เพื่อปาเหรียญหนึ่งกำมือใส่ศัตรู",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "makeshiftset",
+   "en": "Dealing or taking damage may build up stacks of Quick Tinker",
+   "official": "",
+   "th": "การสร้างหรือได้รับความเสียหายอาจสะสมสแต็กช่างซ่อมจอมไว",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "makeshiftmeleeset",
+   "en": "Press [input=setability] to expend a Quick Tinker stack and rocket forward, damaging enemies in your path",
+   "official": "",
+   "th": "กด [input=setability] เพื่อใช้สแต็กช่างซ่อมจอมไว 1 สแต็ก แล้วพุ่งทะยานไปข้างหน้า สร้างความเสียหายแก่ศัตรูที่ขวางทาง",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "makeshiftrangedset",
+   "en": "Press [input=setability] to expend a Quick Tinker stack and place down a temporary turret that shoots nearby enemies",
+   "official": "",
+   "th": "กด [input=setability] เพื่อใช้สแต็กช่างซ่อมจอมไว 1 สแต็ก วางป้อมปืนชั่วคราวที่ยิงศัตรูรอบ ๆ",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "makeshiftmagicset",
+   "en": "Press [input=setability] to expend a Quick Tinker stack and place down a temporary arc turret that zaps nearby enemies and other arc turrets",
+   "official": "",
+   "th": "กด [input=setability] เพื่อใช้สแต็กช่างซ่อมจอมไว 1 สแต็ก วางป้อมสายฟ้าชั่วคราวที่ช็อตศัตรูรอบ ๆ และป้อมสายฟ้าอื่น ๆ",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "makeshiftsummonset1",
+   "en": "Press [input=setability] to expend all your Quick Tinker stacks and summon robo-pal for a short time",
+   "official": "",
+   "th": "กด [input=setability] เพื่อใช้สแต็กช่างซ่อมจอมไวทั้งหมด แล้วอัญเชิญหุ่นยนต์คู่หูมาช่วยชั่วครู่",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "makeshiftsummonset2",
+   "en": "The robo-pal grows stronger with every stack of Quick Tinker spent (max 5) and instantly spends new stacks",
+   "official": "",
+   "th": "หุ่นยนต์คู่หูจะแข็งแกร่งขึ้นตามสแต็กช่างซ่อมจอมไวที่ใช้ (สูงสุด 5) และจะใช้สแต็กใหม่ทันที",
+   "status": "new",
+   "note": "ชื่อตาม buff: Quick Tinker"
+  },
+  {
+   "key": "supportersetwarning",
+   "en": "Can only be equipped by owners of the Necesse Supporter Pack DLC",
+   "official": "สวมใส่ได้เฉพาะผู้ซื้อแพ็คผู้สนับสนุน Necesse DLC",
+   "th": "สวมใส่ได้เฉพาะเจ้าของ DLC Necesse Supporter Pack",
+   "status": "fixed",
+   "note": "ชื่อ DLC ตามจริง"
+  },
+  {
+   "key": "supporterset",
+   "en": "Thank you for supporting Necesse <3",
+   "official": "ขอบคุณที่สนับสนุน Necesse <3",
+   "th": "ขอบคุณที่สนับสนุน Necesse <3",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stealthbaskettip",
+   "en": "Stand completely still for 2 seconds to become invisible!",
+   "official": "",
+   "th": "ยืนนิ่งสนิท 2 วินาทีเพื่อล่องหน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketquote",
+   "en": "\"Stealth camouflage for the solid hero, and big bosses alike\"",
+   "official": "",
+   "th": "\"พรางตัวแนบเนียน สำหรับทั้งฮีโร่ตัวจริงและบอสตัวใหญ่\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimesetquote",
+   "en": "\"Perfect for when you feel all 'wheeeee!'\"",
+   "official": "",
+   "th": "\"เหมาะเป๊ะตอนรู้สึก 'วี้ดดดด!'\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flatgrasspaintingquote",
+   "en": "\"My childhood playground\"",
+   "official": "",
+   "th": "\"สนามเด็กเล่นวัยเด็กของฉัน\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimicchestquote",
+   "en": "\"A great way to store hundreds of dice for hundreds of adventures\"",
+   "official": "",
+   "th": "\"ที่เก็บลูกเต๋านับร้อยสำหรับการผจญภัยนับร้อย\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "potatoclockquote",
+   "en": "\"Well, the cake was a lie.. But I found this cool potato clock\"",
+   "official": "",
+   "th": "\"เค้กน่ะโกหก... แต่ได้นาฬิกามันฝรั่งเจ๋ง ๆ มาแทน\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jonasglassesquote",
+   "en": "\"These are my glasses. Wait how did you get my glasses!?\"",
+   "official": "",
+   "th": "\"นี่แว่นฉันนี่ เดี๋ยวนะ เอาแว่นฉันไปได้ยังไง!?\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "praisethemoonstatuequote",
+   "en": "\"Praise the su... Uhm, I mean moon. Yeah, praise the moon!\"",
+   "official": "",
+   "th": "\"สรรเสริญดวงอา... เอ่อ หมายถึงดวงจันทร์ ใช่ สรรเสริญดวงจันทร์!\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "freyastatuequote",
+   "en": "\"Always energetic and playful\"",
+   "official": "",
+   "th": "\"กระตือรือร้นและขี้เล่นเสมอ\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "zithastatuequote",
+   "en": "\"Always calm and caring\"",
+   "official": "",
+   "th": "\"สงบนิ่งและใส่ใจเสมอ\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "freyaandzithastatuequote",
+   "en": "\"One playful, the other tolerant\"",
+   "official": "",
+   "th": "\"คนหนึ่งขี้เล่น อีกคนใจเย็น\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "trinketslot",
+   "en": "Trinket slot",
+   "official": "ช่องของประดับ",
+   "th": "ช่องเครื่องประดับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "trinketabilityslot",
+   "en": "Trinket ability slot",
+   "official": "ช่องความสามารถเครื่องประดับ",
+   "th": "ช่องความสามารถเครื่องประดับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "useabilityslot",
+   "en": "Use trinket ability slot first",
+   "official": "ใช้ตวามสามารถเครื่องประดับช่องแรกก่อน",
+   "th": "ใช้ช่องความสามารถเครื่องประดับก่อน",
+   "status": "fixed",
+   "note": "สะกด (ตวาม)"
+  },
+  {
+   "key": "trinketdisabled",
+   "en": "§hDisabled by <items>",
+   "official": "§hถูกปิดโดย <items>",
+   "th": "§hถูกปิดโดย <items>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonclawtip",
+   "en": "Gives knockback resistance",
+   "official": "มอบการลดการถูกผลักลง",
+   "th": "ต้านทานแรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "polarclawtip",
+   "en": "Attacks slows target",
+   "official": "การโจมตีจะลดความเร็วศัตรู",
+   "th": "การโจมตีทำให้เป้าหมายช้าลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "finstip",
+   "en": "Increases swim speed by 100%",
+   "official": "ว่ายน้ำเร็วขึ้น 2 เท่า",
+   "th": "เพิ่มความเร็วว่ายน้ำ 100%",
+   "status": "fixed",
+   "note": "ตามต้นฉบับ"
+  },
+  {
+   "key": "ninjasmark1",
+   "en": "Halves movement speed",
+   "official": "เดินช้าลงครึ่งนึง",
+   "th": "ลดการชะลอความเร็วเคลื่อนที่",
+   "status": "fixed",
+   "note": "ความหมายผิด (บรรทัดต่อกับ ninjasmark2)"
+  },
+  {
+   "key": "ninjasmark2",
+   "en": "reduction when attacking",
+   "official": "แสดงผลลดลงเมื่อโจมตี",
+   "th": "ลงครึ่งหนึ่งขณะโจมตี",
+   "status": "fixed",
+   "note": "ความหมายผิด (ต่อจาก ninjasmark1)"
+  },
+  {
+   "key": "piratetelescopemap",
+   "en": "Extends map discovery range",
+   "official": "เพิ่มระยะการเปิดเผยแผนที่",
+   "th": "เพิ่มระยะการเปิดเผยแผนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leatherglovetip",
+   "en": "Increases attack speed by 10%",
+   "official": "โจมตีเร็วขึ้น 10%",
+   "th": "เพิ่มความเร็วโจมตี 10%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "trackerboottip",
+   "en": "Increases movement speed by 10%",
+   "official": "เคลื่อนที่ไวขึ้น 10%",
+   "th": "เพิ่มความเร็วเคลื่อนที่ 10%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shinebelttip",
+   "en": "Lights up the area around you",
+   "official": "ส่องแสงรอบตัวคุณ",
+   "th": "ส่องแสงรอบตัวคุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vampiresgift",
+   "en": "Increases movement speed by 15%",
+   "official": "เคลื่อนที่ไวขึ้น 15%",
+   "th": "เพิ่มความเร็วเคลื่อนที่ 15%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "regenpendant",
+   "en": "Increases health regen by 0.25 per second",
+   "official": "เพิ่มอัตราการฟื้นฟูพลังชีวิตเล็กน้อย",
+   "th": "เพิ่มการฟื้นฟูพลังชีวิต 0.25 ต่อวินาที",
+   "status": "fixed",
+   "note": "ขาดตัวเลข"
+  },
+  {
+   "key": "mobilitycloak",
+   "en": "Gives great mobility out of combat",
+   "official": "คล่องตัวขึ้นเมื่อไม่ได้ต่อสู้",
+   "th": "คล่องตัวขึ้นมากเมื่อไม่ได้ต่อสู้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "travelercloak",
+   "en": "Gives land and sea mobility out of combat",
+   "official": "คล่องตัวขึ้นทั้งบนบกและในน้ำเมื่อไม่ได้ต่อสู้",
+   "th": "คล่องตัวขึ้นทั้งบนบกและในน้ำเมื่อไม่ได้ต่อสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeline",
+   "en": "Restore 25% health when taking fatal damage\\n5 minute cooldown",
+   "official": "ฟื้นฟูพลังชีวิต 25% เมื่อได้รับความเสียหายถึงตาย \\nคูลดาว์น 5 นาที",
+   "th": "ฟื้นฟูพลังชีวิต 25% เมื่อได้รับความเสียหายถึงตาย\\nคูลดาวน์ 5 นาที",
+   "status": "fixed",
+   "note": "สะกดคูลดาวน์ + ช่องว่าง"
+  },
+  {
+   "key": "magicfoci1",
+   "en": "Increases magic damage by 20%",
+   "official": "เพิ่มพลังโจมตีเวทย์ 20%",
+   "th": "เพิ่มความเสียหายเวทมนตร์ 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magicfoci2",
+   "en": "Decreases non-magic damage by 20%",
+   "official": "ลดพลังโจมตีทุกอย่างยกเว้นการโจมตีเวทย์ 20%",
+   "th": "ลดความเสียหายที่ไม่ใช่เวทมนตร์ 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rangefoci1",
+   "en": "Increases ranged damage by 20%",
+   "official": "เพิ่มพลังโจมตีระยะไกล 20%",
+   "th": "เพิ่มความเสียหายระยะไกล 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rangefoci2",
+   "en": "Decreases non-ranged damage by 20%",
+   "official": "ลดพลังโจมตีทุกอย่างยกเว้นการโจมตีระยะไกล 20%",
+   "th": "ลดความเสียหายที่ไม่ใช่ระยะไกล 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "meleefoci1",
+   "en": "Increases melee damage by 20%",
+   "official": "เพิ่มพลังโจมตีระยะประชิด 20%",
+   "th": "เพิ่มความเสียหายระยะประชิด 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "meleefoci2",
+   "en": "Decreases non-melee damage by 20%",
+   "official": "ลดพลังโจมตีทุกอย่างยกเว้นการโจมตีระยะประชิด 20%",
+   "th": "ลดความเสียหายที่ไม่ใช่ระยะประชิด 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonfoci1",
+   "en": "Increases summon damage by 20%",
+   "official": "เพิ่มพลังโจมตียูนิตที่อัญเชิญ 20%",
+   "th": "เพิ่มความเสียหายอัญเชิญ 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonfoci2",
+   "en": "Decreases non-summon damage by 20%",
+   "official": "ลดพลังโจมตีทุกอย่างยกเว้นการโจมตีของยูนิตที่อัญเชิญ 20%",
+   "th": "ลดความเสียหายที่ไม่ใช่อัญเชิญ 20%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "balancedfoci",
+   "en": "Increases all damage dealt by 15%",
+   "official": "เพิ่มพลังโจมตีทุกแบบ 15%",
+   "th": "เพิ่มความเสียหายทุกประเภท 15%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancientfeather",
+   "en": "Increases projectile velocity by 50%",
+   "official": "เพิ่มความไวกระสุน 50%",
+   "th": "เพิ่มความเร็วกระสุน 50%",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "airvesseltip",
+   "en": "Adds 2 dash charges",
+   "official": "เพิ่มการพุ่ง 2 ชาร์จ",
+   "th": "เพิ่มจำนวนการพุ่ง 2 ครั้ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "miningcharm",
+   "en": "Increases tool damage by 40%",
+   "official": "เพิ่มประสิทธิภาพเครื่องมือ 40%",
+   "th": "เพิ่มความเสียหายเครื่องมือ 40%",
+   "status": "fixed",
+   "note": "ความหมายตรง"
+  },
+  {
+   "key": "minersbouquettip",
+   "en": "Increases mining speed by 25%",
+   "official": "เพิ่มความไวในการขุด 25%",
+   "th": "เพิ่มความเร็วขุดแร่ 25%",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "minersbouquetusetip",
+   "en": "Swing to turn on calming effect",
+   "official": "แกว่งเพื่อใช้งานเอฟเฟกต์ทำให้สงบ",
+   "th": "แกว่งเพื่อเปิดผลทำให้สงบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "calmingminersbouquetusetip",
+   "en": "Swing to turn off calming effect",
+   "official": "แกว่งเพื่อปิดการใช้งานเอฟเฟกต์ทำให้สงบ",
+   "th": "แกว่งเพื่อปิดผลทำให้สงบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cactusshieldtip",
+   "en": "Returns damage to the attacker",
+   "official": "สะท้อนความเสียหาย",
+   "th": "สะท้อนความเสียหายกลับไปยังผู้โจมตี",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "siphonshieldtip",
+   "en": "Converts damage received to mana",
+   "official": "เปลี่ยนความเสียหายเป็นมานา",
+   "th": "เปลี่ยนความเสียหายที่ได้รับเป็นมานา",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "parrybucklertip",
+   "en": "Block just before being hit to block all damage and gain a damage boost for a short duration",
+   "official": "ป้องกันก่อนที่จะโดนความเสียหาย เพื่อต้านทานความเสียหายทั้งหมดและได้รับเอฟเฟ็คเพิ่มการสร้างความเสียหายเป็นระยะเวลาสั้นๆ",
+   "th": "ป้องกันจังหวะก่อนถูกโจมตีพอดี เพื่อกันความเสียหายทั้งหมดและได้รับความเสียหายเพิ่มชั่วครู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + สะกด"
+  },
+  {
+   "key": "crystalshieldtip",
+   "en": "Counters attackers with a burst of energy\\nDeals damage based on the blocked attack's strength",
+   "official": "ตอบโต้ผู้โจมตีด้วยพลังงาน",
+   "th": "ตอบโต้ผู้โจมตีด้วยคลื่นพลังงาน\\nความเสียหายขึ้นกับความแรงของการโจมตีที่ป้องกันได้",
+   "status": "fixed",
+   "note": "ขาดบรรทัดสอง"
+  },
+  {
+   "key": "moonshieldtip",
+   "en": "Counters attacks with a moonlight javelin\\nDeals damage based on the blocked attack's strength",
+   "official": "",
+   "th": "ตอบโต้การโจมตีด้วยหอกซัดแสงจันทร์\\nความเสียหายขึ้นกับความแรงของการโจมตีที่ป้องกันได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moonshieldquote",
+   "en": "\"A shield fit for a true Moonbro\"",
+   "official": "",
+   "th": "\"โล่ที่คู่ควรกับเพื่อนซี้แห่งดวงจันทร์ตัวจริง\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sparegemstonestip",
+   "en": "Increases max mana by 20%",
+   "official": "เพิ่มมานาสูงสุด 20 %",
+   "th": "เพิ่มมานาสูงสุด 20%",
+   "status": "fixed",
+   "note": "ช่องว่างก่อน %"
+  },
+  {
+   "key": "spellstonetip",
+   "en": "Increases max mana by 50%",
+   "official": "เพิ่มมานาสูงสุด 50%",
+   "th": "เพิ่มมานาสูงสุด 50%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dreamcatchertip",
+   "en": "Increases mana regen by 100%",
+   "official": "เพิ่มมานาสูงสุด 100%",
+   "th": "เพิ่มการฟื้นฟูมานา 100%",
+   "status": "fixed",
+   "note": "แปลผิด (regen)"
+  },
+  {
+   "key": "nightmaretalismantip",
+   "en": "Increases mana regen by 250%",
+   "official": "เพิ่มการฟื้นฟูมานา 250%",
+   "th": "เพิ่มการฟื้นฟูมานา 250%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "prophecyslabtip",
+   "en": "Increases mana regen by 100%",
+   "official": "เพิ่มการฟื้นฟูมานา 100%",
+   "th": "เพิ่มการฟื้นฟูมานา 100%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicmanualtip",
+   "en": "Increases mana regen by 100%",
+   "official": "เพิ่มการฟื้นฟูมานา 100%",
+   "th": "เพิ่มการฟื้นฟูมานา 100%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scryingcardstip",
+   "en": "Increases mana regen by 250%",
+   "official": "เพิ่มการฟื้นฟูมานา 250%",
+   "th": "เพิ่มการฟื้นฟูมานา 250%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forbiddenspellbooktip",
+   "en": "Increases magic damage by 50%,\\nbut increases mana usage by 100%",
+   "official": "เพิ่มพลังโจมตีเวทย์ 50%,\\n แต่ใช่มานาเพิ่มขึ้น 100%",
+   "th": "เพิ่มความเสียหายเวทมนตร์ 50%\\nแต่ใช้มานาเพิ่มขึ้น 100%",
+   "status": "fixed",
+   "note": "สะกด (ใช่) + ศัพท์"
+  },
+  {
+   "key": "magicalquiver",
+   "en": "Reduces arrow usage by 75%",
+   "official": "ลดการใช้ลูกธนู 75%",
+   "th": "ลดการใช้ลูกธนู 75%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ammobox",
+   "en": "Reduces bullet usage by 75%",
+   "official": "ลดการใช้กระสุนปืน 75%",
+   "th": "ลดการใช้กระสุนปืน 75%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozenhearttip",
+   "en": "Increases max health by 50",
+   "official": "เพิ่มพลังชีวิตสูงสุด 50",
+   "th": "เพิ่มพลังชีวิตสูงสุด 50",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozenwavetip",
+   "en": "Increases crit damage by 25%",
+   "official": "เพิ่มความเสียหายคริติคอล 25%",
+   "th": "เพิ่มความเสียหายคริติคอล 25%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercharm",
+   "en": "Being hit poisons the attacker\\nfor 40 damage over 5 seconds",
+   "official": "เมื่อถูกโจมตีจะแพร่พิษใส่ศัตรูสร้างความเสียหาย\\n40 ตลอด 5 วินาที",
+   "th": "เมื่อถูกโจมตี ผู้โจมตีจะติดพิษ\\nความเสียหาย 40 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "companionlockettipnew",
+   "en": "Increases summon damage and speed for each unused summon",
+   "official": "",
+   "th": "เพิ่มความเสียหายและความเร็วของสิ่งอัญเชิญ ตามจำนวนช่องอัญเชิญที่ยังว่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "guardianshelltip",
+   "en": "Equip and press [input=trinketability] to get a\\npowerful shield for a short time",
+   "official": "สวมใส่แล้วกด [input=trinketability] เพื่อได้รับ \\nโล่อันแข็งแกร่งชั่วคราว",
+   "th": "สวมใส่แล้วกด [input=trinketability] เพื่อรับ\\nโล่อันแข็งแกร่งชั่วครู่",
+   "status": "fixed",
+   "note": "ช่องว่างท้ายบรรทัด"
+  },
+  {
+   "key": "necroticsoulskulltip1",
+   "en": "Increases summon damage by 10%",
+   "official": "เพิ่มความเสียหายของยูนิตที่อัญเชิญ 10%",
+   "th": "เพิ่มความเสียหายอัญเชิญ 10%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "necroticsoulskulltip2",
+   "en": "Equip and press [input=trinketability] to apply necrotic\\npoison that deals 20 damage over 2 seconds\\nand pushes all enemies around you away",
+   "official": "สวมใส่ และ กด [input=trinketability] เพื่อใช้งานการเน่าเปื่อย \\nพิษที่ทำดาเมจ 20 ทุกๆ  2 วินาที\\nและผลักศัตรูรอบตัวออกไป",
+   "th": "สวมใส่แล้วกด [input=trinketability] เพื่อปล่อยพิษเน่า\\nที่สร้างความเสียหาย 20 ภายใน 2 วินาที\\nและผลักศัตรูรอบตัวออกไป",
+   "status": "fixed",
+   "note": "ความหมายผิด + ช่องว่าง"
+  },
+  {
+   "key": "necroticsoulskulltip3",
+   "en": "6 seconds cooldown",
+   "official": "6 วินาทีคูลดาว์น",
+   "th": "คูลดาวน์ 6 วินาที",
+   "status": "fixed",
+   "note": "สะกด + ลำดับ"
+  },
+  {
+   "key": "fuzzydicetip",
+   "en": "Increases crit chance by 5%",
+   "official": "เพิ่มโอกาสคริติคอล 5%",
+   "th": "เพิ่มโอกาสคริติคอล 5%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "noblehorseshoetip",
+   "en": "Increases crit chance by 5%",
+   "official": "เพิ่มโอกาสคริติคอล 5%",
+   "th": "เพิ่มโอกาสคริติคอล 5%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "luckycapetip",
+   "en": "Increases crit chance by 10%",
+   "official": "เพิ่มโอกาสคริติคอล 10%",
+   "th": "เพิ่มโอกาสคริติคอล 10%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonehilt",
+   "en": "Increases armor penetration by 20",
+   "official": "เพิ่มการเจาะกราะ 20",
+   "th": "เพิ่มการเจาะเกราะ 20",
+   "status": "fixed",
+   "note": "สะกด (กราะ)"
+  },
+  {
+   "key": "firestonetip",
+   "en": "Attacks set target ablaze dealing\\n25 damage over 5 seconds",
+   "official": "โจมตีติดไฟสร้างความเสียหายแก่ศัตรู \\n25 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายติดไฟ\\nความเสียหาย 25 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ช่องว่าง"
+  },
+  {
+   "key": "lifependant",
+   "en": "Increases health regen by 0.75 per second",
+   "official": "เพิ่มอัตราการฟื้นฟูพลังชีวิต",
+   "th": "เพิ่มการฟื้นฟูพลังชีวิต 0.75 ต่อวินาที",
+   "status": "fixed",
+   "note": "ขาดตัวเลข"
+  },
+  {
+   "key": "constructionhammer",
+   "en": "Increases building speed",
+   "official": "ก่อสร้างไวขึ้น",
+   "th": "เพิ่มความเร็วก่อสร้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "telescopicladder",
+   "en": "Increases building range",
+   "official": "เพิ่มระยะก่อสร้าง",
+   "th": "เพิ่มระยะก่อสร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "toolextender",
+   "en": "Increases mining range",
+   "official": "เพิ่มระยะการขุดแร่",
+   "th": "เพิ่มระยะขุดแร่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "itemattractortip",
+   "en": "Increases item pickup range",
+   "official": "เพิ่มระยะการเก็บไอเทม",
+   "th": "เพิ่มระยะเก็บไอเทม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "minersprosthetictip",
+   "en": "Mining rocks deals cleave damage to other nearby rocks",
+   "official": "การขุดหินทำดาเมจกระจายแก่หินใกล้หิน",
+   "th": "การขุดหินจะสร้างความเสียหายกระจายไปยังหินใกล้เคียง",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์"
+  },
+  {
+   "key": "spikedboots",
+   "en": "Increases movement speed by 15%\\nPrevents skating around",
+   "official": "เพิ่มความเร็วเคลื่อนที่ 15%\\nป้องกันการไถล",
+   "th": "เพิ่มความเร็วเคลื่อนที่ 15%\\nป้องกันการไถล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spikedbatboots",
+   "en": "Increases movement speed by 25%\\nPrevents skating around",
+   "official": "เพิ่มความเร็วเคลื่อนที่ 25%\\nป้องกันการไถล",
+   "th": "เพิ่มความเร็วเคลื่อนที่ 25%\\nป้องกันการไถล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "froststonetip",
+   "en": "Attacks slow target and deals\\n15 damage over 5 seconds",
+   "official": "การโจมตีจะลดความเร็วศัตรูและสร้างความเสียหายแก่เป้าหมาย \\n 15 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายช้าลง\\nและความเสียหาย 15 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "frostflametip",
+   "en": "Attacks slow target and deals\\n35 damage over 5 seconds",
+   "official": "การโจมตีจะลดความเร็วศัตรูและสร้างความเสียหายแก่เป้าหมาย \\n 35 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายช้าลง\\nและความเสียหาย 35 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "calmingrose",
+   "en": "Reduces mob spawn rate",
+   "official": "ลดอัตราการเกิดมอนสเตอร์",
+   "th": "ลดอัตราการเกิดมอนสเตอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frenzyorbtip",
+   "en": "Gain up to +40% damage based on missing health",
+   "official": "เพิ่มพลังโจมตีได้มากถึง +40% ขึ้นอยู่กับพลังชีวิตที่เสียไป",
+   "th": "ความเสียหายเพิ่มขึ้นสูงสุด +40% ตามพลังชีวิตที่เสียไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "templependanttip",
+   "en": "Reduces dash cooldowns by 25%",
+   "official": "ลดคูลดาว์นการพุ่ง 25%",
+   "th": "ลดคูลดาวน์การพุ่ง 25%",
+   "status": "fixed",
+   "note": "สะกดคูลดาวน์"
+  },
+  {
+   "key": "gelatincasingstip",
+   "en": "Increase projectile bounces by 10",
+   "official": "เพิ่งการเด้งกระสุน 10%",
+   "th": "กระสุนเด้งได้เพิ่มขึ้น 10 ครั้ง",
+   "status": "fixed",
+   "note": "สะกด + ไม่ใช่ %"
+  },
+  {
+   "key": "bloodstoneringtip",
+   "en": "-20 armor\\nGain 4 health regen per second while below 50% health",
+   "official": "-เกราะ 20\\nฟื้นฟูพลังชีวิต 4 หน่วยต่อวินาที เมื่อมีพลังชีวิตเหลือต่ำกว่า 50%",
+   "th": "เกราะ -20\\nฟื้นฟูพลังชีวิต 4 ต่อวินาที เมื่อพลังชีวิตต่ำกว่า 50%",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "claygauntlettip",
+   "en": "Increases max resilience by 10 \\nSlows resilience decay by 75%",
+   "official": "เพิ่มค่าความทนทานสูงสุด 10 \\nลดการสูญเสียค่าความทนทาน 75%",
+   "th": "เพิ่มความทนทานสูงสุด 10\\nลดการเสื่อมของความทนทาน 75%",
+   "status": "fixed",
+   "note": "ช่องว่างท้ายบรรทัด"
+  },
+  {
+   "key": "vambracetip",
+   "en": "Increases resilience gain by 50%",
+   "official": "เพิ่มอัตราการได้รับค่าความทนทาน 50%",
+   "th": "เพิ่มอัตราได้รับความทนทาน 50%",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "chainshirttip",
+   "en": "Increases max resilience by 50",
+   "official": "เพิ่มค่าความทนทานสูงสุด 30",
+   "th": "เพิ่มความทนทานสูงสุด 50",
+   "status": "fixed",
+   "note": "ตัวเลขผิด"
+  },
+  {
+   "key": "manicatip",
+   "en": "Increases max resilience by 50 \\nIncreases resilience Gain by 50%",
+   "official": "เพิ่มค่าความทนทานสูงสุด 50 \\nเพิ่มอัตราการได้รับค่าความทนทาน 50%",
+   "th": "เพิ่มความทนทานสูงสุด 50\\nเพิ่มอัตราได้รับความทนทาน 50%",
+   "status": "fixed",
+   "note": "ช่องว่างท้ายบรรทัด"
+  },
+  {
+   "key": "agedchampionscabbardtip",
+   "en": "Passively regen resilience \\nBeing hit drains all resilience",
+   "official": "ได้รับการฟื้นฟูค่าความทนทานตลอดเวลา \\nเมื่อถูกโจมตีจะรีเซ็ตค่าความทนทาน",
+   "th": "ฟื้นฟูความทนทานตลอดเวลา\\nเมื่อถูกโจมตีจะเสียความทนทานทั้งหมด",
+   "status": "fixed",
+   "note": "ช่องว่าง + ความหมายตรงขึ้น"
+  },
+  {
+   "key": "clockworkhearttip",
+   "en": "Turns half your health into resilience \\nRegen resilience when at full health\\nExcess healing from potions restore resilience",
+   "official": "เปลี่ยนพลังชีวิตครึ่งนึงเป็นค่าความทนทาน \\nฟื้นฟูค่าความทนทานเมื่อพลังชีวิตเต็ม",
+   "th": "เปลี่ยนพลังชีวิตครึ่งหนึ่งเป็นความทนทาน\\nฟื้นฟูความทนทานเมื่อพลังชีวิตเต็ม\\nการฟื้นฟูที่เกินจากน้ำยาจะเปลี่ยนเป็นความทนทาน",
+   "status": "fixed",
+   "note": "ขาดบรรทัดสาม"
+  },
+  {
+   "key": "challengerspauldrontip",
+   "en": "+100% resilience gain when a boss is nearby",
+   "official": "+100% อัตราการได้รับค่าความทนทาน เมื่อมีบอสอยู่ใกล้ๆ",
+   "th": "อัตราได้รับความทนทาน +100% เมื่อมีบอสอยู่ใกล้ ๆ",
+   "status": "fixed",
+   "note": "ไม้ยมก + ลำดับ"
+  },
+  {
+   "key": "foolsgambittip",
+   "en": "+10 armor\\n+10% damage\\n+10% crit chance\\n+1 max summons\\nCan only be equipped in trinket ability slot",
+   "official": "+10 เกราะ\\n+10% พลังโจมตี\\n+10% โอกาสคริติคัล\\n+1 จำนวนอัญเชิญสูงสุด\\nสามารถสวมใส่ได้เฉพาะในช่องความสามารถของเครื่องประดับ",
+   "th": "เกราะ +10\\nความเสียหาย +10%\\nโอกาสคริติคอล +10%\\nจำนวนอัญเชิญสูงสุด +1\\nสวมใส่ได้เฉพาะช่องความสามารถเครื่องประดับ",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "foolsgambiterrortip",
+   "en": "Can only be equipped in trinket ability slot",
+   "official": "สามารถสวมใส่ได้เฉพาะในช่องความสามารถของเครื่องประดับ",
+   "th": "สวมใส่ได้เฉพาะช่องความสามารถเครื่องประดับ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "jonasgambittip",
+   "en": "+25 armor\\n+20% damage\\n+15% crit chance\\n+2 max summons\\n-50% movement speed\\nCan only be equipped in trinket ability slot",
+   "official": "",
+   "th": "เกราะ +25\\nความเสียหาย +20%\\nโอกาสคริติคอล +15%\\nจำนวนอัญเชิญสูงสุด +2\\nความเร็วเคลื่อนที่ -50%\\nสวมใส่ได้เฉพาะช่องความสามารถเครื่องประดับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jonasgambitquote",
+   "en": "\"Don't blame me when you die because of this trinket\"",
+   "official": "",
+   "th": "\"ตายเพราะเครื่องประดับนี้แล้วอย่ามาโทษฉันนะ\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "willowisplanterntip",
+   "en": "Equip to summon a Will-o'-Wisp\\nWill-o'-Wisps looks for dangers and treasure, while lighting up surroundings",
+   "official": "สวมใส่เพื่อเรียก วิล-โอ-วิสป์\\nวิล-โอ-วิสป์ จะคอยมองหาอันตรายและสมบัติ , ในขณะที่ส่องแสงไฟไปรอบๆ",
+   "th": "สวมใส่เพื่ออัญเชิญวิล-โอ-วิสป์\\nวิล-โอ-วิสป์จะคอยหาอันตรายและสมบัติ พร้อมส่องแสงรอบ ๆ",
+   "status": "fixed",
+   "note": "ช่องว่าง + ศัพท์อัญเชิญ · ชื่อตาม mob: Will-o'-Wisp"
+  },
+  {
+   "key": "essenceofperspectivetip",
+   "en": "Adds a 50% chance to get extra life essence",
+   "official": "เพิ่มอัตราการได้รับแก่นพลังชีวิต 100%",
+   "th": "เพิ่มโอกาส 50% ที่จะได้แก่นแท้พลังชีวิตเพิ่ม",
+   "status": "fixed",
+   "note": "ตัวเลขผิด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "essenceofprolongingtip",
+   "en": "Increases life essence duration by 100%",
+   "official": "เพิ่มระยะเวลาแก่นพลังชีวิต 100%",
+   "th": "เพิ่มระยะเวลาแก่นแท้พลังชีวิต 100%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "essenceofrebirthtip",
+   "en": "Adds a 50% chance to get extra life essence\\nIncreases life essence duration by 100%",
+   "official": "เพิ่มโอกาส 50% ที่จะได้รับแก่นพลังชีวิตเพิ่มเติม\\nเพิ่มระยะเวลาแก่นพลังชีวิต 100%",
+   "th": "เพิ่มโอกาส 50% ที่จะได้แก่นแท้พลังชีวิตเพิ่ม\\nเพิ่มระยะเวลาแก่นแท้พลังชีวิต 100%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiritboardtip",
+   "en": "Attacks apply 1 extra stack of Dryad Haunted",
+   "official": "การโจมตีจะเพิ่ม 1 ชาร์จของวิญญาณดรายแอด",
+   "th": "การโจมตีเพิ่มสแต็กดรายแอดหลอกหลอนอีก 1 สแต็ก",
+   "status": "fixed",
+   "note": "ศัพท์สแต็ก"
+  },
+  {
+   "key": "guardianbracelettip",
+   "en": "Greatly increases damage and movement speed for a short time after perfect blocking an attack",
+   "official": "เพิ่มความเสียหายและความเร็วเคลื่อนที่อย่างมาก เป็นระยะเวลาชั่วคราวหลังจากป้องกันความเสียหายได้อย่างสมบูรณ์",
+   "th": "เพิ่มความเสียหายและความเร็วเคลื่อนที่อย่างมากชั่วครู่ หลังป้องกันการโจมตีได้อย่างสมบูรณ์แบบ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "secondwindcharmtip1",
+   "en": "Increases dash stacks by 1",
+   "official": "เพิ่มชาร์จการพุ่ง 1",
+   "th": "เพิ่มจำนวนการพุ่ง 1 ครั้ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "secondwindcharmtip2",
+   "en": "Being hit while you have a Dash Cooldown refreshes your dash instantly",
+   "official": "เมื่อถูกโจมตีขณะติดคูลดดาว์นการพุ่ง จะรีเซ็ทคูลดาว์นการพุ่งในทันที",
+   "th": "เมื่อถูกโจมตีขณะการพุ่งติดคูลดาวน์ จะพุ่งได้อีกทันที",
+   "status": "fixed",
+   "note": "สะกดคูลดาวน์"
+  },
+  {
+   "key": "summonersbestiarytip",
+   "en": "Gain 5% increased summon damage for each different summon you have",
+   "official": "เพิ่มพลังโจมตียูนิตที่อัญเชิญ 5% ต่อยูนิตแต่ละประเภทที่ไม่ซ้ำกัน",
+   "th": "เพิ่มความเสียหายอัญเชิญ 5% ต่อสิ่งอัญเชิญแต่ละชนิดที่คุณมี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiritgreavestip",
+   "en": "Gain 5 resilience whenever you use a dash trinket",
+   "official": "ได้รับ 5 ความทนทานทุกครั้งที่คุณใช้การพุ่งจากเครื่องประดับ",
+   "th": "ได้รับความทนทาน 5 ทุกครั้งที่ใช้การพุ่งจากเครื่องประดับ",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "cavelingsfoottip",
+   "en": "Movement speed is increased by 1% for every 1% missing health",
+   "official": "ความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 1% ต่อพลังชีวิตที่หายไปทุก ๆ 1%",
+   "th": "ความเร็วเคลื่อนที่เพิ่มขึ้น 1% ต่อพลังชีวิตที่เสียไปทุก 1%",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "cavelingscollectiontip",
+   "en": "You deal 0.3% more damage for each filled inventory slot",
+   "official": "คุณสร้างความเสียหายเพิ่มขึ้น 0.3% สำหรับช่องเก็บของถูกใช้แต่ละช่อง",
+   "th": "สร้างความเสียหายเพิ่มขึ้น 0.3% ต่อช่องเก็บของที่มีของอยู่แต่ละช่อง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voodooshieldtip",
+   "en": "Halves all damage, then transfers it to an ally if possible",
+   "official": "ลดความเสียหายทั้งหมดลงครึ่งหนึ่ง จากนั้นจะถ่ายโอนความเสียหายที่เหลือไปยังพันธมิตร หากเป็นไปได้",
+   "th": "ลดความเสียหายทั้งหมดลงครึ่งหนึ่ง แล้วโอนส่วนนั้นไปให้พันธมิตรถ้าทำได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ringoffiretip",
+   "en": "Fire aura burns around you and nearby allies",
+   "official": "ออร่าไฟจะลุกไหม้รอบตัวคุณและพันธมิตรที่อยู่ใกล้เคียง",
+   "th": "ออร่าไฟจะลุกไหม้รอบตัวคุณและพันธมิตรที่อยู่ใกล้เคียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ringofwatertip",
+   "en": "Water aura splashes around you and nearby allies",
+   "official": "ออร่าน้ำจะสาดกระเซ็นรอบตัวคุณและพันธมิตรที่อยู่ใกล้เคียง",
+   "th": "ออร่าน้ำจะสาดกระเซ็นรอบตัวคุณและพันธมิตรที่อยู่ใกล้เคียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tooldmg",
+   "en": "Tool damage: <value>",
+   "official": "ประสิทธิภาพอุปกรณ์: <value>",
+   "th": "ความเสียหายเครื่องมือ: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tooltier",
+   "en": "Tool tier: <value>",
+   "official": "ระดับของอุปกรณ์: <value>",
+   "th": "ระดับเครื่องมือ: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tooladdrange",
+   "en": "<value> range",
+   "official": "เพิ่มระยะ <value>",
+   "th": "ระยะ <value>",
+   "status": "fixed",
+   "note": "ค่าอาจติดลบ"
+  },
+  {
+   "key": "pickaxetip",
+   "en": "Pickaxe tool",
+   "official": "อุปกรณ์ขุดหิน",
+   "th": "เครื่องมืออีเต้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shoveltip",
+   "en": "Shovel tool",
+   "official": "อุปกรณ์ขุดดิน",
+   "th": "เครื่องมือพลั่ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "axetip",
+   "en": "Axe tool",
+   "official": "อุปกรณ์ตัดไม้",
+   "th": "เครื่องมือขวาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "multitooltip",
+   "en": "Axe, pickaxe and shovel tool",
+   "official": "ขวาน, อีเต้อร์ และ พลั่ว",
+   "th": "เครื่องมือขวาน อีเต้อ และพลั่ว",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์"
+  },
+  {
+   "key": "frosttooltip",
+   "en": "Can mine walls in the Void Dungeon",
+   "official": "สามารถขุดกำแพงในดันเจี้ยนได้",
+   "th": "ขุดกำแพงในดันเจี้ยนแห่งความมืดได้",
+   "status": "fixed",
+   "note": "ขาดคำ Void · Void Dungeon ให้ตรงกับ ui/objectives"
+  },
+  {
+   "key": "demonictooltipnew",
+   "en": "Can mine Runestone in plains caves",
+   "official": "สามารถขุดหินรูนในถ้ำที่ราบได้",
+   "th": "ขุดหินรูนในถ้ำที่ราบได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runictooltip",
+   "en": "Can mine Ivy in swamp caves",
+   "official": "สามารถขุดแร่ไม้เลื้อยในถ้ำหนองน้ำได้",
+   "th": "ขุดไม้เลื้อยในถ้ำหนองน้ำได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ivytooltip",
+   "en": "Can mine Quartz in desert caves",
+   "official": "สามารถขุดแร่เขี้ยวหนุมานในถ้ำทะเลทรายได้",
+   "th": "ขุดควอตซ์ในถ้ำทะเลทรายได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "quartztooltip",
+   "en": "Can mine Tungsten in forest deep caves",
+   "official": "สามารถขุดแร่ทังสเตนในถ้ำลึกป่า",
+   "th": "ขุดทังสเตนในถ้ำชั้นลึกของป่าได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tungstentooltip",
+   "en": "Can mine Obsidian and Glacial ore in deep snow caves",
+   "official": "สามารถขุดออปซิเดียนและแร่เกล็ดน้ำแข็งในถ้ำหิมะชั้นลึกได้",
+   "th": "ขุดออบซิเดียนและแร่เกล็ดน้ำแข็งในถ้ำหิมะชั้นลึกได้",
+   "status": "fixed",
+   "note": "สะกดออบซิเดียน"
+  },
+  {
+   "key": "glacialtooltipnew",
+   "en": "Can mine Amber in deep plains caves",
+   "official": "สามารถขุดอำพันในถ้ำลึกที่ราบได้",
+   "th": "ขุดอำพันในถ้ำที่ราบชั้นลึกได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "dryadtooltip",
+   "en": "Can mine Mycelium ore in deep swamp caves",
+   "official": "สามารถขุดแร่ไมซีเลียมในถ้ำลึกหนองน้ำได้",
+   "th": "ขุดแร่ไมซีเลียมในถ้ำหนองน้ำชั้นลึกได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "myceliumtooltip",
+   "en": "Can mine Ancient Fossil in deep desert caves",
+   "official": "สามารถขุดฟอสซิลดึกดำบรรพ์ในถ้ำทะเลทรายชั้นลึกได้",
+   "th": "ขุดฟอสซิลดึกดำบรรพ์ในถ้ำทะเลทรายชั้นลึกได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "erasertip",
+   "en": "Can erase all types of objects\\nOnly obtainable in creative mode",
+   "official": "สามารถลบทุกสิ่งทุกอย่างได้\\nสามารถใช้ได้จากโหมดสร้างสรรค์เท่านั้น",
+   "th": "ลบวัตถุได้ทุกประเภท\\nได้มาเฉพาะในโหมดสร้างสรรค์",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "pipettetip",
+   "en": "Replaces itself with a copy of an object from the world\\nOnly obtainable in creative mode",
+   "official": "เปลี่ยนของเป็นสิ่งที่มันคัดลอก\\nสามารถใช้ได้จากโหมดสร้างสรรค์เท่านั้น",
+   "th": "เปลี่ยนตัวเองเป็นสำเนาของวัตถุในโลก\\nได้มาเฉพาะในโหมดสร้างสรรค์",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "tooltargetingmobs",
+   "en": "Targeting mobs only",
+   "official": "เลือกเป้าหมายเป็นสิ่งมีชีวิตเท่านั้น",
+   "th": "เล็งเป้าเฉพาะมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "damagetip",
+   "en": "Damage: <value>",
+   "official": "พลังโจมตี: <value>",
+   "th": "ความเสียหาย: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "truedamagetip",
+   "en": "True damage: <value>",
+   "official": "ความเสียหายโดยตรง : <value>",
+   "th": "ความเสียหายจริง: <value>",
+   "status": "fixed",
+   "note": "ไม่เว้นก่อน :"
+  },
+  {
+   "key": "meleedamagetip",
+   "en": "Melee damage: <value>",
+   "official": "พลังโจมตีระยะใกล้ : <value>",
+   "th": "ความเสียหายระยะประชิด: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rangeddamagetip",
+   "en": "Ranged damage: <value>",
+   "official": "พลังโจมตีระยะไกล: <value>",
+   "th": "ความเสียหายระยะไกล: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magicdamagetip",
+   "en": "Magic damage: <value>",
+   "official": "พลังโจมตีเวทย์ : <value>",
+   "th": "ความเสียหายเวทมนตร์: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summondamagetip",
+   "en": "Summon damage: <value>",
+   "official": "พลังโจมตียูนิตที่อัญเชิญ: <value>",
+   "th": "ความเสียหายอัญเชิญ: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "attackspeedtip",
+   "en": "Attack speed: <value>",
+   "official": "ความเร็วโจมตี: <value>",
+   "th": "ความเร็วโจมตี: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crittip",
+   "en": "Crit chance: <value>%",
+   "official": "โอกาสคริติคอล: <value>%",
+   "th": "โอกาสคริติคอล: <value>%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "knockbacktip",
+   "en": "Knockback: <value>",
+   "official": "ผลักศัตรู: <value>",
+   "th": "แรงผลัก: <value>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "resiliencegaintip",
+   "en": "Resilience gain: <value>",
+   "official": "ได้รับค่าความทนทาน: <value>",
+   "th": "อัตราได้รับความทนทาน: <value>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "manacosttip",
+   "en": "Mana cost: <value>",
+   "official": "ใช้มานา: <value>",
+   "th": "ใช้มานา: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifecosttip",
+   "en": "Life cost: <value>",
+   "official": "จ่ายด้วยพลังชีวิต: <value>",
+   "th": "ใช้พลังชีวิต: <value>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ammotip",
+   "en": "Available ammo: <value>",
+   "official": "กระสุนที่เหลือ: <value>",
+   "th": "กระสุนที่เหลือ: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arrowtip",
+   "en": "Can be shot with bow",
+   "official": "สามารถใช้ได้กับธนู",
+   "th": "ใช้ยิงด้วยธนูได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cannonballtip",
+   "en": "Used in hand cannon",
+   "official": "สามารถใช้ได้กับปืนใหญ่ติดแขน",
+   "th": "ใช้กับปืนใหญ่ติดแขน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น · ชื่อตาม item: Hand Cannon"
+  },
+  {
+   "key": "boomerangstack",
+   "en": "Stacks up to <value>",
+   "official": "สามารถถือได้ <value>อัน",
+   "th": "สแต็กได้สูงสุด <value>",
+   "status": "fixed",
+   "note": "ศัพท์สแต็ก"
+  },
+  {
+   "key": "bowtip",
+   "en": "Shoots arrows",
+   "official": "ยิงลูกธนู",
+   "th": "ยิงลูกธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greatbowtip",
+   "en": "Charges up to fire",
+   "official": "ชาร์จเพื่อยิง",
+   "th": "ชาร์จเพื่อยิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guntip",
+   "en": "Requires bullets to fire",
+   "official": "ต้องการกระสุนเพื่อยิง",
+   "th": "ต้องใช้กระสุนในการยิง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "greatswordtip",
+   "en": "Charges up to attack",
+   "official": "ชาร์จเพื่อโจมตี",
+   "th": "ชาร์จเพื่อโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "summonfocustip",
+   "en": "Use [input=mouse2] to focus a mob",
+   "official": "ใช้ [input=mouse2] เพื่อเล็งศัตรู",
+   "th": "ใช้ [input=mouse2] เพื่อสั่งให้โฟกัสมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "handcannontip1",
+   "en": "Shoots cannon balls",
+   "official": "ยิงลูกปืนใหญ่",
+   "th": "ยิงลูกปืนใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "handcannontip2",
+   "en": "Ammo crafted in Tungsten Anvil",
+   "official": "กระสุนผลิตได้ที่ทั่งตีเหล็ก",
+   "th": "กระสุนประดิษฐ์ที่ทั่งตีเหล็กทังสเตน",
+   "status": "fixed",
+   "note": "ชื่อโต๊ะผิด · ชื่อตาม object: Tungsten Anvil"
+  },
+  {
+   "key": "machineguntip",
+   "en": "Has a 50% chance to not consume ammo",
+   "official": "มีโอกาส 50% ที่จะประหยัดกระสุน",
+   "th": "มีโอกาส 50% ที่จะไม่เสียกระสุน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "snowlaunchertip1",
+   "en": "Uses snowballs as ammo",
+   "official": "ใช้หิมะเป็นกระสุน",
+   "th": "ใช้บอลหิมะเป็นกระสุน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น · ชื่อตาม item: Snowball"
+  },
+  {
+   "key": "snowlaunchertip2",
+   "en": "Has a 50% chance to not consume snowballs",
+   "official": "มีโอกาส 50% ที่จะประหยัดกระสุน",
+   "th": "มีโอกาส 50% ที่จะไม่เสียบอลหิมะ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น · ชื่อตาม item: Snowball"
+  },
+  {
+   "key": "snipertip",
+   "en": "Has a sniper scope",
+   "official": "มีลำกล้องซุ่มยิง",
+   "th": "มีลำกล้องซุ่มยิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sixshootertip1",
+   "en": "Shoots up to 6 shots in rapid succession before needing to reload",
+   "official": "สามารถยิงได้สูงสุด 6 นัดอย่างต่อเนื่อง ก่อนที่จะต้องบรรจุกระสุนใหม่",
+   "th": "ยิงรัวได้สูงสุด 6 นัด ก่อนต้องบรรจุกระสุนใหม่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "sixshootertip2",
+   "en": "Reload time depends on shots fired",
+   "official": "เวลาบรรจุกระสุนใหม่ขึ้นอยู่กับจำนวนที่ยิงไป",
+   "th": "เวลาบรรจุกระสุนขึ้นอยู่กับจำนวนนัดที่ยิงไป",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "deathrippertip1",
+   "en": "Has a 75% chance to not consume ammo",
+   "official": "มีโอกาส 75% ที่จะประหยัดกระสุน",
+   "th": "มีโอกาส 75% ที่จะไม่เสียกระสุน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "deathrippertip2",
+   "en": "Charges up to fire faster",
+   "official": "ชาร์จเพื่อยิงเร็วขึ้น",
+   "th": "ชาร์จเพื่อยิงเร็วขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seedguntip",
+   "en": "Requires crop seeds to fire\\nProjectiles change based on the seed used",
+   "official": "ต้องการเมล็ดพืชเพื่อยิง\\nกระสุน เปลี่ยนตามเมล็ดที่ใช้",
+   "th": "ต้องใช้เมล็ดพืชในการยิง\\nกระสุนเปลี่ยนไปตามเมล็ดที่ใช้",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "throwtip",
+   "en": "Can be thrown",
+   "official": "สามารถขว้างได้",
+   "th": "ขว้างได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "katanasecondarytip",
+   "en": "Hold [input=mouse2] to charge up a dash to slice through enemies. Hitting an enemy refreshes the cooldown and makes next dash faster up to <stacks> consecutive dashes",
+   "official": "กด [input=mouse2] ค้างไว้ เพื่อชาร์จ พุ่งโจมตีศัตรู . หากโจมตีถูกศัตรูจะรีเซ็ทคูลดาว์น และ ทำให้การพุ่งครั้งถัดไปเร็วขึ้น <stacks> ต่อเนื่อง ",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการพุ่งฟันผ่านศัตรู ถ้าโดนศัตรูจะรีเซ็ตคูลดาวน์และทำให้การพุ่งครั้งถัดไปเร็วขึ้น ต่อเนื่องได้สูงสุด <stacks> ครั้ง",
+   "status": "fixed",
+   "note": "สะกด + ช่องว่าง + ความหมาย"
+  },
+  {
+   "key": "katanaprimarytip",
+   "en": "[input=mouse1] Hits reduces accumulated dash stacks",
+   "official": "การใช้ [input=mouse1] จะลดการสะสม การพุ่งต่อเนื่อง",
+   "th": "การโจมตีด้วย [input=mouse1] จะลดสแต็กการพุ่งที่สะสมไว้",
+   "status": "fixed",
+   "note": "ศัพท์สแต็ก"
+  },
+  {
+   "key": "heavyhammertip",
+   "en": "Throws small stones",
+   "official": "ขว้างหินก้อนเล็ก",
+   "th": "ขว้างหินก้อนเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightninghammertip1",
+   "en": "Very fast speed",
+   "official": "เร็วมากๆ",
+   "th": "เร็วมาก ๆ",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "lightninghammertip2",
+   "en": "Shoots out short lightning bursts",
+   "official": "ยิงสายฟ้าออกไปด้วยความรุนแรง",
+   "th": "ยิงสายฟ้าระยะสั้นออกไป",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "survivorwhiptip",
+   "en": "Great when enemies are coming at you from all angles",
+   "official": "",
+   "th": "ใช้ได้ดีเมื่อศัตรูบุกมาจากทุกทิศทาง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "survivorwhipquote",
+   "en": "\"A survivor's whip that will strike fear in the accursed heart of any vampire\"",
+   "official": "",
+   "th": "\"แส้ของผู้รอดชีวิต ที่จะทำให้หัวใจต้องสาปของแวมไพร์ทุกตนต้องหวาดผวา\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "galvanichammertip",
+   "en": "Sends out a crashing wave of lightning",
+   "official": "ยิงคลื่นสายฟ้าออกไป",
+   "th": "ปล่อยคลื่นสายฟ้ากระแทกออกไป",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "reaperscythetip",
+   "en": "Shoots a reaper scythe",
+   "official": "ยิงเคียวยมทูตออกไป",
+   "th": "ยิงเคียวยมทูตออกไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomslasherprojtip",
+   "en": "Also shoots a wave of venom with 50% of the swords damage",
+   "official": "ยิงคลื่นพิษ ซึ่งสร้างความเสียหายเท่ากับ 50% ของความเสียหายจากดาบ",
+   "th": "ยิงคลื่นพิษออกไปด้วย สร้างความเสียหาย 50% ของความเสียหายดาบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "speartip",
+   "en": "Will only hit at the tip",
+   "official": "จะสร้างความเสียหายแค่เป้าหมายแรกเท่านั้น",
+   "th": "โดนเฉพาะที่ปลายหอกเท่านั้น",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "sparklertip1",
+   "en": "Shoots a stream of molten metal",
+   "official": "ยิงโลหะหลอมเหลวออกมา",
+   "th": "ยิงโลหะหลอมเหลวออกมา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sparklertip2",
+   "en": "Burns targets on hit",
+   "official": "เผาใส่ศัตรูที่โดน",
+   "th": "ทำให้เป้าหมายที่โดนติดไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sprinklertip1",
+   "en": "Shoots a stream of freezing water",
+   "official": "ยิงกระแสน้ำเยือกแข็ง",
+   "th": "ยิงกระแสน้ำเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprinklertip2",
+   "en": "Slows targets on hit",
+   "official": "ทำให้เป้าหมายเคลื่อนที่ช้าลงเมื่อโจมตีโดน",
+   "th": "ทำให้เป้าหมายที่โดนช้าลง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "bloodbolttip",
+   "en": "Shoots a homing projectile",
+   "official": "ยิงกระสุนติดตาม",
+   "th": "ยิงกระสุนติดตาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticflasktip",
+   "en": "Throws a splash potion that deals impact damage and poisons all targets for <value1> damage over <value2> seconds",
+   "official": "ขว้างยาประเภทกระจาย ที่จะสร้างความเสียหายเมื่อกระทบ <value1> และทำให้เป้าหมายทั้งหมดติดพิษ เป็นระยะเวลา <value2> วินาที",
+   "th": "ขว้างน้ำยากระจายที่สร้างความเสียหายเมื่อกระทบ และทำให้เป้าหมายทั้งหมดติดพิษ ความเสียหาย <value1> ภายใน <value2> วินาที",
+   "status": "fixed",
+   "note": "ความหมายตำแหน่งตัวแปรผิด"
+  },
+  {
+   "key": "unlabeledpotiontip1",
+   "en": "Throws a random splash potion dealing damage over time",
+   "official": "โยนยาชนิดแบบสุ่ม ซึ่งจะสร้างความเสียหายต่อเนื่อง",
+   "th": "ขว้างน้ำยากระจายแบบสุ่ม ที่สร้างความเสียหายต่อเนื่อง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unlabeledpotiontip2",
+   "en": "WARNING: Results may vary",
+   "official": "คำเตือน: ผลลัพธ์อาจแตกต่างกันไป",
+   "th": "คำเตือน: ผลลัพธ์อาจแตกต่างกันไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodvolleytip",
+   "en": "Shoots 3 homing projectiles",
+   "official": "ยิงกระสุนติดตาม 3 นัด",
+   "th": "ยิงกระสุนติดตาม 3 นัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "froststafftip",
+   "en": "Shoots 2 accelerating projectiles",
+   "official": "ยิงกระสุนเร่งความเร็ว 2 นัด",
+   "th": "ยิงกระสุนที่เร่งความเร็วได้ 2 นัด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sapphirestafftip1",
+   "en": "[input=mouse1] Projectiles ricochet to nearby enemies and generate life essence on hit",
+   "official": "กดปุ่ม [input=mouse1] ยิงกระสุนกระดอนใส่ศัตรูใกล้เคียงและสร้างแก่นพลังชีวิตเมื่อโดน",
+   "th": "[input=mouse1] กระสุนกระดอนไปหาศัตรูใกล้เคียง และสร้างแก่นแท้พลังชีวิตเมื่อโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sapphirestafftip2",
+   "en": "[input=mouse2] Spend <value> life essence to cast a sapphire glyph on the ground",
+   "official": "กดปุ่ม [input=mouse2] ใช้ <value> แก่นพลังชีวิต เพื่อสร้างตราไพลินบนพื้น",
+   "th": "[input=mouse2] ใช้แก่นแท้พลังชีวิต <value> เพื่อร่ายตราไพลินบนพื้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sapphirestafftip3",
+   "en": "Players and settlers will be healed if they stand inside the sapphire glyph on activation",
+   "official": "ผู้เล่นและผู้อพยพจะรักษาพลังชีวิต หากพวกเขายืนบนตราไพลินที่ทำงานอยู่",
+   "th": "ผู้เล่นและชาวนิคมที่ยืนอยู่ในตราไพลินตอนทำงานจะได้รับการฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "amethyststafftip1",
+   "en": "[input=mouse1] Shoots <value> quick beams that generates life essence on hit",
+   "official": "กดปุ่ม [input=mouse1] ยิง <value> ลำแสงที่สร้างแก่นพลังชีวิตเมื่อโดน",
+   "th": "[input=mouse1] ยิงลำแสงเร็ว <value> ลำ ที่สร้างแก่นแท้พลังชีวิตเมื่อโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "amethyststafftip2",
+   "en": "[input=mouse2] Spend <value> life essence to cast an amethyst glyph on the ground",
+   "official": "กดปุ่ม [input=mouse2] ใช้ <value> แก่นพลังชีวิต เพื่อสร้างตราอเมทิสต์บนพื้น",
+   "th": "[input=mouse2] ใช้แก่นแท้พลังชีวิต <value> เพื่อร่ายตราอเมทิสต์บนพื้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "amethyststafftip3",
+   "en": "Players and settlers will receive a burst of movement speed if they stand inside the amethyst glyph on activation",
+   "official": "ผู้เล่นและผู้อพยพจะได้รับความเร็วเคลื่อนที่เพิ่มขึ้น หากพวกเขายืนบนตราอเมทิสต์ที่ทำงานอยู่",
+   "th": "ผู้เล่นและชาวนิคมที่ยืนอยู่ในตราอเมทิสต์ตอนทำงานจะได้รับความเร็วเคลื่อนที่เพิ่มชั่วครู่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rubystafftip1",
+   "en": "[input=mouse1] Fires a slow projectile with a powerful explosion that generates life essence on hit",
+   "official": "กดปุ่ม [input=mouse1] ยิงกระสุนไฟลอยไปอย่างช้าๆ พร้อมกับระเบิดอันรุนแรงที่จะสร้างแก่นพลังชีวิตเมื่อโดน",
+   "th": "[input=mouse1] ยิงกระสุนช้าที่ระเบิดอย่างรุนแรง และสร้างแก่นแท้พลังชีวิตเมื่อโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rubystafftip2",
+   "en": "[input=mouse2] Spend <value> life essence to cast a ruby glyph around you",
+   "official": "กดปุ่ม [input=mouse2] ใช้ <value> แก่นพลังชีวิต เพื่อสร้างตราทับทิมรอบๆคุณ",
+   "th": "[input=mouse2] ใช้แก่นแท้พลังชีวิต <value> เพื่อร่ายตราทับทิมรอบตัวคุณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rubystafftip3",
+   "en": "Players and settlers will be buffed with attack speed if they stand inside the ruby glyph on activation",
+   "official": "ผู้เล่นและผู้อพยพจะได้รับความเร็วโจมตีเพิ่มขึ้น หากพวกเขายืนบนตราทับทิมที่ทำงานอยู่",
+   "th": "ผู้เล่นและชาวนิคมที่ยืนอยู่ในตราทับทิมตอนทำงานจะได้รับบัฟความเร็วโจมตี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "emeraldstafftip1",
+   "en": "[input=mouse1] Releases poisonous gas that generate life essence on hit",
+   "official": "กดปุ่ม [input=mouse1] ปล่อยควันพิษที่สร้างแก่นพลังชีวิตเมื่อโดน",
+   "th": "[input=mouse1] ปล่อยแก๊สพิษที่สร้างแก่นแท้พลังชีวิตเมื่อโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "emeraldstafftip2",
+   "en": "[input=mouse2] Spend <value> life essence to cast an emerald glyph on the ground",
+   "official": "กดปุ่ม [input=mouse2] ใช้ <value> แก่นพลังชีวิต เพื่อสร้างตรามรกตบนพื้น",
+   "th": "[input=mouse2] ใช้แก่นแท้พลังชีวิต <value> เพื่อร่ายตรามรกตบนพื้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "emeraldstafftip3",
+   "en": "Players and settlers will be buffed with crit chance while they stand inside the active emerald glyph",
+   "official": "ผู้เล่นและผู้อพยพจะได้รับอัตราคริติคอลเพิ่มขึ้นถ้าหากพวกเขายืนบนตรามรกตที่ทำงานอยู่",
+   "th": "ผู้เล่นและชาวนิคมจะได้รับบัฟโอกาสคริติคอลขณะยืนอยู่ในตรามรกตที่ทำงานอยู่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "topazstafftip1",
+   "en": "[input=mouse1] Projectiles bounce off walls and have a chance to generate life essence on hit",
+   "official": "กดปุ่ม [input=mouse1] ยิงกระสุนกระเด้ง และมีโอกาสสร้าง แก่นพลังชีวิต เมื่อโจมตีโดน",
+   "th": "[input=mouse1] กระสุนเด้งกำแพง และมีโอกาสสร้างแก่นแท้พลังชีวิตเมื่อโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "topazstafftip2",
+   "en": "[input=mouse2] Spend <value> life essence to cast a topaz glyph on the ground",
+   "official": "กดปุ่ม [input=mouse2] ใช้ <value> แก่นพลังชีวิต พื่อสร้างตราบุษราคัมบนพื้น",
+   "th": "[input=mouse2] ใช้แก่นแท้พลังชีวิต <value> เพื่อร่ายตราบุษราคัมบนพื้น",
+   "status": "fixed",
+   "note": "สะกด (พื่อ) + ศัพท์"
+  },
+  {
+   "key": "topazstafftip3",
+   "en": "Players and settlers will be buffed with resilience if they stand inside the topaz glyph on activation",
+   "official": "ผู้เล่นและผู้อพยพจะได้รับบัฟความทนทาน หากยืนอยู่ภายในตราบุษราที่ทำงานอยู่",
+   "th": "ผู้เล่นและชาวนิคมที่ยืนอยู่ในตราบุษราคัมตอนทำงานจะได้รับบัฟความทนทาน",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์"
+  },
+  {
+   "key": "sentientswordtip",
+   "en": "Summons a floating sword with a mind of its own\\nEach summon takes up 2 summon slots",
+   "official": "อัญเชิญดาบลอยได้ที่มีอัตตาออกมา\\nดาบ 1 เล่มใช้โควต้าการอัญเชิญ 2 หน่วย",
+   "th": "อัญเชิญดาบลอยได้ที่มีจิตใจเป็นของตัวเอง\\nแต่ละเล่มใช้ช่องอัญเชิญ 2 ช่อง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidstafftip",
+   "en": "Shoots an instant void laser",
+   "official": "ยิงเลเซอร์แห่งความมืด",
+   "th": "ยิงเลเซอร์ความมืดทันที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "voidmissiletip",
+   "en": "Shoots a controllable missile",
+   "official": "ยิงกระสุนที่สามารถควบคุมได้",
+   "th": "ยิงขีปนาวุธที่ควบคุมได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "swamptometip",
+   "en": "Shoots a slow moving\\nand bouncing projectile",
+   "official": "ยิงกระสุนช้า\\nและเด้งกับกำแพงได้",
+   "th": "ยิงกระสุนที่เคลื่อนที่ช้า\\nและเด้งไปมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "genielamptip",
+   "en": "Sprays fast water projectiles",
+   "official": "พ่นฉีดน้ำออกไป",
+   "th": "พ่นกระสุนน้ำความเร็วสูง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "vampiriclamptip",
+   "en": "Sprays a torrent of blood projectiles",
+   "official": "พ่นกระสุนโลหิตออกมาเป็นสาย",
+   "th": "พ่นกระสุนโลหิตออกมาเป็นสาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "destructivetip",
+   "en": "Destroys objects",
+   "official": "ทำลายสิ่งของ",
+   "th": "ทำลายวัตถุ",
+   "status": "fixed",
+   "note": "ศัพท์"
+  },
+  {
+   "key": "destructivetiletip",
+   "en": "Destroys tiles",
+   "official": "ทำลายพื้น",
+   "th": "ทำลายพื้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomstafftip",
+   "en": "Places venom on the ground",
+   "official": "วางบ่อพิษไว้ที่พื้น",
+   "th": "วางบ่อพิษไว้ที่พื้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dredgingstafftip",
+   "en": "Shoots a wave of spikes",
+   "official": "ยิงคลื่นหนาม",
+   "th": "ยิงคลื่นหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boulderstafftip",
+   "en": "Launches a bouncing boulder",
+   "official": "ยิงหินที่เด้งกับกำแพงได้",
+   "th": "ยิงก้อนหินที่เด้งไปมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quartzstafftip",
+   "en": "Shoots a fast piercing bolt",
+   "official": "ยิงกระสุนเจาะเกราะอย่างรวดเร็ว",
+   "th": "ยิงลูกเวทเจาะทะลุความเร็วสูง",
+   "status": "fixed",
+   "note": "แปลผิด (piercing = ทะลุ)"
+  },
+  {
+   "key": "vulturesbursttip",
+   "en": "Shoots a high speed piercing shot",
+   "official": "ยิงกระสุนเจาะเกราะอย่างรวดเร็วอย่างมาก",
+   "th": "ยิงกระสุนเจาะทะลุความเร็วสูงมาก",
+   "status": "fixed",
+   "note": "แปลผิด + ลื่นขึ้น"
+  },
+  {
+   "key": "elderlywandtip",
+   "en": "Shoots a controllable piercing missile",
+   "official": "ยิงกระสุนเจาะเกราะที่ควบคุมได้",
+   "th": "ยิงขีปนาวุธเจาะทะลุที่ควบคุมได้",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "shadowbolttip",
+   "en": "Shoots a big homing projectile",
+   "official": "ยิงกระสุนติดตามขนาดใหญ่",
+   "th": "ยิงกระสุนติดตามขนาดใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shadowbeamtip",
+   "en": "Shoots an instant shadow beam",
+   "official": "ยิงลำแสงแห่งความมืด",
+   "th": "ยิงลำแสงเงาทันที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "chromaticspellbooktip",
+   "en": "Shoots a homing projectile that loops around to hit targets a second time",
+   "official": "ยิงกระสุนติดตาม ซึ่งจะวนกลับมาโจมตีเป้าหมายเป็นครั้งที่สอง",
+   "th": "ยิงกระสุนติดตาม ซึ่งจะวนกลับมาโจมตีเป้าหมายเป็นครั้งที่สอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dragonlancetip",
+   "en": "Creates a lance of fire",
+   "official": "สร้างหอกแห่งอัคคี",
+   "th": "สร้างหอกเพลิง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "bloodgrimoiretip",
+   "en": "[input=mouse1] Conjures a ray of magic at the cost of life, that heals you when hitting opponents",
+   "official": "กดปุ่ม [input=mouse1] เสกรัศมีแห่งเวทย์มนตร์โดยแลกด้วยพลังชีวิต, ที่จะรักษาคุณเมื่อโดนศัตรู",
+   "th": "[input=mouse1] เสกลำแสงเวทมนตร์โดยแลกกับพลังชีวิต และฟื้นฟูพลังชีวิตคุณเมื่อโดนศัตรู",
+   "status": "fixed",
+   "note": "สะกดเวทมนตร์"
+  },
+  {
+   "key": "bloodgrimoiresecondarytip",
+   "en": "[input=mouse2] Mark your enemies, causing your ray to also damage marked targets",
+   "official": "ใช้ [input=mouse2] เพื่อเล็งศัตรู, ทำให้รัศมีแห่งเวทย์มนตร์โจมตีเป้าหลายที่เล็งไว้",
+   "th": "[input=mouse2] ทำเครื่องหมายศัตรู ให้ลำแสงสร้างความเสียหายแก่เป้าหมายที่ถูกทำเครื่องหมายด้วย",
+   "status": "fixed",
+   "note": "สะกด + ความหมาย"
+  },
+  {
+   "key": "bloodclawtip",
+   "en": "[input=mouse1] Slice in front of you, gaining a power charge for each enemy hit",
+   "official": "กดปุ่ม [input=mouse1] เพิ่อโจมตีศัตรูด้านหน้า , ได้รับชาร์จพลังต่อศัตรูที่โดน",
+   "th": "[input=mouse1] ฟันไปข้างหน้า ได้รับชาร์จพลัง 1 ชาร์จต่อศัตรูที่โดนแต่ละตัว",
+   "status": "fixed",
+   "note": "สะกด (เพิ่อ) + ช่องว่าง"
+  },
+  {
+   "key": "bloodclawsecondarytip",
+   "en": "[input=mouse2] Expend all of your power charges at the cost of life, to deliver a devastating attack",
+   "official": "กดปุ่ม [input=mouse2] กระจายชาร์จพลังโดยแลกด้วยพลังชีวิต, เพื่อโจมตีอย่างรุนแรง",
+   "th": "[input=mouse2] ใช้ชาร์จพลังทั้งหมดโดยแลกกับพลังชีวิต เพื่อโจมตีอย่างรุนแรง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "thecrimsonskytip",
+   "en": "[input=mouse1] Fire an arrow that leaves a damaging pool in its wake",
+   "official": "กดปุ่ม [input=mouse1] เพื่อยิงธนูไฟ ที่จะหลงเหลือพื้นที่สร้างความเสียหายเอาไว้",
+   "th": "[input=mouse1] ยิงลูกธนูที่ทิ้งแอ่งสร้างความเสียหายไว้ตามทาง",
+   "status": "fixed",
+   "note": "แปลผิด (ไม่ใช่ธนูไฟ)"
+  },
+  {
+   "key": "thecrimsonskysecondarytip",
+   "en": "[input=mouse2] Fire 5 arrows with one shot, at the cost of 10 life",
+   "official": "กดปุ่ม [input=mouse2] เพื่อยิงธนู 5 ดอกในทีเดียว, จ่ายด้วย 10 พลังชีวิต",
+   "th": "[input=mouse2] ยิงลูกธนู 5 ดอกในนัดเดียว แลกกับพลังชีวิต 10",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "phantompoppertip",
+   "en": "Shoots a bobble that pops into homing missiles",
+   "official": "ยิงกระสุนที่แตกออกมาแล้วติดตามเป้าหมาย",
+   "th": "ยิงลูกบอลที่แตกออกเป็นขีปนาวุธติดตาม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "reaperscalltip1",
+   "en": "Summons defending spirits",
+   "official": "อัญเชิญวิญญาณคุ้มกัน",
+   "th": "อัญเชิญวิญญาณผู้พิทักษ์",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "reaperscalltip2",
+   "en": "Maximum 5 at a time",
+   "official": "สูงสุด 5 ตน",
+   "th": "สูงสุดครั้งละ 5 ตน",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "iciclestafftip",
+   "en": "Shoots rapid icicles.",
+   "official": "ยิงแท่งน้ำแข็งอย่างรวดเร็ว.",
+   "th": "ยิงแท่งน้ำแข็งรัวเร็ว",
+   "status": "fixed",
+   "note": "ตัดจุด"
+  },
+  {
+   "key": "boxingglovetip",
+   "en": "Doesn't hurt much, but has big knockback",
+   "official": "ไม่ค่อยเจ็บ, แต่จะผลักไกลมาก",
+   "th": "ไม่ค่อยเจ็บ แต่แรงผลักสูง",
+   "status": "fixed",
+   "note": "ช่องว่าง + ศัพท์"
+  },
+  {
+   "key": "sprinttip",
+   "en": "Equip and hold [input=trinketability] to sprint",
+   "official": "สวมใส่แล้วกดปุ่ม [input=trinketability] เพื่อวิ่ง",
+   "th": "สวมใส่แล้วกด [input=trinketability] ค้างไว้เพื่อวิ่ง",
+   "status": "fixed",
+   "note": "ขาดคำว่าค้าง"
+  },
+  {
+   "key": "zephyrcharmtip",
+   "en": "Increases stamina capacity by 50%",
+   "official": "เพิ่มความจุพลังกาย 50%",
+   "th": "เพิ่มความจุพลังกาย 50%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zephyrbootstip",
+   "en": "Sprint faster and longer",
+   "official": "วิ่งไวขึ้น และนานขึ้น",
+   "th": "วิ่งเร็วขึ้นและนานขึ้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "windbootstip",
+   "en": "Dash into a fast sprint",
+   "official": "พุ่งเข้าสู่การวิ่งอย่างรวดเร็ว",
+   "th": "พุ่งแล้ววิ่งเร็วต่อ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ghostbootstip",
+   "en": "Dash Safer and farther into a fast sprint",
+   "official": "พุ่งไปข้างหน้าอย่างปลอดภัยและไกลขึ้นอย่างรวดเร็ว",
+   "th": "พุ่งได้ปลอดภัยและไกลขึ้นแล้ววิ่งเร็วต่อ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "hoverbootstip",
+   "en": "Hover and pick up speed across all surfaces",
+   "official": "ลอยตัวและเพิ่มความเร็วได้ทั่วทุกพื้นผิว",
+   "th": "ลอยตัวและเพิ่มความเร็วได้ทั่วทุกพื้นผิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "kineticbootstip",
+   "en": "Sprint much faster and longer",
+   "official": "วิ่งไวขึ้น และนานขึ้นอยากมาก",
+   "th": "วิ่งเร็วขึ้นและนานขึ้นอย่างมาก",
+   "status": "fixed",
+   "note": "สะกด (อยาก)"
+  },
+  {
+   "key": "shieldtip",
+   "en": "Equip and hold [input=trinketability] to block incoming attacks",
+   "official": "สวมใส่แล้วกดปุ่ม [input=trinketability] ค้างไวเเพื่อป้องกันความเสียหาย",
+   "th": "สวมใส่แล้วกด [input=trinketability] ค้างไว้เพื่อป้องกันการโจมตี",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "shieldmodifier",
+   "en": "Prevents <percent> of damage taken",
+   "official": "ป้องกัน <percent> ของความเสียหาย",
+   "th": "ลดความเสียหายที่ได้รับ <percent>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "staminausertip",
+   "en": "Consumes stamina when used",
+   "official": "สูญเสียพลังกายเมื่อใช้",
+   "th": "ใช้พลังกายเมื่อใช้งาน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fowtipequipped",
+   "en": "Press [input=trinketability] to push yourself forward",
+   "official": "กด [input=trinketability] เพื่อผลักตัวเองไปด้านหน้า",
+   "th": "กด [input=trinketability] เพื่อผลักตัวเองไปด้านหน้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fowtipnotequipped",
+   "en": "Equip and press [input=trinketability] to push yourself forward",
+   "official": "สวมใส่แล้วกด [input=trinketability] เพื่อผลักตัวเองไปด้านหน้า",
+   "th": "สวมใส่แล้วกด [input=trinketability] เพื่อผลักตัวเองไปด้านหน้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fowtip2",
+   "en": "Can also be used from hand",
+   "official": "สามารถใช้จากในมือได้",
+   "th": "ใช้จากในมือได้ด้วย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "blinksceptertip",
+   "en": "Equip and press [input=trinketability] to blink forward",
+   "official": "สวมใส่แล้วกด [input=trinketability] เพื่อเทเลพอร์ตไปข้างหน้า",
+   "th": "สวมใส่แล้วกด [input=trinketability] เพื่อวาร์ปไปข้างหน้า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "glacialbowtip",
+   "en": "Shoots a projectile that shatters\\nto nearby enemies on hit",
+   "official": "ยิงกระสุนที่แตกเป็นเสี่ยงๆ\\nใส่ศัตรูเมื่อโจมตีโดน",
+   "th": "ยิงกระสุนที่แตกกระจาย\\nใส่ศัตรูรอบ ๆ เมื่อโดน",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "druidsgreatbowtip",
+   "en": "Shoots petals that split mid air",
+   "official": "ยิงกลีบดอกไม้ที่แตกกระจายกลางอากาศ",
+   "th": "ยิงกลีบดอกไม้ที่แตกกระจายกลางอากาศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightpiercertip",
+   "en": "Shots explode on impact",
+   "official": "ยิงกระสุนที่สร้างความเสียหายเมื่อชนเป้าหมาย",
+   "th": "กระสุนระเบิดเมื่อกระทบ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "glacialboomerangtip",
+   "en": "Controllable when thrown",
+   "official": "ควบคุมได้เมื่อโยน",
+   "th": "ควบคุมได้หลังขว้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "glacialboomerangtip2",
+   "en": "Throws 2 boomerangs at once",
+   "official": "ขว้างบูมเมอแรง 2 ลูกพร้อมกัน",
+   "th": "ขว้างบูมเมอแรง 2 อันพร้อมกัน",
+   "status": "fixed",
+   "note": "ลักษณนาม"
+  },
+  {
+   "key": "anchorandchaintip",
+   "en": "Hits will pull targets up close.\\nClose range hits deal more damage.",
+   "official": "ดึงเป้าหมายที่โดนเข้ามาใกล้ๆ.\\nระยะใกล้ทำดาเมจมากขึ้น.",
+   "th": "การโจมตีจะดึงเป้าหมายเข้ามาใกล้\\nโจมตีระยะใกล้สร้างความเสียหายมากขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ + ตัดจุด"
+  },
+  {
+   "key": "nightrazorboomerangtip",
+   "en": "Homes in on enemies",
+   "official": "มุ่งหน้าสู่ศัตรู",
+   "th": "พุ่งติดตามศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "chefsspecialtip",
+   "en": "Alternate between throwing a cleaver that chains to nearby foes and a rolling pin that slows on hit\\nEach enemy hit increases your food buff duration by 1 second",
+   "official": "สลับระหว่างการขว้างปามีดที่จะชิ่งกับศัตรูที่อยู่ใกล้เคียง และไม้นวดแป้งที่จะสโลว์เมื่อโจมตีโดน .\\n เพิ่มระยะเวลาบัฟอาหารต่อจำนวนศัตรูที่โดนเป็นเวลา 1 วินาที.",
+   "th": "สลับขว้างมีดปังตอที่ชิ่งไปยังศัตรูใกล้เคียง กับไม้คลึงแป้งที่ทำให้ช้าลงเมื่อโดน\\nศัตรูที่โดนแต่ละตัวจะยืดเวลาบัฟอาหาร 1 วินาที",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น · ชื่อตาม item: Rolling Pin"
+  },
+  {
+   "key": "rollingpintip",
+   "en": "Slows enemies on hit",
+   "official": "ลดความเร็วศัตรูเมื่อโจมตีโดน",
+   "th": "ทำให้ศัตรูที่โดนช้าลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "butcherscleavertip",
+   "en": "Chains to nearby foes",
+   "official": "ชิ่งใส่ศัตรูที่อยู่ใกล้เคียง",
+   "th": "ชิ่งใส่ศัตรูที่อยู่ใกล้เคียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryoquaketip",
+   "en": "Creates a line of icicles",
+   "official": "สร้างแนวน้ำแข็ง",
+   "th": "สร้างแนวแท่งน้ำแข็ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cryospeartip",
+   "en": "Releases a shard on attack",
+   "official": "ปล่อยเศษน้ำแข็งในการโจมตี",
+   "th": "ปล่อยเศษน้ำแข็งเมื่อโจมตี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "swampdwellerstafftip",
+   "en": "Shoots a flower that releases projectiles",
+   "official": "ยิงดอกไม้ที่ปล่อยกระสุนอีกที",
+   "th": "ยิงดอกไม้ที่ปล่อยกระสุนอีกที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomshowertip1",
+   "en": "Sprays venom at your target",
+   "official": "ฉีดพิษใส่ศัตรู",
+   "th": "พ่นพิษใส่เป้าหมาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "venomshowertip2",
+   "en": "Deals more damage to closer targets",
+   "official": "สร้างความเสียหายให้กับเป้าหมายที่อยู่ใกล้มากขึ้น",
+   "th": "สร้างความเสียหายมากขึ้นกับเป้าหมายที่อยู่ใกล้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bowofdualismtip",
+   "en": "Shoots 2 projectiles at once",
+   "official": "ยิงกระสุน 2 นัดพร้อมกัน",
+   "th": "ยิงกระสุน 2 นัดพร้อมกัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannertip",
+   "en": "Hold in hand to buff yourself\\nand teammates",
+   "official": "ถือในมือเพื่อให้กำลังใจเพื่อนร่วมทีม\\nและตัวเอง",
+   "th": "ถือไว้ในมือเพื่อบัฟตัวเอง\\nและเพื่อนร่วมทีม",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "razorbladeboomerangtip",
+   "en": "Maximum 5 in the air",
+   "official": "สูงสุด 5 ลูก",
+   "th": "ลอยอยู่กลางอากาศได้สูงสุด 5 อัน",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "ancientdredgingstafftip",
+   "en": "Summons a shock wave of spikes",
+   "official": "เรียกคลื่นกระแทกหนามออกมา",
+   "th": "อัญเชิญคลื่นกระแทกหนาม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "carapacedaggertip1",
+   "en": "Can be thrown repeatedly",
+   "official": "สามารถโยนซ้ำได้",
+   "th": "ขว้างซ้ำได้ต่อเนื่อง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "carapacedaggertip2",
+   "en": "Homes in on enemies",
+   "official": "มุ่งหน้าสู่ศัตรู",
+   "th": "พุ่งติดตามศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sandknifetip",
+   "en": "Attacks poison the target dealing\\n500 damage over 5 seconds",
+   "official": "โจมตีเป็นพิษสร้างความเสียหายแก่ศัตรู \\n500 ตลอด 5 วินาที",
+   "th": "การโจมตีทำให้เป้าหมายติดพิษ\\nความเสียหาย 500 ภายใน 5 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "brainonasticktip",
+   "en": "Every other summon is an archer",
+   "official": "การอัญเชิญครั้งอื่นๆ ทุกครั้งจะเป็นนักธนู",
+   "th": "ทุก ๆ การอัญเชิญครั้งที่สองจะเป็นนักธนู",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "swampsgrasptip",
+   "en": "Summons 2 pouncing slimes",
+   "official": "เรียกสไลม์กระโดดออกมา 2 ตัว",
+   "th": "อัญเชิญสไลม์จู่โจม 2 ตัว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ชื่อตาม mob: Pouncing Slime"
+  },
+  {
+   "key": "grizzboltquote",
+   "en": "\"Are you Zoe?\"",
+   "official": "",
+   "th": "\"คุณคือโซอี้ใช่ไหม?\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzboltspheretip1",
+   "en": "Uses all your summon slots",
+   "official": "",
+   "th": "ใช้ช่องอัญเชิญทั้งหมดของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzboltspheretip2",
+   "en": "Damage is increased with each summon slot used",
+   "official": "",
+   "th": "ความเสียหายเพิ่มขึ้นตามจำนวนช่องอัญเชิญที่ใช้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "skeletonstafftip",
+   "en": "Summons a pair of skeletons",
+   "official": "อัญเชิญโครงกระดูก 2 ตัว",
+   "th": "อัญเชิญโครงกระดูก 2 ตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimestafftip",
+   "en": "Shoots 3 bouncy projectiles",
+   "official": "ยิงกระสุนเด้ง 3 นัด",
+   "th": "ยิงกระสุนเด้ง 3 นัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimecanistertip",
+   "en": "Summons short lived poison slimes",
+   "official": "เรียกสไลม์พิษที่มีอายุสั้นออกมา",
+   "th": "อัญเชิญสไลม์พิษที่อยู่ได้ไม่นาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stabbybushtip",
+   "en": "The more it stabs, the faster it goes!",
+   "official": "ยิ่งแทงเท่าไหร่, ยิ่งเร็วขึ้นเท่านั้น!",
+   "th": "ยิ่งแทง ยิ่งเร็ว!",
+   "status": "fixed",
+   "note": "กระชับ + ช่องว่าง"
+  },
+  {
+   "key": "stabbybushsummonmaxcap",
+   "en": "Capped at <amount> bushes",
+   "official": "จำนวนสูงสุด <amount> พุ่ม",
+   "th": "จำนวนสูงสุด <amount> พุ่ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bashybushtip",
+   "en": "The more it bashes, the faster it goes!",
+   "official": "ยิ่งทุบเท่าไหร่, ยิ่งเร็วขึ้นเท่านั้น!",
+   "th": "ยิ่งทุบ ยิ่งเร็ว!",
+   "status": "fixed",
+   "note": "กระชับ + ช่องว่าง"
+  },
+  {
+   "key": "necroticbowtip",
+   "en": "Hits slows the target and summons a charging baby crawling zombie",
+   "official": "ลดความเร็วเป้าหมาย และเรียกกีกี้ซอมบี้ออกมา",
+   "th": "การโจมตีที่โดนทำให้เป้าหมายช้าลง และอัญเชิญซอมบี้คลานน้อยพุ่งเข้าใส่",
+   "status": "fixed",
+   "note": "แปลให้ครบ · ชื่อตาม mob: Baby Crawling Zombie"
+  },
+  {
+   "key": "reanimationbowtip1",
+   "en": "Hits slows the target and summons a charging baby crawling zombie",
+   "official": "การโจมตีโดนจะทำให้เป้าหมายเคลื่อนที่ช้าลง และอัญเชิญซอมบี้เด็กคลาน ที่โจมตีทันที",
+   "th": "การโจมตีที่โดนทำให้เป้าหมายช้าลง และอัญเชิญซอมบี้คลานน้อยพุ่งเข้าใส่",
+   "status": "fixed",
+   "note": "สม่ำเสมอ · ชื่อตาม mob: Baby Crawling Zombie"
+  },
+  {
+   "key": "reanimationbowtip2",
+   "en": "If the target dies, you summon a skeleton warrior instead",
+   "official": "ถ้าเป้าหมายถูกฆ่า, จะอัญเชิญนักรบโครงกระดูกออกมาแทน",
+   "th": "ถ้าเป้าหมายตาย จะอัญเชิญนักรบโครงกระดูกแทน",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "necroticgreatswordtip",
+   "en": "Fires a wave of dark magic when fully charged",
+   "official": "ยิงคลื่นเวทมนต์ความมืดเพื่อชาร์จเต็ม",
+   "th": "ปล่อยคลื่นเวทมนตร์มืดเมื่อชาร์จเต็ม",
+   "status": "fixed",
+   "note": "สะกด + ความหมาย"
+  },
+  {
+   "key": "hexedbladegreatswordtip",
+   "en": "that applies random debuffs on hit",
+   "official": "สร้างสถานะผิดปกติแบบสุ่มเมื่อโจมตีโดน",
+   "th": "ที่ติดดีบัฟแบบสุ่มเมื่อโจมตีโดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ต่อจากบรรทัดก่อน)"
+  },
+  {
+   "key": "slimegreatswordchargetip1",
+   "en": "Half charge to launch a wave of slime",
+   "official": "ชาร์จครึ่งหนึ่งเพื่อปล่อยคลื่นเมือก",
+   "th": "ชาร์จครึ่งหนึ่งเพื่อปล่อยคลื่นสไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimegreatswordchargetip2",
+   "en": "Full charge to summon a friendly slime",
+   "official": "ชาร์จเต็มเพื่อเรียกสไลม์ที่เป็นมิตรออกมา",
+   "th": "ชาร์จเต็มเพื่ออัญเชิญสไลม์ฝ่ายเดียวกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "causticexecutionertip",
+   "en": "Flings dangerous venom off the blade on attacks",
+   "official": "ปล่อยพิษอันตรายออกจากดาบเมื่อโจมตี",
+   "th": "สะบัดพิษร้ายออกจากใบดาบเมื่อโจมตี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "arachnidwebbowtip",
+   "en": "Shoots a burst of 3 arrows at a time",
+   "official": "ยิงธนูระเบิดออกมาครั้งละ 3 ดอก",
+   "th": "ยิงลูกธนูรัวครั้งละ 3 ดอก",
+   "status": "fixed",
+   "note": "แปลผิด (burst ไม่ใช่ระเบิด)"
+  },
+  {
+   "key": "webweavertip",
+   "en": "Summons a magical web that burns targets in an area",
+   "official": "เรียกใยเวทย์มนตร์ที่จะระเบิดเป้าหมายในพื้นที่",
+   "th": "อัญเชิญใยเวทมนตร์ที่เผาเป้าหมายในพื้นที่",
+   "status": "fixed",
+   "note": "สะกด + แปลผิด"
+  },
+  {
+   "key": "empresscommandtip",
+   "en": "Alternatingly summons a spiderkin warrior or archer",
+   "official": "เรียกนักรบแมงมุมหรือนักธนูสลับกัน",
+   "th": "สลับอัญเชิญนักรบหรือนักธนูสไปเดอร์กิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "secondarysummon",
+   "en": "Does not use summon slots",
+   "official": "ไม่ใช้โควต้าจำนวนสูงสุดการอัญเชิญ",
+   "th": "ไม่ใช้ช่องอัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "nettipnew",
+   "en": "Used to catch bees and other small flying critters",
+   "official": "ใช้สำหรับจับผึ้งและสิ่งมีชีวิตบินได้ขนาดเล็กอื่นๆ",
+   "th": "ใช้จับผึ้งและสัตว์เล็กที่บินได้อื่น ๆ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimegreatbowtip",
+   "en": "Shoot down slime from above, heavily slowing enemies",
+   "official": "ยิงสไลม์จากด้านบน , ลดความเร็วศัตรูอย่างมาก",
+   "th": "ยิงสไลม์ลงมาจากด้านบน ทำให้ศัตรูช้าลงอย่างมาก",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "orbofslimestip",
+   "en": "Summons a slime that rotates around you, damaging enemies on collision",
+   "official": "เรียกสไลม์รอบตัวคุณ, สร้างความเสียหายแก่ศัตรูเมื่อชนกัน",
+   "th": "อัญเชิญสไลม์ที่หมุนรอบตัวคุณ สร้างความเสียหายแก่ศัตรูที่ชน",
+   "status": "fixed",
+   "note": "ศัพท์ + ช่องว่าง"
+  },
+  {
+   "key": "ravenwinggreatswordtip",
+   "en": "Charges up faster and has no movement penalty when attacking.",
+   "official": "ชาร์จเร็วขึ้นและไม่มีการลดการเคลื่อนไหวเมื่อโจมตี.",
+   "th": "ชาร์จเร็วขึ้น และไม่ถูกลดความเร็วเคลื่อนที่ขณะโจมตี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ตัดจุด"
+  },
+  {
+   "key": "theravensnesttip",
+   "en": "Fires 3 ravens at a time.",
+   "official": "ยิงอีกา 3 ตัวในครั้งเดียว.",
+   "th": "ยิงอีกาครั้งละ 3 ตัว",
+   "status": "fixed",
+   "note": "ตัดจุด"
+  },
+  {
+   "key": "ravenbeakspeartip",
+   "en": "[input=mouse1] You attack alongside 3 aggressive feathers",
+   "official": "[input=mouse1] โจมตีด้วยขนนกดุร้าย 3 อัน",
+   "th": "[input=mouse1] โจมตีพร้อมกับขนนกดุร้าย 3 อัน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ravenbeakspearsecondarytip",
+   "en": "[input=mouse2] Summon a flurry of aggressive feathers, attacking the same place multiple times",
+   "official": "กด [input=mouse2] เรียกขนนกที่ดุร้ายออกมา, โจมตีเป้าหมายเดียวกัน",
+   "th": "[input=mouse2] อัญเชิญขนนกดุร้ายเป็นชุด โจมตีจุดเดิมหลายครั้ง",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "amethystswordtip",
+   "en": "Crystallizes foes depending on crit chance and damage modifiers",
+   "official": "ตกผลึกศัตรูโดยขึ้นอยู่กับโอกาสคริติคอลและตัวดัดแปลงพลังโจมตี",
+   "th": "ทำให้ศัตรูตกผลึกตามโอกาสคริติคอลและตัวปรับความเสียหาย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gemstonelongswordtip",
+   "en": "Delivers devastating far reaching attacks with ease!",
+   "official": "มอบการโจมตีที่ทำลายล้างในระยะไกลอย่างง่ายดาย!",
+   "th": "ปล่อยการโจมตีระยะไกลอันรุนแรงได้อย่างง่ายดาย!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sapphirerevolvertip",
+   "en": "Charges up a piercing projectile that will hit anything in an instant",
+   "official": "ชาร์จกระสุนเจาะทะลุที่จะโจมตีทุกสิ่งในทันที",
+   "th": "ชาร์จกระสุนเจาะทะลุที่พุ่งโดนทุกสิ่งในพริบตา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "shardcannontip",
+   "en": "Rapidly fires crystal shards that stick to targets!\\nCrystallizes foes depending on crit chance and damage modifiers",
+   "official": "ยิงเศษคริสตัลที่เกาะติดเป้าหมายอย่างรวดเร็ว! \\nตกผลึกศัตรูโดยขึ้นอยู่กับโอกาสคริติคอลและตัวดัดแปลงพลังโจมตี",
+   "th": "ยิงเศษคริสตัลรัวเร็วที่ปักติดเป้าหมาย!\\nทำให้ศัตรูตกผลึกตามโอกาสคริติคอลและตัวปรับความเสียหาย",
+   "status": "fixed",
+   "note": "ช่องว่าง + ศัพท์"
+  },
+  {
+   "key": "emeraldwandtip",
+   "en": "Fires a barrage of magic mines",
+   "official": "ยิงระเบิดเวทมนตร์ออกมาเป็นชุด",
+   "th": "ยิงระเบิดเวทมนตร์ออกมาเป็นชุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "refractortip",
+   "en": "Fires a long range beam of concentrated light",
+   "official": "ยิงลำแสงที่มีความเข้มข้นในระยะไกล",
+   "th": "ยิงลำแสงรวมศูนย์ระยะไกล",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "rubyshieldstip",
+   "en": "Summons circulating gemstones that block projectiles without piercing.\\nBreaks on contact with hostile creatures and projectiles",
+   "official": "เรียกอัญมณีมาเพื่อบล็อกกระสุนที่ไม่สามารถเจาะได้.\\n แตกเมื่อสัมผัสกับศัตรูและกระสุน",
+   "th": "อัญเชิญอัญมณีที่หมุนวนรอบตัว คอยกันกระสุนที่ไม่เจาะทะลุ\\nแตกเมื่อชนสิ่งมีชีวิตที่ไม่เป็นมิตรหรือกระสุน",
+   "status": "fixed",
+   "note": "แปลผิด + ช่องว่าง"
+  },
+  {
+   "key": "crystallizedskulltip",
+   "en": "Summons mighty ruby dragons!\\nEach summon takes up 2 summon slots",
+   "official": "อัญเชิญมังกรทับทิมผู้แข็งแกร่ง! \\nมังกร 1 ตัวใช้โควต้าการอัญเชิญ 2 หน่วย",
+   "th": "อัญเชิญมังกรทับทิมอันทรงพลัง!\\nแต่ละตัวใช้ช่องอัญเชิญ 2 ช่อง",
+   "status": "fixed",
+   "note": "ช่องว่าง + ศัพท์"
+  },
+  {
+   "key": "revswordtip",
+   "en": "Revs up attack speed over time\\nChops down trees as well",
+   "official": "",
+   "th": "เร่งความเร็วโจมตีขึ้นเรื่อย ๆ\\nโค่นต้นไม้ได้ด้วย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pyromancytip",
+   "en": "Spews flames in a long line and leaves a burning trail in its path \\nEnemies on the trail takes more damage, loses armor and is set on fire for a short time",
+   "official": "",
+   "th": "พ่นเปลวไฟเป็นแนวยาวและทิ้งรอยไฟลุกไว้ตามทาง\\nศัตรูบนรอยไฟจะได้รับความเสียหายมากขึ้น เสียเกราะ และติดไฟชั่วครู่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ignitionkeytip1",
+   "en": "Summons a junk mech that shoots missiles and it can be mounted\\nWhen mounted hold [input=trinketability] to use machine guns on the closest enemy",
+   "official": "",
+   "th": "อัญเชิญหุ่นยนต์ขยะที่ยิงขีปนาวุธ และขึ้นขี่ได้\\nขณะขี่ กด [input=trinketability] ค้างไว้เพื่อยิงปืนกลใส่ศัตรูที่ใกล้ที่สุด",
+   "status": "new",
+   "note": "ชื่อตาม mob: Junk Mech"
+  },
+  {
+   "key": "ignitionkeytip2",
+   "en": "Uses all your summon slots",
+   "official": "",
+   "th": "ใช้ช่องอัญเชิญทั้งหมดของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ignitionkeytip3",
+   "en": "Damage is increased with each summon slot used",
+   "official": "",
+   "th": "ความเสียหายเพิ่มขึ้นตามจำนวนช่องอัญเชิญที่ใช้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "patchworkgrenadiertip",
+   "en": "Lobs a grenade that flies over terrain and explodes on impact",
+   "official": "",
+   "th": "โยนระเบิดมือข้ามสิ่งกีดขวางและระเบิดเมื่อกระทบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "runeboundscepternewtip1",
+   "en": "[input=mouse1] Fires a trail of Bones finishing with one Greater Bone Spike",
+   "official": "",
+   "th": "[input=mouse1] ยิงแนวกระดูกที่ปิดท้ายด้วยหนามกระดูกใหญ่ 1 อัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "runeboundscepternewtip2",
+   "en": "[input=mouse2] Detonates all nearby Greater Bone Spikes",
+   "official": "",
+   "th": "[input=mouse2] จุดระเบิดหนามกระดูกใหญ่ทั้งหมดที่อยู่ใกล้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "runeboundscepternewtip3",
+   "en": "You can have a max of <amount> Greater Bone Spikes active",
+   "official": "",
+   "th": "มีหนามกระดูกใหญ่ได้พร้อมกันสูงสุด <amount> อัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "brutesbattleaxetip",
+   "en": "Charges up to dash attack",
+   "official": "ชาร์จเพื่อพุ่งโจมตี",
+   "th": "ชาร์จเพื่อพุ่งโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "captorsshortbowtip1",
+   "en": "[input=mouse1] Shoots <amount> arrows in close range",
+   "official": "กด [input=mouse1] ยิง <amount> ลูกธนูในระยะใกล้",
+   "th": "[input=mouse1] ยิงลูกธนู <amount> ดอกในระยะใกล้",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "captorsshortbowtip2",
+   "en": "[input=mouse2] Throws a net that captures smaller foes on hit",
+   "official": "กด [input=mouse2] ยิงตาข่ายเพื่อจับเป้าหมายขนาดเล็ก",
+   "th": "[input=mouse2] ขว้างตาข่ายจับศัตรูตัวเล็กที่โดน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadhauntweapontip",
+   "en": "Applies <value> Dryad Haunted to hit targets. Once stacked to 10 it summons a dryad spirit that immobilizes enemies for a short time",
+   "official": "ใช้งาน <value> วิญญาณดรายแอดเพื่อโจมตีเป้าหมาย. เมื่อครบ 10 ชาร์จจะเรียกภูติดรายแอดที่ทำให้ศัตรูเคลื่อนที่ไม่ได้เป็นเวลาชั่วคราวออกมา",
+   "th": "ติดดรายแอดหลอกหลอน <value> สแต็กให้เป้าหมายที่โดน เมื่อสะสมครบ 10 จะอัญเชิญวิญญาณดรายแอดที่ตรึงศัตรูไว้ชั่วครู่",
+   "status": "fixed",
+   "note": "แปลผิด + ศัพท์"
+  },
+  {
+   "key": "dryadgreathammertip",
+   "en": "Deals the most damage on second charge level",
+   "official": "สร้างความเสียหายสูงสุดในการชาร์จรอบระดับ 2",
+   "th": "สร้างความเสียหายสูงสุดเมื่อชาร์จระดับที่ 2",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadbowtip",
+   "en": "Smaller leaves seek out at nearby targets with Dryad Haunted as you attack",
+   "official": "ใบไม้ขนาดเล็กจะมองหาเป้าหมายที่อยู่ใกล้เคียงโดยได้ชาร์จวิญญาณดรายแอดในขณะที่คุณโจมตี",
+   "th": "ขณะโจมตี ใบไม้เล็ก ๆ จะพุ่งหาเป้าหมายใกล้เคียงที่ติดดรายแอดหลอกหลอน",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "dryadbarragetip",
+   "en": "Charges up a barrage that fires more projectiles the longer you charge",
+   "official": "=ชาร์จกระสุนที่ยิงกระสุนได้มากขึ้นตามระยะเวลาที่คุณชาร์จ",
+   "th": "ชาร์จการยิงรัว ยิ่งชาร์จนานยิ่งยิงกระสุนมาก",
+   "status": "fixed",
+   "note": "มีเครื่องหมาย = เกิน"
+  },
+  {
+   "key": "dryadbranchtip1",
+   "en": "Channel to summon 1 Baby Dryad per second to a max of 5",
+   "official": "ร่ายเพื่ออัญเชิญ 1 ดรายแอดน้อย ต่อวินาที จำนวนสูงสุด 5 ตัว",
+   "th": "ร่ายค้างเพื่ออัญเชิญดรายแอดน้อยวินาทีละ 1 ตัว สูงสุด 5 ตัว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadbranchtip2",
+   "en": "All Baby Dryads disappear when you stop channeling",
+   "official": "ดรายแอดน้อยทั้งหมดจะหายไปเมื่อคุณหยุดร่าย",
+   "th": "ดรายแอดน้อยทั้งหมดจะหายไปเมื่อคุณหยุดร่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "barkbladetip1",
+   "en": "Hold [input=mouse1] to do quick primary attacks that fires projectiles after using a fully charged secondary attack",
+   "official": "กด [input=mouse1] ค้างไว้ เพื่อทำการโจมตีหลักอย่างรวดเร็วโดยยิงกระสุนหลังจากใช้การโจมตีรองที่ชาร์จเต็มแล้ว",
+   "th": "กด [input=mouse1] ค้างไว้เพื่อโจมตีหลักอย่างรวดเร็วพร้อมยิงกระสุน หลังใช้การโจมตีรองที่ชาร์จเต็ม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "barkbladetip2",
+   "en": "Hold [input=mouse2] to charge up a secondary attack",
+   "official": "กด [input=mouse2] ค้างไว้ เพิ่อชาร์จการโจมตีรอง",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการโจมตีรอง",
+   "status": "fixed",
+   "note": "สะกด (เพิ่อ)"
+  },
+  {
+   "key": "barkbladetip3",
+   "en": "Half a charge launches a wave of projectiles while a full charge augments primary attacks",
+   "official": "การชาร์จครึ่งหนึ่งจะปล่อยคลื่นกระสุนออกไป ในขณะที่การชาร์จเต็มจะช่วยเพิ่มการโจมตีหลัก",
+   "th": "ชาร์จครึ่งหนึ่งจะปล่อยคลื่นกระสุน ส่วนชาร์จเต็มจะเสริมการโจมตีหลัก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "thesoulstormtip",
+   "en": "[input=mouse1] Conjures a spirit beam that generate 1 soul when hitting an enemy",
+   "official": "กด [input=mouse1] เรียกลำแสงวิญญาณที่สร้างวิญญาณ 1 ดวงเมื่อโจมตีศัตรู",
+   "th": "[input=mouse1] เสกลำแสงวิญญาณที่ได้วิญญาณ 1 ดวงเมื่อโดนศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "thesoulstormsecondarytip",
+   "en": "[input=mouse2] Consumes all your souls to create a soulstorm",
+   "official": "[input=mouse2] ใช้พลังวิญญาณทั้งหมดของคุณเพื่อสร้างพายุวิญญาณ",
+   "th": "[input=mouse2] ใช้วิญญาณทั้งหมดของคุณเพื่อสร้างพายุวิญญาณ",
+   "status": "fixed",
+   "note": "ตรงความหมาย"
+  },
+  {
+   "key": "perfectstormtip",
+   "en": "[input=mouse2] Instantly restore 40% missing mana and infuse The Perfect Storm with lightning",
+   "official": "กด [input=mouse2] ฟื้นฟูมานา 40% ทันที และผนวกพลังสายฟ้าเข้ากับพายุมหาประลัย",
+   "th": "[input=mouse2] ฟื้นฟูมานาที่ขาดไป 40% ทันที และอัดพลังสายฟ้าเข้าไปในพายุมหาประลัย",
+   "status": "fixed",
+   "note": "ความหมายผิด (missing mana)"
+  },
+  {
+   "key": "abyssalwarhorntip",
+   "en": "Summons a clumsy ghost in a set of armor",
+   "official": "อัญเชิญผีเงอะงะในชุดเกราะออกมา",
+   "th": "อัญเชิญผีเงอะงะในชุดเกราะออกมา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionswordtip",
+   "en": "Becomes empowered when its wielder is at full health",
+   "official": "จะทรงพลังยิ่งขึ้นเมื่อผู้ถือมีพลังชีวิตเต็ม",
+   "th": "จะเพิ่มพลังเมื่อผู้ถือมีพลังชีวิตเต็ม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ascendedstafftip",
+   "en": "Channel to control a vertical beam of pure power",
+   "official": "ยืนร่ายเพื่อควบคุมลำแสงพลังบริสุทธิ์ในแนวดิ่ง",
+   "th": "ร่ายค้างเพื่อควบคุมลำแสงพลังบริสุทธิ์แนวดิ่ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "eyeofthevoidtip",
+   "en": "Summons a big robotic egg with a fun surprise inside",
+   "official": "อัญเชิญไข่หุ่นยนต์ขนาดใหญ่ ซึ่งมีเซอร์ไพรส์สนุก ๆ อยู่ข้างใน",
+   "th": "อัญเชิญไข่หุ่นยนต์ขนาดใหญ่ ซึ่งมีเซอร์ไพรส์สนุก ๆ อยู่ข้างใน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedbowtip1",
+   "en": "Shoots many projectiles at once without using any arrows",
+   "official": "ยิงกระสุนจำนวนมากพร้อมกัน โดยไม่ใช้ลูกธนูเลย",
+   "th": "ยิงกระสุนจำนวนมากพร้อมกัน โดยไม่ใช้ลูกธนูเลย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedbowtip2",
+   "en": "[input=mouse2] to toggle between arrow and wave formation",
+   "official": "กด [input=mouse2] เพื่อสลับไปมาระหว่างรูปแบบลูกธนูและรูปแบบคลื่น",
+   "th": "[input=mouse2] เพื่อสลับรูปแบบลูกธนูกับรูปแบบคลื่น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidphasingstafftip",
+   "en": "Equip and press [input=trinketability] to blink your cursor's position",
+   "official": "สวมใส่ และกด [input=trinketability] เพื่อเคลื่อนที่ไปยังเคอร์เซอร์ของคุณ",
+   "th": "สวมใส่แล้วกด [input=trinketability] เพื่อวาร์ปไปยังตำแหน่งเคอร์เซอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "voidclawprimarytip",
+   "en": "Uses the power of the void to heal you for every enemy the claws touch",
+   "official": "ใช้พลังงานแห่งความมืดเพื่อฟื้นฟูพลังชีวิตให้คุณ ต่อศัตรูทุกตัวที่กรงเล็บโจมตีโดน",
+   "th": "ใช้พลังความมืดฟื้นฟูพลังชีวิตคุณ ต่อศัตรูทุกตัวที่กรงเล็บโดน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "voidclawsecondarytip",
+   "en": "Hold [input=mouse2] to quickly charge up a life draining dash that cuts through enemies",
+   "official": "กด [input=mouse2] ค้าง เพื่อชาร์จการพุ่งโจมตี ดูดพลังชีวิตอย่างรวดเร็ว ซึ่งจะทะลุผ่านศัตรูไป",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการพุ่งดูดพลังชีวิตอย่างรวดเร็ว ที่ฟันทะลุศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "frenchhorntip",
+   "en": "Plays a damaging tune behind you that homes towards enemies",
+   "official": "",
+   "th": "บรรเลงทำนองสร้างความเสียหายจากด้านหลังคุณ ที่พุ่งติดตามศัตรู",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "frenchhornquote",
+   "en": "\"Let the epicness of music hit your foes!\"",
+   "official": "",
+   "th": "\"ให้ความอลังการของดนตรีถล่มศัตรูของคุณ!\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "batcagetip",
+   "en": "Summons vampiric bats that shoot bolts at enemies and drop healing hearts when they kill something",
+   "official": "",
+   "th": "อัญเชิญค้างคาวแวมไพร์ที่ยิงลูกพลังใส่ศัตรู และดรอปหัวใจฟื้นฟูเมื่อสังหารศัตรูได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hivesceptertip",
+   "en": "Summons a swarm of 4 bees that attack nearby enemies",
+   "official": "",
+   "th": "อัญเชิญฝูงผึ้ง 4 ตัวที่โจมตีศัตรูใกล้เคียง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nutritiontip",
+   "en": "Nutrition: <value>",
+   "official": "ความอิ่ม: <value>",
+   "th": "โภชนาการ: <value>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "foodqualitytip",
+   "en": "Quality: <quality>",
+   "official": "คุณภาพ: <quality>",
+   "th": "คุณภาพ: <quality>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spoilstime",
+   "en": "Spoils in <time>",
+   "official": "เน่าเสียใน <time>",
+   "th": "เน่าเสียในอีก <time>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spoilstimewithrate",
+   "en": "Spoils in <time> (<rate> spoil rate)",
+   "official": "เน่าเสียใน <time> (<rate> spoil rate)",
+   "th": "เน่าเสียในอีก <time> (อัตราเน่าเสีย <rate>)",
+   "status": "fixed",
+   "note": "แปลส่วนที่ค้างอังกฤษ"
+  },
+  {
+   "key": "spoilingstopped",
+   "en": "Spoiling has been paused",
+   "official": "การเน่าเสียถูกชะลอ",
+   "th": "หยุดการเน่าเสียชั่วคราว",
+   "status": "fixed",
+   "note": "แปลผิด (paused)"
+  },
+  {
+   "key": "compostabletip",
+   "en": "Can be composted",
+   "official": "สามารถใช้ทำปุ๋ยได้",
+   "th": "สามารถใช้ทำปุ๋ยได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "consumetip",
+   "en": "Can be consumed",
+   "official": "สามารถกินได้",
+   "th": "บริโภคได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "hourduration",
+   "en": "<value> hour",
+   "official": "<value> ชั่วโมง",
+   "th": "<value> ชั่วโมง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoursduration",
+   "en": "<value> hours",
+   "official": "<value> ชั่วโมง",
+   "th": "<value> ชั่วโมง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minduration",
+   "en": "<value> minute",
+   "official": "<value> นาที",
+   "th": "<value> นาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minsduration",
+   "en": "<value> minutes",
+   "official": "<value> นาที",
+   "th": "<value> นาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "secduration",
+   "en": "<value> second",
+   "official": "<value> วินาที",
+   "th": "<value> วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "secsduration",
+   "en": "<value> seconds",
+   "official": "<value> วินาที",
+   "th": "<value> วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "buffduration",
+   "en": "<time> buff duration",
+   "official": "<time> ระยะเวลาบัฟ",
+   "th": "ระยะเวลาบัฟ <time>",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "healthpot",
+   "en": "Restores <health> health instantly",
+   "official": "ฟื้นฟู <health> พลังชีวิตทันที",
+   "th": "ฟื้นฟูพลังชีวิต <health> ทันที",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "healthpotflatpercent",
+   "en": "Restores <health> of max health instantly",
+   "official": "ฟื้นฟู <health> ของพลังชีวิตสูงสุดทันที",
+   "th": "ฟื้นฟูพลังชีวิต <health> ของพลังชีวิตสูงสุดทันที",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "healthpotcurrent",
+   "en": "Currently restores <health> health",
+   "official": "ฟื้นฟู <health> พลังชีวิต",
+   "th": "ตอนนี้ฟื้นฟูพลังชีวิต <health>",
+   "status": "fixed",
+   "note": "ขาดคำ currently"
+  },
+  {
+   "key": "healthpottip",
+   "en": "Press <key> for quick use",
+   "official": "กด <key> เพื่อใช้อย่างเร่งด่วน",
+   "th": "กด <key> เพื่อใช้ด่วน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "manapot",
+   "en": "Restores <mana>% mana instantly",
+   "official": "ฟื้นฟูมานา <mana>% ทันที",
+   "th": "ฟื้นฟูมานา <mana>% ทันที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manaflatpot",
+   "en": "Restores <mana> mana instantly",
+   "official": "ฟื้นฟูมานา <mana> ทันที",
+   "th": "ฟื้นฟูมานา <mana> ทันที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manapottip",
+   "en": "Press <key> for quick use",
+   "official": "กด <key> เพื่อใช้อย่างเร่งด่วน",
+   "th": "กด <key> เพื่อใช้ด่วน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "attackspeedpot",
+   "en": "Increases attack speed",
+   "official": "เพิ่มความเร็วในการโจมตี",
+   "th": "เพิ่มความเร็วโจมตี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterattackspeedpot",
+   "en": "Greatly increases attack speed",
+   "official": "เพิ่มความเร็วในการโจมตีอย่างมาก",
+   "th": "เพิ่มความเร็วโจมตีอย่างมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "battlepot",
+   "en": "Increases damage dealt by 10%",
+   "official": "เพิ่มพลังโจมตี 10%",
+   "th": "เพิ่มความเสียหายที่สร้าง 10%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterbattlepot",
+   "en": "Increases damage dealt by 15%",
+   "official": "เพิ่มพลังโจมตี 15%",
+   "th": "เพิ่มความเสียหายที่สร้าง 15%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterhealthregenpot",
+   "en": "Greatly increases health regen",
+   "official": "เพิ่มอัตราการฟื้นฟูพลังชีวิตอย่างมาก",
+   "th": "เพิ่มการฟื้นฟูพลังชีวิตอย่างมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "healthregenpot",
+   "en": "Increases health regen",
+   "official": "เพิ่มอัตราการฟื้นฟูพลังชีวิต",
+   "th": "เพิ่มการฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "manaregenpot",
+   "en": "Increases mana regen",
+   "official": "เพิ่มอัตราการฟื้นฟูมานา",
+   "th": "เพิ่มการฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greatermanaregenpot",
+   "en": "Greatly increases mana regen",
+   "official": "เพิ่มอัตราการฟื้นฟูมานาอย่างมาก",
+   "th": "เพิ่มการฟื้นฟูมานาอย่างมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fireresistpot",
+   "en": "Gives fire resistance",
+   "official": "มอบต้านทานไฟ",
+   "th": "ต้านทานไฟ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fishingpot1",
+   "en": "Increases fishing power by 20%",
+   "official": "เพิ่มความสามารถการตกปลา 20%",
+   "th": "เพิ่มพลังตกปลา 20%",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fishingpot2",
+   "en": "Adds extra fishing line",
+   "official": "เพิ่มระยะตกปลา",
+   "th": "เพิ่มสายเบ็ด 1 สาย",
+   "status": "fixed",
+   "note": "แปลผิด (line = สายเบ็ด)"
+  },
+  {
+   "key": "greaterfishingpot1",
+   "en": "Increases fishing power by 30%",
+   "official": "Iเพิ่มความสามารถการตกปลา 30%",
+   "th": "เพิ่มพลังตกปลา 30%",
+   "status": "fixed",
+   "note": "มีตัว I เกิน"
+  },
+  {
+   "key": "greaterfishingpot2",
+   "en": "Adds 2 extra fishing line",
+   "official": "เพิ่ม 2 ระยะตกปลา",
+   "th": "เพิ่มสายเบ็ด 2 สาย",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "invispot",
+   "en": "Gives invisibility",
+   "official": "มอบการล่องหน",
+   "th": "ล่องหน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "resistpot",
+   "en": "Increases armor by 8",
+   "official": "เพิ่มเกราะ 8",
+   "th": "เพิ่มเกราะ 8",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterresistpotnew",
+   "en": "Increases armor by 32",
+   "official": "เพิ่มเกราะ 32",
+   "th": "เพิ่มเกราะ 32",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "speedpot",
+   "en": "Increases movement speed",
+   "official": "เพิ่มความเร็วเคลื่อนที่",
+   "th": "เพิ่มความเร็วเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterspeedpot",
+   "en": "Greatly increases movement speed",
+   "official": "เพิ่มความเร็วเคลื่อนที่อย่างมาก",
+   "th": "เพิ่มความเร็วเคลื่อนที่อย่างมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "webpot",
+   "en": "Slows targets on hit",
+   "official": "ลดความเร็วศัตรูลงเมื่อโจมตี",
+   "th": "ทำให้เป้าหมายที่โดนช้าลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spelunkerpot",
+   "en": "Lights up ores",
+   "official": "แร่ส่องแสง",
+   "th": "ทำให้แร่เรืองแสง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "treasurepot",
+   "en": "Lights up treasure",
+   "official": "สมบัติส่องแสง",
+   "th": "ทำให้สมบัติเรืองแสง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "trackerpot",
+   "en": "Lights up enemies",
+   "official": "",
+   "th": "ทำให้ศัตรูเรืองแสง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "passivepot",
+   "en": "Reduces hostile mob spawns",
+   "official": "ลดการเกิดมอนสเตอร์",
+   "th": "ลดการเกิดของมอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "buildingpot",
+   "en": "Increases tile and object place speed",
+   "official": "เพิ่มความเร็วในการก่อสร้าง",
+   "th": "เพิ่มความเร็ววางพื้นและวัตถุ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "greaterbuildingpot",
+   "en": "Greatly increases tile and object place speed",
+   "official": "เพิ่มความเร็วในการก่อสร้างอย่างมาก",
+   "th": "เพิ่มความเร็ววางพื้นและวัตถุอย่างมาก",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "miningpot",
+   "en": "Increases mining speed",
+   "official": "เพิ่มความเร็วในการขุดแร่",
+   "th": "เพิ่มความเร็วขุดแร่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "greaterminingpot",
+   "en": "Greatly increases mining speed",
+   "official": "เพิ่มความเร็วในการขุดแร่อย่างมาก",
+   "th": "เพิ่มความเร็วขุดแร่อย่างมาก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "thornspot",
+   "en": "Damages attackers",
+   "official": "สะท้อนความเสียหาย",
+   "th": "สร้างความเสียหายแก่ผู้โจมตี",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "strengthpot",
+   "en": "Increases melee damage by 10%",
+   "official": "เพิ่มพลังโจมตีระยะประชิด  10%",
+   "th": "เพิ่มความเสียหายระยะประชิด 10%",
+   "status": "fixed",
+   "note": "ศัพท์ + ช่องว่างซ้อน"
+  },
+  {
+   "key": "rangerpot",
+   "en": "Increases ranged damage by 10%",
+   "official": "เพิ่มพลังโจมตีระยะไกล  10%",
+   "th": "เพิ่มความเสียหายระยะไกล 10%",
+   "status": "fixed",
+   "note": "ศัพท์ + ช่องว่างซ้อน"
+  },
+  {
+   "key": "wisdompot",
+   "en": "Increases magic damage by 10%",
+   "official": "เพิ่มพลังโจมตีเวทย์  10%",
+   "th": "เพิ่มความเสียหายเวทมนตร์ 10%",
+   "status": "fixed",
+   "note": "ศัพท์ + ช่องว่างซ้อน"
+  },
+  {
+   "key": "minionpot",
+   "en": "Increases max summons by 1",
+   "official": "เพิ่มจำนวนสูงสุดยูนิตที่อัญเชิญได้ 1 ตัว",
+   "th": "เพิ่มจำนวนอัญเชิญสูงสุด 1",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "knockbackpot",
+   "en": "Increases knockback given",
+   "official": "เพิ่มการผลัก",
+   "th": "เพิ่มแรงผลักที่ทำได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rapidpot",
+   "en": "Increases projectile velocity",
+   "official": "เพิ่มความเร็วกระสุน",
+   "th": "เพิ่มความเร็วกระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterrapidpot",
+   "en": "Greatly increases projectile velocity",
+   "official": "เพิ่มความเร็วกระสุนอย่างมาก",
+   "th": "เพิ่มความเร็วกระสุนอย่างมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "accuracypot",
+   "en": "Increases critical hit chance",
+   "official": "เพิ่มอัตราคริติคอล",
+   "th": "เพิ่มโอกาสคริติคอล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greateraccuracypot",
+   "en": "Greatly increases critical hit chance",
+   "official": "เพิ่มอัตราคริติคอลอย่างมาก",
+   "th": "เพิ่มโอกาสคริติคอลอย่างมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "revivalpot",
+   "en": "Used for reviving downed settlers",
+   "official": "ใช้สำหรับชุบชีวิตผู้อพยพที่ล้มลง",
+   "th": "ใช้ชุบชีวิตชาวนิคมที่หมดสติ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tiletip",
+   "en": "Can be placed on most terrain",
+   "official": "สามารถวางได้เกือบทุกที่",
+   "th": "วางได้บนพื้นเกือบทุกแบบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "icetip",
+   "en": "Must be placed on shore water",
+   "official": "ต้องวางบนน้ำเท่านั้น",
+   "th": "ต้องวางบนน้ำริมฝั่ง",
+   "status": "fixed",
+   "note": "ขาดคำ shore"
+  },
+  {
+   "key": "stonepathtip",
+   "en": "Gives a small speed boost",
+   "official": "เพิ่มความเร็วในการเคลื่อนที่เล็กน้อย",
+   "th": "เพิ่มความเร็วเล็กน้อย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "placetip",
+   "en": "Can be placed",
+   "official": "สามารถวางได้",
+   "th": "วางได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "tabledecorationtip",
+   "en": "Table decoration",
+   "official": "ตกแต่งบนโต๊ะได้",
+   "th": "ของตกแต่งบนโต๊ะ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "windowplacetip",
+   "en": "Can be placed on walls to make a window",
+   "official": "สามารถวางบนกำแพงเพื่อทำเป็นหน้าต่าง",
+   "th": "วางบนกำแพงเพื่อทำเป็นหน้าต่างได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "waterplacetip",
+   "en": "Can be placed on water",
+   "official": "สามารถวางบนน้ำได้",
+   "th": "วางบนน้ำได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "bedtip",
+   "en": "Works as a respawn point on use",
+   "official": "ใช้บันทึกจุดเกิดได้",
+   "th": "ใช้เพื่อตั้งเป็นจุดเกิดใหม่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "seedtip",
+   "en": "Can be placed on farmland",
+   "official": "ต้องปลูกบนพื้นที่เพาะปลูกเท่านั้น",
+   "th": "ปลูกบนพื้นที่เพาะปลูกได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "flowertip",
+   "en": "Can be placed in flower pot",
+   "official": "สามารถวางในกระถางดอกไม้ได้",
+   "th": "วางในกระถางดอกไม้ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "wildflowertip",
+   "en": "Can be placed flower pots or in the wild",
+   "official": "สามารถวางในกระถางดอกไม้หรือในธรรมชาติก็ได้",
+   "th": "วางในกระถางดอกไม้หรือตามธรรมชาติได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "graintip",
+   "en": "Can be fed to livestock",
+   "official": "สามารถให้อาหารสัตว์ได้",
+   "th": "ใช้เป็นอาหารปศุสัตว์ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "milltip",
+   "en": "Can be milled in grain mill",
+   "official": "สามารถบดในโรงสีข้าวได้",
+   "th": "บดในโรงสีได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "coolingfueltip",
+   "en": "Can be used as fuel in cooling box",
+   "official": "สามารถใช้เป็นพลังงานสำหรับเครื่องทำความเย็น",
+   "th": "ใช้เป็นเชื้อเพลิงในกล่องทำความเย็นได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "activewiretip",
+   "en": "Activates wires",
+   "official": "เปิดใช้งานสายไฟ",
+   "th": "ส่งสัญญาณให้สายไฟ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "settlementflagtip1",
+   "en": "Used to start a settlement",
+   "official": "ปักเพื่อตั้งถิ่นฐาน",
+   "th": "ใช้เพื่อก่อตั้งนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "settlementflagtip2",
+   "en": "Must be placed on surface",
+   "official": "ต้องวางบนพื้นผิวดินเท่านั้น",
+   "th": "ต้องวางบนพื้นผิวโลก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "settlementflagtip3",
+   "en": "Cannot be placed at NPC village",
+   "official": "ไม่สามารถวางในหมู่บ้านได้",
+   "th": "วางในหมู่บ้าน NPC ไม่ได้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "tnttip",
+   "en": "Explodes when activated by wire",
+   "official": "ระเบิดเมื่อได้รับกระแสไฟ",
+   "th": "ระเบิดเมื่อได้รับสัญญาณจากสายไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fireworkdispensertip",
+   "en": "Launches firework rockets when activated by wire",
+   "official": "ปล่อยจรวดดอกไม้ไฟเมื่อได้รับกระแสไฟ",
+   "th": "ยิงพลุดอกไม้ไฟเมื่อได้รับสัญญาณจากสายไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อตาม item: Firework Rocket"
+  },
+  {
+   "key": "activatedwiretip",
+   "en": "Activated by wire",
+   "official": "เปิดใช้งานโดยสายไฟ",
+   "th": "ทำงานเมื่อได้รับสัญญาณจากสายไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ladderdowntip",
+   "en": "Used to reach caves",
+   "official": "ใช้เพื่อลงไปยังถ้ำใต้ดิน",
+   "th": "ใช้ลงไปยังถ้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepladderdowntip",
+   "en": "Used to reach deep caves",
+   "official": "ใช้เพื่อลงไปยังถ้ำใต้ดินชั้นลึก",
+   "th": "ใช้ลงไปยังถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cartographertabletip",
+   "en": "Used to exchange map discoveries",
+   "official": "ใช้เพื่อแลกเปลี่ยนการค้นพบแผนที่",
+   "th": "ใช้แลกเปลี่ยนข้อมูลแผนที่ที่สำรวจแล้ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "placeinanysettlement",
+   "en": "Must be placed in a settlement",
+   "official": "ต้องวางในถิ่นฐาน",
+   "th": "ต้องวางในนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "homestonetip1",
+   "en": "Waystones can be bought from your settlement Mage",
+   "official": "",
+   "th": "ซื้อเวย์สโตนได้จากนักเวทในนิคมของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "waystonetip1",
+   "en": "Will be destroyed when mined",
+   "official": "ถูกทำลายเมื่อขุด",
+   "th": "จะถูกทำลายเมื่อขุด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "waystonetip2",
+   "en": "Sold by the settlement Mage",
+   "official": "มีขายที่นักเวทย์ในถิ่นฐาน",
+   "th": "ขายโดยนักเวทประจำนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "teleportationstonetip",
+   "en": "Lets you travel to your teammates",
+   "official": "ทำให้คุณเคลื่อนย้ายไปยังตำแหน่งเพื่อนร่วมทีมได้",
+   "th": "ให้คุณเดินทางไปหาเพื่อนร่วมทีมได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "forgetip",
+   "en": "Used to smelt ores and sand",
+   "official": "ใช้ในการถลุงแร่และทราย",
+   "th": "ใช้หลอมแร่และทราย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "anviltip",
+   "en": "Used to craft equipment",
+   "official": "ใช้ในการประดิษฐ์อุปกรณ์",
+   "th": "ใช้ประดิษฐ์อุปกรณ์สวมใส่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "carpenterstip",
+   "en": "Used to craft furniture and more",
+   "official": "ใช้ในการประดิษฐ์เฟอร์นิเจอร์และอื่นๆ",
+   "th": "ใช้ประดิษฐ์เฟอร์นิเจอร์และอื่น ๆ",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "landscapingtip",
+   "en": "Used to craft decorations and more",
+   "official": "ใช้สำหรับประดิษฐ์ของตกแต่งและอื่นๆ",
+   "th": "ใช้ประดิษฐ์ของตกแต่งและอื่น ๆ",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "roastingtip",
+   "en": "Used to roast meat",
+   "official": "ใช้ในการย่างเนื้อ",
+   "th": "ใช้ย่างเนื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "cookingpottip",
+   "en": "Used to craft food and meals",
+   "official": "ใช้ในการปรุงอาหาร",
+   "th": "ใช้ทำอาหารและมื้ออาหาร",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "compostbintip",
+   "en": "Used to create fertilizer",
+   "official": "ใช้สำหรับทำปุ๋ย",
+   "th": "ใช้ทำปุ๋ย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "grainmilltip",
+   "en": "Used to mill grain into their powder form",
+   "official": "ใช้ในการบดผลผลิตให้เป็นผง",
+   "th": "ใช้บดธัญพืชให้เป็นผง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "cheesepresstip",
+   "en": "Used to press milk into cheese",
+   "official": "ใช้สำหรับแปรรูปนมเป็นชีส",
+   "th": "ใช้อัดนมให้เป็นชีส",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "feedingtroughtip",
+   "en": "Used to feed animals grain",
+   "official": "ใช้ให้อาหารสัตว์ในปศุสัตว์",
+   "th": "ใช้ให้อาหารธัญพืชแก่สัตว์",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "campfireaddontip",
+   "en": "Can be placed on a campfire",
+   "official": "สามารถตั้งบนแคมป์ไฟได้",
+   "th": "วางบนแคมป์ไฟได้",
+   "status": "fixed",
+   "note": "กระชับ · ชื่อตาม object: Campfire"
+  },
+  {
+   "key": "trainingdummytip",
+   "en": "Attack this to check damage",
+   "official": "โจมตีมันเพื่อทดสอบพลังของคุณ",
+   "th": "โจมตีเพื่อตรวจดูความเสียหาย",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "dressertip",
+   "en": "Stores armor sets",
+   "official": "เก็บชุดเกราะ",
+   "th": "เก็บชุดเกราะเป็นเซ็ต",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "displaytip",
+   "en": "Displays stored item",
+   "official": "แสดงไอเทม",
+   "th": "แสดงไอเทมที่เก็บไว้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "bannerstandtip",
+   "en": "Applies banner effects around itself",
+   "official": "ใช้เอฟเฟกต์แบนเนอร์รอบตัว",
+   "th": "ให้ผลของธงแก่บริเวณรอบ ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bannerofpeacetip",
+   "en": "Prevents enemy spawns for players in an area around itself",
+   "official": "ป้องกันการเกิดศัตรูรอบๆ",
+   "th": "ป้องกันไม่ให้ศัตรูเกิดรอบ ๆ ผู้เล่นในบริเวณรอบธง",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "bannerofwartip1",
+   "en": "Rapidly spawns enemies around it",
+   "official": "สร้างศัตรูรอบ ๆ อย่างรวดเร็ว",
+   "th": "ทำให้ศัตรูเกิดรอบ ๆ อย่างรวดเร็ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bannerofwartip2",
+   "en": "Enemies will attempt to destroy the banner, breaking down obstacles in their way",
+   "official": "ศัตรูจะพยายามทำลายธง, จะทำลายอุปสรรคที่ขวางทาง",
+   "th": "ศัตรูจะพยายามทำลายธง โดยพังสิ่งกีดขวางที่ขวางทาง",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "challengersbannertip1",
+   "en": "Place in your settlement to increase raid frequency",
+   "official": "วางในถิ่นฐานของคุณเพื่อเพิ่มความถิ่ในการบุกของผู้รุกราน",
+   "th": "วางในนิคมของคุณเพื่อเพิ่มความถี่ของการรุกราน",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "challengersbannertip2",
+   "en": "Placing more banners will increase it further",
+   "official": "ยิ่งวางธงหลายอันยิ่งส่งผลมากขึ้น",
+   "th": "ยิ่งวางธงมาก ยิ่งเพิ่มมากขึ้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "challengersbannertip3",
+   "en": "Can only be placed in settlements you have permissions to",
+   "official": "สามารถวางได้ในถิ่นฐานที่ได้รับอนุญาตเท่านั้น",
+   "th": "วางได้เฉพาะในนิคมที่คุณมีสิทธิ์เท่านั้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "campfiretip",
+   "en": "Provides health regen when lit",
+   "official": "ฟื้นฟูพลังชีวิตเมื่อติดไฟ",
+   "th": "ฟื้นฟูพลังชีวิตเมื่อจุดไฟ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "eggnesttip1",
+   "en": "Nest for hatching eggs",
+   "official": "รังสำหรับฟักไข่",
+   "th": "รังสำหรับฟักไข่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eggnesttip2",
+   "en": "Fertilized eggs prefer to be laid in nests",
+   "official": "ไข่ที่ได้รับการผสมพันธุ์แล้วจะถูกวางในรัง",
+   "th": "ไข่ที่ได้รับการผสมแล้วมักถูกวางในรัง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "musicplayertip",
+   "en": "Plays vinyls",
+   "official": "เล่นแผ่นเสียง",
+   "th": "เล่นแผ่นเสียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmastreetip",
+   "en": "Gets you in the holiday spirit",
+   "official": "นำคุณเข้าสู่จิตวิญญาณแห่งวันหยุด",
+   "th": "พาคุณเข้าสู่บรรยากาศเทศกาล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "biggerthanitlookstip",
+   "en": "Bigger than it looks",
+   "official": "ใหญ่กว่าที่เห็น",
+   "th": "ใหญ่กว่าที่เห็น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coolingboxtip",
+   "en": "Reduces spoil rate of stored items",
+   "official": "ลดอัตราการเน่าเสียเสียของอาหารมี่เก็บไว้",
+   "th": "ลดอัตราเน่าเสียของไอเทมที่เก็บไว้",
+   "status": "fixed",
+   "note": "สะกด (เสียเสีย, มี่)"
+  },
+  {
+   "key": "incineratortip",
+   "en": "Destroys stored items over time",
+   "official": "ทำลายไอเทมที่เก็บไว้",
+   "th": "ทำลายไอเทมที่เก็บไว้ทีละน้อย",
+   "status": "fixed",
+   "note": "ขาด over time"
+  },
+  {
+   "key": "tictactoeboardtip",
+   "en": "Interact with the center tile to start the game",
+   "official": "โต้ตอบกับพื้นที่ตรงกลางเพื่อเริ่มเกม",
+   "th": "ใช้งานช่องตรงกลางเพื่อเริ่มเกม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cosmeticbannertip",
+   "en": "Does nothing but looks great!",
+   "official": "ทำอะไรไม่ได้ แต่จะว่าไปแล้ว มันก็สวยดีนะ!",
+   "th": "ไม่มีผลอะไร แต่ดูดีสุด ๆ!",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "voidvesseltip",
+   "en": "An eerie aura radiates from within it...",
+   "official": "ออร่าที่น่าขนลุกแผ่ออกมาจากภายในสิ่งนั้น...",
+   "th": "ออร่าน่าขนลุกแผ่ออกมาจากข้างใน...",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "relaxingrec",
+   "en": "§7Provides relaxation recreation to your settlers",
+   "official": "",
+   "th": "§7ให้ความบันเทิงแบบผ่อนคลายแก่ชาวนิคมของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "beautyrec",
+   "en": "§7Provides beauty recreation to your settlers",
+   "official": "",
+   "th": "§7ให้ความบันเทิงแบบความงามแก่ชาวนิคมของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "playingentrec",
+   "en": "§7Provides entertainment recreation to your settlers when playing",
+   "official": "",
+   "th": "§7ให้ความบันเทิงแบบสนุกสนานแก่ชาวนิคมของคุณเมื่อเล่น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "happinessobjecttip1",
+   "en": "Place in a settler's room to increase their happiness by <value>",
+   "official": "",
+   "th": "วางในห้องของชาวนิคมเพื่อเพิ่มความสุข <value>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "happinessobjecttip2",
+   "en": "Only one settler can benefit from it at a time",
+   "official": "",
+   "th": "ได้ผลกับชาวนิคมทีละคนเท่านั้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fireworkrandom",
+   "en": "Random",
+   "official": "สุ่ม",
+   "th": "สุ่ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkshape",
+   "en": "Shape: <shape>",
+   "official": "รูปแบบ: <shape>",
+   "th": "รูปแบบ: <shape>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworksphere",
+   "en": "Sphere",
+   "official": "กลม",
+   "th": "ทรงกลม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fireworksplash",
+   "en": "Splash",
+   "official": "กระจาย",
+   "th": "กระจาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkdisc",
+   "en": "Disc",
+   "official": "จาน",
+   "th": "จานแบน",
+   "status": "fixed",
+   "note": "ชัดขึ้น"
+  },
+  {
+   "key": "fireworkstar",
+   "en": "Star",
+   "official": "ดาว",
+   "th": "ดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkheart",
+   "en": "Heart",
+   "official": "หัวใจ",
+   "th": "หัวใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkcolor",
+   "en": "Color: <color>",
+   "official": "สี: <color>",
+   "th": "สี: <color>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkconfetti",
+   "en": "Confetti",
+   "official": "กระดาษโปรย",
+   "th": "กระดาษสี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fireworkflame",
+   "en": "Flame",
+   "official": "เปลวเพลิง",
+   "th": "เปลวไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fireworkred",
+   "en": "Red",
+   "official": "แดง",
+   "th": "แดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkgreen",
+   "en": "Green",
+   "official": "เขียว",
+   "th": "เขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkblue",
+   "en": "Blue",
+   "official": "น้ำเงิน",
+   "th": "น้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkpink",
+   "en": "Pink",
+   "official": "ชมพู",
+   "th": "ชมพู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkrandomcrackle",
+   "en": "Random crackle",
+   "official": "สุ่มเสียงประทุ",
+   "th": "เสียงแตกเปรี๊ยะแบบสุ่ม",
+   "status": "fixed",
+   "note": "สะกด (ประทุ)"
+  },
+  {
+   "key": "fireworknocrackle",
+   "en": "No crackle",
+   "official": "ไม่มีเสียงประทุ",
+   "th": "ไม่มีเสียงแตกเปรี๊ยะ",
+   "status": "fixed",
+   "note": "สะกด (ประทุ)"
+  },
+  {
+   "key": "fireworkyescrackle",
+   "en": "Crackle",
+   "official": "เสียงประทุ",
+   "th": "เสียงแตกเปรี๊ยะ",
+   "status": "fixed",
+   "note": "สะกด (ประทุ)"
+  },
+  {
+   "key": "itemcount",
+   "en": "<amount> total items",
+   "official": "<amount> ไอเทมทั้งหมด",
+   "th": "ไอเทมทั้งหมด <amount> ชิ้น",
+   "status": "fixed",
+   "note": "ลำดับ"
+  },
+  {
+   "key": "craftingmat",
+   "en": "Crafting material",
+   "official": "วัตถุดิบ",
+   "th": "วัตถุดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mountslot",
+   "en": "Mount slot",
+   "official": "ช่องยานพาหนะ",
+   "th": "ช่องพาหนะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cointip",
+   "en": "Use this to trade with villages",
+   "official": "ใช้สำหรับซื้อขายแลกเปลี่ยน",
+   "th": "ใช้ซื้อขายกับหมู่บ้าน",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "baittip",
+   "en": "Used while fishing",
+   "official": "ในขณะตกปลา",
+   "th": "ใช้ขณะตกปลา",
+   "status": "fixed",
+   "note": "ขาดคำ"
+  },
+  {
+   "key": "fishingrodtip",
+   "en": "Used for fishing",
+   "official": "ใช้สำหรับตกปลา",
+   "th": "ใช้สำหรับตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishingpower",
+   "en": "Fishing power: <value>",
+   "official": "ความสามารถในการตกปลา: <value>",
+   "th": "พลังตกปลา: <value>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fishinglines",
+   "en": "<value> fishing lines",
+   "official": "<value> ระยะการตกปลา",
+   "th": "สายเบ็ด <value> สาย",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "baitamounttip",
+   "en": "Available bait: <value>",
+   "official": "เหยื่อที่เหลืออยู่: <value>",
+   "th": "เหยื่อที่เหลืออยู่: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "evilsevent",
+   "en": "Calls for a powerful creature",
+   "official": "อัญเชิญสิ่งมีชีวิตที่แข็งแกร่งออกมา",
+   "th": "เรียกสิ่งมีชีวิตทรงพลังออกมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "royaleggtip1",
+   "en": "Summons a terrifying creeper",
+   "official": "อัญเชิญแมงอันน่าสะพรึงกลัว",
+   "th": "อัญเชิญแมงน่าสยองขวัญ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "royaleggtip2",
+   "en": "Must be used in snow caves",
+   "official": "ต้องใช้ในถ้ำหิมะเท่านั้น",
+   "th": "ต้องใช้ในถ้ำหิมะเท่านั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "royaleggtip3",
+   "en": "*Checks phobia*",
+   "official": "*ตรวจสอบความหวาดกลัว*",
+   "th": "*เช็กโรคกลัว*",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "voidcallertip1",
+   "en": "Calls for the Void Wizard",
+   "official": "อัญเชิญพ่อมดแห่งความมืด",
+   "th": "อัญเชิญพ่อมดแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidcallertip2",
+   "en": "Must be used in dungeon arena",
+   "official": "ต้องใช้ในดันเจี้ยนอารีน่าเท่านั้น",
+   "th": "ต้องใช้ในอารีนาของดันเจี้ยนเท่านั้น",
+   "status": "fixed",
+   "note": "สะกดอารีนา"
+  },
+  {
+   "key": "boneofferingtip1",
+   "en": "Use this to challenge the Runebound Chieftain",
+   "official": "ใช้สิ่งนี้ในการท้าทายหัวหน้าเผ่ารูนเบานด์",
+   "th": "ใช้เพื่อท้าสู้หัวหน้าเผ่ารูนเบานด์",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "boneofferingtip2",
+   "en": "Can be used in plains caves",
+   "official": "ต้องใช้ในถ้ำที่ราบเท่านั้น",
+   "th": "ใช้ได้ในถ้ำที่ราบ",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "spikedfossiltip1",
+   "en": "Calls for a powerful crawler",
+   "official": "อัญเชิญสัตว์เลื้อยคลานอันทรงพลัง",
+   "th": "เรียกสัตว์คลานทรงพลังออกมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spikedfossiltip2",
+   "en": "Must be used in swamp caves",
+   "official": "ต้องใช้ในถ้ำหนองน้ำเท่านั้น",
+   "th": "ต้องใช้ในถ้ำหนองน้ำเท่านั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientstatuetip1",
+   "en": "Calls for an ancient creature",
+   "official": "อัญเชิญรูปปั้นโบราณ",
+   "th": "เรียกสิ่งมีชีวิตดึกดำบรรพ์ออกมา",
+   "status": "fixed",
+   "note": "แปลผิด (ไม่ใช่รูปปั้น)"
+  },
+  {
+   "key": "ancientstatuetip2",
+   "en": "Must be used in desert biome",
+   "official": "ต้องใช้ในไทะเลทรายเท่านั้น",
+   "th": "ต้องใช้ในไบโอมทะเลทรายเท่านั้น",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "messageinabottletip1",
+   "en": "Smash this to challenge the Pirate Captain",
+   "official": "",
+   "th": "ทุบสิ่งนี้เพื่อท้าสู้กัปตันโจรสลัด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "messageinabottletip2",
+   "en": "Must be used in a pirate village",
+   "official": "",
+   "th": "ต้องใช้ในหมู่บ้านโจรสลัด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "shadowgatetip1",
+   "en": "Calls for a powerful ghost",
+   "official": "อัญเชิญวิญญาณสุดแกร่ง",
+   "th": "เรียกวิญญาณร้ายทรงพลังออกมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "reapersummontip",
+   "en": "Must be used in forest deep caves",
+   "official": "ต้องใช้ในป่าถ้ำลึกเท่านั้น",
+   "th": "ต้องใช้ในถ้ำชั้นลึกของป่าเท่านั้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "icecrowntip1",
+   "en": "Calls for its owner",
+   "official": "อัญเชิญเจ้าของของมัน",
+   "th": "เรียกเจ้าของมันออกมา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "icecrowntip2",
+   "en": "Must be used in deep snow caves",
+   "official": "ต้องใช้ในถ้ำหิมะชั้นลึกเท่านั้น",
+   "th": "ต้องใช้ในถ้ำหิมะชั้นลึกเท่านั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiriturntip1",
+   "en": "Use to release its spirits",
+   "official": "ใช้เพื่อปลดปล่อยดวงวิญญาณ",
+   "th": "ใช้เพื่อปลดปล่อยวิญญาณในนั้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spiriturntip2",
+   "en": "Must be used in deep plains caves arena",
+   "official": "ต้องใช้ในอารีน่าถ้ำที่ราบชั้นลึกเท่านั้น",
+   "th": "ต้องใช้ในอารีนาของถ้ำที่ราบชั้นลึกเท่านั้น",
+   "status": "fixed",
+   "note": "สะกดอารีนา"
+  },
+  {
+   "key": "spiriturnfail",
+   "en": "No arena found nearby",
+   "official": "ไม่พบอารีน่าใกล้เคียง",
+   "th": "ไม่พบอารีนาในบริเวณใกล้เคียง",
+   "status": "fixed",
+   "note": "สะกดอารีนา"
+  },
+  {
+   "key": "decayingleaftip1",
+   "en": "Attracts a thousand legged creature",
+   "official": "ล่อสิ่งมีชีวิตหมื่นขาออกมา",
+   "th": "ล่อสิ่งมีชีวิตพันขาออกมา",
+   "status": "fixed",
+   "note": "แปลผิด (thousand = พัน)"
+  },
+  {
+   "key": "decayingleaftip2",
+   "en": "Must be used in deep swamp caves",
+   "official": "ต้องใช้ในถ้ำหนองน้ำชั้นลึกเท่านั้น",
+   "th": "ต้องใช้ในถ้ำหนองน้ำชั้นลึกเท่านั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dragonsoulstip",
+   "en": "Used to activate a pedestal in deep desert caves",
+   "official": "ใช้เพื่อเปิดการทำงานของแท่นในถ้ำทะเลทรายชั้นลึก",
+   "th": "ใช้เปิดการทำงานแท่นในถ้ำทะเลทรายชั้นลึก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "slimeeggstip",
+   "en": "Summons the Slime Cave boss",
+   "official": "อัญเชิญเจ้าแห่งสไลม์",
+   "th": "อัญเชิญบอสแห่งถ้ำสไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "motherslimesummontip",
+   "en": "Must be used in incomplete Slime Caves",
+   "official": "ต้องใช้ในถ้ำเมือกที่ไม่สมบูรณ์เท่านั้น",
+   "th": "ต้องใช้ในถ้ำสไลม์ที่ยังไม่ถูกพิชิตเท่านั้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ความหมาย"
+  },
+  {
+   "key": "swarmsignaltip",
+   "en": "Summons the Graveyard boss",
+   "official": "อัญเชิญเจ้าแห่งสุสาน",
+   "th": "อัญเชิญบอสแห่งสุสาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "nightswarmsummontip",
+   "en": "Must be used in incomplete Graveyard",
+   "official": "จะต้องใช้ในสุสานที่ไม่สมบูรณ์เท่านั้น",
+   "th": "ต้องใช้ในสุสานที่ยังไม่ถูกพิชิตเท่านั้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "crownofspiderkintip",
+   "en": "Summons the Spider Castle boss",
+   "official": "อัญเชิญบอสปราสาทแมงมุม",
+   "th": "อัญเชิญบอสแห่งปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "spiderempresssummontip",
+   "en": "Must be used in incomplete Spider Castle",
+   "official": "จะต้องใช้ในปราสาทแมงมุมที่ไม่สมบูรณ์เท่านั้น",
+   "th": "ต้องใช้ในปราสาทแมงมุมที่ยังไม่ถูกพิชิตเท่านั้น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "binocularstip",
+   "en": "Look further into the distance",
+   "official": "สามารถมองให้ไกลออกไปได้",
+   "th": "มองได้ไกลขึ้น",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "strikebannertip",
+   "en": "A requirement for all protests",
+   "official": "ข้อกำหนดสำหรับการประท้วงทั้งหมด",
+   "th": "ของที่ขาดไม่ได้ในทุกการประท้วง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "wrappingpapertip",
+   "en": "Used to wrap presents to your loved ones",
+   "official": "ใช้สำหรับห่อของขวัญให้คนที่คุณรัก",
+   "th": "ใช้ห่อของขวัญให้คนที่คุณรัก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ropetip",
+   "en": "Used to rope most passive animals",
+   "official": "ใช้ในการผูกเชือกสัตว์ที่เป็นมิตรเป็นส่วนใหญ่",
+   "th": "ใช้ผูกเชือกจูงสัตว์ไม่ดุร้ายได้เกือบทุกชนิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "biomemaptip",
+   "en": "Used to find islands around you",
+   "official": "ใช้ในการค้นหาเกาะรอบตัวคุณ",
+   "th": "ใช้ค้นหาเกาะรอบ ๆ ตัวคุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "presetmaptip",
+   "en": "Used to find points of interest around you",
+   "official": "ใช้เพื่อค้นหาสถานที่น่าสนใจรอบ ๆ ตัวคุณ",
+   "th": "ใช้ค้นหาสถานที่น่าสนใจรอบ ๆ ตัวคุณ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "maplooking",
+   "en": "Looking for points of interest...",
+   "official": "กำลังมองหาสถานที่น่าสนใจ...",
+   "th": "กำลังมองหาสถานที่น่าสนใจ...",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapfail",
+   "en": "Map did not show any useful information to you",
+   "official": "แผนที่ไม่แสดงข้อมูลที่เป็นประโยชน์ต่อคุณ",
+   "th": "แผนที่ไม่มีข้อมูลที่เป็นประโยชน์สำหรับคุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mapresult",
+   "en": "Map shows <dir> of your location (<coord>)",
+   "official": "แผนที่แสดง <dir> จากตำแหน่งของคุณ (<coord>)",
+   "th": "แผนที่ชี้ไปทาง<dir>ของตำแหน่งคุณ (<coord>)",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mapresultplaced",
+   "en": "A marker has been placed on your map",
+   "official": "ได้มีการวางเครื่องหมายบนแผนที่ของคุณแล้ว",
+   "th": "วางหมุดบนแผนที่ของคุณแล้ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "boattip1",
+   "en": "Can be placed in water\\nor used from mount slot",
+   "official": "สามาถวางบนน้ำได้\\nหรือใช้มันจากช่องยานพาหนะ",
+   "th": "วางบนน้ำได้\\nหรือใช้จากช่องพาหนะ",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "steelboattip2",
+   "en": "A faster boat",
+   "official": "เรือที่เร็วขึ้น",
+   "th": "เรือที่เร็วกว่า",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "minecarttip",
+   "en": "Can be placed on tracks\\nor used from mount slot",
+   "official": "สามารถวางบนรางรถไฟได้\\nหรือใช้มันจากช่องยานพาหนะ",
+   "th": "วางบนรางได้\\nหรือใช้จากช่องพาหนะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shearstip",
+   "en": "Can be used to shear sheep",
+   "official": "สามารถใช้ตัดขนแกะได้",
+   "th": "ใช้ตัดขนแกะได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "buckettip",
+   "en": "Can be used to pick up liquids and milk cows",
+   "official": "ใช้ตักของเหลวและนมวัวได้",
+   "th": "ใช้ตักของเหลวและรีดนมวัวได้",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "infwaterbuckettip",
+   "en": "Holds and picks up water",
+   "official": "ถือและตักน้ำ",
+   "th": "บรรจุและตักน้ำ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "infwaterbucketplace",
+   "en": "Place water",
+   "official": "เทน้ำ",
+   "th": "เทน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infwaterbucketpickup",
+   "en": "Pick up water",
+   "official": "ตักน้ำ",
+   "th": "ตักน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonhearttipnew",
+   "en": "A fire burns within making it hard to hold for too long\\nPermanently increases max health by 50",
+   "official": "มีไฟลุกไหม้อยู่ภายใน ทำให้ถือไว้ได้ไม่นานนัก\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "มีไฟลุกไหม้อยู่ภายใน ทำให้ถือไว้ได้ไม่นานนัก\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderhearttip",
+   "en": "And you thought the webs were sticky\\nPermanently increases max health by 50",
+   "official": "คุณคิดว่าใยแมงมุมเหนียวแล้วเหรอ\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "นึกว่าใยแมงมุมเหนียวแล้วเหรอ\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runichearttip",
+   "en": "The glowing stone rocks to your heartbeat\\nPermanently increases max health by 50",
+   "official": "หินที่จะเรืองแสงจตามจังหวะการเต้นของหัวใจคุณ\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "หินเรืองแสงเต้นตามจังหวะหัวใจของคุณ\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "fixed",
+   "note": "สะกด (จตาม)"
+  },
+  {
+   "key": "guardianhearttip",
+   "en": "Protected by leaves and almost looks like a cabbage\\nPermanently increases max health by 50",
+   "official": "ถูกปกป้องด้วยใบไม้ และดูคล้ายกะหล่ำปลี\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "มีใบไม้ห่อหุ้ม ดูเกือบเหมือนกะหล่ำปลี\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cryohearttip",
+   "en": "A cold heart from a cold hearted ruler\\nPermanently increases max health by 50",
+   "official": "หัวใจที่เยือกเย็นจากผู้ปกครองที่มีจิตใจเย็นชา\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "หัวใจเย็นชาจากผู้ปกครองใจเย็นชา\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "wardenhearttip",
+   "en": "You think it might have eyes, but why?\\nPermanently increases max health by 50",
+   "official": "คุณคิดว่ามันอาจมีดวงตา ,แต่ทำไมถึงคิดเช่นนั้นล่ะ?\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "th": "รู้สึกว่ามันน่าจะมีตา แต่ทำไมล่ะ?\\nเพิ่มพลังชีวิตสูงสุดถาวร 50 หน่วย",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "lifeelixirtip",
+   "en": "Permanently increases max health by 10 up to 10 times",
+   "official": "เพิ่มพลังชีวิตสูงสุดอย่างถาวรครั้งละ 10 โดยพลังชีวิตสูงสุดจะไม่เกิน 300",
+   "th": "เพิ่มพลังชีวิตสูงสุดถาวรครั้งละ 10 ได้สูงสุด 10 ครั้ง",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "greaterlifeelixirtip",
+   "en": "Permanently increases max health by 10 another 10 times",
+   "official": "เพิ่มพลังชีวิตสูงสุดถาวร 10 หน่วย สูงสุด 10 ครั้ง",
+   "th": "เพิ่มพลังชีวิตสูงสุดถาวรครั้งละ 10 ได้อีก 10 ครั้ง",
+   "status": "fixed",
+   "note": "ขาดคำ another"
+  },
+  {
+   "key": "characteralreadyconsumed",
+   "en": "Already consumed on <name>",
+   "official": "",
+   "th": "<name> ใช้ไปแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "characternotconsumedyet",
+   "en": "Not consumed on <name> yet",
+   "official": "",
+   "th": "<name> ยังไม่ได้ใช้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "charactermissingupgrades",
+   "en": "Missing <count> upgrades on <name>",
+   "official": "",
+   "th": "<name> ยังขาดการอัปเกรดอีก <count> ครั้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "trinketinctip",
+   "en": "Permanently increases max trinkets to <number>",
+   "official": "เพิ่มช่องเครื่องประดับอย่างถาวร <number>",
+   "th": "เพิ่มช่องเครื่องประดับสูงสุดถาวรเป็น <number>",
+   "status": "fixed",
+   "note": "ความหมายตรง (เป็น)"
+  },
+  {
+   "key": "itemsetsinctip",
+   "en": "Permanently increases max item sets to <number>",
+   "official": "เพิ่มเซ็ทไอเทมสูงสุดอย่างถาวร <number>",
+   "th": "เพิ่มเซ็ตไอเทมสูงสุดถาวรเป็น <number>",
+   "status": "fixed",
+   "note": "สะกดเซ็ต + ความหมาย"
+  },
+  {
+   "key": "vinyltip",
+   "en": "Put in music player to play",
+   "official": "ใส่แผ่นเพลงที่จะเล่น",
+   "th": "ใส่ในเครื่องเล่นเพลงเพื่อเปิดฟัง",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "performedbyhermes",
+   "en": "Performed by Ensemble Hermes",
+   "official": "บรรเลงโดยวง Ensemble Hermes",
+   "th": "บรรเลงโดยวง Ensemble Hermes",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fromnecesseost",
+   "en": "From the Necesse OST by RRBE",
+   "official": "จากเพลงประกอบ The Necesse โดย RRBE",
+   "th": "จากเพลงประกอบ Necesse โดย RRBE",
+   "status": "fixed",
+   "note": "ตัด The"
+  },
+  {
+   "key": "fromlegacymusic",
+   "en": "From the legacy soundtrack",
+   "official": "จากเพลงประกอบดั้งเดิม",
+   "th": "จากเพลงประกอบดั้งเดิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "recalltip",
+   "en": "Teleports to your spawn",
+   "official": "เทเลพอร์ตไปยังจุดเกิดของคุณ",
+   "th": "วาร์ปกลับจุดเกิดของคุณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "homeportaltip",
+   "en": "Creates a portal to your spawn",
+   "official": "สร้างประตูเทเลพอร์ตไปยังจุดเกิดของคุณ",
+   "th": "สร้างประตูมิติไปยังจุดเกิดของคุณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "homeportalcleartip",
+   "en": "[input=mouse2] to clear spawned portals",
+   "official": "[input=mouse2] เพื่อล้างประตูเทเลพอร์ตไปยังจุดเกิด",
+   "th": "[input=mouse2] เพื่อลบประตูมิติที่สร้างไว้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stinkflasktip",
+   "en": "Covers you in a scent that attracts enemies",
+   "official": "ปกคลุมคุณด้วยกลิ่นที่ดึงดูดศัตรู",
+   "th": "ทำให้ตัวคุณมีกลิ่นที่ล่อศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "enchantingscrollequipmenttip",
+   "en": "Used to enchant an equipment item with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับอุปกรณ์สวมใส่ด้วย <enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับอุปกรณ์สวมใส่ด้วย <enchantment>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantingscrollmeleetip",
+   "en": "Used to enchant a melee weapon with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับอาวุธระยะประชิดด้วย <enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับอาวุธระยะประชิดด้วย <enchantment>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantingscrollrangedtip",
+   "en": "Used to enchant a ranged weapon with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับอาวุธระยะไกลด้วย<enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับอาวุธระยะไกลด้วย <enchantment>",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "enchantingscrollmagictip",
+   "en": "Used to enchant a magic weapon with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับอาวุธเวทมนตร์ด้วย <enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับอาวุธเวทมนตร์ด้วย <enchantment>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantingscrollsummontip",
+   "en": "Used to enchant a summon weapon with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับอาวุธอัญเชิญด้วย <enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับอาวุธอัญเชิญด้วย <enchantment>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantingscrolltooltip",
+   "en": "Used to enchant a tool item with <enchantment>",
+   "official": "ใช้เพื่อเสริมพลังให้กับเครื่องมือด้วย <enchantment>",
+   "th": "ใช้เพื่อเสริมพลังให้กับเครื่องมือด้วย <enchantment>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "singleuse",
+   "en": "Single use",
+   "official": "ใช้ได้ครั้งเดียว",
+   "th": "ใช้ได้ครั้งเดียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infiniteuse",
+   "en": "Infinite uses",
+   "official": "ใช้ได้ไม่จำกัด",
+   "th": "ใช้ได้ไม่จำกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teleportationscrolltip",
+   "en": "Used to travel to team members",
+   "official": "ใช้สำหรับเคลื่อนย้ายไปหาเพื่อนร่วมทีม",
+   "th": "ใช้เดินทางไปหาเพื่อนร่วมทีม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "sickletip",
+   "en": "Effective at harvesting grown plants",
+   "official": "มีประสิทธิภาพในการเก็บเกี่ยวพืชผลผลิต",
+   "th": "เก็บเกี่ยวพืชที่โตแล้วได้ดี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "farmingscythetip",
+   "en": "Very effective at harvesting grown plants",
+   "official": "มีประสิทธิภาพมากในการเก็บเกี่ยวพืชผลผลิต",
+   "th": "เก็บเกี่ยวพืชที่โตแล้วได้ดีมาก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cuttertip",
+   "en": "Used to remove logic wire and gates",
+   "official": "ใช้สำหรับการนำ สายไฟ และ logic gates ออก",
+   "th": "ใช้ถอดสายไฟลอจิกและลอจิกเกต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ค้างอังกฤษ"
+  },
+  {
+   "key": "wrenchtip",
+   "en": "Used to place logic wire and edit gates",
+   "official": "ใช้สำหรับวาง สายไฟ และแก้ไข logic gates",
+   "th": "ใช้วางสายไฟลอจิกและแก้ไขลอจิกเกต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ค้างอังกฤษ"
+  },
+  {
+   "key": "wrenchammo",
+   "en": "Available wire: <value>",
+   "official": "สายไฟที่ใช้ได้: <value>",
+   "th": "สายไฟที่มี: <value>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "enchantslot",
+   "en": "Enchant slot",
+   "official": "ช่องเสริมพลัง",
+   "th": "ช่องเสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantfullstack",
+   "en": "Need full stack to enchant",
+   "official": "ต้องการสแต็คเต็มเพื่อเสริมพลัง",
+   "th": "ต้องมีเต็มสแต็กจึงเสริมพลังได้",
+   "status": "fixed",
+   "note": "สะกดสแต็ก"
+  },
+  {
+   "key": "materialslot",
+   "en": "Crafting material slot",
+   "official": "ช่องวัตถุดิบ",
+   "th": "ช่องวัตถุดิบประดิษฐ์",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "trashslot",
+   "en": "Trash can",
+   "official": "ถังขยะ",
+   "th": "ถังขยะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "weaponslot",
+   "en": "Weapon slot",
+   "official": "ช่องอาวุธ",
+   "th": "ช่องอาวุธ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidshardtip",
+   "en": "Magical essence",
+   "official": "แก่นเวทมนตร์",
+   "th": "แก่นแท้เวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "glassbottletip",
+   "en": "Used in alchemy",
+   "official": "ใช้ที่โต๊ะปรุงยา",
+   "th": "ใช้ในการปรุงยา",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "upgradestationtip",
+   "en": "Used to upgrade weapons, armor and gateway tablets",
+   "official": "ใช้เพื่ออัปเกรดอาวุธ ชุดเกราะ และแผ่นศิลาเกตเวย์",
+   "th": "ใช้อัปเกรดอาวุธ เกราะ และแผ่นศิลาเกตเวย์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "salvagestationtip",
+   "en": "Used to salvage unwanted weapons, armor and gateway tablets into upgrade shards",
+   "official": "ใช้ย่อยดอาวุธ ชุดเกราะ และแผ่นศิลาเกตเวย์ที่ไม่ต้องการ เป็น เศษอัปเกรด",
+   "th": "ใช้ย่อยอาวุธ เกราะ และแผ่นศิลาเกตเวย์ที่ไม่ต้องการ ให้เป็นเศษอัปเกรด",
+   "status": "fixed",
+   "note": "สะกด (ย่อยด)"
+  },
+  {
+   "key": "transmutationstationtip",
+   "en": "Used to transmute Essences, Shards and Dust",
+   "official": "",
+   "th": "ใช้แปรธาตุแก่นแท้ เศษ และผง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "alchemytabletip",
+   "en": "Used to craft powerful potions",
+   "official": "ใช้ในการผลิตยาที่ทรงพลัง",
+   "th": "ใช้ปรุงน้ำยาทรงพลัง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "altardusttip",
+   "en": "Used to upgrade the Incursion\\nPerk Tree in the Fallen Altar",
+   "official": "",
+   "th": "ใช้อัปเกรดแผนผังความสามารถพิเศษอินเคอร์ชัน\\nที่แท่นบูชาร้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "alchemyshardtip",
+   "en": "Used for upgrading potions\\nin the Fallen Alchemy Table",
+   "official": "ใช้สำหรับอัปเกรดยา\\nที่โต๊ะเล่นแร่แปรธาตุที่ตกอับ",
+   "th": "ใช้อัปเกรดน้ำยา\\nที่โต๊ะปรุงยาร้าง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "upgradeshardtip",
+   "en": "Used for upgrading gear\\nin the Upgrade Station",
+   "official": "ใช้สำหรับอัปเกรดอุปกรณ์\\nที่โต๊ะอัปเกรด",
+   "th": "ใช้อัปเกรดอุปกรณ์\\nที่โต๊ะอัปเกรด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ascendedshardtip",
+   "en": "A mysterious fragment only obtained from the most challenging incursions",
+   "official": "ชิ้นส่วนลึกลับที่ได้รับจากเฉพาะการอินเคอชั่นที่ท้าทายที่สุดเท่านั้น",
+   "th": "ชิ้นส่วนลึกลับที่ได้จากอินเคอร์ชันที่ท้าทายที่สุดเท่านั้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ascendedtablettip1",
+   "en": "This tablet is pulsating with incredible power, warping the space around it",
+   "official": "แผ่นศิลานี้กำลังสั่นไหวด้วยพลังอันน่าทึ่ง จนบิดเบือนพื้นที่โดยรอบ",
+   "th": "แผ่นศิลานี้กำลังสั่นไหวด้วยพลังอันน่าทึ่ง จนบิดเบือนพื้นที่โดยรอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedtablettip2",
+   "en": "You don't know what it is yet, but you feel powerful rewards at the end",
+   "official": "คุณยังไม่รู้ว่ามันคืออะไร แต่คุณสัมผัสได้ถึงรางวัลอันทรงพลังที่รออยู่เมื่อถึงจุดสิ้นสุด",
+   "th": "คุณยังไม่รู้ว่ามันคืออะไร แต่สัมผัสได้ถึงรางวัลอันยิ่งใหญ่ที่รออยู่ปลายทาง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "tieressence",
+   "en": "Tier <tier> essence",
+   "official": "แก่นแท้ ระดับ <tier>",
+   "th": "แก่นแท้ระดับ <tier>",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "mapfragmenttip",
+   "en": "Combine 2 for a map",
+   "official": "ใช้ 2 อันเพื่อทำแผนที่",
+   "th": "รวม 2 ชิ้นเพื่อได้แผนที่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sparepartstip",
+   "en": "Used to craft steel boat",
+   "official": "ใช้หรับประดิษฐ์เรือเหล็ก",
+   "th": "ใช้ประดิษฐ์เรือเหล็กกล้า",
+   "status": "fixed",
+   "note": "สะกด (หรับ)"
+  },
+  {
+   "key": "wiretip",
+   "en": "Can be used with the wrench",
+   "official": "สามารถใช้ได้ด้วยประแจ",
+   "th": "ใช้กับประแจได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "queenbeetip",
+   "en": "Place inside an apiary to start breeding honey bees",
+   "official": "ใส่ลงไปในที่เลี้ยงผึ้งเพื่อเริ่มอาณาจักรผึ้ง",
+   "th": "ใส่ในที่เลี้ยงผึ้งเพื่อเริ่มเพาะพันธุ์ผึ้ง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น · ชื่อตาม object: Apiary"
+  },
+  {
+   "key": "honeybeetip",
+   "en": "Place inside an apiary to increase hive population",
+   "official": "ใส่ลงไปในที่เลี้ยงผึ้งเพื่อเพิ่มประชากรผึ้ง",
+   "th": "ใส่ในที่เลี้ยงผึ้งเพื่อเพิ่มประชากรผึ้ง",
+   "status": "fixed",
+   "note": "สม่ำเสมอ · ชื่อตาม object: Apiary"
+  },
+  {
+   "key": "butterflytip",
+   "en": "Can be released again",
+   "official": "สามารถปล่อยได้",
+   "th": "ปล่อยคืนได้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "fireflytip",
+   "en": "Can be released again or put inside a glass jar",
+   "official": "สามารถปล่อยได้ หรือจับใส่โหล",
+   "th": "ปล่อยคืนได้ หรือใส่ในโหลแก้ว",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "apiaryframetip",
+   "en": "Place inside an apiary to increase honey production",
+   "official": "ใส่ลงไปในที่เลี้ยงผึ้งเพื่อเพิ่มการผลิตน้ำผึ้ง",
+   "th": "ใส่ในที่เลี้ยงผึ้งเพื่อเพิ่มการผลิตน้ำผึ้ง",
+   "status": "fixed",
+   "note": "สม่ำเสมอ · ชื่อตาม object: Apiary"
+  },
+  {
+   "key": "gatewaytablettip",
+   "en": "Place in Fallen Altar to activate",
+   "official": "ใช้กับในประตูร้างเพื่อเปิดใช้งาน",
+   "th": "วางในแท่นบูชาร้างเพื่อเปิดใช้งาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "canbeupgradedtip",
+   "en": "Can be upgraded",
+   "official": "สามารถอัปเกรดได้",
+   "th": "อัปเกรดได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "recipebooktip",
+   "en": "Allows browsing of all recipes",
+   "official": "อนุญาตให้เรียกดูสูตรทั้งหมด",
+   "th": "ดูสูตรทั้งหมดได้",
+   "status": "fixed",
+   "note": "ศัพท์ + ลื่นขึ้น"
+  },
+  {
+   "key": "voidpouchtip",
+   "en": "A small personal pouch",
+   "official": "กระเป๋าส่วนตัวขนาดเล็ก",
+   "th": "ถุงส่วนตัวขนาดเล็ก",
+   "status": "fixed",
+   "note": "pouch = ถุง"
+  },
+  {
+   "key": "voidbagtip",
+   "en": "A large personal pouch",
+   "official": "กระเป๋าส่วนตัวขนาดใหญ่",
+   "th": "ถุงส่วนตัวขนาดใหญ่",
+   "status": "fixed",
+   "note": "pouch = ถุง"
+  },
+  {
+   "key": "autopickupenabled",
+   "en": "Auto pickup is enabled",
+   "official": "เก็บอัตโนมัติ เปิดใช้งาน",
+   "th": "เปิดการเก็บอัตโนมัติอยู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "autopickupdisabled",
+   "en": "Auto pickup is disabled",
+   "official": "เก็บอัตโนมัติ ปิดใช้งาน",
+   "th": "ปิดการเก็บอัตโนมัติอยู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "coinpouchtip1",
+   "en": "Stores coins picked up",
+   "official": "เก็บเหรียญที่หยิบขึ้นมา",
+   "th": "เก็บเหรียญที่หยิบได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "coinpouchtip2",
+   "en": "[input=-99] to take coins out",
+   "official": "[input=-99] เพื่อนำเหรียญออกมา",
+   "th": "[input=-99] เพื่อนำเหรียญออกมา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coinpouchstored",
+   "en": "Stored coins: <coins>",
+   "official": "เหรียญที่เก็บไว้: <coins>",
+   "th": "เหรียญที่เก็บไว้: <coins>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ammopouchtip1",
+   "en": "Ammo is used from pouches first",
+   "official": "กระสุนจะถูกใช้จากกระเป๋าก่อน",
+   "th": "จะใช้กระสุนจากถุงก่อน",
+   "status": "fixed",
+   "note": "pouch = ถุง"
+  },
+  {
+   "key": "ammopouchtip2",
+   "en": "Stores ammo picked up",
+   "official": "เก็บกระสุนที่หยิบขึ้นมา",
+   "th": "เก็บกระสุนที่หยิบได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "potionpouchtip1",
+   "en": "Potions are used from pouches first",
+   "official": "น้ำยาจะถูกใช้จากกระเป๋าก่อน",
+   "th": "จะใช้น้ำยาจากถุงก่อน",
+   "status": "fixed",
+   "note": "pouch = ถุง"
+  },
+  {
+   "key": "potionpouchtip2",
+   "en": "Stores potions picked up",
+   "official": "เก็บน้ำยาที่หยิบขึ้นมา",
+   "th": "เก็บน้ำยาที่หยิบได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "storedpotions",
+   "en": "Stored potions: <items>",
+   "official": "น้ำยาที่เก็บไว้: <items>",
+   "th": "น้ำยาที่เก็บไว้: <items>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lunchboxtip1",
+   "en": "Stores food picked up",
+   "official": "จัดเก็บอาหารที่หยิบขึ้นมา",
+   "th": "เก็บอาหารที่หยิบได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "lunchboxtip2",
+   "en": "Use to eat the food inside",
+   "official": "ใช้กินอาหารด้านในกล่อง",
+   "th": "ใช้เพื่อกินอาหารข้างใน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "storedfood",
+   "en": "Stored food: <items>",
+   "official": "อาหารที่เก็บไว้: <items>",
+   "th": "อาหารที่เก็บไว้: <items>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seedpouchtip",
+   "en": "Stores crop seeds picked up",
+   "official": "ใช้เก็บเมล็ดพันธุ์พืช",
+   "th": "เก็บเมล็ดพืชที่หยิบได้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "storedseeds",
+   "en": "Stored seeds: <items>",
+   "official": "เมล็ดที่เก็บไว้: <items>",
+   "th": "เมล็ดที่เก็บไว้: <items>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireworkrockettip",
+   "en": "Can be launched from hand or a dispenser",
+   "official": "สามารถใช้จากมือหรือเครื่องจ่าย",
+   "th": "ยิงจากมือหรือจากเครื่องปล่อยได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "storedammo",
+   "en": "Stored ammo: <items>",
+   "official": "กระสุนที่เก็บไว้: <items>",
+   "th": "กระสุนที่เก็บไว้: <items>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tabletboxtip",
+   "en": "Stores picked up gateway tablets",
+   "official": "ใช้เก็บแผ่นศิลาเกตเวย์",
+   "th": "เก็บแผ่นศิลาเกตเวย์ที่หยิบได้",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "rclickopentip",
+   "en": "[input=-99] to open",
+   "official": "[input=-99] เพื่อเปิด",
+   "th": "[input=-99] เพื่อเปิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rclickinvopentip",
+   "en": "[input=-99] in inventory to open",
+   "official": "[input=-99] ในช่องเก็บของเพื่อเปิด",
+   "th": "[input=-99] ในช่องเก็บของเพื่อเปิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rclickinvrenametip",
+   "en": "[input=-99] in inventory to rename",
+   "official": "[input=-99] เพื่อเปลี่ยนชื่อ",
+   "th": "[input=-99] ในช่องเก็บของเพื่อเปลี่ยนชื่อ",
+   "status": "fixed",
+   "note": "ขาดคำ"
+  },
+  {
+   "key": "rclickinvopenerror",
+   "en": "Must be in own inventory",
+   "official": "ต้องอยู่ในช่องเก็บของของตัวเอง",
+   "th": "ต้องอยู่ในช่องเก็บของของตัวเอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmaspresenttip",
+   "en": "What could be inside?",
+   "official": "จะมีอะไรอยู่ข้างในกันนะ?",
+   "th": "จะมีอะไรอยู่ข้างในกันนะ?",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "usetoopentip",
+   "en": "Use to open",
+   "official": "ใช้เพื่อเปิด",
+   "th": "ใช้เพื่อเปิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "landfilltip",
+   "en": "Can be used to fill out water",
+   "official": "สามารถใช้กลบน้ำได้",
+   "th": "ใช้ถมน้ำได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "grassseedtip",
+   "en": "Used to start a grass patch",
+   "official": "ใช้เพื่อปลูกหญ้า",
+   "th": "ใช้เริ่มปลูกแปลงหญ้า",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fertilizertip",
+   "en": "Use on crops to speed up growth",
+   "official": "ใช้กับพืชเพื่อเร่งการเจริญเติบโต",
+   "th": "ใช้กับพืชเพื่อเร่งการเจริญเติบโต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brokentooltip",
+   "en": "Can be melted down or sold",
+   "official": "สามารถนำไปหลอมหรือขายได้",
+   "th": "สามารถนำไปหลอมหรือขายได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "portalnotonsurface",
+   "en": "I need to be on the surface",
+   "official": "ต้องอยู่บนพื้นผิว",
+   "th": "ต้องอยู่บนพื้นผิวก่อน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "portalnotnight",
+   "en": "It needs to be night time for this to work",
+   "official": "ต้องเป็นเวลากลางคืนจึงจะได้ผล",
+   "th": "ต้องเป็นเวลากลางคืนถึงจะใช้ได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "portalnospace",
+   "en": "There is not enough room here",
+   "official": "ที่นี่มีที่ว่างไม่เพียงพอ",
+   "th": "ตรงนี้มีที่ไม่พอ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "portalerror",
+   "en": "Does not work here",
+   "official": "ไม่ทำงานที่นี่",
+   "th": "ใช้ที่นี่ไม่ได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "callernoarena",
+   "en": "I am not in the dungeon arena",
+   "official": "ไม่ได้อยู่ในดันเจี้ยนอารีน่า",
+   "th": "ไม่ได้อยู่ในอารีนาของดันเจี้ยน",
+   "status": "fixed",
+   "note": "สะกดอารีนา"
+  },
+  {
+   "key": "spawnmob",
+   "en": "Used to spawn one <mob>",
+   "official": "ใช้เพื่อเรียก <mob>",
+   "th": "ใช้เรียก <mob> 1 ตัว",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "summontip",
+   "en": "Used to summon <mob>",
+   "official": "ใช้เพื่อเรียก <mob>",
+   "th": "ใช้อัญเชิญ <mob>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonquicktip",
+   "en": "[input=-99] to quick summon",
+   "official": "[input=-99] เพื่อเรียกออกมาอย่างรวดเร็ว",
+   "th": "[input=-99] เพื่ออัญเชิญด่วน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonmounttip",
+   "en": "Used to summon <mob> mount",
+   "official": "ใช้เพื่อเรียก <mob> ออกมาขี่",
+   "th": "ใช้อัญเชิญพาหนะ <mob>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonslots",
+   "en": "Max summons: <count>",
+   "official": "จำนวนยูนิตที่อัญเชิญได้: <count>",
+   "th": "จำนวนอัญเชิญสูงสุด: <count>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonuseslots",
+   "en": "Uses <count> summon slots",
+   "official": "ใช้ <count> โค้วต้าการอัญเชิญต่อตัว",
+   "th": "ใช้ช่องอัญเชิญ <count> ช่อง",
+   "status": "fixed",
+   "note": "ศัพท์ช่อง"
+  },
+  {
+   "key": "calloftheseatip",
+   "en": "Super fast in water but slow on land",
+   "official": "เดินทางเร็วมากในน้ำแต่ช้าบนบก",
+   "th": "เร็วสุด ๆ ในน้ำ แต่ช้าบนบก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ringofascensiontip",
+   "en": "Ascend and fly as the wind!",
+   "official": "จงทะยานขึ้นและโบยบินดุจสายลม!",
+   "th": "จงทะยานขึ้นและโบยบินดุจสายลม!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jumpingballtip",
+   "en": "Fun and fits all sizes!",
+   "official": "สนุกและใครๆก็ขี่ได้ !",
+   "th": "สนุก และใคร ๆ ก็ขี่ได้!",
+   "status": "fixed",
+   "note": "ไม้ยมก + ไม่เว้นก่อน !"
+  },
+  {
+   "key": "thrumbohornquote",
+   "en": "\"Cute, but still dangerous!\"",
+   "official": "",
+   "th": "\"น่ารัก แต่ก็ยังอันตราย!\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hoverboardtip",
+   "en": "Picks up speed slowly",
+   "official": "เร่งความเร็วขึ้นอย่างช้าๆ",
+   "th": "ค่อย ๆ เร่งความเร็วขึ้น",
+   "status": "fixed",
+   "note": "ไม้ยมก"
+  },
+  {
+   "key": "hoverboardtip2",
+   "en": "Press [input=trinketability] to dash forward",
+   "official": "กดปุ่ม [input=trinketability] เพื่อพุ่งไปด้านหน้า",
+   "th": "กด [input=trinketability] เพื่อพุ่งไปข้างหน้า",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "witchbroomtip1",
+   "en": "Only on the surface:",
+   "official": "ใช้บนพื้นผิวเท่านั้น:",
+   "th": "เฉพาะบนพื้นผิว:",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "witchbroomtip2",
+   "en": "Hold down [input=trinketability] to fly higher allowing you",
+   "official": "กดปุ่ม [input=trinketability] ค้าง เพื่อบินขึ้น",
+   "th": "กด [input=trinketability] ค้างไว้เพื่อบินสูงขึ้น ทำให้คุณ",
+   "status": "fixed",
+   "note": "ต่อกับบรรทัดถัดไป"
+  },
+  {
+   "key": "witchbroomtip3",
+   "en": "to fly over objects, but prevents you from attacking",
+   "official": "ใช้บินข้ามสิ่งกีดขวาง, แต่ไม่สามารถโจมตีได้",
+   "th": "บินข้ามวัตถุได้ แต่จะโจมตีไม่ได้",
+   "status": "fixed",
+   "note": "ต่อจากบรรทัดก่อน + ช่องว่าง"
+  },
+  {
+   "key": "bumpercartip",
+   "en": "Fast and fun!",
+   "official": "",
+   "th": "เร็วและสนุก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bumpercartip2",
+   "en": "Hold [input=trinketability] to boost!",
+   "official": "",
+   "th": "กด [input=trinketability] ค้างไว้เพื่อบูสต์!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bouncingammotip",
+   "en": "Bounces off walls",
+   "official": "เด้งเมื่อชนกำแพง",
+   "th": "เด้งเมื่อชนกำแพง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidammotip",
+   "en": "Homes in on nearby enemies",
+   "official": "ติดตามศัตรูที่ใกล้เคียง",
+   "th": "พุ่งติดตามศัตรูใกล้เคียง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "crystalammotip",
+   "en": "Occasionally deals a burst of damage\\nbased on crit chance and crit damage",
+   "official": "สร้างความเสียหายเป็นชุดเป็นครั้งคราว \\nขึ้นอยู่กับโอกาสคริติคอลและความเสียหายคริติคอล",
+   "th": "บางครั้งจะสร้างความเสียหายรุนแรงเพิ่ม\\nตามโอกาสคริติคอลและความเสียหายคริติคอล",
+   "status": "fixed",
+   "note": "ช่องว่าง + ลื่นขึ้น"
+  },
+  {
+   "key": "chilipepperseedammotip",
+   "en": "Seed Gun sets targets on fire",
+   "official": "เมื่อยิงด้วยปืนเมล็ด ทำให้ศัตรูติดไฟ",
+   "th": "ปืนยิงเมล็ดจะทำให้เป้าหมายติดไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "firemoneseedammotip",
+   "en": "Seed Gun sets targets on fire",
+   "official": "เมื่อยิงด้วยปืนเมล็ด ทำให้ศัตรูติดไฟ",
+   "th": "ปืนยิงเมล็ดจะทำให้เป้าหมายติดไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "iceblossomseedammotip",
+   "en": "Seed Gun slows targets",
+   "official": "เมื่อยิงด้วยปืนเมล็ด ทำให้ศัตรูช้าลง",
+   "th": "ปืนยิงเมล็ดจะทำให้เป้าหมายช้าลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "riceseedammotip",
+   "en": "Seed Gun has increased fire rate",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง",
+   "th": "ปืนยิงเมล็ดยิงได้เร็วขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "strawberryseedammotip",
+   "en": "Seed Gun has increased fire rate",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง",
+   "th": "ปืนยิงเมล็ดยิงได้เร็วขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "cabbageseedammotip",
+   "en": "Seed Gun restores health when hitting targets",
+   "official": "เมื่อยิงด้วยปืนเมล็ด รักษาพลังชีวิตของเป้าหมาย",
+   "th": "ปืนยิงเมล็ดฟื้นฟูพลังชีวิตคุณเมื่อยิงโดนเป้าหมาย",
+   "status": "fixed",
+   "note": "ความหมายผิด · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "tomatoseedammotip",
+   "en": "Seed Gun restores health when hitting targets",
+   "official": "เมื่อยิงด้วยปืนเมล็ด รักษาพลังชีวิตของเป้าหมาย",
+   "th": "ปืนยิงเมล็ดฟื้นฟูพลังชีวิตคุณเมื่อยิงโดนเป้าหมาย",
+   "status": "fixed",
+   "note": "ความหมายผิด · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "potatoseedammotip",
+   "en": "Seed Gun restores health when hitting targets",
+   "official": "เมื่อยิงด้วยปืนเมล็ด รักษาพลังชีวิตของเป้าหมาย",
+   "th": "ปืนยิงเมล็ดฟื้นฟูพลังชีวิตคุณเมื่อยิงโดนเป้าหมาย",
+   "status": "fixed",
+   "note": "ความหมายผิด · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "sunflowerseedammotip",
+   "en": "Seed Gun restores health when hitting targets",
+   "official": "เมื่อยิงด้วยปืนเมล็ด รักษาพลังชีวิตของเป้าหมาย",
+   "th": "ปืนยิงเมล็ดฟื้นฟูพลังชีวิตคุณเมื่อยิงโดนเป้าหมาย",
+   "status": "fixed",
+   "note": "ความหมายผิด · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "eggplantseedammotip",
+   "en": "Seed Gun has increased velocity and range",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง และระยะการยิง",
+   "th": "ปืนยิงเมล็ดมีความเร็วกระสุนและระยะยิงเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "onionseedammotip",
+   "en": "Seed Gun has increased velocity and range",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง และระยะการยิง",
+   "th": "ปืนยิงเมล็ดมีความเร็วกระสุนและระยะยิงเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "sugarbeetseedammotip",
+   "en": "Seed Gun has increased velocity and range",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง และระยะการยิง",
+   "th": "ปืนยิงเมล็ดมีความเร็วกระสุนและระยะยิงเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "beetseedammotip",
+   "en": "Seed Gun has increased velocity and range",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มความเร็วการยิง และระยะการยิง",
+   "th": "ปืนยิงเมล็ดมีความเร็วกระสุนและระยะยิงเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด (เพื่ม) · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "cornseedammotip",
+   "en": "Seed Gun has increased resilience gain",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มการทนทาน",
+   "th": "ปืนยิงเมล็ดได้รับความทนทานเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "wheatseedammotip",
+   "en": "Seed Gun has increased resilience gain",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มการทนทาน",
+   "th": "ปืนยิงเมล็ดได้รับความทนทานเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "pumpkinseedammotip",
+   "en": "Seed Gun has increased knockback",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มการผลัก",
+   "th": "ปืนยิงเมล็ดมีแรงผลักเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "carrotseedammotip",
+   "en": "Seed Gun has increased damage",
+   "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มดาเมจการยิง",
+   "th": "ปืนยิงเมล็ดสร้างความเสียหายเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง · ชื่อไอเทมตาม item: Seed Gun"
+  },
+  {
+   "key": "sharkbullettip",
+   "en": "Bleeds enemies on hit",
+   "official": "ทำให้เลือดออก",
+   "th": "ทำให้ศัตรูที่โดนเลือดออก",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "prettyflowertip1",
+   "en": "Give this to someone you like",
+   "official": "",
+   "th": "มอบสิ่งนี้ให้คนที่คุณชอบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "prettyflowertip2",
+   "en": "Will only work if the settler is <qol> or better",
+   "official": "",
+   "th": "ใช้ได้เฉพาะเมื่อชาวนิคมมีคุณภาพชีวิต <qol> ขึ้นไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "prettybouquettip1",
+   "en": "Give this to a player you like",
+   "official": "",
+   "th": "มอบสิ่งนี้ให้ผู้เล่นที่คุณชอบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "prettybouquettip2",
+   "en": "Will ask the other player if they want to be in a relationship with you",
+   "official": "",
+   "th": "จะถามผู้เล่นอีกฝ่ายว่าอยากมีความสัมพันธ์กับคุณไหม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "divorcepaperstip",
+   "en": "Serve this to your partner to break up with them",
+   "official": "",
+   "th": "ยื่นสิ่งนี้ให้คู่ของคุณเพื่อเลิกกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "questitem",
+   "en": "Quest item",
+   "official": "ไอเทมภารกิจ",
+   "th": "ไอเทมภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zombiearmobtain",
+   "en": "Dropped from Zombies",
+   "official": "ดรอปจากซอมบี้",
+   "th": "ดรอปจากซอมบี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goblinringobtain",
+   "en": "Dropped from Goblins",
+   "official": "ดรอปจากก๊อบลิน",
+   "th": "ดรอปจากก็อบลิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiderlegobtain",
+   "en": "Dropped from Black Cave Spider in snow caves",
+   "official": "ดรอปจากแมงมุมดำในถ้ำหิมะ",
+   "th": "ดรอปจากแมงมุมถ้ำดำในถ้ำหิมะ",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "frozenbeardobtain",
+   "en": "Dropped from Frozen Dwarfs in snow caves",
+   "official": "ดรอปจากคนแคระแช่แข็งในถ้ำหิมะ",
+   "th": "ดรอปจากคนแคระแช่แข็งในถ้ำหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyswordfishobtain",
+   "en": "Caught in snow cave water",
+   "official": "ตกในถ้ำหิมะ",
+   "th": "ตกได้ในน้ำของถ้ำหิมะ",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "swampeelobtain",
+   "en": "Caught in swamp cave water",
+   "official": "ตกในถ้ำหนองน้ำ",
+   "th": "ตกได้ในน้ำของถ้ำหนองน้ำ",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "babysharkobtain",
+   "en": "Caught in deep water",
+   "official": "ตกในถ้ำลึก",
+   "th": "ตกได้ในน้ำลึก",
+   "status": "fixed",
+   "note": "แปลผิด (ไม่ใช่ถ้ำ)"
+  },
+  {
+   "key": "crabclawobtain",
+   "en": "Dropped from desert Crabs",
+   "official": "ดรอปจากปูทะเลทราย",
+   "th": "ดรอปจากปูทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandrayobtain",
+   "en": "Caught in desert biome water",
+   "official": "ตกในทะเลทราย",
+   "th": "ตกได้ในน้ำของไบโอมทะเลทราย",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "fakefangsobtain",
+   "en": "Dropped from Vampires",
+   "official": "ดรอปจากแวมไพร์",
+   "th": "ดรอปจากแวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimechunkobtain",
+   "en": "Dropped from Swamp Slimes",
+   "official": "ดรอปจากสไลม์หนองน้ำ",
+   "th": "ดรอปจากสไลม์หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantedcollarobtain",
+   "en": "Dropped from Enchanted Mobs in dungeon",
+   "official": "ดรอปจากมอนสเตอร์เสริมพลังในดันเจี้ยน",
+   "th": "ดรอปจากมอนสเตอร์เสริมพลังในดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "apprenticescrollobtain",
+   "en": "Dropped from Void Apprentice in dungeon",
+   "official": "ดรอปจากพ่อมดมนต์ดำฝึกหัดในดันเจี้ยน",
+   "th": "ดรอปจากพ่อมดฝึกหัดแห่งความมืดในดันเจี้ยน",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "darkgemobtain",
+   "en": "Dropped from Void Apprentice in dungeon",
+   "official": "ดรอปจากพ่อมดมนต์ดำฝึกหัดในดันเจี้ยน",
+   "th": "ดรอปจากพ่อมดฝึกหัดแห่งความมืดในดันเจี้ยน",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "bookobtain",
+   "en": "Found in dungeon bookshelves",
+   "official": "หาได้จากชั้นหนังสือในดันเจี้ยน",
+   "th": "พบได้ในชั้นหนังสือของดันเจี้ยน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "slimylauncherobtain",
+   "en": "Dropped from Swamp Shooters",
+   "official": "ดรอปจากหม้อแกงลิงหนองน้ำ",
+   "th": "ดรอปจากหม้อข้าวหม้อแกงหนองน้ำ",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "mummysbandageobtain",
+   "en": "Dropped from Mummies in desert cave",
+   "official": "ดรอปจากมัมมี่ในถ้ำทะเลทราย",
+   "th": "ดรอปจากมัมมี่ในถ้ำทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicsandobtain",
+   "en": "Dropped from Mummy Mage in desert cave",
+   "official": "ดรอปจากมัมมี่นักเวทย์ในถ้ำทะเลทราย",
+   "th": "ดรอปจากมัมมี่นักเวทในถ้ำทะเลทราย",
+   "status": "fixed",
+   "note": "สะกดนักเวท"
+  },
+  {
+   "key": "caveoysterobtain",
+   "en": "Caught in desert caves water",
+   "official": "ตกในถ้ำทะเลทราย",
+   "th": "ตกได้ในน้ำของถ้ำทะเลทราย",
+   "status": "fixed",
+   "note": "ครบความหมาย"
+  },
+  {
+   "key": "capturedspiritobtain",
+   "en": "Dropped from Sand Spirit in desert cave",
+   "official": "ดรอปจากวิญญานทรายในถ้ำทะเลทราย",
+   "th": "ดรอปจากวิญญาณทรายในถ้ำทะเลทราย",
+   "status": "fixed",
+   "note": "สะกด (วิญญาน)"
+  },
+  {
+   "key": "peglegobtain",
+   "en": "Dropped from Pirates",
+   "official": "ดรอปจากโจรสลัด",
+   "th": "ดรอปจากโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eyepatchobtain",
+   "en": "Dropped from Pirates",
+   "official": "ดรอปจากโจรสลัด",
+   "th": "ดรอปจากโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rumbottleobtain",
+   "en": "Dropped from Pirates",
+   "official": "ดรอปจากโจรสลัด",
+   "th": "ดรอปจากโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepspiritswabobtain",
+   "en": "Dropped from Deep Cave Spirits",
+   "official": "ดรอปจากวิญญาณถ้ำลึก",
+   "th": "ดรอปจากวิญญาณถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "brokenlimbobtain",
+   "en": "Dropped from Skeletons",
+   "official": "ดรอปจากโครงกระดูกในถ้ำชั้นลึก",
+   "th": "ดรอปจากโครงกระดูก",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "feraltailobtain",
+   "en": "Dropped from Snow Wolves in deep snow caves",
+   "official": "ดรอปจากหมาป่าหิมะในถ้ำหิมะชั้นลึก",
+   "th": "ดรอปจากหมาป่าหิมะในถ้ำหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "razoricicleobtain",
+   "en": "Dropped from Cryo Flakes in deep snow caves",
+   "official": "ดรอปจากเกล็ดน้ำแข็งไครโอในถ้ำหิมะชั้นลึก",
+   "th": "ดรอปจากเกล็ดไครโอในถ้ำหิมะชั้นลึก",
+   "status": "fixed",
+   "note": "ชื่อมอนสเตอร์ตามหมวด mob"
+  },
+  {
+   "key": "slimesampleobtain",
+   "en": "Dropped by Giant Swamp Slimes in deep swamp caves",
+   "official": "ดรอปจากสไลม์หนองน้ำยักษ์ในถ้ำหนองน้ำชั้นลึก",
+   "th": "ดรอปจากสไลม์หนองน้ำยักษ์ในถ้ำหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soakedbowobtain",
+   "en": "Dropped by Swamp Dwellers in deep swamp caves",
+   "official": "ดรอปจากผู้เร้นกายในหนองน้ำในถ้ำหนองน้ำชั้นลึก",
+   "th": "ดรอปจากผู้เร้นกายในหนองน้ำ ในถ้ำหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "อ่านง่ายขึ้น"
+  },
+  {
+   "key": "wormtoothobtain",
+   "en": "Dropped from Sand Worms in deep desert caves",
+   "official": "ดรอปจากหนอนทรายในถ้ำทะเลทรายชั้นลึก",
+   "th": "ดรอปจากหนอนทรายในถ้ำทะเลทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crawlersfootobtain",
+   "en": "Dropped from Desert Crawlers in deep desert caves",
+   "official": "ดรอปจากสัตว์เลื้อยคลานทะเลทรายในถ้ำทะเลทรายชั้นลึก",
+   "th": "ดรอปจากสัตว์เลื้อยคลานทะเลทรายในถ้ำทะเลทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

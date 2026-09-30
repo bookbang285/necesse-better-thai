@@ -1,0 +1,1646 @@
+{
+ "category": "mobmsg",
+ "entries": [
+  {
+   "key": "angryshop",
+   "en": "Will not talk right now",
+   "official": "ฉันไม่อยากคุยกับนายตอนนี้ !",
+   "th": "ตอนนี้ไม่อยากคุยด้วย",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย) + เว้นวรรคก่อน !"
+  },
+  {
+   "key": "busyhuman",
+   "en": "<name> is busy",
+   "official": "<name> กำลังยุ่ง",
+   "th": "<name> กำลังยุ่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "humanangry1",
+   "en": "I do not appreciate that",
+   "official": "ฉันจะไม่ขอบคุณนายหรอกนะ",
+   "th": "ฉันไม่ชอบแบบนั้นเลยนะ",
+   "status": "fixed",
+   "note": "ความหมายผิด + นาย"
+  },
+  {
+   "key": "humanangry2",
+   "en": "Aw, that hurt!",
+   "official": "โอ้ย, เจ็บนะ!",
+   "th": "โอ๊ย เจ็บนะ!",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "humanangry3",
+   "en": "Please stop that",
+   "official": "ได้โปรดหยุดเถอะ",
+   "th": "หยุดทำแบบนั้นเถอะ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "humanangry4",
+   "en": "What did you do that for?",
+   "official": "ทำไปเพื่อะไร ?",
+   "th": "ทำแบบนั้นไปทำไม?",
+   "status": "fixed",
+   "note": "สะกดผิด + เว้นวรรคก่อน ?"
+  },
+  {
+   "key": "humanangry5",
+   "en": "Why did you do that?",
+   "official": "ทำไปทำไม ?",
+   "th": "ทำไปทำไม?",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน ?"
+  },
+  {
+   "key": "humanangry6",
+   "en": "What have I done to you?",
+   "official": "ฉันไปทำอะไรให้นายโกรธกัน ?",
+   "th": "ฉันไปทำอะไรให้คุณ?",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย)"
+  },
+  {
+   "key": "humanangryactive1",
+   "en": "I am only here to help you!",
+   "official": "ฉันแค่ต้องการช่วยนาย !",
+   "th": "ฉันแค่อยากช่วยคุณนะ!",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย)"
+  },
+  {
+   "key": "humanangryactive2",
+   "en": "I am trying to do stuff here!",
+   "official": "ฉันพยายามทำสิ่งนี้อยู่ !",
+   "th": "ฉันกำลังทำงานอยู่นะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรคก่อน !"
+  },
+  {
+   "key": "humanangryactive3",
+   "en": "Stop that or I may have to kill you",
+   "official": "จะหยุดตอนนี้หรือจะให้ฉันฆ่านาย ?",
+   "th": "หยุดได้แล้ว ไม่งั้นฉันอาจต้องฆ่าคุณ",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย)"
+  },
+  {
+   "key": "humanattack1",
+   "en": "Guards, help!",
+   "official": "ทหารยาม , ช่วยด้วย!",
+   "th": "ทหารยาม ช่วยด้วย!",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "humanattack2",
+   "en": "You will regret that",
+   "official": "แกจะต้องเสียใจ",
+   "th": "เจ้าจะต้องเสียใจ",
+   "status": "fixed",
+   "note": "เลี่ยง แก"
+  },
+  {
+   "key": "humanattack3",
+   "en": "Now you made me angry!",
+   "official": "แกทำให้ฉันโกรธแล้วนะ !",
+   "th": "ทีนี้ฉันโกรธจริงแล้วนะ!",
+   "status": "fixed",
+   "note": "สรรพนามปนกัน"
+  },
+  {
+   "key": "humanattack4",
+   "en": "That was your last chance!",
+   "official": "มีอะไรจะสั่งเสียไหม !",
+   "th": "นั่นเป็นโอกาสสุดท้ายของเจ้าแล้ว!",
+   "status": "fixed",
+   "note": "ความหมายตามต้นฉบับ"
+  },
+  {
+   "key": "humanattack5",
+   "en": "Guards! We have an enemy between us!",
+   "official": "ทหารยาม ! เรามีข้าศึกบุก !",
+   "th": "ทหารยาม! มีศัตรูอยู่ในหมู่พวกเรา!",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน !"
+  },
+  {
+   "key": "humanattack6",
+   "en": "I am going to be done with you!",
+   "official": "แกโดนเซ็ตหย่อแน่ !",
+   "th": "เจ้าจบเห่แน่!",
+   "status": "fixed",
+   "note": "สะกด + เลี่ยง แก"
+  },
+  {
+   "key": "humantalk1",
+   "en": "What is that smell around here?",
+   "official": "นี่มันกลิ่นอะไรเนี่ย?",
+   "th": "นี่มันกลิ่นอะไรเนี่ย?",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "humantalk2",
+   "en": "Sometimes all I want to do is lay in my bed",
+   "official": "บางครั้ง ฉันก็แค่อยากจะนอนเฉยๆ",
+   "th": "บางทีก็แค่อยากนอนอยู่บนเตียงทั้งวัน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "humantalk3",
+   "en": "Have you ever looked at the stars and just wondered?",
+   "official": "คุณเคยดูดาวและสงสัยไหมว่าเราเกิดมาทำไม?",
+   "th": "คุณเคยมองดวงดาวแล้วครุ่นคิดไปเรื่อย ๆ ไหม?",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับขึ้น"
+  },
+  {
+   "key": "humantalk4",
+   "en": "I often think about the big questions in life",
+   "official": "ฉันมักจะคิดถึงคำถามใหญ่ๆ ในชีวิต",
+   "th": "ฉันชอบครุ่นคิดเรื่องคำถามใหญ่ ๆ ของชีวิตบ่อย ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "humantalk5",
+   "en": "Why are we all here? Think about it, it's obvious!",
+   "official": "ทำไมเราทุกคนมาอยู่ที่นี่? ลองคิดดูสิ มันชัดเจนมาก!",
+   "th": "ทำไมเราทุกคนมาอยู่ที่นี่? ลองคิดดูสิ มันชัดเจนมาก!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemisttalk1",
+   "en": "I love mushrooms",
+   "official": "ฉันชอบกินเห็ด",
+   "th": "ฉันชอบกินเห็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemisttalk2",
+   "en": "My chemicals will never blow up, I assure you",
+   "official": "สารเคมีของฉันจะไม่มีวันระเบิด ,ฉันรับรอง",
+   "th": "สารเคมีของฉันไม่มีวันระเบิดหรอก ฉันรับรอง",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "alchemisttalk3",
+   "en": "You wanna get high?",
+   "official": "อยากจะเมาซักหน่อยไหม?",
+   "th": "อยากเมาสักหน่อยไหม?",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "alchemisttalk4",
+   "en": "What? No, I haven't been smoking the herbs!",
+   "official": "อาไยน้า? ม่ายย,ฉานม่ายด้ายสูดสมุนพายอารายท้างน้าน !",
+   "th": "หา? เปล่านะ ฉันไม่ได้สูบสมุนไพรซะหน่อย!",
+   "status": "fixed",
+   "note": "อ่านยาก + เว้นวรรคก่อน !"
+  },
+  {
+   "key": "alchemisttalk5",
+   "en": "Haha! Why is everything you say so funny!?",
+   "official": "55555!ทามมาย 555 นาย 5555พูดอารายก้อตาหลกโหมดเลยล่า5555!?",
+   "th": "ฮ่า ๆ! ทำไมทุกอย่างที่คุณพูดมันตลกไปหมดเลยล่ะ!?",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย) + อ่านยาก"
+  },
+  {
+   "key": "anglertalk1",
+   "en": "Fishing is love, fishing is life",
+   "official": "การตกปลาคือความรัก, การตกปลาคือชีวิต",
+   "th": "ตกปลาคือความรัก ตกปลาคือชีวิต",
+   "status": "fixed",
+   "note": "สั้นลง"
+  },
+  {
+   "key": "anglertalk2",
+   "en": "One day you will see the joy in fishing",
+   "official": "สักวันหนึ่งคุณจะเห็นความสุขในการตกปลา",
+   "th": "สักวันคุณจะเข้าใจความสุขของการตกปลา",
+   "status": "fixed",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "anglertalk3",
+   "en": "I have seen some weird fish in my days",
+   "official": "ฉันเคยเห็นปลาแปลกๆด้วยนะเมื่อก่อนน่ะ",
+   "th": "ฉันเคยเห็นปลาแปลก ๆ มาเยอะในชีวิต",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "anglertalk4",
+   "en": "I like to spend the day talking to my fish",
+   "official": "ฉันชอบที่จะใช้เวลาทั้งวันพูดคุยกับปลาของฉัน",
+   "th": "ฉันชอบใช้เวลาทั้งวันคุยกับปลาของฉัน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "anglertalk5",
+   "en": "Bait is essential to fishing!",
+   "official": "เหยื่อจำเป็นต่อการตกปลามากๆเลยนะ!",
+   "th": "เหยื่อสำคัญมากสำหรับการตกปลานะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "anglerspecial",
+   "en": "Did <stylist> comment about my style?",
+   "official": "นี่ <stylist> ได้พูดเกี่ยวกับสไตล์ของฉันรึเปล่า?",
+   "th": "<stylist> พูดอะไรถึงสไตล์ของฉันหรือเปล่า?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "akeepertalk1",
+   "en": "I have been collecting just for you!",
+   "official": "ฉันรวบรวมมาให้คุณแล้ว!",
+   "th": "ฉันสะสมไว้เพื่อคุณเลยนะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "akeepertalk2",
+   "en": "You know what they say: Gotta catch them all!",
+   "official": "ฉันรู้ว่านายจะพูดอะไร : Gotta catch them all! ใช่ไหมล่ะ",
+   "th": "อย่างที่เขาว่ากัน ต้องจับให้ครบทุกตัว!",
+   "status": "fixed",
+   "note": "ไม่ใช้ : กลางประโยค"
+  },
+  {
+   "key": "akeepertalk3",
+   "en": "I have some of the most exotic animals you'll ever see!",
+   "official": "ฉันมั่นใจว่ามีสัตว์ที่แปลกใหม่ที่สุดที่คุณไม่เคยเห็นมาก่อนแน่ๆ!",
+   "th": "ฉันมีสัตว์แปลกหายากที่สุดที่คุณจะได้เห็นเลยล่ะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "akeepertalk4",
+   "en": "My pets take up very little time and care",
+   "official": "สัตว์เลี้ยงของฉันใช้เวลาและการดูแลน้อยมาก",
+   "th": "สัตว์เลี้ยงของฉันเลี้ยงง่าย ไม่ต้องดูแลมาก",
+   "status": "fixed",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "akeepertalk5",
+   "en": "A pet can be a companion for life!",
+   "official": "สัตว์เลี้ยงสามารถเป็นเพื่อนกับเธอได้ตลอดชีวิตเลยล่ะ!",
+   "th": "สัตว์เลี้ยงเป็นเพื่อนคู่ใจได้ตลอดชีวิตเลยนะ!",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "akeepertalk6",
+   "en": "I don't know how people survive without a pet by their side",
+   "official": "ฉันไม่รู้ว่าผู้คนอยู่รอดได้อย่างไรโดยไม่มีสัตว์เลี้ยงอยู่เคียงข้าง",
+   "th": "ไม่เข้าใจเลยว่าคนเราอยู่ได้ยังไงถ้าไม่มีสัตว์เลี้ยงอยู่ข้าง ๆ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "akeepertalk7",
+   "en": "Some animals might be expensive, but worth it!",
+   "official": "สัตว์บางชนิดอาจมีราคาสูง, แต่ก็คุ้มค่า!",
+   "th": "สัตว์บางชนิดอาจราคาแพง แต่ก็คุ้มค่านะ!",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "blacksmithtalk1",
+   "en": "My hammer can be used for more than forging!",
+   "official": "ค้อนของฉันสามารถใช้ได้มากกว่าการตีเหล็กนะรู้รึเปล่า !",
+   "th": "ค้อนของฉันใช้ทำอะไรได้มากกว่าตีเหล็กนะ!",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน !"
+  },
+  {
+   "key": "blacksmithtalk2",
+   "en": "Using the right tool for the job is important!",
+   "official": "การใช้เครื่องมือให้เหมาะสมกับงานเป็นสิ่งสำคัญ!",
+   "th": "ใช้เครื่องมือให้ถูกกับงาน สำคัญมากนะ!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "blacksmithtalk3",
+   "en": "Your sword need to be sharpened?",
+   "official": "ดาบของคุณต้องลับให้คมขึ้นรึเปล่าเนี่ย?",
+   "th": "ดาบของคุณต้องลับให้คมหน่อยไหม?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "blacksmithtalk4",
+   "en": "Take a look at my goods!",
+   "official": "ลองดูที่ผลงานของฉันสิ!",
+   "th": "ลองดูสินค้าของฉันสิ!",
+   "status": "fixed",
+   "note": "goods = สินค้า"
+  },
+  {
+   "key": "blacksmithspecial",
+   "en": "Don't sell your bars to <gunsmith>! He is using them wrong!",
+   "official": "เชื่อฉัน อย่าขายแท่งแร่ให้กับ <gunsmith>! เขาชอบเอามันไปใช้มันแบบผิดๆ!",
+   "th": "อย่าขายแท่งแร่ให้ <gunsmith> นะ! เขาใช้มันผิดวิธี!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "blacksmithtrappedcave",
+   "en": "Save me! Take everything you want from my shop! Just get me out of this damn cave!",
+   "official": "ช่วยฉันด้วย! เอาไปเลยทุกอย่างที่คุณต้องการจากร้านฉัน! แค่พาฉันออกไปจากถ้ำบ้า ๆ นี่ที!",
+   "th": "ช่วยด้วย! ในร้านอยากได้อะไรเอาไปเลย! แค่พาฉันออกไปจากถ้ำบ้า ๆ นี่ที!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "eldertalk1",
+   "en": "You should always go explore more than you already do",
+   "official": "เธอควรออกไปสำรวจมากกว่านี้นะ",
+   "th": "คุณควรออกไปสำรวจให้มากกว่านี้นะ",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "eldertalk2",
+   "en": "Old tales say you can find staircases leading to dungeons with treasure",
+   "official": "นิทานเก่ากล่าวว่าบางเกาะมีดันเจี้ยนที่มีสมบัติ",
+   "th": "ตำนานเก่าเล่าว่าอาจพบบันไดที่ลงไปสู่ดันเจี้ยนซึ่งมีสมบัติ",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "eldertalk3",
+   "en": "I see potential in such a young adventurer like you",
+   "official": "ฉันเห็นศักยภาพในตัวนักผจญภัยอายุน้อยเช่นเธอ",
+   "th": "ฉันเห็นแววในตัวนักผจญภัยรุ่นใหม่อย่างคุณ",
+   "status": "fixed",
+   "note": "ภาษากลาง"
+  },
+  {
+   "key": "eldertalk4",
+   "en": "Underground you will find some of the best ores in the world",
+   "official": "ที่ใต้ดินเธอจะพบแร่ที่ดีที่สุดในโลก",
+   "th": "ใต้ดินคุณจะพบแร่ที่ดีที่สุดบางชนิดในโลก",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "eldertalk5",
+   "en": "I have only once seen a demon in my life, luckily I made it out alive",
+   "official": "ฉันเคยเห็นปีศาจเพียงครั้งเดียวในชีวิตของฉัน, โชคดีที่ฉันรอดชีวิตมาได้",
+   "th": "ฉันเคยเห็นปีศาจแค่ครั้งเดียวในชีวิต โชคดีที่รอดมาได้",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "eldertalk6",
+   "en": "What can I help you with?",
+   "official": "มีอะไรที่ฉันสามารถช่วยเธอได้บ้าง?",
+   "th": "มีอะไรให้ฉันช่วยไหม?",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "elderapriltalk1",
+   "en": "I swear I am not always like this!",
+   "official": "ฉันสาบานว่าปกติฉันจะไม่เป็นแบบนี้ !",
+   "th": "ฉันสาบานว่าปกติฉันไม่ได้เป็นแบบนี้นะ!",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน !"
+  },
+  {
+   "key": "elderapriltalk2",
+   "en": "You looking to get my hat?",
+   "official": "เธอณกำลังมองหาหมวกของฉันอยู่หรอ ?",
+   "th": "อยากได้หมวกของฉันงั้นเหรอ?",
+   "status": "fixed",
+   "note": "สะกด + เธอ"
+  },
+  {
+   "key": "elderapriltalk3",
+   "en": "I feel a bit heavy-headed today",
+   "official": "วันนี้ฉันรู้สึกหนักหัวนิดหน่อย",
+   "th": "วันนี้ฉันรู้สึกหนักหัวนิดหน่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "elderapriltalk4",
+   "en": "Have you seen my ore?",
+   "official": "เธอเคยเห็นแร่ของฉันไหม?",
+   "th": "คุณเห็นแร่ของฉันไหม?",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "elderapriltalk5",
+   "en": "Why are you looking at me like that?",
+   "official": "ทำไมเธอถึงมองฉันแบบนั้น?",
+   "th": "ทำไมคุณมองฉันแบบนั้นล่ะ?",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "farmertalk1",
+   "en": "Have you seen my son?",
+   "official": "คุณเคยเห็นลูกชายของฉันไหม?",
+   "th": "คุณเห็นลูกชายของฉันไหม?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "farmertalk2",
+   "en": "You want to look like me?",
+   "official": "คุณต้องการที่จะรูปร่างหล่อเท่เหมือนฉันงั้นหรอ?",
+   "th": "อยากดูดีเหมือนฉันงั้นเหรอ?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "farmertalk3",
+   "en": "Are you interested in agriculture?",
+   "official": "คุณสนใจในการเกษตรไหม?",
+   "th": "คุณสนใจการเกษตรไหม?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "farmertalk4",
+   "en": "I need someone to take over the farm when I get old",
+   "official": "ฉันต้องการคนรับช่วงต่อดูแลฟาร์มเมื่อฉันแก่ตัว",
+   "th": "ฉันต้องหาคนมารับช่วงฟาร์มต่อตอนแก่ตัว",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "gunsmithtalk1",
+   "en": "Remember to practice before going hunting",
+   "official": "อย่าลืมฝึกฝนก่อนออกไปใช้จริงล่ะ",
+   "th": "อย่าลืมฝึกยิงก่อนออกไปล่าสัตว์ล่ะ",
+   "status": "fixed",
+   "note": "ความหมายตามต้นฉบับ"
+  },
+  {
+   "key": "gunsmithtalk2",
+   "en": "Guns don't kill people, people kill people",
+   "official": "ปืนไม่เคยฆ่าคน, คนต่างหากที่ฆ่าคน",
+   "th": "ปืนไม่ได้ฆ่าคน คนต่างหากที่ฆ่าคน",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "gunsmithtalk3",
+   "en": "I have some of the deadliest weapons in town!",
+   "official": "ฉันมีอาวุธที่อันตรายที่สุดในเมือง!",
+   "th": "ฉันมีอาวุธที่อันตรายที่สุดในเมือง!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gunsmithtalk4",
+   "en": "I swear there is nothing wrong with these goods",
+   "official": "ฉันสาบานว่าไม่มีอะไรผิดปกติกับสินค้าเหล่านี้",
+   "th": "สาบานเลยว่าของพวกนี้ไม่มีอะไรผิดปกติ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "gunsmithspecial1",
+   "en": "Don't sell your bars to <blacksmith>! He is using them wrong!",
+   "official": "ฉันจะบอกอะไรให้นะ อย่าขายแท่งแร่ให้กับ <blacksmith>! เขาโง่เกินกว่าจะใช้มัน!",
+   "th": "อย่าขายแท่งแร่ให้ <blacksmith> นะ! เขาใช้มันผิดวิธี!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "gunsmithspecial2",
+   "en": "<hunter> is crazy, guns are the way to go!",
+   "official": "<hunter> มันบ้า, ปืนน่ะเจ๋งกว่าเยอะ!",
+   "th": "<hunter> บ้าไปแล้ว ปืนต่างหากคือทางที่ใช่!",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "huntertalk1",
+   "en": "There's nothing a bow and arrow can't handle",
+   "official": "ไม่มีอะไรที่ธนูและลูกธนูจัดการไม่ได้",
+   "th": "ไม่มีอะไรที่ธนูและลูกธนูจัดการไม่ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "huntertalk2",
+   "en": "The core component of a bow is the me",
+   "official": "องค์ประกอบหลักของธนูก็คือตัวข้า",
+   "th": "องค์ประกอบหลักของธนูก็คือตัวข้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "huntertalk3",
+   "en": "I'll show you a trick if you put an apple on top of your head",
+   "official": "ข้าจะแสดงเคล็ดลับอะไรให้ดู ถ้าเจ้าวางแอปเปิ้ลไว้บนหัวของเจ้าซักครู่",
+   "th": "ข้าจะโชว์ลูกเล่นให้ดู ถ้าเจ้าวางแอปเปิลไว้บนหัว",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "huntertalk4",
+   "en": "Are you rich or poor?",
+   "official": "ขอถามอะไรหน่อยสิ คุณรวยหรือว่าจน?",
+   "th": "เจ้ารวยหรือจน?",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงตัวละคร"
+  },
+  {
+   "key": "huntertalk5",
+   "en": "Do I remind you of someone?",
+   "official": "ตอนที่ข้าเห็นเจ้า มันทำให้ข้านึกถึงใครบางคน",
+   "th": "ข้าทำให้เจ้านึกถึงใครบางคนหรือเปล่า?",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "huntertalkspecial",
+   "en": "<gunsmith> is crazy, bows are the way to go!",
+   "official": "<gunsmith> นั้นช่างโง่เขลา, ธนูของข้าเจ๋งกว่าเยอะ!",
+   "th": "<gunsmith> บ้าไปแล้ว ธนูต่างหากคือทางที่ใช่!",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "magetalk1",
+   "en": "Are you interested in magic?",
+   "official": "เจ้าสนใจในเวทมนตร์ไหม?",
+   "th": "คุณสนใจเวทมนตร์ไหม?",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงกันทั้งชุด (คุณ/ฉัน)"
+  },
+  {
+   "key": "magetalk2",
+   "en": "You could have potential",
+   "official": "เจ้ามีศักยภาพนะ",
+   "th": "คุณอาจมีแววนะ",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงกันทั้งชุด"
+  },
+  {
+   "key": "magetalk3",
+   "en": "There are some magic you don't speak of",
+   "official": "มีเวทมนตร์บางอย่างที่ไม่ควรพูดถึง",
+   "th": "มีเวทมนตร์บางอย่างที่ไม่ควรพูดถึง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magetalk4",
+   "en": "There's no shop like mine!",
+   "official": "ไม่มีร้านไหนเหมือนของฉัน!",
+   "th": "ไม่มีร้านไหนเหมือนของฉัน!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magetalk5",
+   "en": "Powerful weapons needs enchants!",
+   "official": "อาวุธที่ทรงพลังต้องการเสริมพลังเวทย์ !",
+   "th": "อาวุธทรงพลังต้องได้รับการเสริมพลัง!",
+   "status": "fixed",
+   "note": "สะกด (เวทย์) + เว้นวรรค"
+  },
+  {
+   "key": "magetalk6",
+   "en": "Enchants can increase stats a lot",
+   "official": "การเสริมพลังสามารถเพิ่มค่าสถานะได้มากเลยล่ะ",
+   "th": "การเสริมพลังเพิ่มค่าสถานะได้เยอะเลยนะ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "magetalk7",
+   "en": "I can help you enchant items or you can visit my shop!",
+   "official": "ฉันสามารถช่วยเจ้าเสริมพลังหรือจะมาเยี่ยมชนร้านของฉันก็ได้นะ !",
+   "th": "ฉันช่วยเสริมพลังไอเทมให้คุณได้ หรือจะแวะมาที่ร้านของฉันก็ได้นะ!",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงกันทั้งชุด"
+  },
+  {
+   "key": "piratetalk1",
+   "en": "I sometimes think about and miss the sea",
+   "official": "บางครั้งฉันก็คิดถึงและโหยหาทะเล",
+   "th": "บางทีฉันก็คิดถึงทะเลนะ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "piratetalk2",
+   "en": "Do you have any spare rum?",
+   "official": "เธอมีเหล้าสำรองไหม?",
+   "th": "คุณมีเหล้ารัมเหลือบ้างไหม?",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "piratetalk3",
+   "en": "Did you find any treasure yet?",
+   "official": "เธอพบสมบัติใด ๆ หรือยัง?",
+   "th": "คุณเจอสมบัติบ้างหรือยัง?",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "piratetalk4",
+   "en": "I have lost my lock, do you have it?",
+   "official": "ฉันทำฟันปลอมของฉันหาย, เธอเจอมันไหม?",
+   "th": "ฉันทำแม่กุญแจหาย คุณเก็บได้หรือเปล่า?",
+   "status": "fixed",
+   "note": "ความหมายผิด + เธอ"
+  },
+  {
+   "key": "piratetalk5",
+   "en": "My gunpowder is the best you'll ever find!",
+   "official": "ดินปืนของฉันดีที่สุด !",
+   "th": "ดินปืนของฉันดีที่สุดเท่าที่คุณจะหาได้แล้ว!",
+   "status": "fixed",
+   "note": "ครบความ + เว้นวรรค"
+  },
+  {
+   "key": "piratetalk6",
+   "en": "I didn't like the pirate lifestyle anyway",
+   "official": "ฉันไม่ชอบวิถีชีวิตโจรสลัดอยู่แล้ว",
+   "th": "ฉันไม่ชอบวิถีชีวิตโจรสลัดอยู่แล้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratespecial1",
+   "en": "Thanks for not making me walk the plank!",
+   "official": "ขอบคุณที่ไม่ทำให้ฉันเดินต้องเดินบนไม้กระดานนะ !",
+   "th": "ขอบคุณที่ไม่จับฉันเดินกระดานนะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "piratespecial2",
+   "en": "I hope I didn't hurt ya before!",
+   "official": "ฉันหวังว่าฉันจะไม่ได้ทำให้เธอบาดเจ็บนะ !",
+   "th": "หวังว่าก่อนหน้านี้ฉันคงไม่ได้ทำคุณเจ็บนะ!",
+   "status": "fixed",
+   "note": "ภาษากลาง (เธอ)"
+  },
+  {
+   "key": "stylisttalk1",
+   "en": "Some say I look like I am from a cartoon?",
+   "official": "มีบางคนบอกว่าฉันเหมือนมาจากการ์ตูนหรอ?",
+   "th": "มีคนบอกว่าฉันดูเหมือนหลุดมาจากการ์ตูนงั้นเหรอ?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "stylisttalk2",
+   "en": "Growing your hair is not a super power!",
+   "official": "การปลูกผมไม่ใช่พลังวิเศษนะ!",
+   "th": "การไว้ผมยาวไม่ใช่พลังวิเศษนะ!",
+   "status": "fixed",
+   "note": "ความหมาย (ไว้ผม ไม่ใช่ปลูกผม)"
+  },
+  {
+   "key": "stylisttalk3",
+   "en": "Looking to impress someone?",
+   "official": "กำลังมองหาวิธีสร้างความประทับใจให้กับใครบางคนหรอ?",
+   "th": "อยากทำให้ใครสักคนประทับใจงั้นเหรอ?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "stylisttalk4",
+   "en": "A new set of jeans will sometimes solve all your problems!",
+   "official": "กางเกงยีนส์ตัวใหม่บางครั้งอาจแก้ปัญหาทั้งหมดของคุณได้!",
+   "th": "บางทีกางเกงยีนส์ตัวใหม่ก็แก้ได้ทุกปัญหานะ!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "stylisttalk5",
+   "en": "I also work on the weekends!",
+   "official": "ฉันยังทำงานในวันหยุดสุดสัปดาห์นะรู้เปล่า!",
+   "th": "ฉันเปิดร้านวันหยุดสุดสัปดาห์ด้วยนะ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "stylisttalk6",
+   "en": "My shop will surely impress you!",
+   "official": "ร้านของฉันจะทำให้คุณประทับใจอย่างแน่นอน!",
+   "th": "ร้านของฉันต้องทำให้คุณประทับใจแน่!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "stylisttalk7",
+   "en": "Need a new haircut or just looking to buy a shirt?",
+   "official": "ต้องการตัดผมใหม่หรอหรืออยากจะลองชุดตัวใหม่ดูล่ะ?",
+   "th": "อยากตัดผมใหม่ หรือแค่อยากซื้อเสื้อสักตัวล่ะ?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "stylistspecial",
+   "en": "I can't believe <angler> chose that style!",
+   "official": "ฉันไม่อยากจะเชื่อเลยว่า <angler>แต่งตัวสไตล์นั้น! ",
+   "th": "ไม่อยากเชื่อเลยว่า <angler> จะเลือกสไตล์แบบนั้น!",
+   "status": "fixed",
+   "note": "ช่องว่างท้าย"
+  },
+  {
+   "key": "tradertalk1",
+   "en": "Traveling is fun and rewarding!",
+   "official": "การเดินทางเป็นเรื่องที่แสนสนุกและคุ้มค่า!",
+   "th": "การเดินทางทั้งสนุกและคุ้มค่า!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "tradertalk2",
+   "en": "Looking to get into the business?",
+   "official": "กำลังหาช่องทางการทำเงินอยู่หรอ?",
+   "th": "อยากลองทำธุรกิจดูไหม?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "tradertalk3",
+   "en": "Have you got anything you want to sell?",
+   "official": "คุณมีอะไรจะขายมั้ย?",
+   "th": "มีอะไรจะขายไหม?",
+   "status": "fixed",
+   "note": "สะกด มั้ย"
+  },
+  {
+   "key": "tradertalk4",
+   "en": "I can help you export your goods!",
+   "official": "ฉันสามารถช่วยคุณส่งออกสินค้าของคุณได้!",
+   "th": "ฉันช่วยส่งออกสินค้าของคุณได้นะ!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "tradertalk5",
+   "en": "I make sure there are no tariffs on my trades!",
+   "official": "ดีจริงๆที่ไม่ต้องเสียภาษี!",
+   "th": "ฉันดูแลให้การค้าของฉันไม่ต้องเสียภาษีศุลกากรเลย!",
+   "status": "fixed",
+   "note": "ความหมายตามต้นฉบับ"
+  },
+  {
+   "key": "tradertalk6",
+   "en": "The economy is booming out there! I should really get going!",
+   "official": "เศรษฐกิจกำลังเฟื่องฟู!",
+   "th": "ข้างนอกนั่นเศรษฐกิจกำลังเฟื่องฟู! ฉันต้องรีบไปแล้วล่ะ!",
+   "status": "fixed",
+   "note": "แปลไม่ครบ"
+  },
+  {
+   "key": "tradertalk7",
+   "en": "Have you been to any other villages yet?",
+   "official": "คุณได้ไปหมู่บ้านอื่นๆมาบ้างหรือยัง?",
+   "th": "คุณเคยไปหมู่บ้านอื่นมาบ้างหรือยัง?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "exoticmerchanttalk1",
+   "en": "My wares are as exotic as you!",
+   "official": "สินค้าของฉันก็แปลกเหมือนคุณนั่นแหละ!",
+   "th": "สินค้าของฉันแปลกตาไม่แพ้คุณเลย!",
+   "status": "fixed",
+   "note": "เดิมฟังเหมือนด่า"
+  },
+  {
+   "key": "exoticmerchanttalk2",
+   "en": "I should get a pack mule for all this stuff",
+   "official": "ฉันควรจะซื้อล่อ มาแบกของพวกนี้นะ",
+   "th": "ฉันน่าจะหาล่อมาช่วยแบกของพวกนี้สักตัว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "exoticmerchanttalk3",
+   "en": "I always try to bring something new every time I visit",
+   "official": "ฉันจะพยายามนำเสนอสินค้าใหม่ๆ ทุกครั้งที่มาเยี่ยมที่นี่นะ",
+   "th": "ฉันพยายามเอาของใหม่ ๆ มาทุกครั้งที่แวะมานะ",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "exoticmerchanttalk4",
+   "en": "Have I been to this place before? I don't remember",
+   "official": "ฉันเคยมาที่นี่ไหม? พอดีฉันขี้ลืมน่ะ",
+   "th": "ฉันเคยมาที่นี่หรือยังนะ? จำไม่ได้แล้ว",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "exoticmerchanttalk5",
+   "en": "I have been many places, this one is decent",
+   "official": "ฉันไปมาแล้วหลายแห่ง ที่แห่งนี้ถือว่าดีใช้ได้เลย",
+   "th": "ฉันไปมาหลายที่แล้ว ที่นี่ก็ถือว่าใช้ได้",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "exoticmerchanttalk6",
+   "en": "You seeing something that interests you?",
+   "official": "คุณเห็นบางสิ่งที่คุณสนใจใช่ไหม?",
+   "th": "เห็นอะไรที่สนใจบ้างไหม?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "exoticmerchanttalk7",
+   "en": "It's fine to spend money on something fun!",
+   "official": "ใช้เงินไปกับอะไรสนุกๆ ก็ดีนะ!",
+   "th": "ใช้เงินไปกับอะไรสนุก ๆ ก็ดีนะ!",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "pawnbrokertalk1",
+   "en": "I'll give you a fair price for that!",
+   "official": "ฉันจะให้ราคาที่ยุติธรรมแก่คุณ!",
+   "th": "ฉันให้ราคายุติธรรมแน่นอน!",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "pawnbrokertalk2",
+   "en": "You know, I'm not just for throwing stuff at",
+   "official": "คุณควรรู้ไว้นะ, ว่าฉันไม่ใช่ที่ที่จะเอาของมาทิ้งน่ะ",
+   "th": "รู้ไว้นะ ฉันไม่ได้มีไว้ให้โยนของมาทิ้งอย่างเดียว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "pawnbrokertalk3",
+   "en": "Sometimes a pawnbroker is all you need",
+   "official": "บางครั้งโรงรับจำนำก็เป็นจำเป็น\t",
+   "th": "บางทีสิ่งที่คุณต้องการก็แค่คนรับจำนำสักคน",
+   "status": "fixed",
+   "note": "แข็ง"
+  },
+  {
+   "key": "pawnbrokertalk4",
+   "en": "Oh, I'm gonna profit from this!",
+   "official": "โอ้, ฉันต้องได้กำไรจากสิ่งนี้แน่ๆ!",
+   "th": "โอ้ งานนี้ฉันได้กำไรแน่!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "pawnbrokertalk5",
+   "en": "I promise I won't scam you!",
+   "official": "ฉันสัญญาว่าจะฉันไม่โกงนายหรอกนะ! อิอิ",
+   "th": "ฉันสัญญาว่าจะไม่โกงคุณหรอก!",
+   "status": "fixed",
+   "note": "ภาษากลาง (นาย)"
+  },
+  {
+   "key": "pawnbrokertalk6",
+   "en": "Yes, I know I look dapper!",
+   "official": "ใช่, ฉันรู้ว่าฉันดูร่าเริงใช่ไหมล่ะ!",
+   "th": "ใช่ ฉันรู้ว่าฉันดูภูมิฐาน!",
+   "status": "fixed",
+   "note": "ความหมายผิด (dapper)"
+  },
+  {
+   "key": "pawnbrokertalk7",
+   "en": "Do you have a cup of tea?",
+   "official": "มีชาสำหรับแขกไหม ?",
+   "th": "คุณมีชาสักถ้วยไหม?",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ + เว้นวรรค"
+  },
+  {
+   "key": "tpawnbrokertalk1",
+   "en": "Has the merchant been here yet? I just met him out seas",
+   "official": "พ่อค้านักเดินทางมาถึงที่นี่รึยัง? ฉันเพิ่งเจอกับเขาก่อนมาถึงที่นี่",
+   "th": "พ่อค้ามาที่นี่หรือยัง? ฉันเพิ่งเจอเขากลางทะเล",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "tpawnbrokertalk2",
+   "en": "You've been waiting for me? That's nice",
+   "official": "คุณรอฉันอยู่หรอ? งั้นก็เยี่ยมเลย",
+   "th": "คุณรอฉันอยู่เหรอ? น่ารักจัง",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "explorertalk1",
+   "en": "I like tropic islands the most",
+   "official": "ฉันชอบเกาะเขตร้อนมากที่สุดเลยล่ะ",
+   "th": "ฉันชอบเกาะเขตร้อนมากที่สุดเลยล่ะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorertalk2",
+   "en": "I've had my share of dangerous moments",
+   "official": "ฉันเคยผ่านเหตุการณ์อันตรายมาเยอะ",
+   "th": "ฉันเคยผ่านเหตุการณ์อันตรายมาเยอะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorertalk3",
+   "en": "This place is boring, I want to go somewhere!",
+   "official": "ที่นี่น่าเบื่อชะมัด, ฉันอยากออกไปสำรวจ!",
+   "th": "ที่นี่น่าเบื่อชะมัด ฉันอยากออกไปที่ไหนสักแห่ง!",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "explorertalk4",
+   "en": "A good pair of boots goes a long way",
+   "official": "รองเท้าบู๊ตดีๆสักคู่จะช่วยได้มาก",
+   "th": "รองเท้าบูตดี ๆ สักคู่ช่วยได้เยอะ",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "explorertalk5",
+   "en": "I wonder if I'll ever find one of those temples",
+   "official": "ฉันสงสัยว่าฉันจะได้พบหนึ่งในวิหารเหล่านั้นหรือเปล่านะ",
+   "th": "ไม่รู้ว่าฉันจะได้เจอวิหารพวกนั้นสักแห่งไหมนะ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "explorertalk6",
+   "en": "Remind me to bring water before I leave",
+   "official": "เตือนฉันให้เอาน้ำไปด้วยก่อนออกเดินทาง",
+   "th": "ก่อนออกเดินทาง เตือนให้ฉันเอาน้ำไปด้วยนะ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "explorertalk7",
+   "en": "Let's be honest, surviving out there is pretty easy",
+   "official": "ไม่ได้จะขิงนะ,การเอาชีวิตรอดจากที่นั่นค่อนข้างง่าย",
+   "th": "พูดกันตรง ๆ เอาชีวิตรอดข้างนอกนั่นค่อนข้างง่ายนะ",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "explorertalk8",
+   "en": "Be careful of traps when exploring",
+   "official": "ระวังกับดักด้วยนะเวลาไปสำรวจ",
+   "th": "ระวังกับดักด้วยนะเวลาไปสำรวจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minertalk1",
+   "en": "Where did I leave my ladder this time?",
+   "official": "ฉันทิ้งบันไดไว้ตรงไหนนะคราวนี้ ?",
+   "th": "คราวนี้ฉันทิ้งบันไดไว้ที่ไหนนะ?",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน ?"
+  },
+  {
+   "key": "minertalk2",
+   "en": "Caves are dangerous, best bring a weapon!",
+   "official": "ในถ้ำมันอันตายนะ , อย่าลืมเอาอาวุธมาด้วย !",
+   "th": "ถ้ำอันตรายนะ พกอาวุธไปด้วยดีกว่า!",
+   "status": "fixed",
+   "note": "สะกด (อันตาย)"
+  },
+  {
+   "key": "minertalk3",
+   "en": "Cavelings keep running away with my ore!",
+   "official": "ไอพวกคนถ้ำชอบขโมยแร่ของฉันแล้ววิ่งหนีไป !",
+   "th": "พวกชาวถ้ำชอบวิ่งหนีไปพร้อมแร่ของฉันอยู่เรื่อย!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "minertalk4",
+   "en": "Well, I'm running low on torches again",
+   "official": "ให้ตายสิ , คบเพลิงฉันจะหมดอีกแล้ว",
+   "th": "ให้ตายสิ คบเพลิงของฉันจะหมดอีกแล้ว",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "minertalk5",
+   "en": "I'm an explosive expert! Most days anyway",
+   "official": "ฉันเป็นผู้เชี่ยวชาญด้านการระเบิด! ........... ในบางวันอะนะ",
+   "th": "ฉันเป็นผู้เชี่ยวชาญวัตถุระเบิดนะ! ก็เกือบทุกวันแหละ",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "minertalk6",
+   "en": "A good pickaxe is key to all things mining!",
+   "official": "พลั่วที่ดีเป็นกุญแจสำคัญในการขุดทุกสิ่ง !",
+   "th": "อีเต้อดี ๆ คือหัวใจของการขุดแร่ทุกอย่าง!",
+   "status": "fixed",
+   "note": "ผิดเครื่องมือ (พลั่ว) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "minertalk7",
+   "en": "Do you ever use minecarts just for fun?",
+   "official": "เธอเคยใช้รถรางเพื่อความสนุกสนานหรือเปล่า ?",
+   "th": "คุณเคยนั่งรถเหมืองเล่นสนุก ๆ บ้างไหม?",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เธอ"
+  },
+  {
+   "key": "friendlywitchtalk1",
+   "en": "What are you doing this far out in the swamp?",
+   "official": "ทำอะไรอยู่นะ?",
+   "th": "มาทำอะไรไกลถึงกลางหนองน้ำนี่ล่ะ?",
+   "status": "fixed",
+   "note": "แปลไม่ครบ"
+  },
+  {
+   "key": "friendlywitchtalk2",
+   "en": "This probably wasn't the best place to settle down",
+   "official": "ที่นี้อาจไม่ใช่สถานที่ที่ดีที่สุดที่จะตั้งถิ่นฐาน",
+   "th": "ที่นี่อาจไม่ใช่ที่ที่ดีที่สุดสำหรับลงหลักปักฐาน",
+   "status": "fixed",
+   "note": "สะกด (ที่นี้)"
+  },
+  {
+   "key": "friendlywitchtalk3",
+   "en": "I brew new potions every day, so check back tomorrow!",
+   "official": "ฉันปรุงยาใหม่ทุกวัน, ดังนั้น พรุ่งนี้มาใหม่นะ!",
+   "th": "ฉันปรุงน้ำยาใหม่ทุกวัน พรุ่งนี้แวะมาดูอีกนะ!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "friendlywitchtalk4",
+   "en": "Once you beat my sisters downstairs, I can sell you their equipment",
+   "official": "เมื่อเธอเอาชนะพี่สาวของฉันที่ชั้นล่างนี่ , ฉันสามารถขายอุปกรณ์ของหล่อนให้เธอได้นะ",
+   "th": "เมื่อคุณเอาชนะพี่น้องของฉันที่ชั้นล่างได้แล้ว ฉันจะขายอุปกรณ์สวมใส่ของพวกนางให้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เธอ"
+  },
+  {
+   "key": "stealthbasketangry1",
+   "en": "Impossible! No one can see through wicker!",
+   "official": "",
+   "th": "เป็นไปไม่ได้! ไม่มีใครมองทะลุตะกร้าหวายได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry2",
+   "en": "The basket... it has failed me",
+   "official": "",
+   "th": "ตะกร้า... มันทำให้ฉันผิดหวัง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry3",
+   "en": "I spent six months perfecting this disguise!",
+   "official": "",
+   "th": "ฉันใช้เวลาตั้งหกเดือนฝึกปลอมตัวแบบนี้จนสมบูรณ์แบบ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry4",
+   "en": "My grandfather hid from an entire army with one of these!",
+   "official": "",
+   "th": "ปู่ของฉันเคยซ่อนตัวจากทั้งกองทัพด้วยตะกร้าแบบนี้นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry5",
+   "en": "The manual said this was undetectable!",
+   "official": "",
+   "th": "คู่มือบอกว่ามันตรวจจับไม่ได้นี่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry6",
+   "en": "It worked on the guards in sector B!",
+   "official": "",
+   "th": "มันได้ผลกับพวกยามที่เขต B นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry7",
+   "en": "You got lucky. Next time you won't find me!",
+   "official": "",
+   "th": "ฟลุกไปเถอะ คราวหน้าไม่มีทางหาฉันเจอหรอก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry8",
+   "en": "Tell no one of this. I have a reputation",
+   "official": "",
+   "th": "ห้ามบอกใครเรื่องนี้ ฉันมีชื่อเสียงต้องรักษา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry9",
+   "en": "He who hides and runs away, lives to fight another day!",
+   "official": "",
+   "th": "ใครซ่อนตัวแล้วหนีไป จะได้รอดไว้สู้วันหน้า!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasketangry10",
+   "en": "Mwahahaha, you won't find me next time",
+   "official": "",
+   "th": "มวาฮ่าฮ่าฮ่า คราวหน้าหาฉันไม่เจอแน่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonastalk1",
+   "en": "Hi, I'm Jonas. Game Developer on Necesse!",
+   "official": "",
+   "th": "สวัสดี ฉันชื่อโจนัส ผู้พัฒนาเกม Necesse!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonastalk2",
+   "en": "I hope you're enjoying our game. Good job on making it this far.",
+   "official": "",
+   "th": "หวังว่าคุณจะสนุกกับเกมของเรานะ เก่งมากที่มาได้ไกลขนาดนี้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonastalk3",
+   "en": "I left a cool trinket for you on the Display Stand in my bedroom.",
+   "official": "",
+   "th": "ฉันทิ้งเครื่องประดับเจ๋ง ๆ ไว้ให้คุณบนแท่นโชว์ในห้องนอนของฉัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonastalk4",
+   "en": "Take care my friend and enjoy the rest of your journey in Necesse!",
+   "official": "",
+   "th": "ดูแลตัวเองนะเพื่อน ขอให้สนุกกับการเดินทางที่เหลือใน Necesse!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonastalk5",
+   "en": "Oh, and if you decide to attack me. I just want you to know that I'll absolutely destroy in 1v1 PVP. Just saying.",
+   "official": "",
+   "th": "อ้อ ถ้าคุณคิดจะโจมตีฉันล่ะก็ อยากให้รู้ไว้ว่าฉันถล่มคุณเละแน่ถ้าดวล PVP ตัวต่อตัว แค่บอกไว้เฉย ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasresponse1",
+   "en": "Hey Jonas!",
+   "official": "",
+   "th": "เฮ้ โจนัส!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasresponse2",
+   "en": "Thank you!",
+   "official": "",
+   "th": "ขอบคุณ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasresponse3",
+   "en": "REALLY!?",
+   "official": "",
+   "th": "จริงเหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasresponse4",
+   "en": "I will. Thank you Jonas, you're the best!",
+   "official": "",
+   "th": "แน่นอน ขอบคุณนะโจนัส คุณสุดยอดไปเลย!",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "friendlyjonasresponse5",
+   "en": "Noted.",
+   "official": "",
+   "th": "รับทราบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasangry1",
+   "en": "Heh, that's cute",
+   "official": "",
+   "th": "เฮะ น่ารักดีนี่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasangry2",
+   "en": "Don't test me kid",
+   "official": "",
+   "th": "อย่ามาลองของกับฉันนะเด็กน้อย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasangry3",
+   "en": "You wanna go!?",
+   "official": "",
+   "th": "อยากลองดีเหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasangry4",
+   "en": "I will END you",
+   "official": "",
+   "th": "เดี๋ยวได้จบเห่แน่",
+   "status": "new",
+   "note": "สรรพนามให้ตรงกับบทโจนัส"
+  },
+  {
+   "key": "friendlyjonasattack1",
+   "en": "COME AT ME BRO!!1!",
+   "official": "",
+   "th": "เข้ามาเลยพวก!!1!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonasdies",
+   "en": "NOOOOOOOOOOOOOOOOOOOOOOOOOOO!",
+   "official": "",
+   "th": "ไม่นนนนนนนนนนนนนนนนนนนนนนน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pirateattack1",
+   "en": "ATTAAACK!",
+   "official": "โจมมมมมมมตี!",
+   "th": "โจมมมมมมมตี!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pirateattack2",
+   "en": "Surrender ye rum and hit the plank!",
+   "official": "ยอมแพ้ซะเถอะ แล้วจมถังเหล้าไปซะ !",
+   "th": "ส่งเหล้ารัมมาซะ แล้วไปเดินกระดาน!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "pirateattack3",
+   "en": "Me gunpowder will make quick work of ya!",
+   "official": "ดินปืนของข้าจะทำให้งานนี้ง่ายขึ้น !",
+   "th": "ดินปืนของข้าจะจัดการเจ้าได้ในพริบตา!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "pirateattack4",
+   "en": "Avast! We got an enemy in sight!",
+   "official": "อวาสต์! เรามีศัตรูอยู่ในระยะ!",
+   "th": "หยุดก่อน! มีศัตรูอยู่ในสายตา!",
+   "status": "fixed",
+   "note": "Avast = หยุด"
+  },
+  {
+   "key": "pirateattack5",
+   "en": "We will be popping me rum when done with ya!",
+   "official": "ข้าจะเมาให้หัวถิ่มเลย หลังจากข้าจัดการกับแกได้!",
+   "th": "จัดการเจ้าเสร็จเมื่อไหร่ เราจะเปิดเหล้ารัมฉลองกัน!",
+   "status": "fixed",
+   "note": "ความหมาย + สะกด + เลี่ยง แก"
+  },
+  {
+   "key": "pirateattack6",
+   "en": "Me cutlass will slice ya to pieces!",
+   "official": "มีดสั้นของข้าจะหั่นแกเป็นชิ้นๆ!",
+   "th": "ดาบคัตลาสของข้าจะหั่นเจ้าเป็นชิ้น ๆ!",
+   "status": "fixed",
+   "note": "cutlass = ดาบโค้ง + เลี่ยง แก · ชื่อตาม item: Cutlass"
+  },
+  {
+   "key": "pirateattack7",
+   "en": "Ya will regret steppin' ya booty on our land!",
+   "official": "แกจะต้องเสียที่บังอาจมาบุกที่เกาะของข้า !",
+   "th": "เจ้าจะต้องเสียใจที่เหยียบเข้ามาในดินแดนของเรา!",
+   "status": "fixed",
+   "note": "สะกด + เลี่ยง แก"
+  },
+  {
+   "key": "pirateescape1",
+   "en": "Ya scared and be runnin!",
+   "official": "หนีไปเลยไอกระจอก!",
+   "th": "กลัวจนต้องวิ่งหนีเลยสินะ!",
+   "status": "fixed",
+   "note": "ผิดความ + สะกด ไอ้"
+  },
+  {
+   "key": "pirateescape2",
+   "en": "I am done with ya!",
+   "official": "ฉันหมดธุระกับแกแล้วไอกระจอก!",
+   "th": "ข้าหมดธุระกับเจ้าแล้ว!",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงตัวละคร"
+  },
+  {
+   "key": "pirateescape3",
+   "en": "Maybe next time lad!",
+   "official": "ไว้มาใหม่นะไอหนู!",
+   "th": "ไว้คราวหน้าค่อยว่ากันใหม่!",
+   "status": "fixed",
+   "note": "lad = คำตามเพศ"
+  },
+  {
+   "key": "battlechefangry1",
+   "en": "You messed with the wrong chef!",
+   "official": "แกมายุ่งกับพ่อครัวผิดคนแล้ว!",
+   "th": "เจ้ามาหาเรื่องพ่อครัวผิดคนแล้ว!",
+   "status": "fixed",
+   "note": "เลี่ยง แก"
+  },
+  {
+   "key": "battlechefangry2",
+   "en": "Let's get cooking!",
+   "official": "มาเริ่มกันเลย!",
+   "th": "ได้เวลาลงมือปรุงแล้ว!",
+   "status": "fixed",
+   "note": "น้ำเสียงโกรธ"
+  },
+  {
+   "key": "battlechefangry3",
+   "en": "Today's special: Sliced Up Heroes!",
+   "official": "เมนูพิเศษประจำวันนี้: เหล่าวีรบุรุษหั่นเป็นชิ้น!",
+   "th": "เมนูพิเศษวันนี้: ฮีโร่หั่นชิ้น!",
+   "status": "fixed",
+   "note": "สั้นลง"
+  },
+  {
+   "key": "battlechefangry4",
+   "en": "How dare you attack my restaurant!",
+   "official": "แกกล้าดียังไงถึงมาโจมตีร้านอาหารของฉัน!",
+   "th": "เจ้ากล้าดียังไงมาบุกร้านอาหารของข้า!",
+   "status": "fixed",
+   "note": "สรรพนามให้ตรงกันทั้งชุด"
+  },
+  {
+   "key": "stealthbasket1",
+   "en": "Must've been the wind...",
+   "official": "",
+   "th": "คงเป็นแค่ลมมั้ง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket2",
+   "en": "Did you see something?",
+   "official": "",
+   "th": "เห็นอะไรไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket3",
+   "en": "I could've sworn I heard something...",
+   "official": "",
+   "th": "สาบานได้ว่าได้ยินเสียงอะไรบางอย่าง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket4",
+   "en": "Huh? Just a weaved basket... where are they?",
+   "official": "",
+   "th": "หืม? แค่ตะกร้าสาน... แล้วพวกมันไปไหนล่ะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket5",
+   "en": "Did they seriously just drop a basket and run?",
+   "official": "",
+   "th": "นี่พวกมันทิ้งตะกร้าไว้แล้ววิ่งหนีไปจริง ๆ เหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket6",
+   "en": "A basket? I must be blind... where did they go?",
+   "official": "",
+   "th": "ตะกร้า? ฉันตาบอดไปแล้วแน่ ๆ... พวกมันไปไหนแล้ว?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket7",
+   "en": "Am I going crazy? It's just a basket!",
+   "official": "",
+   "th": "ฉันบ้าไปแล้วเหรอ? มันก็แค่ตะกร้า!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket8",
+   "en": "Nothing behind this basket... where did they sneak off to?",
+   "official": "",
+   "th": "หลังตะกร้าไม่มีอะไรเลย... พวกมันแอบไปทางไหน?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket9",
+   "en": "Wait... where did they go?!",
+   "official": "",
+   "th": "เดี๋ยวนะ... พวกมันไปไหนแล้ว?!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket10",
+   "en": "Where?? Oh, my boss will be so disappointed in me",
+   "official": "",
+   "th": "ไปไหน?? โธ่ เจ้านายต้องผิดหวังในตัวฉันมากแน่ ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket11",
+   "en": "They vanished! Check every corner!",
+   "official": "",
+   "th": "พวกมันหายไปแล้ว! ค้นให้ทั่วทุกมุม!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket12",
+   "en": "They were right here a second ago!",
+   "official": "",
+   "th": "เมื่อกี้ยังอยู่ตรงนี้อยู่เลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket13",
+   "en": "Vanished? Impossible...",
+   "official": "",
+   "th": "หายไปงั้นเหรอ? เป็นไปไม่ได้...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket14",
+   "en": "Did they just disappear into thin air?",
+   "official": "",
+   "th": "พวกมันหายไปกับอากาศเลยเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket15",
+   "en": "Why are you hiding?!",
+   "official": "",
+   "th": "ซ่อนทำไม?!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket16",
+   "en": "I swear I just saw someone!",
+   "official": "",
+   "th": "สาบานได้ว่าเมื่อกี้เห็นใครบางคน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket17",
+   "en": "What the... they're gone?",
+   "official": "",
+   "th": "อะไรกัน... หายไปแล้วเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket18",
+   "en": "Target lost... but how?",
+   "official": "",
+   "th": "เป้าหมายหายไป... แต่ได้ยังไง?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket19",
+   "en": "Coward, come back and fight!",
+   "official": "",
+   "th": "ไอ้ขี้ขลาด กลับมาสู้กันสิ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket20",
+   "en": "They couldn't have gotten far!",
+   "official": "",
+   "th": "พวกมันหนีไปไม่ไกลหรอก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket21",
+   "en": "Come out! I know you're around here somewhere!",
+   "official": "",
+   "th": "ออกมานะ! ฉันรู้ว่าเจ้าซ่อนอยู่แถวนี้แหละ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket22",
+   "en": "Wait till I get my eye on them..",
+   "official": "",
+   "th": "รอให้ฉันเห็นตัวก่อนเถอะ..",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket23",
+   "en": "Dammit, I lost them!",
+   "official": "",
+   "th": "บ้าเอ๊ย คลาดกันจนได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket24",
+   "en": "Where the hell are they?!",
+   "official": "",
+   "th": "พวกมันหายหัวไปไหนวะ?!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket25",
+   "en": "Are they invisible?! What sorcery is this?",
+   "official": "",
+   "th": "ล่องหนได้เหรอ?! นี่มันมนตร์ดำอะไรกัน?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket26",
+   "en": "A basket? Better not check it, there could be a SNAKE inside!",
+   "official": "",
+   "th": "ตะกร้าเหรอ? อย่าไปเปิดดูดีกว่า ข้างในอาจมีงูก็ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket27",
+   "en": "No, Nooo, Noooooooooo!!! Show yourself!",
+   "official": "",
+   "th": "ไม่ ไม่นะ ไม่นนนนนนน!!! ออกมาให้เห็นตัวซะ!",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

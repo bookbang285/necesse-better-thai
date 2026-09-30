@@ -1,0 +1,54 @@
+{
+ "category": "richpresence",
+ "entries": [
+  {
+   "key": "atmainmenu",
+   "en": "At Main Menu",
+   "official": "อยู่ที่ เมนูหลัก",
+   "th": "อยู่ที่เมนูหลัก",
+   "status": "fixed",
+   "note": "เว้นวรรคเกิน"
+  },
+  {
+   "key": "playingsingleplayer",
+   "en": "Singleplayer - <location>",
+   "official": "เล่นคนเดียว - <location>",
+   "th": "เล่นคนเดียว - <location>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hosting",
+   "en": "Hosting world - <location>",
+   "official": "Hosting โลก - <location>",
+   "th": "เปิดโลกให้เพื่อนเข้า - <location>",
+   "status": "fixed",
+   "note": "ทิ้งอังกฤษ"
+  },
+  {
+   "key": "playingwithfriends",
+   "en": "Playing with friends - <location>",
+   "official": "กำลังเล่นกับเพื่อน - <location>",
+   "th": "กำลังเล่นกับเพื่อน - <location>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playingonserver",
+   "en": "Playing on a server - <location>",
+   "official": "กำลังเล่นที่เซิฟเวอร์ - <location>",
+   "th": "กำลังเล่นในเซิร์ฟเวอร์ - <location>",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "unknownlocation",
+   "en": "Unknown location",
+   "official": "ไม่ทราบ",
+   "th": "ไม่ทราบตำแหน่ง",
+   "status": "fixed",
+   "note": "ตกคำ"
+  }
+ ],
+ "removed": []
+}

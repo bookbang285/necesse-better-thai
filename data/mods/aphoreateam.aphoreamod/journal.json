@@ -1,0 +1,86 @@
+{
+ "category": "journal",
+ "entries": [
+  {
+   "key": "infectedfieldssurface",
+   "en": "Infected Fields Surface",
+   "official": "พื้นผิวของทุ่งที่ติดเชื้อ",
+   "th": "พื้นผิวทุ่งติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedfieldscave",
+   "en": "Infected Fields Cave",
+   "official": "ถ้ำของทุ่งที่ติดเชื้อ",
+   "th": "ถ้ำทุ่งติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "killgelslimesforest",
+   "en": "[mob=gelslime] Kill 25 Gel Slimes in the forest",
+   "official": "[mob=gelslime] ฆ่าสไลม์เจล 25 ตัวในป่า",
+   "th": "[mob=gelslime] ฆ่าสไลม์เจล 25 ตัวในป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pickupfloralring",
+   "en": "[item=floralring] Cut a lot of grass in the forest to obtain the Floral Ring",
+   "official": "[item=floralring] ตัดหญ้าจำนวนมากในป่าเพื่อรับแหวนดอกไม้",
+   "th": "[item=floralring] ตัดหญ้าจำนวนมากในป่าเพื่อรับแหวนดอกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "killunstablegelslime",
+   "en": "[mob=unstablegelslime] Kill 1 Unstable Gel Slime",
+   "official": "[mob=unstablegelslime] ฆ่าสไลม์เจลที่ไม่เสถียร 1 ตัว",
+   "th": "[mob=unstablegelslime] ฆ่าสไลม์เจลไม่เสถียร 1 ตัว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "killpinkwitchesswamp",
+   "en": "[mob=pinkwitch] At night, kill 5 Pink Witches on the surface of the swamp",
+   "official": "[mob=pinkwitch] ในเวลากลางคืน ฆ่าแม่มดสีชมพู 5 ตัวบนพื้นผิวของหนองน้ำ",
+   "th": "[mob=pinkwitch] ในเวลากลางคืน ฆ่าแม่มดสีชมพู 5 ตัวบนพื้นผิวของหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pickupinfectedlogs",
+   "en": "[item=infectedlog] Chop to pick up 100 Infected Logs",
+   "official": "[item=infectedlog] ตัดเพื่อเก็บท่อนซุงที่ติดเชื้อ 100 ท่อน",
+   "th": "[item=infectedlog] ตัดต้นไม้เพื่อเก็บท่อนซุงติดเชื้อ 100 ท่อน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pickupspinel",
+   "en": "[item=spinel] Pick up 40 Spinel",
+   "official": "[item=spinel] เก็บสปิเนล 40 อัน",
+   "th": "[item=spinel] เก็บสปิเนล 40 อัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "activatebabylontower",
+   "en": "[item=lifespinel] Place a Life Spinel on the Babylon Tower",
+   "official": "[item=lifespinel] วางสปิเนลแห่งชีวิตบนหอคอยบาเบล",
+   "th": "[item=lifespinel] วางสปิเนลแห่งชีวิตบนหอคอยบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "findthespammer",
+   "en": "[item=thespammer] Find The Spammer",
+   "official": "[item=thespammer] ค้นหาสแปมเมอร์",
+   "th": "[item=thespammer] ค้นหาสแปมเมอร์",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

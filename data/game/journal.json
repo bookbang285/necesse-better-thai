@@ -1,0 +1,854 @@
+{
+ "category": "journal",
+ "entries": [
+  {
+   "key": "displaynotifications",
+   "en": "Display Notifications",
+   "official": "แสดงการแจ้งเตือน",
+   "th": "แสดงการแจ้งเตือน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "journal",
+   "en": "Adventure Journal",
+   "official": "บันทึกการผจญภัย",
+   "th": "บันทึกการผจญภัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "discovered",
+   "en": "Known Loot",
+   "official": "ค้นพบแล้ว",
+   "th": "ของดรอปที่รู้แล้ว",
+   "status": "fixed",
+   "note": "ตรงความ Known Loot"
+  },
+  {
+   "key": "undiscovered",
+   "en": "Unknown Loot",
+   "official": "ยังไม่ค้นพบ",
+   "th": "ของดรอปที่ยังไม่รู้",
+   "status": "fixed",
+   "note": "ตรงความ Unknown Loot"
+  },
+  {
+   "key": "mobsdiscovered",
+   "en": "<discovered>/<total>",
+   "official": "<discovered>/<total>",
+   "th": "<discovered>/<total>",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "unknownfalvortext",
+   "en": "...",
+   "official": "...",
+   "th": "...",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "treasures",
+   "en": "Treasures",
+   "official": "สมบัติ",
+   "th": "สมบัติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vinyls",
+   "en": "Vinyls",
+   "official": "แผ่นเสียงไวนิล",
+   "th": "แผ่นเสียง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "togglehide",
+   "en": "Hide/Show",
+   "official": ":ซ่อน/แสดง",
+   "th": "ซ่อน/แสดง",
+   "status": "fixed",
+   "note": "มี : เกิน"
+  },
+  {
+   "key": "newentry",
+   "en": "A new entry has been added to your [[Adventure Journal]]",
+   "official": "มีการเพิ่มรายการใหม่ให้กับคุณแล้ว [[[บันทึกการผจญภัย]]",
+   "th": "มีรายการใหม่ใน[[บันทึกการผจญภัย]]ของคุณ",
+   "status": "fixed",
+   "note": "วงเล็บเกิน + สำนวน"
+  },
+  {
+   "key": "newentrytip",
+   "en": "New entry available",
+   "official": "มีข้อมูลใหม่",
+   "th": "มีข้อมูลใหม่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "challenges",
+   "en": "Challenges",
+   "official": "ความท้าทาย",
+   "th": "ความท้าทาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "challengesreward",
+   "en": "Reward:",
+   "official": "รางวัล:",
+   "th": "รางวัล:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "surface",
+   "en": "Trees, flowers and fish",
+   "official": "ต้นไม้, ดอกไม้ และ ปลา",
+   "th": "ต้นไม้ ดอกไม้ และปลา",
+   "status": "fixed",
+   "note": "ไทยไม่ใช้จุลภาค"
+  },
+  {
+   "key": "cave",
+   "en": "Ores, minerals and fish",
+   "official": "แร่, แร่ธาตุ และ ปลา",
+   "th": "แร่ แร่ธาตุ และปลา",
+   "status": "fixed",
+   "note": "ไทยไม่ใช้จุลภาค"
+  },
+  {
+   "key": "biomes",
+   "en": "Biomes",
+   "official": "พื้นที่ชีวนิเวศ",
+   "th": "ไบโอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "forestsurface",
+   "en": "Forest Surface",
+   "official": "ป่า",
+   "th": "ป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forestsurfacelore",
+   "en": "The Forest Surface is know for having a lot of forest on the surface.",
+   "official": "พื้นที่ป่าเป็นที่รู้จักกันว่ามีป่าไม้จำนวนมากบนพื้นผิว.",
+   "th": "ป่าบนพื้นผิวขึ้นชื่อเรื่องมีป่าเยอะมากบนพื้นผิว",
+   "status": "fixed",
+   "note": "เล่นมุกตามต้นฉบับ · ไม่ใช้จุด · Surface=พื้นผิว ตามคลังศัพท์"
+  },
+  {
+   "key": "forestcave",
+   "en": "Forest Cave",
+   "official": "ถ้ำ",
+   "th": "ถ้ำป่า",
+   "status": "fixed",
+   "note": "ตกคำ ป่า"
+  },
+  {
+   "key": "forestdeepcave",
+   "en": "Forest Deep Cave",
+   "official": "ถ้ำลึก",
+   "th": "ถ้ำป่าชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "forestpiratevillage",
+   "en": "Pirate Village",
+   "official": "หมู่บ้านโจรสลัด",
+   "th": "หมู่บ้านโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainssurface",
+   "en": "Plains Surface",
+   "official": "ที่ราบ",
+   "th": "ที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainscave",
+   "en": "Plains Cave",
+   "official": "ถ้ำที่ราบ",
+   "th": "ถ้ำที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainsdeepcave",
+   "en": "Plains Deep Cave",
+   "official": "ถ้ำที่ราบชั้นลึก",
+   "th": "ถ้ำที่ราบชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowsurface",
+   "en": "Snow Surface",
+   "official": "พิ้นที่หิมะ",
+   "th": "หิมะ",
+   "status": "fixed",
+   "note": "สะกด + ให้เข้าชุดกับ ป่า/ที่ราบ"
+  },
+  {
+   "key": "snowcave",
+   "en": "Snow Cave",
+   "official": "ถ้ำหิมะ",
+   "th": "ถ้ำหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowdeepcave",
+   "en": "Snow Deep Cave",
+   "official": "ถ้ำหิมะชั้นลึก",
+   "th": "ถ้ำหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeon",
+   "en": "Dungeon",
+   "official": "ดันเจี้ยน",
+   "th": "ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampsurface",
+   "en": "Swamp Surface",
+   "official": "หนองน้ำ",
+   "th": "หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcave",
+   "en": "Swamp Cave",
+   "official": "ถ้ำหนองน้ำ",
+   "th": "ถ้ำหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampdeepcave",
+   "en": "Swamp Deep Cave",
+   "official": "ถ้ำลึกหนองน้ำ",
+   "th": "ถ้ำหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "desertsurface",
+   "en": "Desert Surface",
+   "official": "ทะเลทราย",
+   "th": "ทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertcave",
+   "en": "Desert Cave",
+   "official": "ถ้ำทะเลทราย",
+   "th": "ถ้ำทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertdeepcave",
+   "en": "Desert Deep Cave",
+   "official": "ถ้ำลึกทะเลทราย",
+   "th": "ถ้ำทะเลทรายชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "temple",
+   "en": "Temple",
+   "official": "วิหาร",
+   "th": "วิหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursions",
+   "en": "Incursions",
+   "official": "การรุกราน",
+   "th": "อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "forestdeepcaveincursion",
+   "en": "Forest Deep Cave Incursion",
+   "official": "การรุกรานถ่ำป่าชั้นลึก",
+   "th": "อินเคอร์ชันถ้ำป่าชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด"
+  },
+  {
+   "key": "snowdeepcaveincursion",
+   "en": "Snow Deep Cave Incursion",
+   "official": "การรุกรานถ้ำหิมะชั้นลึก",
+   "th": "อินเคอร์ชันถ้ำหิมะชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampdeepcaveincursion",
+   "en": "Swamp Deep Cave Incursion",
+   "official": "การรุกรานถ้ำหนองน้ำชั้นลึก",
+   "th": "อินเคอร์ชันถ้ำหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "desertdeepcaveincursion",
+   "en": "Desert Deep Cave Incursion",
+   "official": "การรุกรานถ้ำทะเลทรายชั้นลึก",
+   "th": "อินเคอร์ชันถ้ำทะเลทรายชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimecaveincursion",
+   "en": "Slime Cave Incursion",
+   "official": "การรุกรานถ้ำสไลม์",
+   "th": "อินเคอร์ชันถ้ำสไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "graveyardincursion",
+   "en": "Graveyard Incursion",
+   "official": "การรุกรานสุสาน",
+   "th": "อินเคอร์ชันสุสาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spidercastleincursion",
+   "en": "Spider Castle Incursion",
+   "official": "การรุกรานปราสาทแมงมุม",
+   "th": "อินเคอร์ชันปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sunarenaincursion",
+   "en": "Sun Arena Incursion",
+   "official": "การรุกรานอารีน่าแสงตะวัน",
+   "th": "อินเคอร์ชันอารีนาแสงตะวัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "moonarenaincursion",
+   "en": "Moon Arena Incursion",
+   "official": "การรุกรานอารีน่าจันทรา",
+   "th": "อินเคอร์ชันอารีนาแสงจันทร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystalhollowincursion",
+   "en": "Crystal Hollow Incursion",
+   "official": "การรุกรานหลุมลึกคริสตัล",
+   "th": "อินเคอร์ชันโพรงคริสตัล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "scrapyardincursion",
+   "en": "Scrapyard Incursion",
+   "official": "",
+   "th": "อินเคอร์ชันลานเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "claimchallenge",
+   "en": "Claim",
+   "official": "รับ",
+   "th": "รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "challengeclaimed",
+   "en": "Claimed",
+   "official": "รับแล้ว",
+   "th": "รับแล้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "challengecompleted",
+   "en": "You completed <challenge> in the <journal> [[Adventure Journal]]",
+   "official": "คุณสำเร็จ <challenge> ใน <journal> [[บันทึกการผจญภัย]]",
+   "th": "คุณทำ <challenge> สำเร็จแล้วใน <journal> [[บันทึกการผจญภัย]]",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "challengerewardavail",
+   "en": "A reward is now available in <journal> [[Adventure Journal]]",
+   "official": "รางวัลมีให้กดรับแล้วใน <journal> [[บันทึกการผจญภัย]]",
+   "th": "มีรางวัลให้รับแล้วใน <journal> [[บันทึกการผจญภัย]]",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "killzombies",
+   "en": "[mob=zombie] Kill 25 Zombies in the forest",
+   "official": "[mob=zombie] ฆ่า 25 ซอมบี้ในป่า",
+   "th": "[mob=zombie] ฆ่าซอมบี้ 25 ตัวในป่า",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย"
+  },
+  {
+   "key": "capturecow",
+   "en": "[item=rope] Capture a Cow using a Rope in the forest",
+   "official": "[item=rope] จับวัวด้วยเชือกในป่า",
+   "th": "[item=rope] จับวัวด้วยเชือกในป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "defeatstabby",
+   "en": "[mob=stabbybush] Defeat the Stabby Bush",
+   "official": "[mob=stabbybush] เอาชนะพุ่มเบอร์รี่ปลอม",
+   "th": "[mob=stabbybush] เอาชนะพุ่มเบอร์รี่จอมแทง",
+   "status": "fixed",
+   "note": "ชื่อไม่ตรงมอนสเตอร์"
+  },
+  {
+   "key": "usemysteriousportal",
+   "en": "[item=mysteriousportal] Use Mysterious Portal",
+   "official": "[item=mysteriousportal] ใช้ประตูลึกลับ",
+   "th": "[item=mysteriousportal] ใช้ประตูมิติลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Portal"
+  },
+  {
+   "key": "beatabear",
+   "en": "[mob=grizzlybear] Beat a Bear",
+   "official": "[mob=grizzlybear] เอาชนะหมี",
+   "th": "[mob=grizzlybear] เอาชนะหมี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mineorewithexplosive",
+   "en": "[item=ironbomb] Mine ore using explosives in the forest caves",
+   "official": "[item=ironbomb] ขุดแร่ในถ้ำธรรมดาด้วยระเบิด",
+   "th": "[item=ironbomb] ขุดแร่ด้วยระเบิดในถ้ำป่า",
+   "status": "fixed",
+   "note": "Forest caves = ถ้ำป่า"
+  },
+  {
+   "key": "defeatcaveling",
+   "en": "[mob=stonecaveling] Catch and defeat a Stone Caveling in the forest caves",
+   "official": "[mob=stonecaveling] ไล่จับและจัดการผู้เร้นกายในถ้ำธรรมดา",
+   "th": "[mob=stonecaveling] ไล่จับและจัดการชาวถ้ำหินในถ้ำป่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Caveling"
+  },
+  {
+   "key": "crafttungstenweapon",
+   "en": "[item=tungstensword] Craft a Tungsten Weapon",
+   "official": "[item=tungstensword] คราฟอาวุธทังสเตน",
+   "th": "[item=tungstensword] ประดิษฐ์อาวุธทังสเตน",
+   "status": "fixed",
+   "note": "สะกด คราฟ → ศัพท์ประดิษฐ์"
+  },
+  {
+   "key": "craftlifeelixir",
+   "en": "[item=lifeelixir] Craft a Life Elixir",
+   "official": "[item=lifeelixir] สร้างยาเพิ่มเลือด",
+   "th": "[item=lifeelixir] ประดิษฐ์น้ำอมฤตชีวิต",
+   "status": "fixed",
+   "note": "Life Elixir ไม่ใช่ยาเพิ่มเลือด · ชื่อตาม item: Life Elixir"
+  },
+  {
+   "key": "plantlemontree",
+   "en": "[item=lemon] Plant a Lemon Tree",
+   "official": "[item=lemon] ปลูกต้นเลมอน",
+   "th": "[item=lemon] ปลูกต้นเลมอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craftraspberryjuice",
+   "en": "[item=raspberryjuice] Craft some Raspberry Juice",
+   "official": "[item=raspberryjuice] ทำน้ำราสเบอรี่",
+   "th": "[item=raspberryjuice] ทำน้ำผลไม้ราสเบอร์รี่",
+   "status": "fixed",
+   "note": "สะกด · ชื่อตาม item: Raspberry Juice"
+  },
+  {
+   "key": "smackleafpiles",
+   "en": "[item=leafpile] Smack 20 Leaf Piles",
+   "official": "[item=leafpile] วางพื้นใบไม้ 20 อัน",
+   "th": "[item=leafpile] ตีกองใบไม้ 20 กอง",
+   "status": "fixed",
+   "note": "ผิดความ (Smack = ตี)"
+  },
+  {
+   "key": "capturebee",
+   "en": "[item=net] Capture a Bee with a Net in the plains",
+   "official": "[item=net] จับผึ้งด้วยตาข่ายในที่ราบ",
+   "th": "[item=net] จับผึ้งด้วยตาข่ายในที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "breakrunicboulder",
+   "en": "[item=runicboulder] Break 3 Runic Boulders",
+   "official": "[item=runicboulder] ทำลาย 3 ก้อนหินรูน",
+   "th": "[item=runicboulder] ทำลายก้อนหินรูน 3 ก้อน",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย"
+  },
+  {
+   "key": "equiprunicset",
+   "en": "[item=runicchestplate] Equip a full Runic Armor Set",
+   "official": "[item=runicchestplate] สวมใส่ชุดเซ็ทรูน",
+   "th": "[item=runicchestplate] สวมชุดเกราะรูนครบเซ็ต",
+   "status": "fixed",
+   "note": "สะกด เซ็ต"
+  },
+  {
+   "key": "fellthechieftain",
+   "en": "[mob=chieftain] Defeat the Runebound Chieftain",
+   "official": "[mob=chieftain] เอาชนะหัวหน้าเผ่ารูนเบานด์",
+   "th": "[mob=chieftain] เอาชนะหัวหน้าเผ่ารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craftdryadweapon",
+   "en": "[item=dryadgreathammer] Craft a Dryad Weapon at the Anvil",
+   "official": "[item=dryadgreathammer] ประดิษฐ์อาวุธดรายแอดที่ทั่งตีเหล็ก",
+   "th": "[item=dryadgreathammer] ประดิษฐ์อาวุธดรายแอดที่ทั่งตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "possessedbyforestspector",
+   "en": "[mob=forestspector] Become fully possessed by a Forest Spector",
+   "official": "[mob=forestspector] ถูกผีสิงโดยสมบูรณ์จากวิญญาณป่าไม้",
+   "th": "[mob=forestspector] ถูกวิญญาณป่าไม้สิงร่างอย่างสมบูรณ์",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "wintictactoevscrone",
+   "en": "[mob=thecursedcrone] Beat The Cursed Crone at her own game",
+   "official": "[mob=thecursedcrone] เอาชนะยายเฒ่าต้องสาป",
+   "th": "[mob=thecursedcrone] เอาชนะยายเฒ่าต้องสาปในเกมของนางเอง",
+   "status": "fixed",
+   "note": "ตกความ at her own game"
+  },
+  {
+   "key": "catchicefish",
+   "en": "[item=icefish] Catch an Icefish",
+   "official": "[item=icefish] ตกปลาน้ำแข็ง",
+   "th": "[item=icefish] ตกปลาน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pickupsnowballs",
+   "en": "[item=snowball] Destroy snow piles to pick up 25 Snowballs",
+   "official": "[item=snowball] ทำลายพื้นหิมะเพื่อเก็บ 25 ลูกบอลหิมะ",
+   "th": "[item=snowball] ทำลายกองหิมะเพื่อเก็บบอลหิมะ 25 ลูก",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย · ชื่อตาม item: Snowball"
+  },
+  {
+   "key": "findweticicle",
+   "en": "[item=weticicle] Find the Wet Icicle",
+   "official": "[item=weticicle] ตามหาแท่งน้ำแข็งเปียก",
+   "th": "[item=weticicle] ตามหาแท่งน้ำแข็งเปียก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "equipfrostset",
+   "en": "[item=frostchestplate] Craft and equip a full Frost Armor Set",
+   "official": "[item=frostchestplate] ประดิษฐ์และสวมใส่ชุดเซ็ทเกราะเยือกแข็ง",
+   "th": "[item=frostchestplate] ประดิษฐ์และสวมชุดเกราะเยือกแข็งครบเซ็ต",
+   "status": "fixed",
+   "note": "สะกด เซ็ต"
+  },
+  {
+   "key": "impalejavelins",
+   "en": "[item=icejavelin] Impale the same enemy 5 times using Ice Javelins in the snow caves",
+   "official": "[item=icejavelin] แทงศัตรูตัวเดียวกัน 5 ครั้งโดยใช้ ศรน้ำแข็ง ในถ้ำหิมะ",
+   "th": "[item=icejavelin] แทงศัตรูตัวเดียวกัน 5 ครั้งด้วยหอกซัดน้ำแข็งในถ้ำหิมะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Javelin"
+  },
+  {
+   "key": "destroyroyalegg",
+   "en": "[item=royalegg] Destroy a Royal Egg",
+   "official": "[item=royalegg] ทำลายไข่ราชินีแมงมุม",
+   "th": "[item=royalegg] ทำลายไข่ราชินีแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "walkondeepice",
+   "en": "[item=spikedboots] Walk on Deep Ice without slipping",
+   "official": "[item=spikedboots] เดินบนพื้นน้ำแข็งโดยไม่ลื่น",
+   "th": "[item=spikedboots] เดินบนน้ำแข็งชั้นลึกโดยไม่ลื่น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Deep"
+  },
+  {
+   "key": "obtainlandscaping",
+   "en": "[item=landscapingstation] Obtain the Landscaping Station",
+   "official": "[item=landscapingstation] ได้รับโต๊ะประดิษฐ์แผนที่",
+   "th": "[item=landscapingstation] ได้รับโต๊ะภูมิประเทศ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "severalpotionbuffs",
+   "en": "[item=battlepotion] Have 5 or more active potion buffs in the snow caves",
+   "official": "[item=battlepotion] มีบัฟยาที่ใช้งานอยู่ 5 อันขึ้นไปในถ้ำหิมะ",
+   "th": "[item=battlepotion] มีบัฟจากน้ำยาทำงานพร้อมกัน 5 อย่างขึ้นไปในถ้ำหิมะ",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "craftroastedfrogleg",
+   "en": "[item=roastedfrogleg] Craft a Roasted Frog Leg",
+   "official": "[item=roastedfrogleg] ทำขากบย่าง",
+   "th": "[item=roastedfrogleg] ทำขากบย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pickupswamplarvae",
+   "en": "[item=swamplarva] Destroy grass to pick up 10 Swamp Larvae",
+   "official": "[item=swamplarva] ทำลายพื้นหญ้าเพื่อเก็บ 10 เหยื่อหนอนตัวอ่อน",
+   "th": "[item=swamplarva] ทำลายหญ้าเพื่อเก็บหนอนหนองน้ำ 10 ตัว",
+   "status": "fixed",
+   "note": "ลำดับลักษณนาม + ชื่อ"
+  },
+  {
+   "key": "gathermushrooms",
+   "en": "[item=mushroom] Gather 30 Mushrooms in the swamp",
+   "official": "[item=mushroom] เก็บ 30 เห็ดในหนองน้ำ",
+   "th": "[item=mushroom] เก็บเห็ด 30 ดอกในหนองน้ำ",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย"
+  },
+  {
+   "key": "cutswampthorns",
+   "en": "[item=thorns] Cut down 200 Thorns in the swamp caves",
+   "official": "[item=thorns] ตัด 200 หนามในถ้ำหนองน้ำ",
+   "th": "[item=thorns] ตัดหนาม 200 ต้นในถ้ำหนองน้ำ",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย"
+  },
+  {
+   "key": "craftivytool",
+   "en": "[item=ivypickaxe] Craft an Ivy Axe, Pickaxe or Shovel",
+   "official": "[item=ivypickaxe] ประดิษฐ์ ขวานไม้เลื้อย อีเต้อไม้เลื้อย พลั่วไม้เลื้อย",
+   "th": "[item=ivypickaxe] ประดิษฐ์ขวาน อีเต้อ หรือพลั่วไม้เลื้อย",
+   "status": "fixed",
+   "note": "ตก หรือ"
+  },
+  {
+   "key": "partyinswampcaves",
+   "en": "[mob=human] Have 2 Settlers or more join your Adventure Party while exploring the swamp caves",
+   "official": "[mob=human] มี 2 ผู้อพยพ หรือมากกว่า เข้าร่วมปาร์ตี้ผจญภัยในการสำรวจถ้ำหนองน้ำ",
+   "th": "[mob=human] มีชาวนิคม 2 คนขึ้นไปร่วมปาร์ตี้ผจญภัยขณะสำรวจถ้ำหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Settler"
+  },
+  {
+   "key": "enchantandequipset",
+   "en": "[item=enchantingscroll] Have a fully enchanted Armor Set equipped while exploring the swamp caves",
+   "official": "[item=enchantingscroll] มีชุดเซ็ทที่เสริมพลังขั้นสุดสวมใส่อยู่ขณะสำรวจถ้ำหนองน้ำ",
+   "th": "[item=enchantingscroll] สวมชุดเกราะที่เสริมพลังครบทุกชิ้นขณะสำรวจถ้ำหนองน้ำ",
+   "status": "fixed",
+   "note": "สำนวน + สะกด"
+  },
+  {
+   "key": "craftdecayingleaf",
+   "en": "[item=decayingleaf] Craft a Decaying Leaf",
+   "official": "[item=decayingleaf] ประดิษฐ์ใบไม้ที่เน่าเปื่อย",
+   "th": "[item=decayingleaf] ประดิษฐ์ใบไม้เน่า",
+   "status": "fixed",
+   "note": "ให้ตรงชื่อไอเทม"
+  },
+  {
+   "key": "cutswampcobweb",
+   "en": "[item=cobweb] Cut down 1000 Cobweb in the swamp caves",
+   "official": "[item=cobweb] ตัดใยแมงมุมในถ้ำหนองน้ำจำนวน 1,000",
+   "th": "[item=cobweb] ตัดหยากไย่ 1000 ผืนในถ้ำหนองน้ำ",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย · ชื่อตาม object: Cobweb"
+  },
+  {
+   "key": "findinefficientfeather",
+   "en": "[item=inefficientfeather] Find an Inefficient Feather",
+   "official": "[item=inefficientfeather] ตามหาขนนกไร้ค่า",
+   "th": "[item=inefficientfeather] ตามหาขนนกไร้ประสิทธิภาพ",
+   "status": "fixed",
+   "note": "ชื่อตาม item: Inefficient Feather"
+  },
+  {
+   "key": "eatcoconut",
+   "en": "[item=coconut] Find and eat a coconut",
+   "official": "[item=coconut] ตามหาและกินมะพร้าว",
+   "th": "[item=coconut] ตามหาและกินมะพร้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craftpalmfurniture",
+   "en": "[item=palmbench] Craft a piece of Palm Furniture at the Carpenters Bench",
+   "official": "[item=palmbench] ประดิษฐ์เฟอร์นิเจอร์จากต้นปาล์มที่โต๊ะงานช่างไม้",
+   "th": "[item=palmbench] ประดิษฐ์เฟอร์นิเจอร์จากต้นปาล์มที่โต๊ะงานช่างไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smashvases",
+   "en": "[item=vase] Smash 30 Vases",
+   "official": "[item=vase] ทุบ 30 แจกัน",
+   "th": "[item=vase] ทุบแจกัน 30 ใบ",
+   "status": "fixed",
+   "note": "ลำดับลักษณนามไทย"
+  },
+  {
+   "key": "equipsettlerquartz",
+   "en": "[item=quartzchestplate] Equip one of your Settlers with a full Quartz Armor Set",
+   "official": "[item=quartzchestplate] ติดตั้งชุดเกราะเขี้ยวหนุมานครบชุดให้กับผู้อพยพของคุณคนใดคนหนึ่ง",
+   "th": "[item=quartzchestplate] ให้ชาวนิคมคนหนึ่งสวมชุดเกราะควอตซ์ครบเซ็ต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "findcavelingoasis",
+   "en": "[mob=sandstonecaveling] Find the Caveling Oasis",
+   "official": "[mob=sandstonecaveling] ตามหาผู้เร้นกายโอเอซิส",
+   "th": "[mob=sandstonecaveling] ตามหาโอเอซิสชาวถ้ำ",
+   "status": "fixed",
+   "note": "ผิดความ + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "lootdeepdeserttrinket",
+   "en": "[item=scryingmirror] Find and loot a Trinket from the Deep Desert Caves",
+   "official": "[item=scryingmirror] ค้นหาเครื่องประดับจากถ้ำในทะเลทรายชั้นลึก",
+   "th": "[item=scryingmirror] หาและเก็บเครื่องประดับจากถ้ำทะเลทรายชั้นลึก",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "oneshotskeleton",
+   "en": "[mob=ancientskeleton] Kill a Skeleton with a single hit in the desert caves",
+   "official": "[mob=ancientskeleton] ฆ่าโครงกระดูกด้วยการโจมตีเพียงครั้งเดียวในถ้ำทะเลทราย",
+   "th": "[mob=ancientskeleton] ฆ่าโครงกระดูกด้วยการโจมตีเพียงครั้งเดียวในถ้ำทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "findtemplebiome",
+   "en": "[mob=sageandgrit] Find a way further below...",
+   "official": "[mob=sageandgrit] หาทางลงลึกขึ้นไปอีก...",
+   "th": "[mob=sageandgrit] หาทางลงไปให้ลึกกว่านี้...",
+   "status": "fixed",
+   "note": "ลงลึกขึ้น ขัดกัน"
+  },
+  {
+   "key": "findsecretpainting",
+   "en": "[item=paintingelder] Find the Secret Painting and steal it",
+   "official": "[item=paintingelder] ตามหาภาพวาดลับและขโมยมันมา",
+   "th": "[item=paintingelder] ตามหาภาพวาดลับและขโมยมันมา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "defeatoldnemesis",
+   "en": "[mob=fallenwizard] Defeat your Old Nemesis",
+   "official": "[mob=fallenwizard] เอาชนะศัตรูเก่าของคุณ",
+   "th": "[mob=fallenwizard] เอาชนะคู่ปรับเก่าของคุณ",
+   "status": "fixed",
+   "note": "ตรงความ Nemesis"
+  },
+  {
+   "key": "craftfallenaltar",
+   "en": "[item=fallenaltar] Craft a Fallen Altar",
+   "official": "[item=fallenaltar] สร้างแท่นบูชาร้าง",
+   "th": "[item=fallenaltar] สร้างแท่นบูชาร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "freecapturedmage",
+   "en": "[mob=magehuman] Find and free the Captured Mage",
+   "official": "[mob=magehuman] ตามหาและปลดปล่อยจอมเวทย์ที่ถูกจับ",
+   "th": "[mob=magehuman] ตามหาและปลดปล่อยนักเวทที่ถูกจับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Mage"
+  },
+  {
+   "key": "upgradealchemytable",
+   "en": "[item=voidalchemytable] Upgrade your Alchemy Table into a Void Alchemy Table",
+   "official": "[item=voidalchemytable] อัปเกรดโต๊ะปรุงยาของคุณให้เป็นโต๊ะปรุงยาแห่งความมืด",
+   "th": "[item=voidalchemytable] อัปเกรดโต๊ะปรุงยาของคุณให้เป็นโต๊ะปรุงยาแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "findvoidwizardchamber",
+   "en": "[mob=voidwizard] Find the Void Wizards chamber",
+   "official": "[mob=voidwizard] ค้นหาห้องพ่อมดแห่งความมืด",
+   "th": "[mob=voidwizard] ค้นหาห้องพ่อมดแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "defeatpirateswhileonboat",
+   "en": "[item=woodboat] Defeat 5 Pirates while sailing",
+   "official": "[item=woodboat] เอาชนะโจรสลัด 5 คนในขณะที่กำลังเดินทางบนเรือ",
+   "th": "[item=woodboat] เอาชนะโจรสลัด 5 คนขณะล่องเรือ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "freecapturedstylist",
+   "en": "[item=stylishflower] Find and free the Captured Stylist",
+   "official": "[item=stylishflower] ตามหาและปลดปล่อยช่างเสริมสวยที่ถูกจับ",
+   "th": "[item=stylishflower] ตามหาและปลดปล่อยช่างเสริมสวยที่ถูกจับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "destroycoinstacks",
+   "en": "[item=coinstack] Destroy 5 Coin Stacks in a pirate village",
+   "official": "[item=coinstack] ทำลายกองเหรียญ 5 อันในหมู่บ้านโจรสลัด",
+   "th": "[item=coinstack] ทำลายกองเหรียญ 5 กองในหมู่บ้านโจรสลัด",
+   "status": "fixed",
+   "note": "ลักษณนาม"
+  }
+ ],
+ "removed": []
+}

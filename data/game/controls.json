@@ -1,0 +1,702 @@
+{
+ "category": "controls",
+ "entries": [
+  {
+   "key": "groupgeneral",
+   "en": "General",
+   "official": "ทั่วไป",
+   "th": "ทั่วไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "groupmovement",
+   "en": "Movement",
+   "official": "การเคลื่อนที",
+   "th": "การเคลื่อนที่",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "grouphotbar",
+   "en": "Hotbar",
+   "official": "แถบไอเทมลัด",
+   "th": "แถบไอเทมลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "groupitemsets",
+   "en": "Item sets",
+   "official": "ไอเทมเซ็ท",
+   "th": "เซ็ตไอเทม",
+   "status": "fixed",
+   "note": "สะกดเซ็ต"
+  },
+  {
+   "key": "groupmisc",
+   "en": "Miscellaneous",
+   "official": "จิปาถะ",
+   "th": "เบ็ดเตล็ด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "groupkeymods",
+   "en": "Key modifiers",
+   "official": "ตั้งค่าปุ่ม",
+   "th": "ปุ่มปรับเปลี่ยน",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "groupdebug",
+   "en": "Debug",
+   "official": "Debug",
+   "th": "ดีบัก",
+   "status": "fixed",
+   "note": "ทับศัพท์"
+  },
+  {
+   "key": "mouse1",
+   "en": "Attack/place/use",
+   "official": "โจมตี/วาง/ใช้",
+   "th": "โจมตี/วาง/ใช้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mouse2",
+   "en": "Interact",
+   "official": "โต้ตอบ",
+   "th": "โต้ตอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moveup",
+   "en": "Move up",
+   "official": "เคลื่อนที่ขึ้น",
+   "th": "เดินขึ้น",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "moveleft",
+   "en": "Move left",
+   "official": "เคลื่อนที่ไปทางซ้าย",
+   "th": "เดินซ้าย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "movedown",
+   "en": "Move down",
+   "official": "เคลื่อนที่ลง",
+   "th": "เดินลง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "moveright",
+   "en": "Move right",
+   "official": "เคลื่อนที่ไปทางชวา",
+   "th": "เดินขวา",
+   "status": "fixed",
+   "note": "สะกด (ชวา)"
+  },
+  {
+   "key": "movetomouse",
+   "en": "Move to mouse",
+   "official": "เคลื่อนที่ไปตามเมาส์",
+   "th": "เดินไปทางเมาส์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "togglecursor",
+   "en": "Toggle cursor",
+   "official": "เปิด/ปิด เคอร์เซอร์",
+   "th": "เปิด/ปิดเคอร์เซอร์",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "inventory",
+   "en": "Inventory",
+   "official": "ช่องเก็บของ",
+   "th": "ช่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healthpotion",
+   "en": "Use health potion",
+   "official": "ใช้ยาเพิ่มเลือด",
+   "th": "ใช้น้ำยาฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "manapotion",
+   "en": "Use mana potion",
+   "official": "ใช้ยาเพิ่มมานา",
+   "th": "ใช้น้ำยาฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ชื่อตาม item: Mana Potion"
+  },
+  {
+   "key": "eatfood",
+   "en": "Eat food",
+   "official": "กินอาหาร",
+   "th": "กินอาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "usemount",
+   "en": "Use mount",
+   "official": "ใช้พาหนะ",
+   "th": "ใช้พาหนะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "setability",
+   "en": "Use armor set ability",
+   "official": "ใช้ความสามารถของชุดเกราะ",
+   "th": "ใช้ความสามารถเซ็ตเกราะ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "trinketability",
+   "en": "Use trinket ability",
+   "official": "ใช้ความสามารถของเครื่องประดับ",
+   "th": "ใช้ความสามารถเครื่องประดับ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "openadventureparty",
+   "en": "Open adventure party",
+   "official": "เปิดปาร์ตี้ผจญภัย",
+   "th": "เปิดปาร์ตี้ผจญภัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "openadventurejournal",
+   "en": "Open adventure journal",
+   "official": "เปิดบันทึกการผจญภัย",
+   "th": "เปิดบันทึกการผจญภัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "opensettlement",
+   "en": "Open settlement",
+   "official": "เปิดเมนูถิ่นฐาน",
+   "th": "เปิดเมนูนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "smartmining",
+   "en": "Toggle smart mining",
+   "official": "สลับเป็นการขุดอย่างชาญฉลาด",
+   "th": "เปิด/ปิดขุดอัจฉริยะ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "lootall",
+   "en": "Loot all",
+   "official": "เก็บของทั้งหมด",
+   "th": "เก็บของทั้งหมด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sortinventory",
+   "en": "Sort inventory",
+   "official": "จัดเรียงช่องเก็บของ",
+   "th": "จัดเรียงช่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quickstack",
+   "en": "Quick stack nearby",
+   "official": "ช่องถัดเร่งด่วน",
+   "th": "เก็บเข้ากล่องใกล้เคียงด่วน",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "pipette",
+   "en": "Pipette",
+   "official": "ปิเปต",
+   "th": "หลอดดูด",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "pipettetip",
+   "en": "Mouse over an object or tile and click this hotkey to move it to the selected hotbar slot",
+   "official": "วางเมาส์เหนือวัตถุแล้วคลิกปุ่มลัดนี้เพื่อย้ายไปยังช่องเร่งด่วนที่เลือก",
+   "th": "ชี้เมาส์ที่วัตถุหรือพื้น แล้วกดปุ่มลัดนี้เพื่อย้ายมาไว้ที่ช่องแถบไอเทมลัดที่เลือก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ขาด tile"
+  },
+  {
+   "key": "eraser",
+   "en": "Eraser",
+   "official": "ยางลบ",
+   "th": "ยางลบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "erasertip",
+   "en": "Creative only!\\nGives you an eraser that can be used to remove objects in the world",
+   "official": "โหมดสร้างสรรค์เท่านั้น!\\nมอบยางลบให้คุณสำหรับลบสิ่งของต่างๆในโลก",
+   "th": "เฉพาะโหมดสร้างสรรค์!\\nให้ยางลบสำหรับลบวัตถุในโลก",
+   "status": "fixed",
+   "note": "ไม้ยมก + กระชับ"
+  },
+  {
+   "key": "scoreboard",
+   "en": "Scoreboard",
+   "official": "กระดานคะแนน",
+   "th": "กระดานคะแนน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showworldmap",
+   "en": "Show world map",
+   "official": "แสดงแผนที่โลก",
+   "th": "แสดงแผนที่โลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zoomin",
+   "en": "Zoom in",
+   "official": "ซูมเข้า",
+   "th": "ซูมเข้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zoomout",
+   "en": "Zoom out",
+   "official": "ซูมออก",
+   "th": "ซูมออก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hidecursor",
+   "en": "Hide Cursor",
+   "official": "ซ่อนเคอเซอร์",
+   "th": "ซ่อนเคอร์เซอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "hideui",
+   "en": "Hide UI",
+   "official": "ซ่อน UI",
+   "th": "ซ่อน UI",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "screenshot",
+   "en": "Screenshot",
+   "official": "บันทึกภาพหน้าจอ",
+   "th": "จับภาพหน้าจอ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "debuginfo",
+   "en": "Debug info",
+   "official": "Debug info",
+   "th": "ข้อมูลดีบัก",
+   "status": "fixed",
+   "note": "แปล"
+  },
+  {
+   "key": "debughud",
+   "en": "Debug hud",
+   "official": "Debug hud",
+   "th": "HUD ดีบัก",
+   "status": "fixed",
+   "note": "แปล"
+  },
+  {
+   "key": "buffpotions",
+   "en": "Use buff potions",
+   "official": "ใช้ยาเพิ่มพลัง",
+   "th": "ใช้น้ำยาบัฟ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "placetorch",
+   "en": "Place torch",
+   "official": "วางคบเพลิง",
+   "th": "วางคบเพลิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "expressionwheel",
+   "en": "Expression wheel",
+   "official": "วงล้อแสดงความรู้สึก",
+   "th": "วงล้ออารมณ์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "nexthotbar",
+   "en": "Next hotbar slot",
+   "official": "แถบไอเทมลัดช่องถัดไป",
+   "th": "ช่องแถบไอเทมลัดถัดไป",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "prevhotbar",
+   "en": "Previous hotbar slot",
+   "official": "แถบไอเทมลัดช่องก่อนหน้า",
+   "th": "ช่องแถบไอเทมลัดก่อนหน้า",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "hotbarslot",
+   "en": "Hotbar slot <number>",
+   "official": "ช่องแถบไอเทมลัด <number>",
+   "th": "ช่องแถบไอเทมลัด <number>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "itemset",
+   "en": "Item set <number>",
+   "official": "ชุดไอเทม <number>",
+   "th": "เซ็ตไอเทม <number>",
+   "status": "fixed",
+   "note": "ศัพท์เซ็ต"
+  },
+  {
+   "key": "invlock",
+   "en": "Toggle slot locked",
+   "official": "ล็อคการสลับแถบไอเทมลัด",
+   "th": "ล็อก/ปลดล็อกช่อง",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "invquickmove",
+   "en": "Quick move",
+   "official": "ย้ายด่วน",
+   "th": "ย้ายด่วน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "invtrash",
+   "en": "Quick trash",
+   "official": "ลบด่วน",
+   "th": "ทิ้งลงถังขยะด่วน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "invdrop",
+   "en": "Quick drop",
+   "official": "ทิ้งด่วน",
+   "th": "ทิ้งด่วน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craft10",
+   "en": "Craft 10",
+   "official": "ประดิษฐ์ 10 ชิ้น",
+   "th": "ประดิษฐ์ 10 ชิ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craftall",
+   "en": "Craft all",
+   "official": "ประดิษฐ์ทั้งหมด",
+   "th": "ประดิษฐ์ทั้งหมด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "interacttip",
+   "en": "Interact",
+   "official": "ตอบโต้",
+   "th": "โต้ตอบ",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "usetip",
+   "en": "Use",
+   "official": "ใช้",
+   "th": "ใช้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "opentip",
+   "en": "Open",
+   "official": "เปิด",
+   "th": "เปิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "closetip",
+   "en": "Close",
+   "official": "ปิด",
+   "th": "ปิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "activatetip",
+   "en": "Activate",
+   "official": "ใช้งาน",
+   "th": "ใช้งาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "edittip",
+   "en": "Edit",
+   "official": "แก้ไข",
+   "th": "แก้ไข",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "removetip",
+   "en": "Remove",
+   "official": "นำออก",
+   "th": "นำออก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deletetip",
+   "en": "Delete",
+   "official": "ลบ",
+   "th": "ลบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cleartip",
+   "en": "Clear",
+   "official": "คืนค่า",
+   "th": "ล้าง",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "clearsearchtip",
+   "en": "Clear search",
+   "official": "คืนคาการค้นหา",
+   "th": "ล้างการค้นหา",
+   "status": "fixed",
+   "note": "สะกด + แปลผิด"
+  },
+  {
+   "key": "harvesttip",
+   "en": "Harvest",
+   "official": "เก็บเกี่ยว",
+   "th": "เก็บเกี่ยว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspecttip",
+   "en": "Inspect",
+   "official": "ตรวจสอบ",
+   "th": "ตรวจสอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "talktip",
+   "en": "Talk",
+   "official": "คุย",
+   "th": "คุย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mounttip",
+   "en": "Mount",
+   "official": "ขี่",
+   "th": "ขี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zoomtip",
+   "en": "Zoom in/out",
+   "official": "ซูม เข้า/ออก",
+   "th": "ซูมเข้า/ออก",
+   "status": "fixed",
+   "note": "ช่องว่าง"
+  },
+  {
+   "key": "addroptip",
+   "en": "Add rope",
+   "official": "ผูกเชือก",
+   "th": "ผูกเชือก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "removeropetip",
+   "en": "Remove rope",
+   "official": "นำเชือกออก",
+   "th": "ถอดเชือก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "feedtip",
+   "en": "Feed",
+   "official": "ให้อาหาร",
+   "th": "ให้อาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sheartip",
+   "en": "Shear",
+   "official": "ตัดขน",
+   "th": "ตัดขน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "milktip",
+   "en": "Milk",
+   "official": "รีดนม",
+   "th": "รีดนม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pettip",
+   "en": "Pet",
+   "official": "ลูบหัว",
+   "th": "ลูบหัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "equiptip",
+   "en": "Equip",
+   "official": "สวมใส่",
+   "th": "สวมใส่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "torchplacetip",
+   "en": "Use [input=placetorch] to quick place",
+   "official": "ใช้งาน [input=placetorch] เพื่อวางเร่งด่วน",
+   "th": "ใช้ [input=placetorch] เพื่อวางด่วน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "navigatetip",
+   "en": "Navigate",
+   "official": "นำทาง",
+   "th": "นำทาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "movetip",
+   "en": "Move",
+   "official": "เคลื่อนย้าย",
+   "th": "เคลื่อนย้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aimtip",
+   "en": "Aim",
+   "official": "เล็ง",
+   "th": "เล็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hotbartip",
+   "en": "Navigate hotbar",
+   "official": "Navigate แทบไอเทมลัด",
+   "th": "เลือกช่องแถบไอเทมลัด",
+   "status": "fixed",
+   "note": "ค้างอังกฤษ + สะกด"
+  },
+  {
+   "key": "spacebartip",
+   "en": "Spacebar",
+   "official": "Spacebar",
+   "th": "สเปซบาร์",
+   "status": "fixed",
+   "note": "ทับศัพท์"
+  },
+  {
+   "key": "backspacetip",
+   "en": "Backspace",
+   "official": "Backspace",
+   "th": "Backspace",
+   "status": "same",
+   "note": "ชื่อปุ่มคีย์บอร์ด"
+  },
+  {
+   "key": "capitalizetip",
+   "en": "Capitalize",
+   "official": "Capitalize",
+   "th": "ตัวพิมพ์ใหญ่",
+   "status": "fixed",
+   "note": "แปล"
+  },
+  {
+   "key": "crafttohand",
+   "en": "Craft to hand",
+   "official": "ประดิษฐ์ใส่มือ",
+   "th": "ประดิษฐ์ใส่มือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crafttoinventory",
+   "en": "Craft to inventory",
+   "official": "ประดิษฐ์ใส่ช่องเก็บของ",
+   "th": "ประดิษฐ์ใส่ช่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

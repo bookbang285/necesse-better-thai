@@ -1,0 +1,9270 @@
+{
+ "category": "item",
+ "entries": [
+  {
+   "key": "material",
+   "en": "Material",
+   "official": "วัตถุดิบ",
+   "th": "วัตถุดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coin",
+   "en": "Coins",
+   "official": "เหรียญ",
+   "th": "เหรียญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oaklog",
+   "en": "Oak Log",
+   "official": "ท่อนซุงไม้โอ๊ก",
+   "th": "ท่อนซุงไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucelog",
+   "en": "Spruce Log",
+   "official": "ท่อนซุงไม้สปรูซ",
+   "th": "ท่อนซุงไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinelog",
+   "en": "Pine Log",
+   "official": "ท่อนซุงไม้สน",
+   "th": "ท่อนซุงไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmlog",
+   "en": "Palm Log",
+   "official": "ท่อนซุงไม้ปาล์ม",
+   "th": "ท่อนซุงไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowlog",
+   "en": "Willow Log",
+   "official": "ท่อนซุงไม้หลิว",
+   "th": "ท่อนซุงไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplelog",
+   "en": "Maple Log",
+   "official": "ท่อนซุงไม้เมเปิ้ล",
+   "th": "ท่อนซุงไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "birchlog",
+   "en": "Birch Log",
+   "official": "ท่อนซุงไม้เบิร์ช",
+   "th": "ท่อนซุงไม้เบิร์ช",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboo",
+   "en": "Bamboo",
+   "official": "ไม้ไผ่",
+   "th": "ไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodlog",
+   "en": "Deadwood Log",
+   "official": "ท่อนซุงไม้เดดวูด",
+   "th": "ท่อนซุงไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadlog",
+   "en": "Dryad Log",
+   "official": "ท่อนซุงไม้แห้ง",
+   "th": "ท่อนซุงไม้ดรายแอด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "charredbark",
+   "en": "Charred Bark",
+   "official": "",
+   "th": "เปลือกไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stone",
+   "en": "Stone",
+   "official": "หิน",
+   "th": "หิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstone",
+   "en": "Sandstone",
+   "official": "หินทราย",
+   "th": "หินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampstone",
+   "en": "Swamp Stone",
+   "official": "หินหนองน้ำ",
+   "th": "หินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstone",
+   "en": "Snow Stone",
+   "official": "หินหิมะ",
+   "th": "หินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granite",
+   "en": "Granite",
+   "official": "หินแกรนิต",
+   "th": "หินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstone",
+   "en": "Deep Stone",
+   "official": "หินชั้นลึก",
+   "th": "หินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstone",
+   "en": "Deep Snow Stone",
+   "official": "หินหิมะชั้นลึก",
+   "th": "หินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basalt",
+   "en": "Basalt",
+   "official": "หินบะซอลต์",
+   "th": "หินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstone",
+   "en": "Deep Swamp Stone",
+   "official": "หินหนองน้ำชั้นลึก",
+   "th": "หินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsandstone",
+   "en": "Deep Sandstone",
+   "official": "หินทรายชั้นลึก",
+   "th": "หินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimestone",
+   "en": "Slime Stone",
+   "official": "หินสไลม์",
+   "th": "หินสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptstone",
+   "en": "Crypt Stone",
+   "official": "หินใต้ดิน",
+   "th": "หินสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiderstone",
+   "en": "Spider Stone",
+   "official": "หินแมงมุม",
+   "th": "หินแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalstone",
+   "en": "Crystal Stone",
+   "official": "หินคริสตัล",
+   "th": "หินคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "junk",
+   "en": "Junk",
+   "official": "",
+   "th": "ขยะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "batwing",
+   "en": "Bat Wing",
+   "official": "ปีกค้างคาว",
+   "th": "ปีกค้างคาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "silk",
+   "en": "Silk",
+   "official": "ผ้าไหม",
+   "th": "ผ้าไหม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wormcarapace",
+   "en": "Worm Carapace",
+   "official": "คราบแมลง",
+   "th": "กระดองหนอน",
+   "status": "fixed",
+   "note": "แปลผิดความ (carapace=กระดอง)"
+  },
+  {
+   "key": "phantomdust",
+   "en": "Phantom Dust",
+   "official": "ฝุ่นวิญญาณ",
+   "th": "ฝุ่นภูตผี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "honeybee",
+   "en": "Honey Bee",
+   "official": "ผึ้ง",
+   "th": "ผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "queenbee",
+   "en": "Queen Bee",
+   "official": "ราชินีผึ้ง",
+   "th": "ราชินีผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyred",
+   "en": "Red Butterfly",
+   "official": "ผีเสื้อสีแดง",
+   "th": "ผีเสื้อสีแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyorange",
+   "en": "Orange Butterfly",
+   "official": "ผีเสื้อสีส้ม",
+   "th": "ผีเสื้อสีส้ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyyellow",
+   "en": "Yellow Butterfly",
+   "official": "ผีเสื้อสีเหลือง",
+   "th": "ผีเสื้อสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflygreen",
+   "en": "Green Butterfly",
+   "official": "ผีเสื้อสีเขียว",
+   "th": "ผีเสื้อสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyblue",
+   "en": "Blue Butterfly",
+   "official": "ผีเสื้อสีน้ำเงิน",
+   "th": "ผีเสื้อสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflypurple",
+   "en": "Basalt Butterfly",
+   "official": "ผีเสื้อบะซอลต์",
+   "th": "ผีเสื้อบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyblack",
+   "en": "Black Butterfly",
+   "official": "ผีเสื้อสีดำ",
+   "th": "ผีเสื้อสีดำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflywhite",
+   "en": "White Butterfly",
+   "official": "ผีเสื้อสีขาว",
+   "th": "ผีเสื้อสีขาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butterflyfrog",
+   "en": "Quacking Butterfly",
+   "official": "ผีเสื้อกบ",
+   "th": "ผีเสื้อร้องก๊าบ",
+   "status": "fixed",
+   "note": "แปลผิดความ (quacking)"
+  },
+  {
+   "key": "butterflyheart",
+   "en": "Heartshaped Butterfly",
+   "official": "ผีเสื้อรูปทรงหัวใจ",
+   "th": "ผีเสื้อรูปหัวใจ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fireflyyellow",
+   "en": "Yellow Firefly",
+   "official": "หิ่งห้อยสีเหลือง",
+   "th": "หิ่งห้อยสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireflygreen",
+   "en": "Green Firefly",
+   "official": "หิ่งห้อยสีเขียว",
+   "th": "หิ่งห้อยสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireflyblue",
+   "en": "Blue Firefly",
+   "official": "หิ่งห้อยสีน้ำเงิน",
+   "th": "หิ่งห้อยสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "apiaryframe",
+   "en": "Apiary Frame",
+   "official": "กรอบเลี้ยงผึ้ง",
+   "th": "กรอบเลี้ยงผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wool",
+   "en": "Wool",
+   "official": "-ขนแกะ",
+   "th": "ขนแกะ",
+   "status": "fixed",
+   "note": "ตัดขีดที่หลุดมา"
+  },
+  {
+   "key": "egg",
+   "en": "Egg",
+   "official": "ไข่",
+   "th": "ไข่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leather",
+   "en": "Leather",
+   "official": "หนังสัตว์",
+   "th": "หนังสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clothscraps",
+   "en": "Cloth Scraps",
+   "official": "เศษผ้า",
+   "th": "เศษผ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clay",
+   "en": "Clay",
+   "official": "ดินเหนียว",
+   "th": "ดินเหนียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethyst",
+   "en": "Amethyst",
+   "official": "อเมทิสต์",
+   "th": "อเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphire",
+   "en": "Sapphire",
+   "official": "ไพลิน",
+   "th": "ไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emerald",
+   "en": "Emerald",
+   "official": "มรกต",
+   "th": "มรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ruby",
+   "en": "Ruby",
+   "official": "ทับทิม",
+   "th": "ทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topaz",
+   "en": "Topaz",
+   "official": "บุษราคัม",
+   "th": "บุษราคัม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperore",
+   "en": "Copper Ore",
+   "official": "แร่ทองแดง",
+   "th": "แร่ทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperbar",
+   "en": "Copper Bar",
+   "official": "แท่งทองแดง",
+   "th": "แท่งทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironore",
+   "en": "Iron Ore",
+   "official": "แร่เหล็ก",
+   "th": "แร่เหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironbar",
+   "en": "Iron Bar",
+   "official": "แท่งเหล็ก",
+   "th": "แท่งเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldore",
+   "en": "Gold Ore",
+   "official": "แร่ทอง",
+   "th": "แร่ทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldbar",
+   "en": "Gold Bar",
+   "official": "แท่งทองคำ",
+   "th": "แท่งทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostshard",
+   "en": "Frost Shard",
+   "official": "เศษน้ำแข็ง",
+   "th": "เศษเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runestone",
+   "en": "Runestone",
+   "official": "หินรูน",
+   "th": "หินรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyore",
+   "en": "Ivy Ore",
+   "official": "แร่ไม้เลื้อย",
+   "th": "แร่ไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivybar",
+   "en": "Ivy Bar",
+   "official": "แท่งไม้เลื้อย",
+   "th": "แท่งไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartz",
+   "en": "Quartz",
+   "official": "แร่เขี้ยวหนุมาน",
+   "th": "ควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "lifequartz",
+   "en": "Life Quartz",
+   "official": "แร่ควอตซ์",
+   "th": "ควอตซ์ชีวิต",
+   "status": "fixed",
+   "note": "แปลตก Life"
+  },
+  {
+   "key": "demonicbar",
+   "en": "Demonic Bar",
+   "official": "แท่งปีศาจ",
+   "th": "แท่งปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenore",
+   "en": "Tungsten Ore",
+   "official": "แร่ทังสเตน",
+   "th": "แร่ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenbar",
+   "en": "Tungsten Bar",
+   "official": "แท่งทังสเตน",
+   "th": "แท่งทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialore",
+   "en": "Glacial Ore",
+   "official": "แร่เกล็ดน้ำแข็ง",
+   "th": "แร่เกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialbar",
+   "en": "Glacial Bar",
+   "official": "แท่งเกล็ดน้ำแข็ง",
+   "th": "แท่งเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amber",
+   "en": "Amber",
+   "official": "อำพัน",
+   "th": "อำพัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumore",
+   "en": "Mycelium Ore",
+   "official": "แร่ไมซีเลียม",
+   "th": "แร่ไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumbar",
+   "en": "Mycelium Bar",
+   "official": "แท่งไมซีเลียม",
+   "th": "แท่งไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilore",
+   "en": "Ancient Fossil Ore",
+   "official": "แร่ฟอสซิลดึกดำบรรพ์",
+   "th": "แร่ฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilbar",
+   "en": "Ancient Fossil Bar",
+   "official": "แท่งฟอสซิลดึกดำบรรพ์",
+   "th": "แท่งฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "obsidian",
+   "en": "Obsidian",
+   "official": "ออปซิเดียน",
+   "th": "ออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "slimeum",
+   "en": "Slimeum",
+   "official": "แร่สไลม์",
+   "th": "แร่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelore",
+   "en": "Nightsteel Ore",
+   "official": "แร่เหล็กราตรี",
+   "th": "แร่เหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelbar",
+   "en": "Nightsteel Bar",
+   "official": "แท่งเหล็กราตรี",
+   "th": "แท่งเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spideriteore",
+   "en": "Spiderite Ore",
+   "official": "แร่แมงมุม",
+   "th": "แร่สไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritebar",
+   "en": "Spiderite Bar",
+   "official": "แท่งแร่แมงมุม",
+   "th": "แท่งสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pearlescentdiamond",
+   "en": "Pearlescent Diamond",
+   "official": "เพชรประกายมุก",
+   "th": "เพชรประกายมุก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fuelskull",
+   "en": "Fuel Skull",
+   "official": "",
+   "th": "กะโหลกเชื้อเพลิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cavespidergland",
+   "en": "Cave Spider Gland",
+   "official": "ต่อมแมงมุมถ้ำ",
+   "th": "ต่อมแมงมุมถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidshard",
+   "en": "Void Shard",
+   "official": "เศษแห่งความมืด",
+   "th": "เศษแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampsludge",
+   "en": "Swamp Sludge",
+   "official": "เมือกหนองน้ำ",
+   "th": "เมือกหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bone",
+   "en": "Bone",
+   "official": "กระดูก",
+   "th": "กระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ectoplasm",
+   "en": "Ectoplasm",
+   "official": "เอ็กโตพลาสซึม",
+   "th": "เอ็กโตพลาสซึม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimematter",
+   "en": "Slime Matter",
+   "official": "ก้อนสไลม์",
+   "th": "ก้อนสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidervenom",
+   "en": "Spider Venom",
+   "official": "พิษแมงมุม",
+   "th": "พิษแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "omnicrystal",
+   "en": "Omni-Crystal",
+   "official": "ออมนิ-คริสตัล",
+   "th": "ออมนิ-คริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pristinegear",
+   "en": "Pristine Gear",
+   "official": "",
+   "th": "เฟืองไร้ตำหนิ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "glacialshard",
+   "en": "Glacial Shard",
+   "official": "เศษเกล็ดน้ำแข็ง",
+   "th": "เศษเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glass",
+   "en": "Glass",
+   "official": "กระจก",
+   "th": "กระจก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glassbottle",
+   "en": "Glass Bottle",
+   "official": "ขวดแก้ว",
+   "th": "ขวดแก้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "book",
+   "en": "Book",
+   "official": "หนังสือ",
+   "th": "หนังสือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemyshard",
+   "en": "Alchemy Shard",
+   "official": "เศษการเล่นแร่แปรธาตุ",
+   "th": "เศษแปรธาตุ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "upgradeshard",
+   "en": "Upgrade Shard",
+   "official": "เศษอัปเกรด",
+   "th": "เศษอัปเกรด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedshard",
+   "en": "Ascended Shard",
+   "official": "เศษศักดิ์สิทธิ์",
+   "th": "เศษศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shadowessence",
+   "en": "Shadow Essence",
+   "official": "แก่นแท้แห่งเงา",
+   "th": "แก่นแท้เงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryoessence",
+   "en": "Cryo Essence",
+   "official": "แก่นแท้แห่งน้ำแข็ง",
+   "th": "แก่นแท้ไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bioessence",
+   "en": "Bio Essence",
+   "official": "แก่นแท้แห่งชีวิต",
+   "th": "แก่นแท้ชีวภาพ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "primordialessence",
+   "en": "Primordial Essence",
+   "official": "แก่นแท้ปฐมกาล",
+   "th": "แก่นแท้ปฐมกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimeessence",
+   "en": "Slime Essence",
+   "official": "แก่นแท้แห่งสไลท์",
+   "th": "แก่นแท้สไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bloodessence",
+   "en": "Blood Essence",
+   "official": "แก่นแท้แห่งโลหิต",
+   "th": "แก่นแท้โลหิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideressence",
+   "en": "Spider Essence",
+   "official": "แก่นแมงมุม",
+   "th": "แก่นแท้แมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystalessence",
+   "en": "Crystal Essence",
+   "official": "",
+   "th": "แก่นแท้คริสตัล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "radiatedessence",
+   "en": "Radiated Essence",
+   "official": "",
+   "th": "แก่นแท้กัมมันตรังสี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "altardust",
+   "en": "Altar Dust",
+   "official": "ผงแท่นบูชา",
+   "th": "ผงแท่นบูชา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravenfeather",
+   "en": "Raven Feather",
+   "official": "ขนอีกา",
+   "th": "ขนอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "electrifiedmana",
+   "en": "Electrified Mana",
+   "official": "มานาที่มีไฟฟ้า",
+   "th": "มานาอัดไฟฟ้า",
+   "status": "fixed",
+   "note": "กระชับ ไม่แข็ง"
+  },
+  {
+   "key": "sharktooth",
+   "en": "Shark Tooth",
+   "official": "ฟันฉลาม",
+   "th": "ฟันฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkscales",
+   "en": "Shark Scales",
+   "official": "",
+   "th": "เกล็ดฉลาม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenixfeather",
+   "en": "Phoenix Feather",
+   "official": "",
+   "th": "ขนฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "livingash",
+   "en": "Living Ash",
+   "official": "",
+   "th": "เถ้ามีชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "carp",
+   "en": "Carp",
+   "official": "ปลาคาร์พ",
+   "th": "ปลาคาร์พ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cod",
+   "en": "Cod",
+   "official": "ปลาคอด",
+   "th": "ปลาคอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "herring",
+   "en": "Herring",
+   "official": "ปลาแฮร์ริ่ง",
+   "th": "ปลาแฮร์ริ่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mackerel",
+   "en": "Mackerel",
+   "official": "ปลาทู",
+   "th": "ปลาทู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "salmon",
+   "en": "Salmon",
+   "official": "ปลาแซลมอน",
+   "th": "ปลาแซลมอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trout",
+   "en": "Trout",
+   "official": "ปลาเทราต์",
+   "th": "ปลาเทราต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tuna",
+   "en": "Tuna",
+   "official": "ปลาทูน่า",
+   "th": "ปลาทูน่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gobfish",
+   "en": "Gobfish",
+   "official": "ปลาก็อบ",
+   "th": "ปลาก็อบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "terrorfish",
+   "en": "Terrorfish",
+   "official": "ปลาสยองขวัญ",
+   "th": "ปลาสยองขวัญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "halffish",
+   "en": "Halffish",
+   "official": "ปลาครึ่งตัว",
+   "th": "ปลาครึ่งตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rockfish",
+   "en": "Rockfish",
+   "official": "ปลาหิน",
+   "th": "ปลาหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "furfish",
+   "en": "Furfish",
+   "official": "ปลาขน",
+   "th": "ปลาขน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icefish",
+   "en": "Icefish",
+   "official": "ปลาน้ำแข็ง",
+   "th": "ปลาน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampfish",
+   "en": "Swampfish",
+   "official": "ปลาหนองน้ำ",
+   "th": "ปลาหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapfragment",
+   "en": "Map Fragment",
+   "official": "ชิ้นส่วนแผนที่",
+   "th": "ชิ้นส่วนแผนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "map",
+   "en": "Map",
+   "official": "แผนที่",
+   "th": "แผนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spareboatparts",
+   "en": "Spare Boat Parts",
+   "official": "ชิ้นส่วนเรือ",
+   "th": "ชิ้นส่วนเรือสำรอง",
+   "status": "fixed",
+   "note": "แปลตก Spare"
+  },
+  {
+   "key": "brokencoppertool",
+   "en": "Broken Copper Tool",
+   "official": "อุปกรณ์ทองแดงชำรุด",
+   "th": "เครื่องมือทองแดงชำรุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "brokenirontool",
+   "en": "Broken Iron Tool",
+   "official": "อุปกรณ์เหล็กชำรุด",
+   "th": "เครื่องมือเหล็กชำรุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "prettyflower",
+   "en": "Pretty Flower",
+   "official": "",
+   "th": "ดอกไม้สวย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "prettybouquet",
+   "en": "Pretty Bouquet",
+   "official": "",
+   "th": "ช่อดอกไม้สวย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "divorcepapers",
+   "en": "Divorce Papers",
+   "official": "",
+   "th": "ใบหย่า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pickaxe",
+   "en": "Pickaxe",
+   "official": "อีเต้อ",
+   "th": "อีเต้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodpickaxe",
+   "en": "Wood Pickaxe",
+   "official": "อีเต้อไม้",
+   "th": "อีเต้อไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperpickaxe",
+   "en": "Copper Pickaxe",
+   "official": "อีเต้อทองแดง",
+   "th": "อีเต้อทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironpickaxe",
+   "en": "Iron Pickaxe",
+   "official": "อีเต้อเหล็ก",
+   "th": "อีเต้อเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldpickaxe",
+   "en": "Gold Pickaxe",
+   "official": "อีเต้อทองคำ",
+   "th": "อีเต้อทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostpickaxe",
+   "en": "Frost Pickaxe",
+   "official": "อีเต้อเยือกแข็ง",
+   "th": "อีเต้อเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicpickaxe",
+   "en": "Demonic Pickaxe",
+   "official": "อีเต้อปีศาจ",
+   "th": "อีเต้อปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicpickaxe",
+   "en": "Runic Pickaxe",
+   "official": "อีเต้อรูน",
+   "th": "อีเต้อรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivypickaxe",
+   "en": "Ivy Pickaxe",
+   "official": "อีเต้อไม้เลื้อย",
+   "th": "อีเต้อไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzpickaxe",
+   "en": "Quartz Pickaxe",
+   "official": "อีเต้อเขี้ยวหนุมาน",
+   "th": "อีเต้อควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "tungstenpickaxe",
+   "en": "Tungsten Pickaxe",
+   "official": "อีเต้อทังสเตน",
+   "th": "อีเต้อทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialpickaxe",
+   "en": "Glacial Pickaxe",
+   "official": "อีเต้อเกล็ดน้ำแข็ง",
+   "th": "อีเต้อเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadpickaxe",
+   "en": "Dryad Pickaxe",
+   "official": "อีเต้อดรายแอด",
+   "th": "อีเต้อดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icepickaxe",
+   "en": "Ice Pickaxe",
+   "official": "อีเต้อน้ำแข็ง",
+   "th": "อีเต้อน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumpickaxe",
+   "en": "Mycelium Pickaxe",
+   "official": "อีเต้อไมซีเลียม",
+   "th": "อีเต้อไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilpickaxe",
+   "en": "Ancient Fossil Pickaxe",
+   "official": "อีเต้อฟอสซิลดึกดำบรรพ์",
+   "th": "อีเต้อฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "axe",
+   "en": "Axe",
+   "official": "ขวาน",
+   "th": "ขวาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodaxe",
+   "en": "Wood Axe",
+   "official": "ขวานไม้",
+   "th": "ขวานไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperaxe",
+   "en": "Copper Axe",
+   "official": "ขวานทองแดง",
+   "th": "ขวานทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironaxe",
+   "en": "Iron Axe",
+   "official": "ขวานเหล็ก",
+   "th": "ขวานเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldaxe",
+   "en": "Gold Axe",
+   "official": "ขวานทองคำ",
+   "th": "ขวานทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostaxe",
+   "en": "Frost Axe",
+   "official": "ขวานเยือกแข็ง",
+   "th": "ขวานเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicaxe",
+   "en": "Demonic Axe",
+   "official": "ขวานปีศาจ",
+   "th": "ขวานปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicaxe",
+   "en": "Runic Axe",
+   "official": "ขวานรูน",
+   "th": "ขวานรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyaxe",
+   "en": "Ivy Axe",
+   "official": "ขวานไม้เลื้อย",
+   "th": "ขวานไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzaxe",
+   "en": "Quartz Axe",
+   "official": "ขวานเขี้ยวหนุมาน",
+   "th": "ขวานควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "tungstenaxe",
+   "en": "Tungsten Axe",
+   "official": "ขวานทังสเตน",
+   "th": "ขวานทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialaxe",
+   "en": "Glacial Axe",
+   "official": "ขวานเกล็ดน้ำแข็ง",
+   "th": "ขวานเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadaxe",
+   "en": "Dryad Axe",
+   "official": "ขวานดรายแอด",
+   "th": "ขวานดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumaxe",
+   "en": "Mycelium Axe",
+   "official": "ขวานไมซีเลียม",
+   "th": "ขวานไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilaxe",
+   "en": "Ancient Fossil Axe",
+   "official": "ขวานฟอสซิลดึกดำบรรพ์",
+   "th": "ขวานฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shovel",
+   "en": "Shovel",
+   "official": "พลั่ว",
+   "th": "พลั่ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodshovel",
+   "en": "Wood Shovel",
+   "official": "พลั่วไม้",
+   "th": "พลั่วไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coppershovel",
+   "en": "Copper Shovel",
+   "official": "พลั่วทองแดง",
+   "th": "พลั่วทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironshovel",
+   "en": "Iron Shovel",
+   "official": "พลั่วเหล็ก",
+   "th": "พลั่วเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldshovel",
+   "en": "Gold Shovel",
+   "official": "พลั่วทองคำ",
+   "th": "พลั่วทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostshovel",
+   "en": "Frost Shovel",
+   "official": "พลั่วเยือกแข็ง",
+   "th": "พลั่วเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicshovel",
+   "en": "Runic Shovel",
+   "official": "พลั่วรูน",
+   "th": "พลั่วรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyshovel",
+   "en": "Ivy Shovel",
+   "official": "พลั่วไม้เลื้อย",
+   "th": "พลั่วไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzshovel",
+   "en": "Quartz Shovel",
+   "official": "พลั่วเขี้ยวหนุมาน",
+   "th": "พลั่วควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "demonicshovel",
+   "en": "Demonic Shovel",
+   "official": "พลั่วปีศาจ",
+   "th": "พลั่วปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenshovel",
+   "en": "Tungsten Shovel",
+   "official": "พลั่วทังสเตน",
+   "th": "พลั่วทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialshovel",
+   "en": "Glacial Shovel",
+   "official": "พลั่วเกล็ดน้ำแข็ง",
+   "th": "พลั่วเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadshovel",
+   "en": "Dryad Shovel",
+   "official": "พลั่วดรายแอด",
+   "th": "พลั่วดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumshovel",
+   "en": "Mycelium Shovel",
+   "official": "พลั่วไมซีเลียม",
+   "th": "พลั่วไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilshovel",
+   "en": "Ancient Fossil Shovel",
+   "official": "พลั่วฟอสซิลดึกดำบรรพ์",
+   "th": "พลั่วฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishingrod",
+   "en": "Fishing Rod",
+   "official": "เบ็ดตกปลา",
+   "th": "คันเบ็ด",
+   "status": "fixed",
+   "note": "ให้ตรงกับคันเบ็ดชนิดอื่น"
+  },
+  {
+   "key": "godrod",
+   "en": "God Rod",
+   "official": "คันเบ็ดระดับจีซัส",
+   "th": "คันเบ็ดเทพเจ้า",
+   "status": "fixed",
+   "note": "เลี่ยงคำอ้างศาสนา/สม่ำเสมอกับ God Bait"
+  },
+  {
+   "key": "woodfishingrod",
+   "en": "Wood Fishing Rod",
+   "official": "คันเบ็ดไม้",
+   "th": "คันเบ็ดไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironfishingrod",
+   "en": "Iron Fishing Rod",
+   "official": "คันเบ็ดเหล็ก",
+   "th": "คันเบ็ดเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownfishingrod",
+   "en": "Overgrown Fishing Rod",
+   "official": "คันเบ็ดรากไม้",
+   "th": "คันเบ็ดรากไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldfishingrod",
+   "en": "Gold Fishing Rod",
+   "official": "คันเบ็ดทองคำ",
+   "th": "คันเบ็ดทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "depthscatcher",
+   "en": "Depths Catcher",
+   "official": "คันเบ็ดชั้นลึก",
+   "th": "คันเบ็ดชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bait",
+   "en": "Bait",
+   "official": "เหยื่อ",
+   "th": "เหยื่อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "godbait",
+   "en": "God Bait",
+   "official": "เหยื่อระดับพระเจ้า",
+   "th": "เหยื่อเทพเจ้า",
+   "status": "fixed",
+   "note": "สม่ำเสมอกับ God Rod"
+  },
+  {
+   "key": "wormbait",
+   "en": "Worm Bait",
+   "official": "เหยื่อหนอน",
+   "th": "เหยื่อหนอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamplarva",
+   "en": "Swamp Larva",
+   "official": "เหยื่อหนอนตัวอ่อน",
+   "th": "ตัวอ่อนหนองน้ำ",
+   "status": "fixed",
+   "note": "แปลตก Swamp"
+  },
+  {
+   "key": "anglersbait",
+   "en": "Anglers Bait",
+   "official": "เหยื่อตกปลา",
+   "th": "เหยื่อนักตกปลา",
+   "status": "fixed",
+   "note": "แปลตก Angler"
+  },
+  {
+   "key": "sickle",
+   "en": "Sickle",
+   "official": "เคียว",
+   "th": "เคียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmingscythe",
+   "en": "Farming Scythe",
+   "official": "เคียวตัดหญ้า",
+   "th": "เคียวเก็บเกี่ยว",
+   "status": "fixed",
+   "note": "ใช้เก็บพืชผล ไม่ใช่ตัดหญ้า"
+  },
+  {
+   "key": "wrench",
+   "en": "Wrench",
+   "official": "ประแจ",
+   "th": "ประแจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cutter",
+   "en": "Cutter",
+   "official": "คีมตัด",
+   "th": "คีมตัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wire",
+   "en": "Wire",
+   "official": "สายไฟ",
+   "th": "สายไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "net",
+   "en": "Net",
+   "official": "ตาข่าย",
+   "th": "ตาข่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "multitool",
+   "en": "Multi Tool",
+   "official": "เครื่องมือหลายอย่าง",
+   "th": "เครื่องมืออเนกประสงค์",
+   "status": "fixed",
+   "note": "เป็นธรรมชาติกว่า"
+  },
+  {
+   "key": "eraser",
+   "en": "Eraser",
+   "official": "ยางลบ",
+   "th": "ยางลบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pipette",
+   "en": "Pipette",
+   "official": "ปิเปต",
+   "th": "ปิเปต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sword",
+   "en": "Sword",
+   "official": "ดาบ",
+   "th": "ดาบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "closerangeweapon",
+   "en": "Close Range Weapon",
+   "official": "อาวุธระยะใกล้",
+   "th": "อาวุธระยะใกล้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meleeweapon",
+   "en": "Melee Weapon",
+   "official": "อาวุธระยะประชิด",
+   "th": "อาวุธระยะประชิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursioncloserangeweapon",
+   "en": "Incursion Close Range Weapon",
+   "official": "อาวุธระยะใกล้อินเคอชั่น",
+   "th": "อาวุธระยะใกล้อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "woodsword",
+   "en": "Wood Sword",
+   "official": "ดาบไม้",
+   "th": "ดาบไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coppersword",
+   "en": "Copper Sword",
+   "official": "ดาบทองแดง",
+   "th": "ดาบทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironsword",
+   "en": "Iron Sword",
+   "official": "ดาบเหล็ก",
+   "th": "ดาบเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldsword",
+   "en": "Gold Sword",
+   "official": "ดาบทอง",
+   "th": "ดาบทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "frostsword",
+   "en": "Frost Sword",
+   "official": "ดาบเยือกแข็ง",
+   "th": "ดาบเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nunchucks",
+   "en": "Nunchucks",
+   "official": "กระบองสองท่อน",
+   "th": "กระบองสองท่อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "katana",
+   "en": "Katana",
+   "official": "คาตานะ",
+   "th": "คาตานะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "heavyhammer",
+   "en": "Heavy Hammer",
+   "official": "ค้อนหนัก",
+   "th": "ค้อนหนัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightninghammer",
+   "en": "Lightning Hammer",
+   "official": "ค้อนสายฟ้า",
+   "th": "ค้อนสายฟ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "survivorwhip",
+   "en": "Survivor Whip",
+   "official": "",
+   "th": "แส้ผู้รอดชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "galvanichammer",
+   "en": "Galvanic Hammer",
+   "official": "ค้อนไฟฟ้า",
+   "th": "ค้อนไฟฟ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicsword",
+   "en": "Demonic Sword",
+   "official": "ดาบปีศาจ",
+   "th": "ดาบปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderclaw",
+   "en": "Spider Claw",
+   "official": "เล็บแมงมุม",
+   "th": "กรงเล็บแมงมุม",
+   "status": "fixed",
+   "note": "สม่ำเสมอกับ Claw อื่น"
+  },
+  {
+   "key": "ivysword",
+   "en": "Ivy Sword",
+   "official": "ดาบไม้เลื้อย",
+   "th": "ดาบไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cutlass",
+   "en": "Cutlass",
+   "official": "มีดสั้น",
+   "th": "ดาบคัตลาส",
+   "status": "fixed",
+   "note": "ชนกับ Dagger=มีดสั้น"
+  },
+  {
+   "key": "amethystsword",
+   "en": "Amethyst Sword",
+   "official": "ดาบอเมทิสต์",
+   "th": "ดาบอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reinforcedkatana",
+   "en": "Reinforced Katana",
+   "official": "คาตานะเสริมแรง",
+   "th": "คาตานะเสริมแรง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstensword",
+   "en": "Tungsten Sword",
+   "official": "ดาบทังสเตน",
+   "th": "ดาบทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reaperscythe",
+   "en": "Reaper Scythe",
+   "official": "เคียวยมทูต",
+   "th": "เคียวยมทูต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "barkblade",
+   "en": "Bark Blade",
+   "official": "ดาบร่ำร้อง",
+   "th": "ดาบเปลือกไม้",
+   "status": "fixed",
+   "note": "Bark = เปลือกไม้ ไม่ใช่เสียงร้อง"
+  },
+  {
+   "key": "sandknife",
+   "en": "Sand Knife",
+   "official": "มีดทะเลทราย",
+   "th": "มีดทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomslasher",
+   "en": "Venom Slasher",
+   "official": "มีดอาบยาพิษ",
+   "th": "มีดอาบยาพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionsword",
+   "en": "Aged Champion Sword",
+   "official": "ดาบแชมเปี้ยนเก่าแก่",
+   "th": "ดาบแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "antiquesword",
+   "en": "Antique Sword",
+   "official": "ดาบโบราณ",
+   "th": "ดาบโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodclaw",
+   "en": "Blood Claw",
+   "official": "กรงเล็บโลหิต",
+   "th": "กรงเล็บโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thecrimsonsky",
+   "en": "The Crimson Sky",
+   "official": "นภาแดงฉาน",
+   "th": "นภาแดงฉาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "causticexecutioner",
+   "en": "Caustic Executioner",
+   "official": "เพชฌฆาตกัดกร่อน",
+   "th": "เพชฌฆาตกัดกร่อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gemstonelongsword",
+   "en": "Gemstone Longsword",
+   "official": "ดาบยาวมณี",
+   "th": "ดาบยาวมณี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "perfectstorm",
+   "en": "The Perfect Storm",
+   "official": "พายุมหาประลัย",
+   "th": "พายุมหาประลัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidclaw",
+   "en": "Void Claw",
+   "official": "กรงเล็บแห่งความมืด",
+   "th": "กรงเล็บแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greatsword",
+   "en": "Greatsword",
+   "official": "ดาบใหญ่",
+   "th": "ดาบใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursiongreatsword",
+   "en": "Incursion Greatsword",
+   "official": "ดาบใหญ่อินเคอชั่น",
+   "th": "ดาบใหญ่อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "irongreatsword",
+   "en": "Iron Greatsword",
+   "official": "ดาบใหญ่เหล็ก",
+   "th": "ดาบใหญ่เหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostgreatsword",
+   "en": "Frost Greatsword",
+   "official": "ดาบใหญ่เยือกแข็ง",
+   "th": "ดาบใหญ่เยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brutesbattleaxe",
+   "en": "Brute's Battleaxe",
+   "official": "ขวานรบคนป่า",
+   "th": "ขวานรบคนป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticgreatsword",
+   "en": "Necrotic Greatsword",
+   "official": "ดาบใหญ่เน่าเปื่อย",
+   "th": "ดาบใหญ่เน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hexedbladegreatsword",
+   "en": "Hexed Blade",
+   "official": "ดาบที่ถูกสาป",
+   "th": "ดาบต้องสาป",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ivygreatsword",
+   "en": "Ivy Greatsword",
+   "official": "ดาบใหญ่ไม้เลื้อย",
+   "th": "ดาบใหญ่ไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzgreatsword",
+   "en": "Quartz Greatsword",
+   "official": "ดาบใหญ่เขี้ยวหนุมาน",
+   "th": "ดาบใหญ่ควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "glacialgreatsword",
+   "en": "Glacial Greatsword",
+   "official": "ดาบใหญ่เกล็ดน้ำแข็ง",
+   "th": "ดาบใหญ่เกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadgreathammer",
+   "en": "Dryad Greathammer",
+   "official": "ค้อนใหญ่ดรายแอด",
+   "th": "ค้อนใหญ่ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimegreatsword",
+   "en": "Slime Greatsword",
+   "official": "ดาบใหญ่สไลม์",
+   "th": "ดาบใหญ่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravenwinggreatsword",
+   "en": "Ravenwing Greatsword",
+   "official": "ดาบใหญ่ปีกอีกา",
+   "th": "ดาบใหญ่ปีกอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spear",
+   "en": "Spear",
+   "official": "หอก",
+   "th": "หอก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionspear",
+   "en": "Incursion Spear",
+   "official": "หอกอินเคอชั่น",
+   "th": "หอกอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "woodspear",
+   "en": "Wood Spear",
+   "official": "หอกไม้",
+   "th": "หอกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperpitchfork",
+   "en": "Copper Pitchfork",
+   "official": "คราดทองแดง",
+   "th": "ส้อมโกยทองแดง",
+   "status": "fixed",
+   "note": "คราด=rake"
+  },
+  {
+   "key": "copperspear",
+   "en": "Copper Spear",
+   "official": "หอกทองแดง",
+   "th": "หอกทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironspear",
+   "en": "Iron Spear",
+   "official": "หอกเหล็ก",
+   "th": "หอกเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldspear",
+   "en": "Gold Spear",
+   "official": "หอกทองคำ",
+   "th": "หอกทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostspear",
+   "en": "Frost Spear",
+   "official": "หอกเยือกแข็ง",
+   "th": "หอกเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicspear",
+   "en": "Demonic Spear",
+   "official": "หอกปีศาจ",
+   "th": "หอกปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidspear",
+   "en": "Void Spear",
+   "official": "หอกแห่งความมืด",
+   "th": "หอกแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyspear",
+   "en": "Ivy Spear",
+   "official": "หอกไม้เลื้อย",
+   "th": "หอกไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vulturestalon",
+   "en": "Vultures Talon",
+   "official": "กรงเล็บอีแร้ง",
+   "th": "กรงเล็บอีแร้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenspear",
+   "en": "Tungsten Spear",
+   "official": "หอกทังสเตน",
+   "th": "หอกทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryospear",
+   "en": "Cryo Spear",
+   "official": "หอกแห่งไครโอ",
+   "th": "หอกไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ravenbeakspear",
+   "en": "Ravenbeak Spear",
+   "official": "หอกปากอีกา",
+   "th": "หอกปากอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "revsword",
+   "en": "Rev Sword",
+   "official": "",
+   "th": "ดาบเรฟ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "glaive",
+   "en": "Glaive",
+   "official": "ทวน",
+   "th": "ทวน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionglaive",
+   "en": "Incursion Glaive",
+   "official": "ทวนอินเคอชั่น",
+   "th": "ทวนอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "goldglaive",
+   "en": "Gold Glaive",
+   "official": "ทวนทองคำ",
+   "th": "ทวนทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostglaive",
+   "en": "Frost Glaive",
+   "official": "ทวนเยือกแข็ง",
+   "th": "ทวนเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzglaive",
+   "en": "Quartz Glaive",
+   "official": "ทวนเขี้ยวหนุมาน",
+   "th": "ทวนควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "cryoglaive",
+   "en": "Cryo Glaive",
+   "official": "ทวนแห่งน้ำแข็ง",
+   "th": "ทวนไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimeglaive",
+   "en": "Slime Glaive",
+   "official": "ทวนสไลม์",
+   "th": "ทวนสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rangedweapon",
+   "en": "Ranged Weapon",
+   "official": "อาวุธระยะไกล",
+   "th": "อาวุธระยะไกล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bow",
+   "en": "Bow",
+   "official": "ธนู",
+   "th": "ธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionbow",
+   "en": "Incursion Bow",
+   "official": "ธนูอินเคอชั่น",
+   "th": "ธนูอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "woodbow",
+   "en": "Wood Bow",
+   "official": "ธนูไม้",
+   "th": "ธนูไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperbow",
+   "en": "Copper Bow",
+   "official": "ธนูทองแดง",
+   "th": "ธนูทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironbow",
+   "en": "Iron Bow",
+   "official": "ธนูเหล็ก",
+   "th": "ธนูเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldbow",
+   "en": "Gold Bow",
+   "official": "ธนูทองคำ",
+   "th": "ธนูทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostbow",
+   "en": "Frost Bow",
+   "official": "ธนูเยือกแข็ง",
+   "th": "ธนูเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "captorsshortbow",
+   "en": "Captor's Shortbow",
+   "official": "ธนูสั้นผู้กักขัง",
+   "th": "ธนูสั้นผู้กักขัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicbow",
+   "en": "Demonic Bow",
+   "official": "ธนูปีศาจ",
+   "th": "ธนูปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivybow",
+   "en": "Ivy Bow",
+   "official": "ธนูไม้เลื้อย",
+   "th": "ธนูไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vulturesburst",
+   "en": "Vultures Burst",
+   "official": "ธนูอีแร้ง",
+   "th": "ธนูอีแร้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenbow",
+   "en": "Tungsten Bow",
+   "official": "ธนูทังสเตน",
+   "th": "ธนูทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialbow",
+   "en": "Glacial Bow",
+   "official": "ธนูเกล็ดน้ำแข็ง",
+   "th": "ธนูเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbow",
+   "en": "Dryad Bow",
+   "official": "ธนูดรายแอด",
+   "th": "ธนูดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bowofdualism",
+   "en": "Bow of Dualism",
+   "official": "ธนูเทวภาวะ",
+   "th": "ธนูทวิภาวะ",
+   "status": "fixed",
+   "note": "dualism=ทวิภาวะ"
+  },
+  {
+   "key": "antiquebow",
+   "en": "Antique Bow",
+   "official": "ธนูโบราณ",
+   "th": "ธนูโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arachnidwebbow",
+   "en": "Arachnid Web Bow",
+   "official": "ธนูใยแมงมุม",
+   "th": "ธนูใยอะแรกนิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ascendedbow",
+   "en": "Ascended Bow",
+   "official": "ธนูศักดิ์สิทธิ์",
+   "th": "ธนูศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greatbow",
+   "en": "Greatbow",
+   "official": "ธนูใหญ่",
+   "th": "ธนูใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursiongreatbow",
+   "en": "Incursion Greatbow",
+   "official": "ธนูใหญ่อินเคอชั่น",
+   "th": "ธนูใหญ่อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "goldgreatbow",
+   "en": "Gold Greatbow",
+   "official": "ธนูใหญ่ทองคำ",
+   "th": "ธนูใหญ่ทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidgreatbow",
+   "en": "Void Greatbow",
+   "official": "ธนูใหญ่แห่งความมืด",
+   "th": "ธนูใหญ่แห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivygreatbow",
+   "en": "Ivy Greatbow",
+   "official": "ธนูใหญ่เลื้อย",
+   "th": "ธนูใหญ่ไม้เลื้อย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tungstengreatbow",
+   "en": "Tungsten Greatbow",
+   "official": "ธนูใหญ่ทังสเตน",
+   "th": "ธนูใหญ่ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumgreatbow",
+   "en": "Mycelium Greatbow",
+   "official": "ธนูใหญ่ไมซีเลียม",
+   "th": "ธนูใหญ่ไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "druidsgreatbow",
+   "en": "Druids Greatbow",
+   "official": "ธนูใหญ่แห่งดรูอิด",
+   "th": "ธนูใหญ่ดรูอิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "nightpiercer",
+   "en": "Night Piercer",
+   "official": "ธนูใหญ่แห่งราตรี",
+   "th": "ธนูใหญ่แห่งราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "theravensnest",
+   "en": "The Raven's Nest",
+   "official": "รังแห่งอีกา",
+   "th": "รังแห่งอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arrow",
+   "en": "Arrow",
+   "official": "ลูกธนู",
+   "th": "ลูกธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonearrow",
+   "en": "Stone Arrow",
+   "official": "ลูกธนูหิน",
+   "th": "ลูกธนูหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firearrow",
+   "en": "Fire Arrow",
+   "official": "ลูกธนูติดไฟ",
+   "th": "ลูกธนูติดไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostarrow",
+   "en": "Frost Arrow",
+   "official": "ลูกธนูเยือกแข็ง",
+   "th": "ลูกธนูเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "poisonarrow",
+   "en": "Poison Arrow",
+   "official": "ลูกธนูอาบยาพิษ",
+   "th": "ลูกธนูอาบยาพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bouncingarrow",
+   "en": "Bouncing Arrow",
+   "official": "ลูกธนูเด้งดึ้ง",
+   "th": "ลูกธนูเด้ง",
+   "status": "fixed",
+   "note": "สะกด (ดึ้ง)"
+  },
+  {
+   "key": "ironarrow",
+   "en": "Iron Arrow",
+   "official": "ลูกธนูเหล็ก",
+   "th": "ลูกธนูเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonearrow",
+   "en": "Bone Arrow",
+   "official": "ลูกธนูกระดูก",
+   "th": "ลูกธนูกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spideritearrow",
+   "en": "Spiderite Arrow",
+   "official": "ลูกธนูแมงมุม",
+   "th": "ลูกธนูสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gun",
+   "en": "Gun",
+   "official": "ปืน",
+   "th": "ปืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursiongun",
+   "en": "Incursion Gun",
+   "official": "ปืนอินเคอชั่น",
+   "th": "ปืนอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "handgun",
+   "en": "Handgun",
+   "official": "ปืนพก",
+   "th": "ปืนพก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphirerevolver",
+   "en": "Sapphire Revolver",
+   "official": "ปืนพกไพลิน",
+   "th": "ปืนลูกโม่ไพลิน",
+   "status": "fixed",
+   "note": "revolver=ปืนลูกโม่"
+  },
+  {
+   "key": "webbedgun",
+   "en": "Webbed Gun",
+   "official": "ปืนใยแมงมุม",
+   "th": "ปืนใยแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sniperrifle",
+   "en": "Sniper Rifle",
+   "official": "ไรเฟิลซุ่มยิง",
+   "th": "ไรเฟิลซุ่มยิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sixshooter",
+   "en": "Six Shooter",
+   "official": "ปืนลูกโม่หกนัด",
+   "th": "ปืนลูกโม่หกนัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "machinegun",
+   "en": "Machine Gun",
+   "official": "ปืนกล",
+   "th": "ปืนกล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shotgun",
+   "en": "Shotgun",
+   "official": "ปืนลูกซอง",
+   "th": "ปืนลูกซอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flintlock",
+   "en": "Flintlock",
+   "official": "ปืนโจรสลัด",
+   "th": "ปืนคาบศิลา",
+   "status": "fixed",
+   "note": "flintlock=ปืนคาบศิลา"
+  },
+  {
+   "key": "handcannon",
+   "en": "Hand Cannon",
+   "official": "ปืนใหญ่ติดแขน",
+   "th": "ปืนใหญ่ติดแขน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deathripper",
+   "en": "Death Ripper",
+   "official": "ปืนยมทูต",
+   "th": "ปืนยมทูต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryoblaster",
+   "en": "Cryo Blaster",
+   "official": "ปืนแห่งไครโอ",
+   "th": "ปืนไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "livingshotty",
+   "en": "Living Shotty",
+   "official": "ปืนไลฟ์ช็อต",
+   "th": "ปืนลูกซองมีชีวิต",
+   "status": "fixed",
+   "note": "แปลความแทนทับศัพท์ผิด"
+  },
+  {
+   "key": "antiquerifle",
+   "en": "Antique Rifle",
+   "official": "ปืนโบราณ",
+   "th": "ปืนโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shardcannon",
+   "en": "Shard Cannon",
+   "official": "ปืนใหญ่ชาร์ด",
+   "th": "ปืนใหญ่เศษผลึก",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "snowlauncher",
+   "en": "Snow Launcher",
+   "official": "เครื่องยิงหิมะ",
+   "th": "เครื่องยิงหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seedgun",
+   "en": "Seed Gun",
+   "official": "ปืนยิงเมล็ด",
+   "th": "ปืนยิงเมล็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "patchworkgrenadier",
+   "en": "Patchwork Grenadier",
+   "official": "",
+   "th": "ปืนยิงระเบิดปะชุน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bullet",
+   "en": "Bullet",
+   "official": "กระสุน",
+   "th": "กระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "simplebullet",
+   "en": "Simple Bullet",
+   "official": "กระสุนธรรมดา",
+   "th": "กระสุนธรรมดา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostbullet",
+   "en": "Frost Bullet",
+   "official": "กระสุนเยือกแข็ง",
+   "th": "กระสุนเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bouncingbullet",
+   "en": "Bouncing Bullet",
+   "official": "กระสุนเด้งดึ้ง",
+   "th": "กระสุนเด้ง",
+   "status": "fixed",
+   "note": "สะกด (ดึ้ง)"
+  },
+  {
+   "key": "voidbullet",
+   "en": "Void Bullet",
+   "official": "กระสุนแห่งความมืด",
+   "th": "กระสุนแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cannonball",
+   "en": "Cannonball",
+   "official": "ลูกปืนใหญ่",
+   "th": "ลูกปืนใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalbullet",
+   "en": "Crystal Bullet",
+   "official": "กระสุนคริสตัล",
+   "th": "กระสุนคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharktoothbullet",
+   "en": "Shark Tooth Bullet",
+   "official": "กระสุนฟันฉลาม",
+   "th": "กระสุนฟันฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicweapon",
+   "en": "Magic Weapon",
+   "official": "อาวุธเวทมนต์",
+   "th": "อาวุธเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "incursionmagicweapon",
+   "en": "Incursion Magic Weapon",
+   "official": "อาวุธเวทมนต์อินเคอชั่น",
+   "th": "อาวุธเวทมนตร์อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "bloodbolt",
+   "en": "Blood Bolt",
+   "official": "อัสนีโลหิต",
+   "th": "อัสนีโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodvolley",
+   "en": "Blood Volley",
+   "official": "โลหิตพิฆาต",
+   "th": "โลหิตพิฆาต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "froststaff",
+   "en": "Frost Staff",
+   "official": "คทาเยือกแข็ง",
+   "th": "คทาเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidstaff",
+   "en": "Void Staff",
+   "official": "คทาแห่งความมืด",
+   "th": "คทาแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidmissile",
+   "en": "Void Missile",
+   "official": "กระสุนวิญญาณ",
+   "th": "ขีปนาวุธแห่งความมืด",
+   "status": "fixed",
+   "note": "Void=แห่งความมืด ไม่ใช่วิญญาณ"
+  },
+  {
+   "key": "swamptome",
+   "en": "Swamp Tome",
+   "official": "คัมภีร์แห่งหนองน้ำ",
+   "th": "คัมภีร์แห่งหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticflask",
+   "en": "Necrotic Flask",
+   "official": "กระติกเน่าเปื่อย",
+   "th": "กระติกเน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unlabeledpotion",
+   "en": "Unlabeled Potion",
+   "official": "น้ำยาเสี่ยงโชค",
+   "th": "น้ำยาเสี่ยงโชค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genielamp",
+   "en": "Genie Lamp",
+   "official": "ตะเกียงจินนี่",
+   "th": "ตะเกียงจินนี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vampiriclamp",
+   "en": "Vampiric Lamp",
+   "official": "ตะเกียงแวมไพร์",
+   "th": "ตะเกียงแวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodstaff",
+   "en": "Wood Staff",
+   "official": "คทาไม้",
+   "th": "คทาไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sparkler",
+   "en": "Sparkler",
+   "official": "ไฟเย็น",
+   "th": "ไฟเย็น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprinkler",
+   "en": "Sprinkler",
+   "official": "สปริงเกลอร์",
+   "th": "สปริงเกลอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomstaff",
+   "en": "Venom Staff",
+   "official": "คทาอสรพิษ",
+   "th": "คทาอสรพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dredgingstaff",
+   "en": "Dredging Staff",
+   "official": "คทาดำดิ่ง",
+   "th": "คทาดำดิ่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boulderstaff",
+   "en": "Boulder Staff",
+   "official": "คทาศิลา",
+   "th": "คทาศิลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzstaff",
+   "en": "Quartz Staff",
+   "official": "คทาเขี้ยวหนุมาน",
+   "th": "คทาควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "elderlywand",
+   "en": "Elderly Wand",
+   "official": "คทาผู้เฒ่า",
+   "th": "ไม้กายสิทธิ์ผู้เฒ่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shadowbolt",
+   "en": "Shadow Bolt",
+   "official": "อัสนีทมิฬ",
+   "th": "อัสนีเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "chromaticspellbook",
+   "en": "Chromatic Spellbook",
+   "official": "คัมภีร์หลากสี",
+   "th": "คัมภีร์หลากสี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "iciclestaff",
+   "en": "Icicle Staff",
+   "official": "คทาน้ำแข็ง",
+   "th": "คทาน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shadowbeam",
+   "en": "Shadow Beam",
+   "official": "ลำแสงแห่งเงา",
+   "th": "ลำแสงเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "emeraldwand",
+   "en": "Emerald Wand",
+   "official": "คทามรกต",
+   "th": "ไม้กายสิทธิ์มรกต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryoquake",
+   "en": "Cryo Quake",
+   "official": "ไครโอสะเทือนปฎพี",
+   "th": "ไครโอสะเทือนปฐพี",
+   "status": "fixed",
+   "note": "สะกด (ปฎพี)"
+  },
+  {
+   "key": "swampdwellerstaff",
+   "en": "Swamp Dweller Staff",
+   "official": "คทาแห่งหนองน้ำ",
+   "th": "คทาผู้เร้นกายในหนองน้ำ",
+   "status": "fixed",
+   "note": "แปลตก Dweller · ชื่อตาม mob: Swamp Dweller"
+  },
+  {
+   "key": "venomshower",
+   "en": "Venom Shower",
+   "official": "ฝนอสรพิษ",
+   "th": "ฝนอสรพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientdredgingstaff",
+   "en": "Ancient Dredging Staff",
+   "official": "คทาดำดิ่งโบราณกาล",
+   "th": "คทาดำดิ่งโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dragonlance",
+   "en": "Dragon Lance",
+   "official": "หอกราชามังกร",
+   "th": "หอกมังกร",
+   "status": "fixed",
+   "note": "ไม่มี ราชา ในต้นฉบับ"
+  },
+  {
+   "key": "slimestaff",
+   "en": "Slime Staff",
+   "official": "คทาสไลม์",
+   "th": "คทาสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "phantompopper",
+   "en": "Phantom Popper",
+   "official": "แฟนทอม ป๊อปเปอร์",
+   "th": "ป๊อปเปอร์ภูตผี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bloodgrimoire",
+   "en": "Blood Grimoire",
+   "official": "คัมภีร์กริมัวร์โลหิต",
+   "th": "คัมภีร์กริมัวร์โลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimegreatbow",
+   "en": "Slime Greatbow",
+   "official": "ธนูใหญ่สไลม์",
+   "th": "ธนูใหญ่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "webweaver",
+   "en": "Web Weaver",
+   "official": "คทายิงใย",
+   "th": "คทายิงใย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "refractor",
+   "en": "Refractor",
+   "official": "ตัวหักเห",
+   "th": "ตัวหักเห",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphirestaff",
+   "en": "Sapphire Staff",
+   "official": "คทาเวทไพลิน",
+   "th": "คทาเวทไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethyststaff",
+   "en": "Amethyst Staff",
+   "official": "คทาเวทอเมทิสต์",
+   "th": "คทาเวทอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubystaff",
+   "en": "Ruby Staff",
+   "official": "คทาเวททับทิม",
+   "th": "คทาเวททับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldstaff",
+   "en": "Emerald Staff",
+   "official": "คทาเวทมรกต",
+   "th": "คทาเวทมรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazstaff",
+   "en": "Topaz Staff",
+   "official": "คทาเวทบุษราคัม",
+   "th": "คทาเวทบุษราคัม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundscepter",
+   "en": "Runebound Scepter",
+   "official": "คทารูนเบานด์",
+   "th": "คทารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbarrage",
+   "en": "Dryad Barrage",
+   "official": "กำแพงดรายแอด",
+   "th": "ระดมยิงดรายแอด",
+   "status": "fixed",
+   "note": "barrage=การระดมยิง ไม่ใช่กำแพง"
+  },
+  {
+   "key": "thesoulstorm",
+   "en": "The Soulstorm",
+   "official": "พายุวิญญาณ",
+   "th": "พายุวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pyromancy",
+   "en": "Pyromancy",
+   "official": "",
+   "th": "เวทเพลิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ascendedstaff",
+   "en": "Ascended Staff",
+   "official": "คทาศักดิ์สิทธิ์",
+   "th": "คทาศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frenchhorn",
+   "en": "French Horn",
+   "official": "",
+   "th": "แตรเฟรนช์ฮอร์น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "throwingweapon",
+   "en": "Throwing Weapon",
+   "official": "อาวุธขว้าง",
+   "th": "อาวุธขว้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionthrowingweapon",
+   "en": "Incursion Throwing Weapon",
+   "official": "อาวุธขว้างรุกราน",
+   "th": "อาวุธขว้างอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ninjastar",
+   "en": "Ninja Star",
+   "official": "ดาวกระจาย",
+   "th": "ดาวกระจาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icejavelin",
+   "en": "Ice Javelin",
+   "official": "ศรน้ำแข็ง",
+   "th": "หอกซัดน้ำแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "woodboomerang",
+   "en": "Wood Boomerang",
+   "official": "บูมเมอแรงไม้",
+   "th": "บูมเมอแรงไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderboomerang",
+   "en": "Spider Boomerang",
+   "official": "บูมเมอแรงแมงมุม",
+   "th": "บูมเมอแรงแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostboomerang",
+   "en": "Frost Boomerang",
+   "official": "บูมเมอแรงเยือกแข็ง",
+   "th": "บูมเมอแรงเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidboomerang",
+   "en": "Void Boomerang",
+   "official": "บูมเมอแรงแห่งความมืด",
+   "th": "บูมเมอแรงแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "razorbladeboomerang",
+   "en": "Razor Blade",
+   "official": "คมมีด",
+   "th": "คมมีด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenboomerang",
+   "en": "Tungsten Boomerang",
+   "official": "บูมเมอแรงทังสเตน",
+   "th": "บูมเมอแรงทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anchorandchain",
+   "en": "Anchor & Chain",
+   "official": "สมอ&โซ่",
+   "th": "สมอและโซ่",
+   "status": "fixed",
+   "note": "ไม่ใช้ &"
+  },
+  {
+   "key": "hook",
+   "en": "Hook",
+   "official": "ตะขอ",
+   "th": "ตะขอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironbomb",
+   "en": "Iron Bomb",
+   "official": "ระบิดโลหะ",
+   "th": "ระเบิดเหล็ก",
+   "status": "fixed",
+   "note": "สะกด (ระบิด)"
+  },
+  {
+   "key": "dynamitestick",
+   "en": "Dynamite Stick",
+   "official": "ไดนาไมต์",
+   "th": "ไดนาไมต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tilebomb",
+   "en": "Tile Bomb",
+   "official": "ระเบิดผิวดิน",
+   "th": "ระเบิดผิวดิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boxingglovegun",
+   "en": "Boxing Glove Gun",
+   "official": "ปืนหมัด",
+   "th": "ปืนหมัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialboomerang",
+   "en": "Glacial Boomerang",
+   "official": "บูมเมอแรงเกล็ดน้ำแข็ง",
+   "th": "บูมเมอแรงเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "carapacedagger",
+   "en": "Carapace Dagger",
+   "official": "มีดซากแมลง",
+   "th": "มีดสั้นกระดอง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "dragonsrebound",
+   "en": "Dragons Rebound",
+   "official": "มังกรหวนคืน",
+   "th": "มังกรหวนคืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightrazorboomerang",
+   "en": "Night Razor",
+   "official": "คมมีดราตรี",
+   "th": "คมมีดราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chefsspecial",
+   "en": "Chef's Special",
+   "official": "เมนูพิเศษจากเชฟ",
+   "th": "เมนูพิเศษจากเชฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rollingpin",
+   "en": "Rolling Pin",
+   "official": "ไม้คลึงแป้ง",
+   "th": "ไม้คลึงแป้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "butcherscleaver",
+   "en": "Butcher's Cleaver",
+   "official": "ปังตอ",
+   "th": "ปังตอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowball",
+   "en": "Snowball",
+   "official": "บอลหิมะ",
+   "th": "บอลหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "summonweapon",
+   "en": "Summon Weapon",
+   "official": "คทาอัญเชิญ",
+   "th": "อาวุธอัญเชิญ",
+   "status": "fixed",
+   "note": "หมวดอาวุธ ไม่ใช่คทา"
+  },
+  {
+   "key": "incursionsummonweapon",
+   "en": "Incursion Summon Weapon",
+   "official": "คทาอัญเชิญอินเคอชั่น",
+   "th": "อาวุธอัญเชิญอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "brainonastick",
+   "en": "Brain on a Stick",
+   "official": "คทาเรียกกีกี้",
+   "th": "สมองเสียบไม้",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "spiderstaff",
+   "en": "Spider Staff",
+   "official": "คทาเรียกแมงมุม",
+   "th": "คทาเรียกแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostpiercer",
+   "en": "Frost Piercer",
+   "official": "คทาเรียกหอกน้ำแข็ง",
+   "th": "คทาเรียกหอกเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "batcage",
+   "en": "Bat Cage",
+   "official": "",
+   "th": "กรงค้างคาว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hivescepter",
+   "en": "Hive Scepter",
+   "official": "",
+   "th": "คทารังผึ้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "magicbranch",
+   "en": "Magic Branch",
+   "official": "คทาเรียกตุ๊กตาหิมะ",
+   "th": "กิ่งไม้เวทมนตร์",
+   "status": "fixed",
+   "note": "แปลตามชื่อไอเทม"
+  },
+  {
+   "key": "sentientsword",
+   "en": "Sentient Sword",
+   "official": "ดาบอัตตา",
+   "th": "ดาบอัตตา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimecanister",
+   "en": "Slime Canister",
+   "official": "กระป๋องเรียกสไลม์",
+   "th": "กระป๋องเรียกสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticbow",
+   "en": "Necrotic Bow",
+   "official": "ธนูเน่าเปื่อย",
+   "th": "ธนูเน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reanimationbow",
+   "en": "Reanimation Bow",
+   "official": "ธนูคืนชีพ",
+   "th": "ธนูคืนชีพ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stabbybush",
+   "en": "Stabby Bush",
+   "official": "พุ่มเบอร์รี่จอมแทง",
+   "th": "พุ่มเบอร์รี่จอมแทง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bashybush",
+   "en": "Bashy Bush",
+   "official": "พุ่มเบอร์รี่จอมทุบ",
+   "th": "พุ่มเบอร์รี่จอมทุบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vulturestaff",
+   "en": "Vulture Staff",
+   "official": "คทาอีแร้ง",
+   "th": "คทาอีแร้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratehook",
+   "en": "Pirate's Hook",
+   "official": "ตะขอโจรสลัด",
+   "th": "ตะขอโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubyshields",
+   "en": "Ruby Shields",
+   "official": "โล่ทับทิม",
+   "th": "โล่ทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryostaff",
+   "en": "Cryo Staff",
+   "official": "คทาแห่งน้ำแข็ง",
+   "th": "คทาไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "phantomcaller",
+   "en": "Phantom Caller",
+   "official": "คทาเรียกวิญญาณ",
+   "th": "คทาเรียกภูตผี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "reaperscall",
+   "en": "Reapers Call",
+   "official": "เรียกยมทูต",
+   "th": "เสียงเรียกยมทูต",
+   "status": "fixed",
+   "note": "ชื่อไอเทมเป็นคำนาม"
+  },
+  {
+   "key": "swampsgrasp",
+   "en": "Swamps Grasp",
+   "official": "คทาสไลม์",
+   "th": "เงื้อมมือหนองน้ำ",
+   "status": "fixed",
+   "note": "แปลผิดความ (ไม่ใช่สไลม์)"
+  },
+  {
+   "key": "grizzboltsphere",
+   "en": "Grizzbolt Sphere",
+   "official": "",
+   "th": "ลูกแก้วกริซโบลต์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "skeletonstaff",
+   "en": "Skeleton Staff",
+   "official": "คทาโครงกระดูก",
+   "th": "คทาโครงกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "orbofslimes",
+   "en": "Orb of Slimes",
+   "official": "ลูกแก้วแห่งสไลม์",
+   "th": "ลูกแก้วแห่งสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "empresscommand",
+   "en": "Empress' Command",
+   "official": "คำสั่งจักรพรรดินี",
+   "th": "คำสั่งจักรพรรดินี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystallizedskull",
+   "en": "Crystallized Skull",
+   "official": "กะโหลกคริสตัล",
+   "th": "กะโหลกคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbranch",
+   "en": "Dryad Branch",
+   "official": "กิ่งไม้ดรายแอด",
+   "th": "กิ่งไม้ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ignitionkey",
+   "en": "Ignition Key",
+   "official": "",
+   "th": "กุญแจสตาร์ท",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "eyeofthevoid",
+   "en": "Eye of the Void",
+   "official": "ดวงตาแห่งความมืด",
+   "th": "ดวงตาแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofspeed",
+   "en": "Banner of Speed",
+   "official": "ธงแห่งความเร็ว",
+   "th": "ธงแห่งความเร็ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofdamage",
+   "en": "Banner of Damage",
+   "official": "ธงคนหัวรุนแรง",
+   "th": "ธงแห่งความเสียหาย",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "bannerofsummonspeed",
+   "en": "Banner of Summon Speed",
+   "official": "ธงหัวหน้าแก๊งค์",
+   "th": "ธงแห่งความเร็วอัญเชิญ",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "bannerofdefense",
+   "en": "Banner of Defense",
+   "official": "ธงสันติภาพ",
+   "th": "ธงแห่งการป้องกัน",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "forceofwind",
+   "en": "Force of Wind",
+   "official": "คทาพุ่ง",
+   "th": "พลังแห่งลม",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "blinkscepter",
+   "en": "Blink Scepter",
+   "official": "คทาเคลื่อนย้ายพริบตา",
+   "th": "คทาเคลื่อนย้ายพริบตา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidphasingstaff",
+   "en": "Void Phasing Staff",
+   "official": "คทาสุญญากาศ",
+   "th": "คทาทะลุมิติแห่งความมืด",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "trinket",
+   "en": "Trinket",
+   "official": "เครื่องประดับ",
+   "th": "เครื่องประดับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ninjasmark",
+   "en": "Ninjas Mark",
+   "official": "หน้ากากนินจา",
+   "th": "ตรานินจา",
+   "status": "fixed",
+   "note": "mark=ตรา ไม่ใช่หน้ากาก"
+  },
+  {
+   "key": "leatherglove",
+   "en": "Leather Glove",
+   "official": "ถุงมือหนัง",
+   "th": "ถุงมือหนัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trackerboot",
+   "en": "Tracker Boot",
+   "official": "รองเท้าล่าสัตว์",
+   "th": "รองเท้านักตามรอย",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "shinebelt",
+   "en": "Shine Belt",
+   "official": "เข็มขัดเรืองแสง",
+   "th": "เข็มขัดเรืองแสง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorersatchel",
+   "en": "Explorer Satchel",
+   "official": "กระเป๋านักสำรวจ",
+   "th": "กระเป๋านักสำรวจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vampiresgift",
+   "en": "Vampires Gift",
+   "official": "พรแห่งแวมไฟร์",
+   "th": "พรแห่งแวมไพร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "leatherdashers",
+   "en": "Leather Dashers",
+   "official": "แดชเชอร์หนัง",
+   "th": "รองเท้าพุ่งหนัง",
+   "status": "fixed",
+   "note": "แปลความแทนทับศัพท์"
+  },
+  {
+   "key": "zephyrcharm",
+   "en": "Zephyr Charm",
+   "official": "เครื่องรางของเซเฟอร์",
+   "th": "เครื่องรางเซเฟอร์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "zephyrboots",
+   "en": "Zephyr Boots",
+   "official": "รองเท้าวายุประจิม",
+   "th": "รองเท้าเซเฟอร์",
+   "status": "fixed",
+   "note": "สม่ำเสมอกับเครื่องรางเซเฟอร์"
+  },
+  {
+   "key": "windboots",
+   "en": "Wind Boots",
+   "official": "รองเท้าลม",
+   "th": "รองเท้าลม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoverboots",
+   "en": "Hover Boots",
+   "official": "รองเท้าโฮเวอร์",
+   "th": "รองเท้าโฮเวอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ghostboots",
+   "en": "Ghost Boots",
+   "official": "รองเท้าผี",
+   "th": "รองเท้าผี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "kineticboots",
+   "en": "Kinetic Boots",
+   "official": "รองเท้าจลน์ศาสตร์",
+   "th": "รองเท้าจลน์ศาสตร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodshield",
+   "en": "Wood Shield",
+   "official": "โล่ไม้กะหลั่วๆ",
+   "th": "โล่ไม้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hardenedshield",
+   "en": "Hardened Shield",
+   "official": "โล่คนแกร่ง",
+   "th": "โล่เสริมแกร่ง",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "tungstenshield",
+   "en": "Tungsten Shield",
+   "official": "โล่ทังสเตน",
+   "th": "โล่ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "parrybuckler",
+   "en": "Parry Buckler",
+   "official": "โล่สวนกลับ",
+   "th": "โล่สวนกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionshield",
+   "en": "Aged Champion Shield",
+   "official": "โล่อดีตแชมป์เปี้ยน",
+   "th": "โล่แชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "สะกด+สม่ำเสมอกับชุด Aged Champion"
+  },
+  {
+   "key": "carapaceshield",
+   "en": "Carapace Shield",
+   "official": "โล่เปลือกแมลง",
+   "th": "โล่เปลือกแมลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalshield",
+   "en": "Crystal Shield",
+   "official": "โล่คริสตัล",
+   "th": "โล่คริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moonshield",
+   "en": "Moon Shield",
+   "official": "",
+   "th": "โล่จันทรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "demonclaw",
+   "en": "Demon Claw",
+   "official": "กรงเล็บปีศาจ",
+   "th": "กรงเล็บปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "polarclaw",
+   "en": "Polar Claw",
+   "official": "กรงเล็บหมี",
+   "th": "กรงเล็บหมีขั้วโลก",
+   "status": "fixed",
+   "note": "polar=ขั้วโลก"
+  },
+  {
+   "key": "fins",
+   "en": "Fins",
+   "official": "ครีปปลา",
+   "th": "ครีบปลา",
+   "status": "fixed",
+   "note": "สะกด (ครีป)"
+  },
+  {
+   "key": "fuzzydice",
+   "en": "Fuzzy Dice",
+   "official": "ลูกเต๋าแสนคลุมเครือ",
+   "th": "ลูกเต๋าขนปุย",
+   "status": "fixed",
+   "note": "fuzzy=ขนปุย ไม่ใช่คลุมเครือ"
+  },
+  {
+   "key": "noblehorseshoe",
+   "en": "Noble Horseshoe",
+   "official": "เกือกม้าทรงเกียรติ",
+   "th": "เกือกม้าทรงเกียรติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "luckycape",
+   "en": "Lucky Cape",
+   "official": "ผ้าคลุมไหล่นำโชค",
+   "th": "ผ้าคลุมไหล่นำโชค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratetelescope",
+   "en": "Pirate Telescope",
+   "official": "กล่องส่องทางไกลโจรสลัด",
+   "th": "กล้องส่องทางไกลโจรสลัด",
+   "status": "fixed",
+   "note": "สะกด (กล่อง)"
+  },
+  {
+   "key": "regenpendant",
+   "en": "Regen Pendant",
+   "official": "จี้แห่งการเยียวยา",
+   "th": "จี้แห่งการเยียวยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobilitycloak",
+   "en": "Mobility Cloak",
+   "official": "เสื้อคลุมคล่องตัว",
+   "th": "เสื้อคลุมคล่องตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "travelercloak",
+   "en": "Traveler Cloak",
+   "official": "เสื้อคลุมนักเดินทาง",
+   "th": "เสื้อคลุมนักเดินทาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorercloak",
+   "en": "Explorer Cloak",
+   "official": "เสื้อคลุมนักสำรวจ",
+   "th": "เสื้อคลุมนักสำรวจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mesmertablet",
+   "en": "Mesmer Tablet",
+   "official": "แผ่นศิลาของเมสเมอร์",
+   "th": "แผ่นศิลาของเมสเมอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inducingamulet",
+   "en": "Inducing Amulet",
+   "official": "เครื่องรางชักพา",
+   "th": "เครื่องรางชักพา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeline",
+   "en": "Lifeline",
+   "official": "เส้นตาย",
+   "th": "เส้นชีวิต",
+   "status": "fixed",
+   "note": "เส้นตาย=deadline ผิดความ"
+  },
+  {
+   "key": "frozensoul",
+   "en": "Frozen Soul",
+   "official": "วิญญาณแช่แข็ง",
+   "th": "วิญญาณแช่แข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicfoci",
+   "en": "Magic Foci",
+   "official": "จุดรวมพลังเวทย์",
+   "th": "โฟกัสเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rangefoci",
+   "en": "Range Foci",
+   "official": "จุดรวมสติ",
+   "th": "โฟกัสระยะไกล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "meleefoci",
+   "en": "Melee Foci",
+   "official": "จุดรวมพละกำลัง",
+   "th": "โฟกัสระยะประชิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonfoci",
+   "en": "Summon Foci",
+   "official": "จุดรวมพลังมิตรภาพ",
+   "th": "โฟกัสอัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "balancedfoci",
+   "en": "Balanced Foci",
+   "official": "จุดรวมสมดุล",
+   "th": "โฟกัสสมดุล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancientfeather",
+   "en": "Ancient Feather",
+   "official": "ขนนกโบราณกาล",
+   "th": "ขนนกโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "assassinscowl",
+   "en": "Assassins Cowl",
+   "official": "ผ้าคลุมนักฆ่า",
+   "th": "ผ้าคลุมนักฆ่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "airvessel",
+   "en": "Air Vessel",
+   "official": "แจกันสุญญากาศ",
+   "th": "ภาชนะอากาศ",
+   "status": "fixed",
+   "note": "vessel=ภาชนะ ไม่ใช่แจกัน"
+  },
+  {
+   "key": "miningcharm",
+   "en": "Mining Charm",
+   "official": "เครื่องรางนักขุดแร่",
+   "th": "เครื่องรางนักขุดแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minersbouquet",
+   "en": "Miners Bouquet",
+   "official": "ช่อดอกไม้นักขุดแร่",
+   "th": "ช่อดอกไม้คนงานเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "calmingminersbouquet",
+   "en": "Calming Miners Bouquet",
+   "official": "ช่อดอกไม้นักขุดแร่รักสงบ",
+   "th": "ช่อดอกไม้คนงานเหมืองรักสงบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cactusshield",
+   "en": "Cactus Shield",
+   "official": "โล่กระบองเพชร",
+   "th": "โล่กระบองเพชร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "siphonshield",
+   "en": "Siphon Shield",
+   "official": "โล่ไซฟอน",
+   "th": "โล่ไซฟอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sparegemstones",
+   "en": "Spare Gemstones",
+   "official": "อัญมณีสำรอง",
+   "th": "อัญมณีสำรอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spellstone",
+   "en": "Spell Stone",
+   "official": "หินเวทยมนต์",
+   "th": "หินเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "companionlocket",
+   "en": "Companion Locket",
+   "official": "ล็อกเกตคู่หู",
+   "th": "ล็อกเกตคู่หู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dreamcatcher",
+   "en": "Dream Catcher",
+   "official": "นักล่าฝัน",
+   "th": "เครื่องดักฝัน",
+   "status": "fixed",
+   "note": "ชื่อที่ใช้กันทั่วไป"
+  },
+  {
+   "key": "nightmaretalisman",
+   "en": "Nightmare Talisman",
+   "official": "เครื่องรางฝันร้าย",
+   "th": "เครื่องรางฝันร้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "prophecyslab",
+   "en": "Prophecy Slab",
+   "official": "แผ่นคำทำนาย",
+   "th": "แผ่นคำทำนาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicmanual",
+   "en": "Magic Manual",
+   "official": "คู่มือเวทย์มนตร์",
+   "th": "คู่มือเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "scryingcards",
+   "en": "Scrying Cards",
+   "official": "การ์ดร้องไห้",
+   "th": "ไพ่พยากรณ์",
+   "status": "fixed",
+   "note": "scrying=พยากรณ์ ไม่ใช่ร้องไห้"
+  },
+  {
+   "key": "forbiddenspellbook",
+   "en": "Forbidden Spellbook",
+   "official": "หนังสือคาถาต้องห้าม",
+   "th": "หนังสือคาถาต้องห้าม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicalquiver",
+   "en": "Magical Quiver",
+   "official": "ซองธนูมหัศจรรย์",
+   "th": "ซองลูกธนูเวทมนตร์",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "ammobox",
+   "en": "Ammo Box",
+   "official": "กล่องกระสุน",
+   "th": "กล่องกระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozenheart",
+   "en": "Frozen Heart",
+   "official": "หัวใจเยือกแข็ง",
+   "th": "หัวใจแช่แข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "frozenwave",
+   "en": "Frozen Wave",
+   "official": "เกลียวคลืนแช่แข็ง",
+   "th": "คลื่นแช่แข็ง",
+   "status": "fixed",
+   "note": "สะกด (คลืน) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spidercharm",
+   "en": "Spider Charm",
+   "official": "เครื่องรางแมงมุม",
+   "th": "เครื่องรางแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shellofretribution",
+   "en": "Shell of Retribution",
+   "official": "เปลือกแห่งกรรม",
+   "th": "เปลือกแห่งกรรม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guardianshell",
+   "en": "Guardian Shell",
+   "official": "เปลือกคุ้มกัน",
+   "th": "เปลือกคุ้มกัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonehilt",
+   "en": "Bone Hilt",
+   "official": "ด้ามจับกระดูก",
+   "th": "ด้ามจับกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firestone",
+   "en": "Fire Stone",
+   "official": "หินไฟ",
+   "th": "หินไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifependant",
+   "en": "Life Pendant",
+   "official": "เครื่องรางแห่งชีวิต",
+   "th": "จี้แห่งชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "constructionhammer",
+   "en": "Construction Hammer",
+   "official": "ค้อนก่อสร้าง",
+   "th": "ค้อนก่อสร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "telescopicladder",
+   "en": "Telescopic Ladder",
+   "official": "บันไดส่องทางไกล",
+   "th": "บันไดยืดหด",
+   "status": "fixed",
+   "note": "telescopic=ยืดหด"
+  },
+  {
+   "key": "toolextender",
+   "en": "Tool Extender",
+   "official": "อุปกรณ์ขยายเครื่องมือ",
+   "th": "อุปกรณ์ขยายเครื่องมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "toolbox",
+   "en": "Toolbox",
+   "official": "กล่องเครื่องมือ",
+   "th": "กล่องเครื่องมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "itemattractor",
+   "en": "Item Attractor",
+   "official": "อุปกรณ์ดึงดูดไอเทม",
+   "th": "อุปกรณ์ดึงดูดไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minersprosthetic",
+   "en": "Miners Prosthetic",
+   "official": "แขนเทียมคนงานเหมือง",
+   "th": "แขนเทียมคนงานเหมือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spikedboots",
+   "en": "Spiked Boots",
+   "official": "รองเท้าหนาม",
+   "th": "รองเท้าหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spikedbatboots",
+   "en": "Spiked Bat Boots",
+   "official": "รองเท้าหนามค้างคาว",
+   "th": "รองเท้าหนามค้างคาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "froststone",
+   "en": "Frost Stone",
+   "official": "หินเยือกแข็ง",
+   "th": "หินเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostflame",
+   "en": "Frost Flame",
+   "official": "ไฟเยือกแข็ง",
+   "th": "ไฟเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "balancedfrostfirefoci",
+   "en": "Balanced Frostfire Foci",
+   "official": "จุดรวมสมดุลไฟเยือกแข็ง",
+   "th": "โฟกัสสมดุลไฟเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "calmingrose",
+   "en": "Calming Rose",
+   "official": "กุหลาบสงบเงียบ",
+   "th": "กุหลาบสงบเงียบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hysteriatablet",
+   "en": "Hysteria Tablet",
+   "official": "แผ่นศิลาของฮิสทีเรีย",
+   "th": "แผ่นศิลาของฮิสทีเรีย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frenzyorb",
+   "en": "Frenzy Orb",
+   "official": "ลูกแก้วแห่งความบ้าคลั่ง",
+   "th": "ลูกแก้วแห่งความบ้าคลั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scryingmirror",
+   "en": "Scrying Mirror",
+   "official": "กระจกกรีดร้อง",
+   "th": "กระจกพยากรณ์",
+   "status": "fixed",
+   "note": "scrying=พยากรณ์ ไม่ใช่กรีดร้อง"
+  },
+  {
+   "key": "diggingclaw",
+   "en": "Digging Claw",
+   "official": "กรงเล็บนักขุด",
+   "th": "กรงเล็บนักขุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "templependant",
+   "en": "Temple Pendant",
+   "official": "เครื่องรางพระวิหาร",
+   "th": "จี้วิหาร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancientrelics",
+   "en": "Ancient Relics",
+   "official": "ซากเครื่องรางโบราณกาล",
+   "th": "วัตถุโบราณ",
+   "status": "fixed",
+   "note": "relic=วัตถุโบราณ"
+  },
+  {
+   "key": "gelatincasings",
+   "en": "Gelatin Casings",
+   "official": "เครื่องรางเจลาติน",
+   "th": "ปลอกเจลาติน",
+   "status": "fixed",
+   "note": "casing=ปลอก"
+  },
+  {
+   "key": "bloodstonering",
+   "en": "Bloodstone Ring",
+   "official": "แหวนโลหิต",
+   "th": "แหวนหินโลหิต",
+   "status": "fixed",
+   "note": "แปลตก stone"
+  },
+  {
+   "key": "claygauntlet",
+   "en": "Clay Gauntlet",
+   "official": "ถุงมือดินเหนียว",
+   "th": "ถุงมือดินเหนียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vambrace",
+   "en": "Vambrace",
+   "official": "ปลอกแขน",
+   "th": "ปลอกแขน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chainshirt",
+   "en": "Chain Shirt",
+   "official": "เกราะโซ่",
+   "th": "เกราะโซ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manica",
+   "en": "Manica",
+   "official": "ปลอกหุ้ม",
+   "th": "ปลอกหุ้ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionscabbard",
+   "en": "Aged Champion Scabbard",
+   "official": "ฝักดาบแชมป์เปี้ยน",
+   "th": "ฝักดาบแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "สะกด+ตกคำ Aged"
+  },
+  {
+   "key": "challengerspauldron",
+   "en": "Challenger's Pauldron",
+   "official": "เกราะไหล่ผู้ท้าชิง",
+   "th": "เกราะไหล่ผู้ท้าชิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clockworkheart",
+   "en": "Clockwork Heart",
+   "official": "หัวใจนาฬิกา",
+   "th": "หัวใจนาฬิกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "foolsgambit",
+   "en": "Fool's Gambit",
+   "official": "กลเม็ดของคนโง่",
+   "th": "กลเม็ดของคนโง่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jonasgambit",
+   "en": "Jonas' Gambit",
+   "official": "",
+   "th": "กลเม็ดของโจนัส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "necroticsoulskull",
+   "en": "Necrotic Soul Skull",
+   "official": "กะโหลกวิญญาณเน่าเปื่อย",
+   "th": "กะโหลกวิญญาณเน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowisplantern",
+   "en": "Will-o'-Wisp Lantern",
+   "official": "ตะเกียง วิล-โอ-วิสป์",
+   "th": "ตะเกียงวิล-โอ-วิสป์",
+   "status": "fixed",
+   "note": "ไม่เว้นวรรคกลางชื่อ · ชื่อตาม mob: Will-o'-Wisp"
+  },
+  {
+   "key": "essenceofperspective",
+   "en": "Essence of Perspective",
+   "official": "แก่นพลังแห่งมุมมองคติ",
+   "th": "แก่นแท้แห่งมุมมอง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "essenceofprolonging",
+   "en": "Essence of Prolonging",
+   "official": "แก่นพลังแห่งความยืดเยื้อ",
+   "th": "แก่นแท้แห่งการยืดเวลา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "essenceofrebirth",
+   "en": "Essence of Rebirth",
+   "official": "แก่นพลังแห่งการกำเนิด",
+   "th": "แก่นแท้แห่งการเกิดใหม่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiritboard",
+   "en": "Spirit Board",
+   "official": "กระดานวิญญาณ",
+   "th": "กระดานวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guardianbracelet",
+   "en": "Guardian Bracelet",
+   "official": "กำไลผู้พิทักษ์",
+   "th": "กำไลผู้พิทักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "secondwindcharm",
+   "en": "Second Wind Charm",
+   "official": "เครื่องรางลมคู่",
+   "th": "เครื่องรางฮึดสู้",
+   "status": "fixed",
+   "note": "second wind=แรงฮึด ไม่ใช่ลมคู่"
+  },
+  {
+   "key": "summonersbestiary",
+   "en": "Summoner's Bestiary",
+   "official": "สมุดบันทึกสัตว์โลก",
+   "th": "ตำราสัตว์ของผู้อัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiritgreaves",
+   "en": "Spirit Greaves",
+   "official": "รองเท้าวิญญาณ",
+   "th": "รองเท้าเกราะวิญญาณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingsfoot",
+   "en": "Caveling's Foot",
+   "official": "เท้าผู้เร้นกายในถ้ำ",
+   "th": "เท้าชาวถ้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingscollection",
+   "en": "Caveling's Collection",
+   "official": "ชุดสะสมผู้เร้นกายถ้ำ",
+   "th": "ของสะสมชาวถ้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "voodooshield",
+   "en": "Voodoo Shield",
+   "official": "โล่วูดู",
+   "th": "โล่วูดู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ringoffire",
+   "en": "Ring of Fire",
+   "official": "วงแหวนไฟ",
+   "th": "แหวนไฟ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ringofwater",
+   "en": "Ring of Water",
+   "official": "วงแหวนน้ำ",
+   "th": "แหวนน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "boots",
+   "en": "Boots",
+   "official": "รองเท้า",
+   "th": "รองเท้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bodyarmor",
+   "en": "Body Armor",
+   "official": "เสื้อเกราะ",
+   "th": "เสื้อเกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "helmet",
+   "en": "Helmet",
+   "official": "หมวก",
+   "th": "หมวก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leatherhood",
+   "en": "Leather Hood",
+   "official": "ฮู้ดหนังสัตว์",
+   "th": "ฮู้ดหนังสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leathershirt",
+   "en": "Leather Shirt",
+   "official": "เสื้อหนังสัตว์",
+   "th": "เสื้อหนังสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leatherboots",
+   "en": "Leather Boots",
+   "official": "รองเท้าหนังสัตว์",
+   "th": "รองเท้าหนังสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clothhat",
+   "en": "Cloth Hat",
+   "official": "หมวกผ้า",
+   "th": "หมวกผ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clothrobe",
+   "en": "Cloth Robe",
+   "official": "เสื้อคลุมผ้า",
+   "th": "เสื้อคลุมผ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clothboots",
+   "en": "Cloth Boots",
+   "official": "รองเท้าผ้า",
+   "th": "รองเท้าผ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperhelmet",
+   "en": "Copper Helmet",
+   "official": "หมวกทองแดง",
+   "th": "หมวกทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperchestplate",
+   "en": "Copper Chestplate",
+   "official": "เกราะทองแดง",
+   "th": "เกราะทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperboots",
+   "en": "Copper Boots",
+   "official": "รองเท้าทองแดง",
+   "th": "รองเท้าทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironhelmet",
+   "en": "Iron Helmet",
+   "official": "หมวกเหล็ก",
+   "th": "หมวกเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironchestplate",
+   "en": "Iron Chestplate",
+   "official": "เกราะเหล็ก",
+   "th": "เกราะเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironboots",
+   "en": "Iron Boots",
+   "official": "รองเท้าเหล็ก",
+   "th": "รองเท้าเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldhelmet",
+   "en": "Gold Helmet",
+   "official": "หมวกทองคำ",
+   "th": "หมวกทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldchestplate",
+   "en": "Gold Chestplate",
+   "official": "เกราะทองคำ",
+   "th": "เกราะทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldboots",
+   "en": "Gold Boots",
+   "official": "รองเท้าทองคำ",
+   "th": "รองเท้าทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderhelmet",
+   "en": "Spider Helmet",
+   "official": "หมวกแมงมุม",
+   "th": "หมวกแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderchestplate",
+   "en": "Spider Chestplate",
+   "official": "เกราะแมงมุม",
+   "th": "เกราะแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderboots",
+   "en": "Spider Boots",
+   "official": "รองเท้าแมงมุม",
+   "th": "รองเท้าแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frosthelmet",
+   "en": "Frost Helmet",
+   "official": "หมวกเยือกแข็ง",
+   "th": "หมวกเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frosthood",
+   "en": "Frost Hood",
+   "official": "ฮู้ดเยือกแข็ง",
+   "th": "ฮู้ดเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frosthat",
+   "en": "Frost Hat",
+   "official": "หมวกผ้าเยือกแข็ง",
+   "th": "หมวกผ้าเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostchestplate",
+   "en": "Frost Chestplate",
+   "official": "เกราะเยือกแข็ง",
+   "th": "เกราะเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostboots",
+   "en": "Frost Boots",
+   "official": "รองเท้าเยือกแข็ง",
+   "th": "รองเท้าเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runichelmet",
+   "en": "Runic Helmet",
+   "official": "หมวกรูน",
+   "th": "หมวกรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runichood",
+   "en": "Runic Hood",
+   "official": "ฮู้ดรูน",
+   "th": "ฮู้ดรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runichat",
+   "en": "Runic Hat",
+   "official": "หมวกผ้ารูน",
+   "th": "หมวกผ้ารูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runiccrown",
+   "en": "Runic Crown",
+   "official": "มงกุฏรูน",
+   "th": "มงกุฎรูน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "runicchestplate",
+   "en": "Runic Chestplate",
+   "official": "เกราะรูน",
+   "th": "เกราะรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicboots",
+   "en": "Runic Boots",
+   "official": "รองเท้ารูน",
+   "th": "รองเท้ารูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pharaohsheaddress",
+   "en": "Pharaoh's Headdress",
+   "official": "มงกุฎฟาโรห์",
+   "th": "มงกุฎฟาโรห์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pharaohsrobe",
+   "en": "Pharaoh's Robe",
+   "official": "เสื้อคลุมฟาโรห์",
+   "th": "เสื้อคลุมฟาโรห์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pharaohssandals",
+   "en": "Pharaoh's Sandals",
+   "official": "รองเท้าฟาโรห์",
+   "th": "รองเท้าฟาโรห์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "phoenixmask",
+   "en": "Phoenix Mask",
+   "official": "",
+   "th": "หน้ากากฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenixcloak",
+   "en": "Phoenix Cloak",
+   "official": "",
+   "th": "เสื้อคลุมฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenixboots",
+   "en": "Phoenix Boots",
+   "official": "",
+   "th": "รองเท้าฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ninjahood",
+   "en": "Ninja Hood",
+   "official": "ฮู้ดนินจา",
+   "th": "ฮู้ดนินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ninjarobe",
+   "en": "Ninja Robe",
+   "official": "เสื้อคลุมนินจา",
+   "th": "เสื้อคลุมนินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ninjashoes",
+   "en": "Ninja Shoes",
+   "official": "รองเท้านินจา",
+   "th": "รองเท้านินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonichelmet",
+   "en": "Demonic Helmet",
+   "official": "หมวกปีศาจ",
+   "th": "หมวกปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicchestplate",
+   "en": "Demonic Chestplate",
+   "official": "เกราะปีศาจ",
+   "th": "เกราะปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicboots",
+   "en": "Demonic Boots",
+   "official": "รองเท้าปีศาจ",
+   "th": "รองเท้าปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidmask",
+   "en": "Void Mask",
+   "official": "หน้ากากแห่งความมืด",
+   "th": "หน้ากากแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidhat",
+   "en": "Void Hat",
+   "official": "หมวกแห่งความมืด",
+   "th": "หมวกแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidrobe",
+   "en": "Void Robe",
+   "official": "เสื้อคลุมแห่งความมืด",
+   "th": "เสื้อคลุมแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidboots",
+   "en": "Void Boots",
+   "official": "รองเท้าแห่งความมืด",
+   "th": "รองเท้าแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyhelmet",
+   "en": "Ivy Helmet",
+   "official": "หมวกไม้เลื้อย",
+   "th": "หมวกไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyhood",
+   "en": "Ivy Hood",
+   "official": "ฮู้ดไม้เลื้อย",
+   "th": "ฮู้ดไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyhat",
+   "en": "Ivy Hat",
+   "official": "หมวกผ้าไม้เลื้อย",
+   "th": "หมวกผ้าไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivycirclet",
+   "en": "Ivy Circlet",
+   "official": "มงกุฎไม้เลื้อย",
+   "th": "รัดเกล้าไม้เลื้อย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ivychestplate",
+   "en": "Ivy Chestplate",
+   "official": "เกราะไม้เลื้อย",
+   "th": "เกราะไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyboots",
+   "en": "Ivy Boots",
+   "official": "รองเท้าไม้เลื้อย",
+   "th": "รองเท้าไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzhelmet",
+   "en": "Quartz Helmet",
+   "official": "หมวกเขี้ยวหนุมาน",
+   "th": "หมวกควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "quartzcrown",
+   "en": "Quartz Crown",
+   "official": "มงกุฎเขี้ยวหนุมาน",
+   "th": "มงกุฎควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "quartzchestplate",
+   "en": "Quartz Chestplate",
+   "official": "เกราะเขี้ยวหนุมาน",
+   "th": "เกราะควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "quartzboots",
+   "en": "Quartz Boots",
+   "official": "รองเท้าเขี้ยวหนุมาน",
+   "th": "รองเท้าควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "gunslingerhat",
+   "en": "Gunslinger Hat",
+   "official": "หมวกคาวบอย",
+   "th": "หมวกมือปืน",
+   "status": "fixed",
+   "note": "gunslinger=มือปืน"
+  },
+  {
+   "key": "gunslingervest",
+   "en": "Gunslinger Vest",
+   "official": "เสื้อคาวบอย",
+   "th": "เสื้อกั๊กมือปืน",
+   "status": "fixed",
+   "note": "gunslinger=มือปืน, vest=เสื้อกั๊ก"
+  },
+  {
+   "key": "gunslingerboots",
+   "en": "Gunslinger Boots",
+   "official": "รองเท้าคาวบอย",
+   "th": "รองเท้ามือปืน",
+   "status": "fixed",
+   "note": "gunslinger=มือปืน"
+  },
+  {
+   "key": "tungstenhelmet",
+   "en": "Tungsten Helmet",
+   "official": "หมวกทังสเตน",
+   "th": "หมวกทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenchestplate",
+   "en": "Tungsten Chestplate",
+   "official": "เกราะทังสเตน",
+   "th": "เกราะทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenboots",
+   "en": "Tungsten Boots",
+   "official": "รองเท้าทังสเตน",
+   "th": "รองเท้าทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlechefhat",
+   "en": "Battle Chef's Hat",
+   "official": "หมวกพ่อครัวนักสู้",
+   "th": "หมวกพ่อครัวนักสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlechefchestplate",
+   "en": "Battle Chef's Chestplate",
+   "official": "เกราะพ่อครัวนักสู้",
+   "th": "เกราะพ่อครัวนักสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlechefboots",
+   "en": "Battle Chef's Boots",
+   "official": "รองเท้าพ่อครัวนักสู้",
+   "th": "รองเท้าพ่อครัวนักสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shadowhat",
+   "en": "Shadow Hat",
+   "official": "หมวกแห่งเงา",
+   "th": "หมวกเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shadowhood",
+   "en": "Shadow Hood",
+   "official": "ฮู้ดแห่งเงา",
+   "th": "ฮู้ดเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shadowmantle",
+   "en": "Shadow Mantle",
+   "official": "เสื้อคลุมแห่งเงา",
+   "th": "เสื้อคลุมเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shadowboots",
+   "en": "Shadow Boots",
+   "official": "รองเท้าแห่งเงา",
+   "th": "รองเท้าเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "glacialcirclet",
+   "en": "Glacial Circlet",
+   "official": "มงกุฎเกล็ดน้ำแข็ง",
+   "th": "รัดเกล้าเกล็ดน้ำแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "glacialhelmet",
+   "en": "Glacial Helmet",
+   "official": "หมวกเกล็ดน้ำแข็ง",
+   "th": "หมวกเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialchestplate",
+   "en": "Glacial Chestplate",
+   "official": "เกราะเกล็ดน้ำแข็ง",
+   "th": "เกราะเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialboots",
+   "en": "Glacial Boots",
+   "official": "รองเท้าเกล็ดน้ำแข็ง",
+   "th": "รองเท้าเกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadhelmet",
+   "en": "Dryad Helmet",
+   "official": "หมวกดรายแอด",
+   "th": "หมวกดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadscarf",
+   "en": "Dryad Scarf",
+   "official": "ผ้าพันคอดรายแอด",
+   "th": "ผ้าพันคอดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadhat",
+   "en": "Dryad Hat",
+   "official": "หมวกผ้าดรายแอด",
+   "th": "หมวกผ้าดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadcrown",
+   "en": "Dryad Crown",
+   "official": "มงกุฏดรายแอด",
+   "th": "มงกุฎดรายแอด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "dryadchestplate",
+   "en": "Dryad Chestplate",
+   "official": "เกราะดรายแอด",
+   "th": "เกราะดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadboots",
+   "en": "Dryad Boots",
+   "official": "รองเท้าดรายแอด",
+   "th": "รองเท้าดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumhood",
+   "en": "Mycelium Hood",
+   "official": "ฮู้ดไมซีเลียม",
+   "th": "ฮู้ดไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumscarf",
+   "en": "Mycelium Scarf",
+   "official": "ผ้าพันคอไมซีเลียม",
+   "th": "ผ้าพันคอไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumchestplate",
+   "en": "Mycelium Chestplate",
+   "official": "เกราะไมซีเลียม",
+   "th": "เกราะไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "myceliumboots",
+   "en": "Mycelium Boots",
+   "official": "รองเท้าไมซีเลียม",
+   "th": "รองเท้าไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionhelmet",
+   "en": "Aged Champion Helmet",
+   "official": "หมวกแชมเปี้ยนเก่าแก่",
+   "th": "หมวกแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "agedchampionchestplate",
+   "en": "Aged Champion Chestplate",
+   "official": "เกราะแชมเปี้ยนเก่าแก่",
+   "th": "เกราะแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "agedchampiongreaves",
+   "en": "Aged Champion Greaves",
+   "official": "รองเท้าแชมเปี้ยนเก่าแก่",
+   "th": "รองเท้าเกราะแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "widowhelmet",
+   "en": "Widow Helmet",
+   "official": "หมวกแม่ม่าย",
+   "th": "หมวกแม่ม่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "widowchestplate",
+   "en": "Widow Chestplate",
+   "official": "เกราะแม่ม่าย",
+   "th": "เกราะแม่ม่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "widowboots",
+   "en": "Widow Boots",
+   "official": "รองเท้าแม่ม่าย",
+   "th": "รองเท้าแม่ม่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilmask",
+   "en": "Ancient Fossil Mask",
+   "official": "หน้ากากฟอสซิลดึกดำบรรพ์",
+   "th": "หน้ากากฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilhelmet",
+   "en": "Ancient Fossil Helmet",
+   "official": "หมวกฟอสซิลดึกดำบรรพ์",
+   "th": "หมวกฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilchestplate",
+   "en": "Ancient Fossil Chestplate",
+   "official": "เกราะฟอสซิลดึกดำบรรพ์",
+   "th": "เกราะฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilboots",
+   "en": "Ancient Fossil Boots",
+   "official": "รองเท้าฟอสซิลดึกดำบรรพ์",
+   "th": "รองเท้าฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancestorshat",
+   "en": "Ancestors Hat",
+   "official": "หมวกบรรพชน",
+   "th": "หมวกบรรพชน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancestorsrobe",
+   "en": "Ancestors Robe",
+   "official": "เสื้อคลุมบรรพชน",
+   "th": "เสื้อคลุมบรรพชน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancestorsboots",
+   "en": "Ancestors Boots",
+   "official": "รองเท้าบรรพชน",
+   "th": "รองเท้าบรรพชน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharpshooterhat",
+   "en": "Sharpshooter Hat",
+   "official": "หมวกนักแม่นปืน",
+   "th": "หมวกนักแม่นปืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharpshootercoat",
+   "en": "Sharpshooter Coat",
+   "official": "เสื้อคลุมนักแม่นปืน",
+   "th": "เสื้อคลุมนักแม่นปืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharpshooterboots",
+   "en": "Sharpshooter Boots",
+   "official": "รองเท้านักแม่นปืน",
+   "th": "รองเท้านักแม่นปืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimehat",
+   "en": "Slime Hat",
+   "official": "หมวกผ้าสไลม์",
+   "th": "หมวกผ้าสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimehelmet",
+   "en": "Slime Helmet",
+   "official": "หมวกสไลม์",
+   "th": "หมวกสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimechestplate",
+   "en": "Slime Chestplate",
+   "official": "เกราะสไลม์",
+   "th": "เกราะสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimeboots",
+   "en": "Slime Boots",
+   "official": "รองเท้าสไลม์",
+   "th": "รองเท้าสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelhelmet",
+   "en": "Nightsteel Helmet",
+   "official": "หมวกเหล็กราตรี",
+   "th": "หมวกเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelmask",
+   "en": "Nightsteel Mask",
+   "official": "หน้ากากเหล็กราตรี",
+   "th": "หน้ากากเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelveil",
+   "en": "Nightsteel Veil",
+   "official": "ผ้าคลุมหน้าเหล็กราตรี",
+   "th": "ผ้าคลุมหน้าเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelcirclet",
+   "en": "Nightsteel Circlet",
+   "official": "มงกุฏเหล็กราตรี",
+   "th": "รัดเกล้าเหล็กราตรี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "nightsteelchestplate",
+   "en": "Nightsteel Chestplate",
+   "official": "เกราะเหล็กราตรี",
+   "th": "เกราะเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelboots",
+   "en": "Nightsteel Boots",
+   "official": "รองเท้าเหล็กราตรี",
+   "th": "รองเท้าเหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodplatecowl",
+   "en": "Bloodplate Cowl",
+   "official": "ผ้าคลุมโลหิต",
+   "th": "ผ้าคลุมโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodplatechestplate",
+   "en": "Bloodplate Chestplate",
+   "official": "เกราะโลหิต",
+   "th": "เกราะโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodplateboots",
+   "en": "Bloodplate Boots",
+   "official": "รองเท้าโลหิต",
+   "th": "รองเท้าโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spideritehelmet",
+   "en": "Spiderite Helmet",
+   "official": "หมวกเหล็กแมงมุม",
+   "th": "หมวกสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritehat",
+   "en": "Spiderite Hat",
+   "official": "หมวกหนังแมงมุม",
+   "th": "หมวกผ้าสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritehood",
+   "en": "Spiderite Hood",
+   "official": "ฮู้ดแมงมุม",
+   "th": "ฮู้ดสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritecrown",
+   "en": "Spiderite Crown",
+   "official": "มงกุฎแมงมุม",
+   "th": "มงกุฎสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritechestplate",
+   "en": "Spiderite Chestplate",
+   "official": "เกราะเหล็กแมงมุม",
+   "th": "เกราะสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideritegreaves",
+   "en": "Spiderite Greaves",
+   "official": "รองเท้าเหล็กแมงมุม",
+   "th": "รองเท้าเกราะสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ravenlordsheaddress",
+   "en": "Ravenlord's Headdress",
+   "official": "ผ้าโพกหัวของราชาอีกา",
+   "th": "ผ้าโพกหัวราชาอีกา",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "ravenlordschestplate",
+   "en": "Ravenlord's Chestplate",
+   "official": "เกราะราชาอีก",
+   "th": "เกราะราชาอีกา",
+   "status": "fixed",
+   "note": "สะกด (อีก)"
+  },
+  {
+   "key": "ravenlordsboots",
+   "en": "Ravenlord's Boots",
+   "official": "รองเท้าราชาอีกา",
+   "th": "รองเท้าราชาอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnhelmet",
+   "en": "Dawn Helmet",
+   "official": "หมวกรุ่งอรุณ",
+   "th": "หมวกรุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnchestplate",
+   "en": "Dawn Chestplate",
+   "official": "เกราะรุ่งอรุณ",
+   "th": "เกราะรุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnboots",
+   "en": "Dawn Boots",
+   "official": "รองเท้ารุ่งอรุณ",
+   "th": "รองเท้ารุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duskhelmet",
+   "en": "Dusk Helmet",
+   "official": "หมวกยามค่ำ",
+   "th": "หมวกพลบค่ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "duskchestplate",
+   "en": "Dusk Chestplate",
+   "official": "เกราะยามค่ำ",
+   "th": "เกราะพลบค่ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "duskboots",
+   "en": "Dusk Boots",
+   "official": "รองเท้ายามค่ำ",
+   "th": "รองเท้าพลบค่ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "amethysthelmet",
+   "en": "Amethyst Helmet",
+   "official": "หมวกอเมทิสต์",
+   "th": "หมวกอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphireeyepatch",
+   "en": "Sapphire Eyepatch",
+   "official": "ผ้าปิดตาไพลิน",
+   "th": "ผ้าปิดตาไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldmask",
+   "en": "Emerald Mask",
+   "official": "หน้ากากมรกต",
+   "th": "หน้ากากมรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubycrown",
+   "en": "Ruby Crown",
+   "official": "มงกุฎทับทิม",
+   "th": "มงกุฎทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalchestplate",
+   "en": "Crystal Chestplate",
+   "official": "เกราะคริสตัล",
+   "th": "เกราะคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalboots",
+   "en": "Crystal Boots",
+   "official": "รองเท้าคริสตัล",
+   "th": "รองเท้าคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanichelmet",
+   "en": "Arcanic Helmet",
+   "official": "หมวกอาร์คานิค",
+   "th": "หมวกอาร์คานิค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicchestplate",
+   "en": "Arcanic Chestplate",
+   "official": "เกราะอาร์คานิค",
+   "th": "เกราะอาร์คานิค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicboots",
+   "en": "Arcanic Boots",
+   "official": "รองเท้าอาร์คานิค",
+   "th": "รองเท้าอาร์คานิค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundcrown",
+   "en": "Runebound Crown",
+   "official": "มงกุฏรูนเบานด์",
+   "th": "มงกุฎรูนเบานด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "runeboundcrownmask",
+   "en": "Runebound Masked Crown",
+   "official": "หน้ากากรูนเบานด์",
+   "th": "มงกุฎหน้ากากรูนเบานด์",
+   "status": "fixed",
+   "note": "ตกคำ Crown"
+  },
+  {
+   "key": "runeboundskullhelmet",
+   "en": "Runebound Skull Helm",
+   "official": "หมวกกระดูกรูนเบานด์",
+   "th": "หมวกกระดูกรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundhelmet",
+   "en": "Runebound Helm",
+   "official": "หมวกรูนเบานด์",
+   "th": "หมวกรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundhornhelmet",
+   "en": "Runebound Horned Helm",
+   "official": "หมวกเขารูนเบานด์",
+   "th": "หมวกเขารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundhood",
+   "en": "Runebound Hood",
+   "official": "ฮู้ดรูนเบานด์",
+   "th": "ฮู้ดรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundbackbones",
+   "en": "Runebound Backbones",
+   "official": "เกราะกระดูกรูนเบานด์",
+   "th": "เกราะกระดูกรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundrobe",
+   "en": "Runebound Robe",
+   "official": "เสื้อผ้ารูนเบานด์",
+   "th": "เสื้อคลุมรูนเบานด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeboundbonesrobe",
+   "en": "Runebound Bones Robe",
+   "official": "เสื้อกระดูกรูนเบานด์",
+   "th": "เสื้อคลุมกระดูกรูนเบานด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeboundleatherchest",
+   "en": "Runebound Leather Chest",
+   "official": "เสื้อหนังรูนเบานด์",
+   "th": "เสื้อหนังรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundboots",
+   "en": "Runebound Boots",
+   "official": "รองเท้ารูนเบานด์",
+   "th": "รองเท้ารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arachnidhelmet",
+   "en": "Arachnid Helmet",
+   "official": "เกราะอะแรกนิด",
+   "th": "หมวกอะแรกนิด",
+   "status": "fixed",
+   "note": "ผิดชิ้น (helmet=หมวก)"
+  },
+  {
+   "key": "arachnidchestplate",
+   "en": "Arachnid Chestplate",
+   "official": "เสื้อเกราะอะแรกนิด",
+   "th": "เกราะอะแรกนิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "arachnidlegs",
+   "en": "Arachnid Legs",
+   "official": "รองเท้าอะแรกนิด",
+   "th": "รองเท้าอะแรกนิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepfrosthood",
+   "en": "Deepfrost Hood",
+   "official": "ฮู้ดเหมันต์",
+   "th": "ฮู้ดเหมันต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepfrostchestplate",
+   "en": "Deepfrost Chestplate",
+   "official": "เกราะเหมันต์",
+   "th": "เกราะเหมันต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepfrostboots",
+   "en": "Deepfrost Boots",
+   "official": "รองเท้าเหมันต์",
+   "th": "รองเท้าเหมันต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soulseedcrown",
+   "en": "Soulseed Crown",
+   "official": "มงกุฎเมล็ดวิญญาณ",
+   "th": "มงกุฎเมล็ดวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soulseedchestplate",
+   "en": "Soulseed Chestplate",
+   "official": "เกราะเมล็ดวิญญาณ",
+   "th": "เกราะเมล็ดวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soulseedboots",
+   "en": "Soulseed Boots",
+   "official": "รองเท้าเมล็ดวิญญาณ",
+   "th": "รองเท้าเมล็ดวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soldierhelmet",
+   "en": "Soldier's Helmet",
+   "official": "หมวกเกราะทหาร",
+   "th": "หมวกเกราะทหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soldiercap",
+   "en": "Soldier's Cap",
+   "official": "หมวกทหาร",
+   "th": "หมวกทหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soldierchestplate",
+   "en": "Soldier's Chestplate",
+   "official": "เกราะทหาร",
+   "th": "เกราะทหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soldierboots",
+   "en": "Soldier's Boots",
+   "official": "รองเท้าทหาร",
+   "th": "รองเท้าทหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thiefscowl",
+   "en": "Thief's Cowl",
+   "official": "หมวกผ้าโจร",
+   "th": "ผ้าคลุมโจร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thiefscloak",
+   "en": "Thiefs's Cloak",
+   "official": "ผ้าคลุมโจร",
+   "th": "เสื้อคลุมโจร",
+   "status": "fixed",
+   "note": "แยกจาก Cowl"
+  },
+  {
+   "key": "thiefsboots",
+   "en": "Thief's Boots",
+   "official": "รองเท้าโจร",
+   "th": "รองเท้าโจร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkarmorhelmet",
+   "en": "Shark Helmet",
+   "official": "หมวกฉลาม",
+   "th": "หมวกฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkarmorchestplate",
+   "en": "Shark Chestplate",
+   "official": "เกราะฉลาม",
+   "th": "เกราะฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkarmorboots",
+   "en": "Shark Boots",
+   "official": "รองเท้าฉลาม",
+   "th": "รองเท้าฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "makeshiftfaceplating",
+   "en": "Makeshift Face Plating",
+   "official": "",
+   "th": "แผ่นเกราะหน้าประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "makeshifthat",
+   "en": "Makeshift Hat",
+   "official": "",
+   "th": "หมวกประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "makeshifteyepiece",
+   "en": "Makeshift Eyepiece",
+   "official": "",
+   "th": "เลนส์ส่องประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "makeshiftcrown",
+   "en": "Makeshift Crown",
+   "official": "",
+   "th": "มงกุฎประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "makeshiftchestplate",
+   "en": "Makeshift Chestplate",
+   "official": "",
+   "th": "เกราะประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "makeshiftboots",
+   "en": "Makeshift Boots",
+   "official": "",
+   "th": "รองเท้าประกอบเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "shoes",
+   "en": "Shoes",
+   "official": "รองเท้า",
+   "th": "รองเท้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shirt",
+   "en": "Shirt",
+   "official": "เสื้อ",
+   "th": "เสื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wig",
+   "en": "Wig",
+   "official": "วิกผม",
+   "th": "วิกผม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmerhat",
+   "en": "Farmer Hat",
+   "official": "หมวกชาวสวน",
+   "th": "หมวกชาวสวน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmershirt",
+   "en": "Farmer Shirt",
+   "official": "เสื้อชาวสวน",
+   "th": "เสื้อชาวสวน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmershoes",
+   "en": "Farmer Shoes",
+   "official": "รองเท้าชาวสวน",
+   "th": "รองเท้าชาวสวน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemistglasses",
+   "en": "Alchemist Glasses",
+   "official": "แว่นตานักเคมี",
+   "th": "แว่นตานักแปรธาตุ",
+   "status": "fixed",
+   "note": "ชื่อตาม mob: Alchemist"
+  },
+  {
+   "key": "labcoat",
+   "en": "Lab Coat",
+   "official": "เสื้อห้องแล็บ",
+   "th": "เสื้อกาวน์แล็บ",
+   "status": "fixed",
+   "note": "เป็นธรรมชาติกว่า"
+  },
+  {
+   "key": "labapron",
+   "en": "Lab Apron",
+   "official": "ผ้ากันเปื้อนแล็บ",
+   "th": "ผ้ากันเปื้อนแล็บ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "labboots",
+   "en": "Lab Boots",
+   "official": "รองเท้าแล็บ",
+   "th": "รองเท้าแล็บ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "engineergoggles",
+   "en": "Engineer Goggles",
+   "official": "แว่นตาวิศวกร",
+   "th": "แว่นตาวิศวกร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rainhat",
+   "en": "Rain Hat",
+   "official": "หมวกกันฝน",
+   "th": "หมวกกันฝน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raincoat",
+   "en": "Rain Coat",
+   "official": "เสื้อกันฝน",
+   "th": "เสื้อกันฝน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rainboots",
+   "en": "Rain Boots",
+   "official": "รองเท้ากันฝน",
+   "th": "รองเท้ากันฝน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animalkeepershat",
+   "en": "Animal Keeper Hat",
+   "official": "หมวกคนดูแลสัตว์",
+   "th": "หมวกคนดูแลสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animalkeepershirt",
+   "en": "Animal Keeper Shirt",
+   "official": "เสื้อคนดูแลสัตว์",
+   "th": "เสื้อคนดูแลสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animalkeepershoes",
+   "en": "Animal Keeper Shoes",
+   "official": "รองเท้าคนดูแลสัตว์",
+   "th": "รองเท้าคนดูแลสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smithingapron",
+   "en": "Smithing Apron",
+   "official": "ผ้ากันเปื้อนช่างตีเหล็ก",
+   "th": "ผ้ากันเปื้อนช่างตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smithingshoes",
+   "en": "Smithing Shoes",
+   "official": "รองเท้าช่างตีเหล็ก",
+   "th": "รองเท้าช่างตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "turban",
+   "en": "Turban",
+   "official": "ผ้าโพกหัว",
+   "th": "ผ้าโพกหัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "exoticshirt",
+   "en": "Exotic Shirt",
+   "official": "เสื้อแปลกใหม่",
+   "th": "เสื้อต่างแดน",
+   "status": "fixed",
+   "note": "ให้ตรงกับพ่อค้าต่างแดน"
+  },
+  {
+   "key": "exoticshoes",
+   "en": "Exotic Shoes",
+   "official": "รองเท้าแปลกใหม่",
+   "th": "รองเท้าต่างแดน",
+   "status": "fixed",
+   "note": "ให้ตรงกับพ่อค้าต่างแดน"
+  },
+  {
+   "key": "hardhat",
+   "en": "Hard Hat",
+   "official": "หมวกแข็ง",
+   "th": "หมวกนิรภัย",
+   "status": "fixed",
+   "note": "hard hat=หมวกนิรภัย"
+  },
+  {
+   "key": "goldcrown",
+   "en": "Gold Crown",
+   "official": "มงกุฎทอง",
+   "th": "มงกุฎทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "elderhat",
+   "en": "Elder Hat",
+   "official": "หมวกคนแก่",
+   "th": "หมวกผู้เฒ่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "eldershirt",
+   "en": "Elder Shirt",
+   "official": "เสื้อคนแก่",
+   "th": "เสื้อผู้เฒ่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "eldershoes",
+   "en": "Elder Shoes",
+   "official": "รองเท้าคนแก่",
+   "th": "รองเท้าผู้เฒ่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "safarihat",
+   "en": "Safari Hat",
+   "official": "หมวกซาฟารี",
+   "th": "หมวกซาฟารี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "safarishirt",
+   "en": "Safari Shirt",
+   "official": "เสื้อซาฟารี",
+   "th": "เสื้อซาฟารี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "safarishoes",
+   "en": "Safari Shoes",
+   "official": "รองเท้าซาฟารี",
+   "th": "รองเท้าซาฟารี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minerhat",
+   "en": "Miner Hat",
+   "official": "หมวกคนงานเหมือง",
+   "th": "หมวกคนงานเหมือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minershirt",
+   "en": "Miner Shirt",
+   "official": "เสื้อคนงานเหมือง",
+   "th": "เสื้อคนงานเหมือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minerboots",
+   "en": "Miner Boots",
+   "official": "รองเท้าคนงานเหมือง",
+   "th": "รองเท้าคนงานเหมือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hunterhood",
+   "en": "Hunter Hood",
+   "official": "ฮันเตอร์ฮู้ด",
+   "th": "ฮู้ดนักล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hunterhoodmask",
+   "en": "Masked Hunter Hood",
+   "official": "หน้ากากฮันเตอร์",
+   "th": "ฮู้ดหน้ากากนักล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "huntershirt",
+   "en": "Hunter Shirt",
+   "official": "เสื้อฮันเตอร์",
+   "th": "เสื้อนักล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hunterboots",
+   "en": "Hunter Boots",
+   "official": "รองเท้าฮันเตอร์",
+   "th": "รองเท้านักล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magehat",
+   "en": "Mage Hat",
+   "official": "หมวกนักเวทย์",
+   "th": "หมวกผ้านักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magerobe",
+   "en": "Mage Robe",
+   "official": "เสื้อคลุมผู้วิเศษ",
+   "th": "เสื้อคลุมนักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mageshoes",
+   "en": "Mage Shoes",
+   "official": "รองเท้ามายา",
+   "th": "รองเท้านักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "witchhat",
+   "en": "Witch Hat",
+   "official": "หมวกแม่มด",
+   "th": "หมวกแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchrobe",
+   "en": "Witch Robe",
+   "official": "เสื้อคลุมแม่มด",
+   "th": "เสื้อคลุมแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchshoes",
+   "en": "Witch Shoes",
+   "official": "รองเท้าแม่มด",
+   "th": "รองเท้าแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryowitchhat",
+   "en": "Cryo Witch Hat",
+   "official": "หมวกแม่มดน้ำแข็ง",
+   "th": "หมวกแม่มดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryowitchrobe",
+   "en": "Cryo Witch Robe",
+   "official": "เสื้อแม่มดน้ำแข็ง",
+   "th": "เสื้อคลุมแม่มดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryowitchshoes",
+   "en": "Cryo Witch Shoes",
+   "official": "รองเท้าแม่มดน้ำแข็ง",
+   "th": "รองเท้าแม่มดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crimsonhat",
+   "en": "Crimson Hat",
+   "official": "หมวกคริมสัน",
+   "th": "หมวกคริมสัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crimsonrobe",
+   "en": "Crimson Robe",
+   "official": "เสื้อคริมสัน",
+   "th": "เสื้อคลุมคริมสัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crimsonshoes",
+   "en": "Crimson Shoes",
+   "official": "รองเท้าคริมสัน",
+   "th": "รองเท้าคริมสัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tophat",
+   "en": "Top Hat",
+   "official": "หมวกยอดนิยม",
+   "th": "หมวกทรงสูง",
+   "status": "fixed",
+   "note": "top hat=หมวกทรงสูง ไม่ใช่ยอดนิยม"
+  },
+  {
+   "key": "blazer",
+   "en": "Blazer",
+   "official": "เสื้อสูทแฟชั่น",
+   "th": "เสื้อสูทแฟชั่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dressshoes",
+   "en": "Dress Shoes",
+   "official": "รองเท้าเดรส",
+   "th": "รองเท้าหนังทางการ",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "stylistshirt",
+   "en": "Stylist Shirt",
+   "official": "เสื้อสไตล์ลิส",
+   "th": "เสื้อช่างเสริมสวย",
+   "status": "fixed",
+   "note": "สะกด · ชื่อตาม mob: Stylist"
+  },
+  {
+   "key": "stylistshoes",
+   "en": "Stylist Shoes",
+   "official": "รองเท้าสไตล์ลิส",
+   "th": "รองเท้าช่างเสริมสวย",
+   "status": "fixed",
+   "note": "สะกด · ชื่อตาม mob: Stylist"
+  },
+  {
+   "key": "merchantshirt",
+   "en": "Merchant Shirt",
+   "official": "เสื้อพ่อค้า",
+   "th": "เสื้อพ่อค้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "merchantboots",
+   "en": "Merchant Boots",
+   "official": "รองเท้าพ่อค้า",
+   "th": "รองเท้าพ่อค้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "captainshat",
+   "en": "Captains Hat",
+   "official": "หมวกกัปตัน",
+   "th": "หมวกกัปตัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "captainsshirt",
+   "en": "Captains Shirt",
+   "official": "เสื้อกัปตัน",
+   "th": "เสื้อกัปตัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "captainsboots",
+   "en": "Captains Boots",
+   "official": "รองเท้ากัปตัน",
+   "th": "รองเท้ากัปตัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pirateeyepatch",
+   "en": "Pirate Eyepatch",
+   "official": "ผ้าปิดตาโจรสลัด",
+   "th": "ผ้าปิดตาโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pirateboots",
+   "en": "Pirate Boots",
+   "official": "รองเท้าโจรสลัด",
+   "th": "รองเท้าโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratebandana",
+   "en": "Pirate Bandana",
+   "official": "ผ้าโพกหัวโจรสลัด",
+   "th": "ผ้าโพกหัวโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratebandanawitheyepatch",
+   "en": "Pirate Bandana with Eyepatch",
+   "official": "ผ้าโพกหัวกับผ้าปิดตา",
+   "th": "ผ้าโพกหัวโจรสลัดพร้อมผ้าปิดตา",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "pirateshirt",
+   "en": "Pirate Shirt",
+   "official": "เสื้อโจรสลัด",
+   "th": "เสื้อโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vulturemask",
+   "en": "Vulture Mask",
+   "official": "หน้ากากอีแร้ง",
+   "th": "หน้ากากอีแร้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plaguemask",
+   "en": "Plague Mask",
+   "official": "หน้ากากโรคระบาด",
+   "th": "หน้ากากโรคระบาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plaguerobe",
+   "en": "Plague Robe",
+   "official": "เสื้อคลุมโรคระบาด",
+   "th": "เสื้อคลุมโรคระบาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plagueboots",
+   "en": "Plague Boots",
+   "official": "รองเท้าโรคระบาด",
+   "th": "รองเท้าโรคระบาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "surgicalmask",
+   "en": "Surgical Mask",
+   "official": "หน้ากากอนามัย",
+   "th": "หน้ากากอนามัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trapperhat",
+   "en": "Trapper Hat",
+   "official": "หมวกดักสัตว์",
+   "th": "หมวกนายพราน",
+   "status": "fixed",
+   "note": "trapper=นายพรานวางกับดัก"
+  },
+  {
+   "key": "horsemask",
+   "en": "Horse Mask",
+   "official": "หน้ากากม้า",
+   "th": "หน้ากากม้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "horsecostumeshirt",
+   "en": "Horse Costume Shirt",
+   "official": "เสื้อชุดม้า",
+   "th": "เสื้อชุดม้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "horsecostumeboots",
+   "en": "Horse Costume Boots",
+   "official": "รองเท้าบู๊ตม้า",
+   "th": "รองเท้าบู๊ตม้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmashat",
+   "en": "Christmas Hat",
+   "official": "หมวกคริสต์มาส",
+   "th": "หมวกคริสต์มาส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "partyhat",
+   "en": "Party Hat",
+   "official": "หมวกปาร์ตี้",
+   "th": "หมวกปาร์ตี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pumpkinmask",
+   "en": "Pumpkin Mask",
+   "official": "หน้ากากฟักทอง",
+   "th": "หน้ากากฟักทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickenmask",
+   "en": "Chicken Mask",
+   "official": "หน้ากากไก่",
+   "th": "หน้ากากไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickencostumeshirt",
+   "en": "Chicken Costume Shirt",
+   "official": "เสื้อชุดไก่",
+   "th": "เสื้อชุดไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickencostumeboots",
+   "en": "Chicken Costume Boots",
+   "official": "รองเท้าบู๊ตไก่",
+   "th": "รองเท้าบู๊ตไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frogmask",
+   "en": "Frog Mask",
+   "official": "หน้ากากกบ",
+   "th": "หน้ากากกบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frogcostumeshirt",
+   "en": "Frog Costume Shirt",
+   "official": "เสื้อชุดกบ",
+   "th": "เสื้อชุดกบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frogcostumeboots",
+   "en": "Frog Costume Boots",
+   "official": "รองเท้าบู๊ตกบ",
+   "th": "รองเท้าบู๊ตกบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alienmask",
+   "en": "Alien Mask",
+   "official": "หน้ากากมนุษย์ต่างดาว",
+   "th": "หน้ากากมนุษย์ต่างดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aliencostumeshirt",
+   "en": "Alien Costume Shirt",
+   "official": "เสื้อชุดมนุษย์ต่างดาว",
+   "th": "เสื้อชุดมนุษย์ต่างดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aliencostumeboots",
+   "en": "Alien Costume Boots",
+   "official": "รองเท้าบู๊ตมนุษย์ต่างดาว",
+   "th": "รองเท้าบู๊ตมนุษย์ต่างดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkmask",
+   "en": "Shark Mask",
+   "official": "หน้ากากฉลาม",
+   "th": "หน้ากากฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkcostumeshirt",
+   "en": "Shark Costume Shirt",
+   "official": "เสื้อชุดฉลาม",
+   "th": "เสื้อชุดฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkcostumeboots",
+   "en": "Shark Costume Boots",
+   "official": "รองเท้าบู๊ตฉลาม",
+   "th": "รองเท้าบู๊ตฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spacehelmet",
+   "en": "Space Helmet",
+   "official": "หมวกนักบินอวกาศ",
+   "th": "หมวกนักบินอวกาศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spacesuit",
+   "en": "Space Suit",
+   "official": "ชุดนักบินอวกาศ",
+   "th": "ชุดนักบินอวกาศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spaceboots",
+   "en": "Space Boots",
+   "official": "รองเท้าบู๊ตนักบินอวกาศ",
+   "th": "รองเท้าบู๊ตนักบินอวกาศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sunglasses",
+   "en": "Sunglasses",
+   "official": "แว่นกันแดด",
+   "th": "แว่นกันแดด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jesterhat",
+   "en": "Jester Hat",
+   "official": "หมวกตัวตลก",
+   "th": "หมวกตัวตลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jestershirt",
+   "en": "Jester Shirt",
+   "official": "เสื้อตัวตลก",
+   "th": "เสื้อตัวตลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jesterboots",
+   "en": "Jester Boots",
+   "official": "รองเท้าตัวตลก",
+   "th": "รองเท้าตัวตลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hulahat",
+   "en": "Hula Hat",
+   "official": "หมวกฮูลา",
+   "th": "หมวกฮูลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hulaskirtwithtop",
+   "en": "Hula Skirt With Top",
+   "official": "กระโปรงฮูลาพร้อมเสื้อ",
+   "th": "กระโปรงฮูลาพร้อมเสื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hulaskirt",
+   "en": "Hula Skirt",
+   "official": "กระโปรงฮูลา",
+   "th": "กระโปรงฮูลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swimsuit",
+   "en": "Swimsuit",
+   "official": "ชุดว่ายน้ำ",
+   "th": "ชุดว่ายน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swimtrunks",
+   "en": "Swim Trunks",
+   "official": "กางเกงว่ายน้ำ",
+   "th": "กางเกงว่ายน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowhood",
+   "en": "Snow Hood",
+   "official": "หมวกกันหิมะ",
+   "th": "ฮู้ดกันหิมะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "snowcloak",
+   "en": "Snow Cloak",
+   "official": "เสื้อคลุมกันหิมะ",
+   "th": "เสื้อคลุมกันหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowboots",
+   "en": "Snow Boots",
+   "official": "รองเท้าหิมะ",
+   "th": "รองเท้าหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sailorhat",
+   "en": "Sailor Hat",
+   "official": "หมวกกะลาสี",
+   "th": "หมวกกะลาสี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sailorshirt",
+   "en": "Sailor Shirt",
+   "official": "เสื้อกะลาสี",
+   "th": "เสื้อกะลาสี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sailorshoes",
+   "en": "Sailor Shoes",
+   "official": "รองเท้ากะลาสี",
+   "th": "รองเท้ากะลาสี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "empressmask",
+   "en": "Empress' Mask",
+   "official": "หน้ากากจักรพรรดินี",
+   "th": "หน้ากากจักรพรรดินี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stylishflower",
+   "en": "Stylish Flower",
+   "official": "ดอกไม้มีสไตล์",
+   "th": "ดอกไม้มีสไตล์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mimeberet",
+   "en": "Mime Beret",
+   "official": "",
+   "th": "หมวกเบเรต์ละครใบ้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimeshirt",
+   "en": "Mime Shirt",
+   "official": "",
+   "th": "เสื้อละครใบ้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimeboots",
+   "en": "Mime Boots",
+   "official": "",
+   "th": "รองเท้าละครใบ้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "supporterhelmet",
+   "en": "Helmet of Generosity",
+   "official": "หมวกเอื้อเฟื้อ",
+   "th": "หมวกเอื้อเฟื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "supporterchestplate",
+   "en": "Chestplate of Generosity",
+   "official": "เกราะเอื้อเฟื้อ",
+   "th": "เกราะเอื้อเฟื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "supporterboots",
+   "en": "Boots of Generosity",
+   "official": "รองเท้าเอื้อเฟื้อ",
+   "th": "รองเท้าเอื้อเฟื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stealthbasket",
+   "en": "Stealth Basket",
+   "official": "",
+   "th": "ตะกร้าพรางตัว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jonasglasses",
+   "en": "Jonas' Glasses",
+   "official": "",
+   "th": "แว่นตาของโจนัส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "spoiledfood",
+   "en": "Spoiled Food",
+   "official": "อาหารบูด",
+   "th": "อาหารบูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wheat",
+   "en": "Wheat",
+   "official": "ข้าวสาลี",
+   "th": "ข้าวสาลี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sugarbeet",
+   "en": "Sugar Beet",
+   "official": "บีทชูก้า",
+   "th": "หัวบีทน้ำตาล",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "flour",
+   "en": "Flour",
+   "official": "แป้ง",
+   "th": "แป้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sugar",
+   "en": "Sugar",
+   "official": "น้ำตาล",
+   "th": "น้ำตาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "honey",
+   "en": "Honey",
+   "official": "น้ำผึ้ง",
+   "th": "น้ำผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rice",
+   "en": "Rice",
+   "official": "ข้าว",
+   "th": "ข้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "groundcoffee",
+   "en": "Ground Coffee",
+   "official": "กาแฟบด",
+   "th": "กาแฟบด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "beef",
+   "en": "Beef",
+   "official": "เนื้อดิบ",
+   "th": "เนื้อวัวดิบ",
+   "status": "fixed",
+   "note": "ระบุชนิดเนื้อ"
+  },
+  {
+   "key": "rawmutton",
+   "en": "Raw Mutton",
+   "official": "เนื้อแกะดิบ",
+   "th": "เนื้อแกะดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rawpork",
+   "en": "Raw Pork",
+   "official": "เนื้อหมูดิบ",
+   "th": "เนื้อหมูดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkmeat",
+   "en": "Shark Meat",
+   "official": "",
+   "th": "เนื้อฉลาม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "rabbitleg",
+   "en": "Rabbit Leg",
+   "official": "ขากระต่าย",
+   "th": "ขากระต่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duckbreast",
+   "en": "Duck Breast",
+   "official": "อกเป็ด",
+   "th": "อกเป็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frogleg",
+   "en": "Frog Leg",
+   "official": "ขากบ",
+   "th": "ขากบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "corn",
+   "en": "Corn",
+   "official": "ข้าวโพด",
+   "th": "ข้าวโพด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tomato",
+   "en": "Tomato",
+   "official": "มะเขือเทศ",
+   "th": "มะเขือเทศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cabbage",
+   "en": "Cabbage",
+   "official": "กะหล่ำปลี",
+   "th": "กะหล่ำปลี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chilipepper",
+   "en": "Chili Pepper",
+   "official": "พริก",
+   "th": "พริก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eggplant",
+   "en": "Eggplant",
+   "official": "มะเขือม่วง",
+   "th": "มะเขือม่วง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potato",
+   "en": "Potato",
+   "official": "มันฝรั่ง",
+   "th": "มันฝรั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "carrot",
+   "en": "Carrot",
+   "official": "แครอท",
+   "th": "แครอท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onion",
+   "en": "Onion",
+   "official": "หัวหอม",
+   "th": "หัวหอม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pumpkin",
+   "en": "Pumpkin",
+   "official": "ฟักทอง",
+   "th": "ฟักทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "strawberry",
+   "en": "Strawberry",
+   "official": "สตรอว์เบอร์รี่",
+   "th": "สตรอว์เบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "beet",
+   "en": "Beet",
+   "official": "บีท",
+   "th": "บีท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "apple",
+   "en": "Apple",
+   "official": "แอปเปิล",
+   "th": "แอปเปิล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lemon",
+   "en": "Lemon",
+   "official": "เลมอน",
+   "th": "เลมอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coconut",
+   "en": "Coconut",
+   "official": "มะพร้าว",
+   "th": "มะพร้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "banana",
+   "en": "Banana",
+   "official": "กล้วย",
+   "th": "กล้วย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "milk",
+   "en": "Milk",
+   "official": "นม",
+   "th": "นม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cheese",
+   "en": "Cheese",
+   "official": "ชีส",
+   "th": "ชีส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blueberry",
+   "en": "Blueberry",
+   "official": "บลูเบอร์รี่",
+   "th": "บลูเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raspberry",
+   "en": "Raspberry",
+   "official": "ราสเบอร์รี่",
+   "th": "ราสเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blackberry",
+   "en": "Blackberry",
+   "official": "แบล็กเบอร์รี่",
+   "th": "แบล็กเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "steak",
+   "en": "Steak",
+   "official": "สเต็ก",
+   "th": "สเต็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedmutton",
+   "en": "Roasted Mutton",
+   "official": "เนื้อแกะย่าง",
+   "th": "เนื้อแกะย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedpork",
+   "en": "Roasted Pork",
+   "official": "เนื้อหมูย่าง",
+   "th": "เนื้อหมูย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedrabbitleg",
+   "en": "Roasted Rabbit Leg",
+   "official": "ขากระต่ายย่าง",
+   "th": "ขากระต่ายย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedduckbreast",
+   "en": "Roasted Duck Breast",
+   "official": "อกเป็ดย่าง",
+   "th": "อกเป็ดย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedfrogleg",
+   "en": "Roasted Frog Leg",
+   "official": "ขากบย่าง",
+   "th": "ขากบย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastedfish",
+   "en": "Roasted Fish",
+   "official": "ปลาย่าง",
+   "th": "ปลาย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bread",
+   "en": "Bread",
+   "official": "ขนมปัง",
+   "th": "ขนมปัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "candyapple",
+   "en": "Candy Apple",
+   "official": "ลูกกวาดแอปเปิล",
+   "th": "ลูกกวาดแอปเปิล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "popcorn",
+   "en": "Popcorn",
+   "official": "ป๊อปคอร์น",
+   "th": "ป๊อปคอร์น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "donut",
+   "en": "Donut",
+   "official": "โดนัท",
+   "th": "โดนัท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cookies",
+   "en": "Cookies",
+   "official": "คุ้กกี้",
+   "th": "คุกกี้",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "candycane",
+   "en": "Candy Cane",
+   "official": "ลูกกวาดไม้เท้า",
+   "th": "ลูกกวาดไม้เท้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meatballs",
+   "en": "Meatballs",
+   "official": "ลูกชิ้นเนื้อ",
+   "th": "ลูกชิ้นเนื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smokedfillet",
+   "en": "Smoked Fillet",
+   "official": "เนื้อรมควัน",
+   "th": "เนื้อปลารมควัน",
+   "status": "fixed",
+   "note": "fillet=เนื้อปลาแล่"
+  },
+  {
+   "key": "sharkfillet",
+   "en": "Shark Fillet",
+   "official": "",
+   "th": "เนื้อฉลามแล่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "blueberrycake",
+   "en": "Blueberry Cake",
+   "official": "เค้กบลูเบอรี่",
+   "th": "เค้กบลูเบอร์รี่",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "blackberryicecream",
+   "en": "Blackberry Ice Cream",
+   "official": "ไอศกรีมแบล็กเบอร์รี่",
+   "th": "ไอศกรีมแบล็กเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fruitsmoothie",
+   "en": "Fruit Smoothie",
+   "official": "ผลไม้ปั่น",
+   "th": "ผลไม้ปั่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishtaco",
+   "en": "Fish Taco",
+   "official": "ฟิชทาโก้",
+   "th": "ฟิชทาโก้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "juniorburger",
+   "en": "Junior Burger",
+   "official": "จูเนียร์เบอร์เกอร์",
+   "th": "จูเนียร์เบอร์เกอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cheeseburger",
+   "en": "Cheese Burger",
+   "official": "ชีสเบอร์เกอร์",
+   "th": "ชีสเบอร์เกอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nachos",
+   "en": "Nachos",
+   "official": "นาโชส์",
+   "th": "นาโช",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "eggplantparmesan",
+   "en": "Eggplant Parmesan",
+   "official": "มะเขือม่วงพาร์มิซาน",
+   "th": "มะเขือม่วงพาร์มิซาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tropicalstew",
+   "en": "Tropical Stew",
+   "official": "สตูว์หน้าร้อน",
+   "th": "สตูว์เมืองร้อน",
+   "status": "fixed",
+   "note": "tropical=เมืองร้อน"
+  },
+  {
+   "key": "fishandchips",
+   "en": "Fish and Chips",
+   "official": "ปลาและมันฝรั่งทอด",
+   "th": "ปลาและมันฝรั่งทอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "freshpotatosalad",
+   "en": "Fresh Potato Salad",
+   "official": "สลัดมันฝรั่งสด",
+   "th": "สลัดมันฝรั่งสด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hotdog",
+   "en": "Hotdog",
+   "official": "ฮอทดอก",
+   "th": "ฮอตดอก",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "ricepudding",
+   "en": "Rice Pudding",
+   "official": "พุดดิ้งข้าว",
+   "th": "พุดดิ้งข้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minersstew",
+   "en": "Miners Stew",
+   "official": "สตูว์คนงานเหมือง",
+   "th": "สตูว์คนงานเหมือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sushirolls",
+   "en": "Sushi Rolls",
+   "official": "ซูชิโรล",
+   "th": "ซูชิโรล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "friedpork",
+   "en": "Fried Pork",
+   "official": "หมูทอด",
+   "th": "หมูทอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bananapudding",
+   "en": "Banana Pudding",
+   "official": "พุ๊ดดิ้งกล้วย",
+   "th": "พุดดิ้งกล้วย",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "lemontart",
+   "en": "Lemon Tart",
+   "official": "ทาร์ตมะนาว",
+   "th": "ทาร์ตมะนาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spaghettibolognese",
+   "en": "Spaghetti Bolognese",
+   "official": "สปาเก็ตตี้โบโลเนส",
+   "th": "สปาเก็ตตี้โบโลเนส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "porktenderloin",
+   "en": "Pork Tenderloin",
+   "official": "หมูสันใน",
+   "th": "หมูสันใน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "beefgoulash",
+   "en": "Beef Goulash",
+   "official": "สตูเนื้อวัวเนื้อ",
+   "th": "กูลาชเนื้อวัว",
+   "status": "fixed",
+   "note": "คำซ้ำ/แปลผิด"
+  },
+  {
+   "key": "shishkebab",
+   "en": "Shish Kebab",
+   "official": "เนื้อเสียบไม้โลหะ",
+   "th": "เคบับเสียบไม้",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "pumpkinpie",
+   "en": "Pumpkin Pie",
+   "official": "พายฟักทอง",
+   "th": "พายฟักทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sweetlemonade",
+   "en": "Sweet Lemonade",
+   "official": "น้ำมะนาวหวาน",
+   "th": "น้ำมะนาวหวาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "strawberrypie",
+   "en": "Strawberry Pie",
+   "official": "พายสตอเบอรี่",
+   "th": "พายสตรอว์เบอร์รี่",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "blackcoffee",
+   "en": "Black Coffee",
+   "official": "กาแฟดำ",
+   "th": "กาแฟดำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cappuccino",
+   "en": "Cappuccino",
+   "official": "คาปูชิโน่",
+   "th": "คาปูชิโน่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rawchickenleg",
+   "en": "Raw Chicken Leg",
+   "official": "ขาไก่ดิบ",
+   "th": "ขาไก่ดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickendrumstick",
+   "en": "Chicken Drumstick",
+   "official": "น่องไก่",
+   "th": "น่องไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "friedegg",
+   "en": "Fried Egg",
+   "official": "ไข่ดาว",
+   "th": "ไข่ดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "omelette",
+   "en": "Omelette",
+   "official": "ไข่เจียว",
+   "th": "ไข่เจียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "parisiansteak",
+   "en": "Parisian Steak",
+   "official": "สเต็กเนื้อปารีส",
+   "th": "สเต็กเนื้อปารีส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickencutletdish",
+   "en": "Chicken Cutlet Dish",
+   "official": "ไก่ทอด",
+   "th": "คัตเลตไก่",
+   "status": "fixed",
+   "note": "แยกจาก Deep Fried Chicken"
+  },
+  {
+   "key": "dessertpancakes",
+   "en": "Dessert Pancakes",
+   "official": "แพนเค้ก",
+   "th": "แพนเค้ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hardboiledegg",
+   "en": "Hard Boiled Egg",
+   "official": "ไข่ต้ม",
+   "th": "ไข่ต้ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scrambledeggs",
+   "en": "Scrambled Eggs",
+   "official": "ไข่คน",
+   "th": "ไข่คน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepfriedchicken",
+   "en": "Deep Fried Chicken",
+   "official": "ไก่ชุปแป้งทอด",
+   "th": "ไก่ชุบแป้งทอด",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "raspberryjuice",
+   "en": "Raspberry Juice",
+   "official": "น้ำผลไม้ราสเบอร์รี่",
+   "th": "น้ำผลไม้ราสเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raspberrymousse",
+   "en": "Raspberry Mousse",
+   "official": "น้ำราสเบอร์รี่ปั่น",
+   "th": "มูสราสเบอร์รี่",
+   "status": "fixed",
+   "note": "mousse=มูส"
+  },
+  {
+   "key": "raspberryjam",
+   "en": "Raspberry Jam",
+   "official": "แยมราสเบอร์รี่",
+   "th": "แยมราสเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raspberrypie",
+   "en": "Raspberry Pie",
+   "official": "พายราสเบอร์รี่",
+   "th": "พายราสเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildsalad",
+   "en": "Wild Salad",
+   "official": "สลัดผัก",
+   "th": "สลัดผักป่า",
+   "status": "fixed",
+   "note": "ตกคำ Wild"
+  },
+  {
+   "key": "rootsalad",
+   "en": "Root Salad",
+   "official": "สลัดบีทรูท",
+   "th": "สลัดพืชหัว",
+   "status": "fixed",
+   "note": "root=พืชหัว"
+  },
+  {
+   "key": "cheesybeetbowl",
+   "en": "Cheesy Beet Bowl",
+   "official": "บีทรูทชีส",
+   "th": "ชามบีทอบชีส",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "revivalpotion",
+   "en": "Revival Potion",
+   "official": "น้ำยาชุบชีวิต",
+   "th": "น้ำยาชุบชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potion",
+   "en": "Potion",
+   "official": "น้ำยา",
+   "th": "น้ำยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healthpotion",
+   "en": "Health Potion",
+   "official": "น้ำยาฟื้นฟู",
+   "th": "น้ำยาฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterhealthpotion",
+   "en": "Greater Health Potion",
+   "official": "น้ำยาฟื้นฟูขั้นสูง",
+   "th": "น้ำยาฟื้นฟูพลังชีวิตขั้นสูง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "superiorhealthpotion",
+   "en": "Superior Health Potion",
+   "official": "น้ำยาฟื้นฟูขั้นสูงมาก",
+   "th": "น้ำยาฟื้นฟูพลังชีวิตขั้นสูงมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "manapotion",
+   "en": "Mana Potion",
+   "official": "น้ำยาฟื้นฟูมานา",
+   "th": "น้ำยาฟื้นฟูมานา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greatermanapotion",
+   "en": "Greater Mana Potion",
+   "official": "น้ำยาฟื้นฟูมานาขั้นสูง",
+   "th": "น้ำยาฟื้นฟูมานาขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "superiormanapotion",
+   "en": "Superior Mana Potion",
+   "official": "น้ำยาฟื้นฟูมานาขั้นสูงมาก",
+   "th": "น้ำยาฟื้นฟูมานาขั้นสูงมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "speedpotion",
+   "en": "Speed Potion",
+   "official": "น้ำยาเพิ่มความเร็ว",
+   "th": "น้ำยาเพิ่มความเร็ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterspeedpotion",
+   "en": "Greater Speed Potion",
+   "official": "น้ำยาเพิ่มความเร็วขั้นสูง",
+   "th": "น้ำยาเพิ่มความเร็วขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "webpotion",
+   "en": "Web Potion",
+   "official": "น้ำยาใยแมงมุม",
+   "th": "น้ำยาใยแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healthregenpotion",
+   "en": "Health Regen Potion",
+   "official": "น้ำยารักษา",
+   "th": "น้ำยาเร่งฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterhealthregenpotion",
+   "en": "Greater Health Regen Potion",
+   "official": "น้ำยารักษาขั้นสูง",
+   "th": "น้ำยาเร่งฟื้นฟูพลังชีวิตขั้นสูง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "manaregenpotion",
+   "en": "Mana Regen Potion",
+   "official": "น้ำยาเสริมมานา",
+   "th": "น้ำยาเร่งฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greatermanaregenpotion",
+   "en": "Greater Mana Regen Potion",
+   "official": "น้ำยาเสริมมานาขั้นสูง",
+   "th": "น้ำยาเร่งฟื้นฟูมานาขั้นสูง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "attackspeedpotion",
+   "en": "Attack Speed Potion",
+   "official": "น้ำยาเพิ่มความเร็วโจมตี",
+   "th": "น้ำยาเพิ่มความเร็วโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterattackspeedpotion",
+   "en": "Greater Attack Speed Potion",
+   "official": "น้ำยาเพิ่มความเร็วโจมตีขั้นสูง",
+   "th": "น้ำยาเพิ่มความเร็วโจมตีขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "invisibilitypotion",
+   "en": "Invisibility Potion",
+   "official": "น้ำยาล่องหน",
+   "th": "น้ำยาล่องหน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireresistancepotion",
+   "en": "Fire Resistance Potion",
+   "official": "น้ำยากันไฟ",
+   "th": "น้ำยาต้านทานไฟ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fishingpotion",
+   "en": "Fishing Potion",
+   "official": "น้ำยานักตกปลา",
+   "th": "น้ำยานักตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterfishingpotion",
+   "en": "Greater Fishing Potion",
+   "official": "น้ำยานักตกปลาขั้นสูง",
+   "th": "น้ำยานักตกปลาขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlepotion",
+   "en": "Battle Potion",
+   "official": "น้ำยาสายบวก",
+   "th": "น้ำยาต่อสู้",
+   "status": "fixed",
+   "note": "เลี่ยงสแลง"
+  },
+  {
+   "key": "greaterbattlepotion",
+   "en": "Greater Battle Potion",
+   "official": "น้ำยาสายบวกขั้นสูง",
+   "th": "น้ำยาต่อสู้ขั้นสูง",
+   "status": "fixed",
+   "note": "เลี่ยงสแลง"
+  },
+  {
+   "key": "resistancepotion",
+   "en": "Resistance Potion",
+   "official": "น้ำยาต้านสถานะ",
+   "th": "น้ำยาต้านทาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "greaterresistancepotion",
+   "en": "Greater Resistance Potion",
+   "official": "น้ำยาต้านสถานะขั้นสูง",
+   "th": "น้ำยาต้านทานขั้นสูง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spelunkerpotion",
+   "en": "Spelunker Potion",
+   "official": "น้ำยานักสำรวจถ้ำ",
+   "th": "น้ำยาส่องแร่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "treasurepotion",
+   "en": "Treasure Potion",
+   "official": "น้ำยานักหาสมบัติ",
+   "th": "น้ำยานักหาสมบัติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trackerpotion",
+   "en": "Tracker Potion",
+   "official": "",
+   "th": "น้ำยาตามรอย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "passivepotion",
+   "en": "Passive Potion",
+   "official": "น้ำยาไล่มอนสเตอร์",
+   "th": "น้ำยาไล่มอนสเตอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "buildingpotion",
+   "en": "Building Potion",
+   "official": "น้ำยาก่อสร้าง",
+   "th": "น้ำยาก่อสร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterbuildingpotion",
+   "en": "Greater Building Potion",
+   "official": "น้ำยาก่อสร้างขั้นสูง",
+   "th": "น้ำยาก่อสร้างขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "miningpotion",
+   "en": "Mining Potion",
+   "official": "น้ำยานักขุดแร่",
+   "th": "น้ำยานักขุดแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterminingpotion",
+   "en": "Greater Mining Potion",
+   "official": "น้ำยานักขุดแร่ขั้นสูง",
+   "th": "น้ำยานักขุดแร่ขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thornspotion",
+   "en": "Thorns Potion",
+   "official": "น้ำยาสะท้อนความเสียหาย",
+   "th": "น้ำยาสะท้อนความเสียหาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "strengthpotion",
+   "en": "Strength Potion",
+   "official": "น้ำยาเพิ่มความแข็งแกร่ง",
+   "th": "น้ำยาเพิ่มความแข็งแกร่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rangerpotion",
+   "en": "Ranger Potion",
+   "official": "น้ำยาเพิ่มความเสียหายระยไกล",
+   "th": "น้ำยาเพิ่มความเสียหายระยะไกล",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "wisdompotion",
+   "en": "Wisdom Potion",
+   "official": "น้ำยาเวทมนตร์",
+   "th": "น้ำยาปัญญา",
+   "status": "fixed",
+   "note": "แปลตามชื่อ"
+  },
+  {
+   "key": "minionpotion",
+   "en": "Minion Potion",
+   "official": "น้ำยาผู้นำ",
+   "th": "น้ำยาสมุน",
+   "status": "fixed",
+   "note": "minion=สมุน"
+  },
+  {
+   "key": "knockbackpotion",
+   "en": "Knockback Potion",
+   "official": "น้ำยาเพิ่มการผลัก",
+   "th": "น้ำยาเพิ่มแรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rapidpotion",
+   "en": "Rapid Potion",
+   "official": "น้ำยาเพิ่มความเร็วกระสุน",
+   "th": "น้ำยาเพิ่มความเร็วกระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greaterrapidpotion",
+   "en": "Greater Rapid Potion",
+   "official": "น้ำยาเพิ่มความเร็วกระสุนขั้นสูง",
+   "th": "น้ำยาเพิ่มความเร็วกระสุนขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "accuracypotion",
+   "en": "Accuracy Potion",
+   "official": "น้ำยาเพิ่มความแม่น",
+   "th": "น้ำยาเพิ่มความแม่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greateraccuracypotion",
+   "en": "Greater Accuracy Potion",
+   "official": "น้ำยาเพิ่มความแม่นขั้นสูง",
+   "th": "น้ำยาเพิ่มความแม่นขั้นสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "recallscroll",
+   "en": "Recall Scroll",
+   "official": "คัมภีร์วาร์ปกลับบ้าน",
+   "th": "คัมภีร์วาร์ปกลับบ้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teleportationscroll",
+   "en": "Teleportation Scroll",
+   "official": "คัมภีร์วาร์ป",
+   "th": "คัมภีร์วาร์ป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "recallflask",
+   "en": "Recall Flask",
+   "official": "น้ำยาวาร์ปกลับบ้าน",
+   "th": "น้ำยาวาร์ปกลับบ้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stinkflask",
+   "en": "Stink Flask",
+   "official": "น้ำยาเหม็นเปรี้ยว",
+   "th": "น้ำยาเหม็นเปรี้ยว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "portalflask",
+   "en": "Portal Flask",
+   "official": "น้ำยาประตูวาร์ป",
+   "th": "น้ำยาประตูมิติ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "enchantingscroll",
+   "en": "Enchanting Scroll",
+   "official": "คัมภีร์เสริมพลัง",
+   "th": "คัมภีร์เสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scroll",
+   "en": "Scroll",
+   "official": "คัมภีร์",
+   "th": "คัมภีร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flask",
+   "en": "Flask",
+   "official": "กระติกน้ำ",
+   "th": "ขวดน้ำยา",
+   "status": "fixed",
+   "note": "หมวด Flask ไม่ใช่กระติกน้ำ"
+  },
+  {
+   "key": "tablet",
+   "en": "Tablet",
+   "official": "แผ่นศิลา",
+   "th": "แผ่นศิลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "formattablet",
+   "en": "<biome> <tablet>",
+   "official": "<biome> <tablet>",
+   "th": "<biome> <tablet>",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "gatewaytablet",
+   "en": "Gateway Tablet",
+   "official": "แผ่นศิลาเกตเวย์",
+   "th": "แผ่นศิลาเกตเวย์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tier",
+   "en": "Tier <tiernumber>",
+   "official": "ระดับ <tiernumber>",
+   "th": "ระดับ <tiernumber>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tierandincursiontype",
+   "en": "Tier <tiernumber> <incursiontype>",
+   "official": "ระดับ <tiernumber> <incursiontype>",
+   "th": "ระดับ <tiernumber> <incursiontype>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "craftingguide",
+   "en": "Crafting Guide",
+   "official": "คู่มือการประดิษฐ์",
+   "th": "คู่มือประดิษฐ์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "recipebook",
+   "en": "Recipe Book",
+   "official": "หนังสือสูตรผสม",
+   "th": "หนังสือสูตรผสม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidpouch",
+   "en": "Void Pouch",
+   "official": "ถุงแห่งความมืด",
+   "th": "ถุงแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidbag",
+   "en": "Void Bag",
+   "official": "กระเป๋าแห่งความมืด",
+   "th": "กระเป๋าแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coinpouch",
+   "en": "Coin Pouch",
+   "official": "ถุงใส่เหรียญ",
+   "th": "ถุงใส่เหรียญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ammopouch",
+   "en": "Ammo Pouch",
+   "official": "ถุงใส่กระสุน",
+   "th": "ถุงใส่กระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ammobag",
+   "en": "Ammo Bag",
+   "official": "กระเป๋ากระสุน",
+   "th": "กระเป๋ากระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potionpouch",
+   "en": "Potion Pouch",
+   "official": "ถุงใส่น้ำยา",
+   "th": "ถุงใส่น้ำยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potionbag",
+   "en": "Potion Bag",
+   "official": "กระเป๋าน้ำยา",
+   "th": "กระเป๋าน้ำยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lunchbox",
+   "en": "Lunchbox",
+   "official": "กล่องอาหารกลางวัน",
+   "th": "กล่องอาหารกลางวัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seedpouch",
+   "en": "Seed Pouch",
+   "official": "ถุงใส่เมล็ด",
+   "th": "ถุงใส่เมล็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tabletbox",
+   "en": "Tablet Box",
+   "official": "กล่องใส่แผ่นศิลา",
+   "th": "กล่องใส่แผ่นศิลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "portablemusicplayer",
+   "en": "Portable Music Player",
+   "official": "เครื่องเล่นเสียงพกพา",
+   "th": "เครื่องเล่นเพลงพกพา",
+   "status": "fixed",
+   "note": "เป็นธรรมชาติกว่า"
+  },
+  {
+   "key": "fireworkrocket",
+   "en": "Firework Rocket",
+   "official": "พลุดอกไม้ไฟ",
+   "th": "พลุดอกไม้ไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodboat",
+   "en": "Wood Boat",
+   "official": "เรือไม้",
+   "th": "เรือไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minecart",
+   "en": "Minecart",
+   "official": "รถราง",
+   "th": "รถเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shears",
+   "en": "Shears",
+   "official": "กรรไกร",
+   "th": "กรรไกร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bucket",
+   "en": "Bucket",
+   "official": "ถัง",
+   "th": "ถัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infinitewaterbucket",
+   "en": "Infinite Water Bucket",
+   "official": "ถังน้ำไร้ขีดจำกัด",
+   "th": "ถังน้ำไร้ขีดจำกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rope",
+   "en": "Rope",
+   "official": "เชือก",
+   "th": "เชือก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infiniterope",
+   "en": "Infinite Rope",
+   "official": "เชือกไร้ขีดจำกัด",
+   "th": "เชือกไร้ขีดจำกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "binoculars",
+   "en": "Binoculars",
+   "official": "กล้องส่องทางไกล",
+   "th": "กล้องส่องทางไกล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "telescope",
+   "en": "Telescope",
+   "official": "กล้องดูดาว",
+   "th": "กล้องโทรทรรศน์",
+   "status": "fixed",
+   "note": "ใช้คำกลาง"
+  },
+  {
+   "key": "strikebanner",
+   "en": "Strike Banner",
+   "official": "ธงประท้วง",
+   "th": "ธงประท้วง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greenpresent",
+   "en": "Green Present",
+   "official": "ของขวัญสีเขียว",
+   "th": "ของขวัญสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bluepresent",
+   "en": "Blue Present",
+   "official": "ของขวัญสีน้ำเงิน",
+   "th": "ของขวัญสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "redpresent",
+   "en": "Red Present",
+   "official": "ของขวัญสีแดง",
+   "th": "ของขวัญสีแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "yellowpresent",
+   "en": "Yellow Present",
+   "official": "ของขวัญสีเหลือง",
+   "th": "ของขวัญสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmaspresent",
+   "en": "Holiday Present",
+   "official": "ของขวัญวันหยุด",
+   "th": "ของขวัญเทศกาล",
+   "status": "fixed",
+   "note": "holiday=เทศกาล"
+  },
+  {
+   "key": "greenwrappingpaper",
+   "en": "Green Wrapping Paper",
+   "official": "กระดาษห่อสีเขียว",
+   "th": "กระดาษห่อสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bluewrappingpaper",
+   "en": "Blue Wrapping Paper",
+   "official": "กระดาษห่อสีน้ำเงิน",
+   "th": "กระดาษห่อสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "redwrappingpaper",
+   "en": "Red Wrapping Paper",
+   "official": "กระดาษห่อสีแดง",
+   "th": "กระดาษห่อสีแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "yellowwrappingpaper",
+   "en": "Yellow Wrapping Paper",
+   "official": "กระดาษห่อสีเหลือง",
+   "th": "กระดาษห่อสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "landfill",
+   "en": "Landfill",
+   "official": "ถมดิน",
+   "th": "ถมดิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grassseed",
+   "en": "Grass Seeds",
+   "official": "เมล็ดหญ้า",
+   "th": "เมล็ดหญ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrowngrassseed",
+   "en": "Overgrown Grass Seeds",
+   "official": "เมล็ดหญ้ารก",
+   "th": "เมล็ดหญ้ารก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampgrassseed",
+   "en": "Swamp Grass Seeds",
+   "official": "เมล็ดหญ้าหนองน้ำ",
+   "th": "เมล็ดหญ้าหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownswampgrassseed",
+   "en": "Overgrown Swamp Grass Seeds",
+   "official": "เมล็ดหญ้ารกหนองน้ำ",
+   "th": "เมล็ดหญ้ารกหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainsgrassseed",
+   "en": "Plains Grass Seeds",
+   "official": "เมล็ดหญ้าที่ราบ",
+   "th": "เมล็ดหญ้าที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownplainsgrassseed",
+   "en": "Overgrown Plains Grass Seeds",
+   "official": "เมล็ดหญ้ารกทึบ",
+   "th": "เมล็ดหญ้ารกที่ราบ",
+   "status": "fixed",
+   "note": "ตกคำ Plains"
+  },
+  {
+   "key": "fertilizer",
+   "en": "Fertilizer",
+   "official": "ปุ๋ย",
+   "th": "ปุ๋ย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mysteriousportal",
+   "en": "Mysterious Portal",
+   "official": "ประตูลึกลับ",
+   "th": "ประตูมิติลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "royalegg",
+   "en": "Royal Egg",
+   "official": "ไข่ราชินีแมงมุม",
+   "th": "ไข่ราชินีแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidcaller",
+   "en": "Void Caller",
+   "official": "พิธีเรียกความมืด",
+   "th": "พิธีเรียกความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boneoffering",
+   "en": "Bone Offering",
+   "official": "กระดูกสำหรับถวาย",
+   "th": "กระดูกสำหรับถวาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spikedfossil",
+   "en": "Spiked Fossil",
+   "official": "ฟอสซิลหนาม",
+   "th": "ฟอสซิลหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientstatue",
+   "en": "Ancient Statue",
+   "official": "รูปปั้นโบราณ",
+   "th": "รูปปั้นโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "messageinabottle",
+   "en": "Message in a Bottle",
+   "official": "",
+   "th": "ข้อความในขวด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "shadowgate",
+   "en": "Shadow Gate",
+   "official": "ประตูแห่งเงา",
+   "th": "ประตูเงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "icecrown",
+   "en": "Ice Crown",
+   "official": "มงกุญราชินีน้ำแข็ง",
+   "th": "มงกุฎน้ำแข็ง",
+   "status": "fixed",
+   "note": "สะกด + ไม่มีคำว่าราชินีในต้นฉบับ"
+  },
+  {
+   "key": "spiriturn",
+   "en": "Spirit Urn",
+   "official": "ไหเก็บวิญญาณ",
+   "th": "ไหเก็บวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decayingleaf",
+   "en": "Decaying Leaf",
+   "official": "ใบไม้เน่า",
+   "th": "ใบไม้เน่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dragonsouls",
+   "en": "Dragon Souls",
+   "official": "วิญญาณมังกร",
+   "th": "วิญญาณมังกร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swarmsignal",
+   "en": "Swarm Signal",
+   "official": "สัญญาณฝูง",
+   "th": "สัญญาณฝูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimeeggs",
+   "en": "Slime Eggs",
+   "official": "ไข่สไลม์",
+   "th": "ไข่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crownofspiderkin",
+   "en": "Crown of Spiderkin",
+   "official": "มงกุฎแห่งสไปเดอร์กิน",
+   "th": "มงกุฎแห่งสไปเดอร์กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "villagemapnew",
+   "en": "Village Map",
+   "official": "แผนที่หมู่บ้าน",
+   "th": "แผนที่หมู่บ้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonmapnew",
+   "en": "Dungeon Map",
+   "official": "แผนที่ดันเจี้ยน",
+   "th": "แผนที่ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratemapnew",
+   "en": "Pirate Map",
+   "official": "แผนที่โจรสลัด",
+   "th": "แผนที่โจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftainmap",
+   "en": "Chieftain Map",
+   "official": "แผนที่หัวหน้าเผ่า",
+   "th": "แผนที่หัวหน้าเผ่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cronemap",
+   "en": "Corrupted Map",
+   "official": "แผนที่แปดเปื้อน",
+   "th": "แผนที่แปดเปื้อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sagegritmap",
+   "en": "Ancient Map",
+   "official": "แผนที่โบราณ",
+   "th": "แผนที่โบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "importedcow",
+   "en": "Imported Cow",
+   "official": "เสกวัว",
+   "th": "วัวนำเข้า",
+   "status": "fixed",
+   "note": "imported=นำเข้า ไม่ใช่เสก"
+  },
+  {
+   "key": "importedsheep",
+   "en": "Imported Sheep",
+   "official": "เสกแกะ",
+   "th": "แกะนำเข้า",
+   "status": "fixed",
+   "note": "imported=นำเข้า ไม่ใช่เสก"
+  },
+  {
+   "key": "importedpig",
+   "en": "Imported Pig",
+   "official": "เสกหมู",
+   "th": "หมูนำเข้า",
+   "status": "fixed",
+   "note": "imported=นำเข้า ไม่ใช่เสก"
+  },
+  {
+   "key": "mount",
+   "en": "Mount",
+   "official": "ยานพาหนะ",
+   "th": "พาหนะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "inefficientfeather",
+   "en": "Inefficient Feather",
+   "official": "ขนนกไร้ค่า",
+   "th": "ขนนกไร้ประสิทธิภาพ",
+   "status": "fixed",
+   "note": "แปลตามต้นฉบับ"
+  },
+  {
+   "key": "callofthesea",
+   "en": "Call of the Sea",
+   "official": "เสียงเรียกจากท้องทะเล",
+   "th": "เสียงเรียกจากท้องทะเล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jumpingball",
+   "en": "Jumping Ball",
+   "official": "บอลกระโดด",
+   "th": "บอลกระโดด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoverboard",
+   "en": "Hoverboard",
+   "official": "โฮเวอร์บอร์ด",
+   "th": "โฮเวอร์บอร์ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchbroom",
+   "en": "Witch Broom",
+   "official": "ไม้กวาดแม่มด",
+   "th": "ไม้กวาดแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bumpercar",
+   "en": "Bumper Car",
+   "official": "",
+   "th": "รถบั๊ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ringofascension",
+   "en": "Ring of Ascension",
+   "official": "แหวนแห่งการจุติ",
+   "th": "แหวนแห่งการจุติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eyeinaportal",
+   "en": "Eye in a Portal",
+   "official": "ดวงตาในประตู",
+   "th": "ดวงตาในประตูมิติ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "weticicle",
+   "en": "Wet Icicle",
+   "official": "แท่งน้ำแข็งเปียก",
+   "th": "แท่งน้ำแข็งเปียก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grizzlycub",
+   "en": "Grizzly Cub",
+   "official": "ลูกหมีกริซลี่",
+   "th": "ลูกหมีกริซลี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thrumbohorn",
+   "en": "Thrumbo Horn",
+   "official": "",
+   "th": "เขาธรัมโบ",
+   "status": "new",
+   "note": "ชื่อตาม mob: Thrumbo"
+  },
+  {
+   "key": "dragonegg",
+   "en": "Dragon Egg",
+   "official": "",
+   "th": "ไข่มังกร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "frozenberry",
+   "en": "Frozen Berry",
+   "official": "",
+   "th": "เบอร์รี่แช่แข็ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "exoticseeds",
+   "en": "Exotic Seeds",
+   "official": "เมล็ดประหลาด",
+   "th": "เมล็ดพันธุ์ต่างแดน",
+   "status": "fixed",
+   "note": "ให้ตรงกับพ่อค้าต่างแดน"
+  },
+  {
+   "key": "grizzlylunch",
+   "en": "Grizzly Lunch",
+   "official": "อาหารกลางวันกริซลี่",
+   "th": "อาหารกลางวันกริซลี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "squeakytoy",
+   "en": "Squeaky Toy",
+   "official": "ของเล่นเอี๊ยดอ๊าด",
+   "th": "ของเล่นเอี๊ยดอ๊าด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "steelboat",
+   "en": "Steel Boat",
+   "official": "เรือเหล็ก",
+   "th": "เรือเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundboat",
+   "en": "Runebound Boat",
+   "official": "เรือรูนเบานด์",
+   "th": "เรือรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicstilts",
+   "en": "Magic Stilts",
+   "official": "ไม้ค้ำยันวิเศษ",
+   "th": "ไม้ต่อขาเวทมนตร์",
+   "status": "fixed",
+   "note": "stilts=ไม้ต่อขา + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "petrock",
+   "en": "Pet Rock",
+   "official": "หินสัตว์เลี้ยง",
+   "th": "หินสัตว์เลี้ยง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonheart",
+   "en": "Demon Heart",
+   "official": "หัวใจปีศาจ",
+   "th": "หัวใจปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderheart",
+   "en": "Spider Heart",
+   "official": "หัวใจแมงมุม",
+   "th": "หัวใจแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicheart",
+   "en": "Runic Heart",
+   "official": "หัวใจรูน",
+   "th": "หัวใจรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guardianheart",
+   "en": "Guardian Heart",
+   "official": "หัวใจผู้พิทักษ์",
+   "th": "หัวใจผู้พิทักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryoheart",
+   "en": "Cryo Heart",
+   "official": "หัวใจไครโอ",
+   "th": "หัวใจไครโอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wardenheart",
+   "en": "Warden Heart",
+   "official": "หัวใจผู้คุม",
+   "th": "หัวใจผู้คุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeelixir",
+   "en": "Life Elixir",
+   "official": "ยาเพิ่มเลือด",
+   "th": "น้ำอมฤตชีวิต",
+   "status": "fixed",
+   "note": "elixir=น้ำอมฤต เลี่ยงคำ 'เลือด'"
+  },
+  {
+   "key": "greaterlifeelixir",
+   "en": "Greater Life Elixir",
+   "official": "ยาเพิ่มเลือดใหญ่",
+   "th": "น้ำอมฤตชีวิตขั้นสูง",
+   "status": "fixed",
+   "note": "elixir=น้ำอมฤต"
+  },
+  {
+   "key": "emptypendant",
+   "en": "Empty Pendant",
+   "official": "เครื่องรางว่างเปล่า",
+   "th": "จี้ว่างเปล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "piratesheath",
+   "en": "Pirate Sheath",
+   "official": "ปลอกโจรสลัด",
+   "th": "ฝักดาบโจรสลัด",
+   "status": "fixed",
+   "note": "sheath=ฝักดาบ"
+  },
+  {
+   "key": "wizardsocket",
+   "en": "Wizard Socket",
+   "official": "ถุงเท้าจอมเวทย์",
+   "th": "เบ้าอัญมณีพ่อมด",
+   "status": "fixed",
+   "note": "socket≠sock"
+  },
+  {
+   "key": "wormholelocket",
+   "en": "Wormhole Locket",
+   "official": "จี้เปิดรูหนอน",
+   "th": "ล็อกเกตรูหนอน",
+   "status": "fixed",
+   "note": "สม่ำเสมอกับล็อกเกตคู่หู"
+  },
+  {
+   "key": "demoncloak",
+   "en": "Demon Cloak",
+   "official": "เสื้อคลุมปีศาจ",
+   "th": "เสื้อคลุมปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanearmory",
+   "en": "Arcane Armory",
+   "official": "คลังแสงเวทมนต์",
+   "th": "คลังแสงเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "abyssalcloak",
+   "en": "Abyssal Cloak",
+   "official": "เสื้อคลุมอเวจี",
+   "th": "เสื้อคลุมอเวจี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vinyl",
+   "en": "<name> Vinyl",
+   "official": "<name> แผ่นเสียงไวนิล",
+   "th": "แผ่นเสียง <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unknownvinyl",
+   "en": "Vinyl",
+   "official": "ไวนิล",
+   "th": "แผ่นเสียง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "relic",
+   "en": "Mysterious Relic",
+   "official": "เครื่องรางลึกลับ",
+   "th": "วัตถุโบราณลึกลับ",
+   "status": "fixed",
+   "note": "relic=วัตถุโบราณ"
+  },
+  {
+   "key": "wealth",
+   "en": "Wealth",
+   "official": "ความมั่งคั่ง",
+   "th": "ความมั่งคั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobspawnitem",
+   "en": "<mob> Spawn Item",
+   "official": "ไอเทมเสก <mob>",
+   "th": "ไอเทมเสก <mob>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flyingbugspawnitem",
+   "en": "<mob>",
+   "official": "ไอเทมเสก <mob>",
+   "th": "<mob>",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "zombiearm",
+   "en": "Zombie Arm",
+   "official": "แขนซอมบี้",
+   "th": "แขนซอมบี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goblinring",
+   "en": "Goblin Ring",
+   "official": "แหวนก๊อบลิน",
+   "th": "แหวนก็อบลิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง/สะกด"
+  },
+  {
+   "key": "babyswordfish",
+   "en": "Baby Swordfish",
+   "official": "ลูก ปลาดาบ",
+   "th": "ลูกปลาดาบ",
+   "status": "fixed",
+   "note": "ไม่เว้นวรรคกลางคำ"
+  },
+  {
+   "key": "spiderleg",
+   "en": "Spider Leg",
+   "official": "ขาแมงมุม",
+   "th": "ขาแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozenbeard",
+   "en": "Frozen Beard",
+   "official": "เคราแช่แข็ง",
+   "th": "เคราแช่แข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampeel",
+   "en": "Swamp Eel",
+   "official": "ปลาไหลหนองน้ำ",
+   "th": "ปลาไหลหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyshark",
+   "en": "Baby Shark",
+   "official": "ลูก ปลาฉลาม",
+   "th": "ลูกปลาฉลาม",
+   "status": "fixed",
+   "note": "ไม่เว้นวรรคกลางคำ"
+  },
+  {
+   "key": "crabclaw",
+   "en": "Crab Claw",
+   "official": "ก้ามปู",
+   "th": "ก้ามปู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandray",
+   "en": "Sand Ray",
+   "official": "กระเบนทะเลทราย",
+   "th": "กระเบนทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fakefangs",
+   "en": "Fake Fangs",
+   "official": "เขี้ยวปลอม",
+   "th": "เขี้ยวปลอม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimechunk",
+   "en": "Slime Chunk",
+   "official": "ก้อนเมือกสไลม์",
+   "th": "ก้อนเมือกสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantedcollar",
+   "en": "Enchanted Collar",
+   "official": "ปลอกคอเสริมพลัง",
+   "th": "ปลอกคอเสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "apprenticescroll",
+   "en": "Apprentice Scroll",
+   "official": "คัมภีร์เด็กฝึกงาน",
+   "th": "คัมภีร์เด็กฝึกงาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "darkgem",
+   "en": "Dark Gem",
+   "official": "อัญมณีแห่งความมืด",
+   "th": "อัญมณีแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimylauncher",
+   "en": "Slimy Launcher",
+   "official": "เครื่องยิงเหนียวเหนอะ",
+   "th": "เครื่องยิงเหนียวเหนอะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mummysbandage",
+   "en": "Mummy's Bandage",
+   "official": "ผ้าพันมัมมี่",
+   "th": "ผ้าพันมัมมี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicsand",
+   "en": "Magic Sand",
+   "official": "ทรายวิเศษ",
+   "th": "ทรายเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "caveoyster",
+   "en": "Cave Oyster",
+   "official": "หอยนางรมถ้ำ",
+   "th": "หอยนางรมถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "capturedspirit",
+   "en": "Captured Spirit",
+   "official": "ไหเก็บวิญญาณ",
+   "th": "ไหเก็บวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pegleg",
+   "en": "Peg Leg",
+   "official": "ขาเทียม",
+   "th": "ขาเทียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eyepatch",
+   "en": "Eye Patch",
+   "official": "ผ้าติดตา",
+   "th": "ผ้าปิดตา",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "rumbottle",
+   "en": "Rum Bottle",
+   "official": "ขวเหล้า",
+   "th": "ขวดเหล้ารัม",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "deepspiritswab",
+   "en": "Deep Spirit Swab",
+   "official": "ไม้ปัดกวาดวิญญาน",
+   "th": "ไม้ถูวิญญาณชั้นลึก",
+   "status": "fixed",
+   "note": "สะกด + swab=ไม้ถู"
+  },
+  {
+   "key": "brokenlimb",
+   "en": "Broken Limb",
+   "official": "กระดูกขาที่แตกหัก",
+   "th": "กระดูกขาที่แตกหัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "feraltail",
+   "en": "Feral Tail",
+   "official": "หางอันดุร้าย",
+   "th": "หางอันดุร้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "razoricicle",
+   "en": "Razor Icicle",
+   "official": "คมน้ำแข็ง",
+   "th": "คมน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimesample",
+   "en": "Slime Sample",
+   "official": "ตัวอย่างเมือกสไลม์",
+   "th": "ตัวอย่างเมือกสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soakedbow",
+   "en": "Soaked Bow",
+   "official": "ธนูเปียก",
+   "th": "ธนูเปียก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wormtooth",
+   "en": "Worm Tooth",
+   "official": "พันหนอน",
+   "th": "ฟันหนอน",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "crawlersfoot",
+   "en": "Crawlers Foot",
+   "official": "ขาคืบคลาน",
+   "th": "ขาคืบคลาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anysapling",
+   "en": "Any Sapling",
+   "official": "ต้นอ่อนอะไรก็ได้",
+   "th": "ต้นอ่อนอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anygrassseed",
+   "en": "Any Grass Seed",
+   "official": "เมล็ดหญ้าอะไรก็ได้",
+   "th": "เมล็ดหญ้าอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anylog",
+   "en": "Any Log",
+   "official": "ท่อนซุงอะไรก็ได้",
+   "th": "ท่อนซุงอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anystone",
+   "en": "Any Stone",
+   "official": "หินอะไรก็ได้",
+   "th": "หินอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anycommonfish",
+   "en": "Any Common Fish",
+   "official": "ปลาธรรมดาอะไรก็ได้",
+   "th": "ปลาธรรมดาอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anyrawmeat",
+   "en": "Any Raw Meat",
+   "official": "เนื้อดิบอะไรก็ได้",
+   "th": "เนื้อดิบอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bulletuser",
+   "en": "Any Bullet Using Gun",
+   "official": "กระสุนปืนอะไรก็ได้",
+   "th": "ปืนที่ใช้กระสุนอะไรก็ได้",
+   "status": "fixed",
+   "note": "แปลผิดความ"
+  },
+  {
+   "key": "anycompostable",
+   "en": "Any Compostable",
+   "official": "ของหมักอะไรก็ได้",
+   "th": "ของที่หมักปุ๋ยได้อะไรก็ได้",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "anyfruit",
+   "en": "Any Fruit",
+   "official": "ผลไม้อะไรก็ได้",
+   "th": "ผลไม้อะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anycoolingfuel",
+   "en": "Any Cooling Fuel",
+   "official": "เชื้อเพลิงทำความเย็นอะไรก็ได้",
+   "th": "เชื้อเพลิงทำความเย็นอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anytieressence",
+   "en": "Any Tier <tier> Essence",
+   "official": "แก่นแท้อะไรก็ได้ ระดับ <tier>",
+   "th": "แก่นแท้อะไรก็ได้ ระดับ <tier>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anywrappingpaper",
+   "en": "Any Wrapping Paper",
+   "official": "กระดาษห่อของขวัญอะไรก็ได้",
+   "th": "กระดาษห่อของขวัญอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anycookedfood",
+   "en": "Any Cooked Food",
+   "official": "อาหารปรุงสุกอะไรก็ได้",
+   "th": "อาหารปรุงสุกอะไรก็ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anygem",
+   "en": "Any Gem",
+   "official": "",
+   "th": "อัญมณีอะไรก็ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "anyflower",
+   "en": "Any Flower",
+   "official": "",
+   "th": "ดอกไม้อะไรก็ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "unknowntype",
+   "en": "???",
+   "official": "???",
+   "th": "???",
+   "status": "same",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

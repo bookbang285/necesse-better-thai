@@ -1,0 +1,2598 @@
+{
+ "category": "mob",
+ "entries": [
+  {
+   "key": "sheep",
+   "en": "Sheep",
+   "official": "แกะ",
+   "th": "แกะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ram",
+   "en": "Ram",
+   "official": "แกะตัวผู้",
+   "th": "แกะตัวผู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lamb",
+   "en": "Lamb",
+   "official": "ลูกแกะ",
+   "th": "ลูกแกะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildostrich",
+   "en": "Wild Ostrich",
+   "official": "นกกระจอกเทศป่า",
+   "th": "นกกระจอกเทศป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cow",
+   "en": "Cow",
+   "official": "วัว",
+   "th": "วัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bull",
+   "en": "Bull",
+   "official": "วัวตัวผู้",
+   "th": "วัวตัวผู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "calf",
+   "en": "Calf",
+   "official": "ลูกวัว",
+   "th": "ลูกวัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pig",
+   "en": "Pig",
+   "official": "หมู",
+   "th": "หมู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boar",
+   "en": "Boar",
+   "official": "หมูป่า",
+   "th": "หมูป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piglet",
+   "en": "Piglet",
+   "official": "ลูกหมู",
+   "th": "ลูกหมู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chicken",
+   "en": "Chicken",
+   "official": "ไก่",
+   "th": "ไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rooster",
+   "en": "Rooster",
+   "official": "ไก่ตัวผู้",
+   "th": "ไก่ตัวผู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chick",
+   "en": "Chick",
+   "official": "ลูกเจี๊ยบ",
+   "th": "ลูกเจี๊ยบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "penguin",
+   "en": "Penguin",
+   "official": "เพนกวิ้น",
+   "th": "เพนกวิน",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "polarbear",
+   "en": "Polar Bear",
+   "official": "หมีขั้วโลก",
+   "th": "หมีขั้วโลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grizzlybear",
+   "en": "Grizzly Bear",
+   "official": "หมีกริซลี่",
+   "th": "หมีกริซลี",
+   "status": "fixed",
+   "note": "ทับศัพท์ไม่ใส่วรรณยุกต์"
+  },
+  {
+   "key": "crocodile",
+   "en": "Crocodile",
+   "official": "จระเข้",
+   "th": "จระเข้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rabbit",
+   "en": "Rabbit",
+   "official": "กระตุ่ย",
+   "th": "กระต่าย",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "squirrel",
+   "en": "Squirrel",
+   "official": "กระรอก",
+   "th": "กระรอก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowhare",
+   "en": "Snow Hare",
+   "official": "กระตุ่ยหิมะ",
+   "th": "กระต่ายหิมะ",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "crab",
+   "en": "Crab",
+   "official": "ปู",
+   "th": "ปู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scorpion",
+   "en": "Scorpion",
+   "official": "แมงป่อง",
+   "th": "แมงป่อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "turtle",
+   "en": "Turtle",
+   "official": "เต่า",
+   "th": "เต่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampslug",
+   "en": "Swamp Slug",
+   "official": "เมือกหนองน้ำ",
+   "th": "ทากหนองน้ำ",
+   "status": "fixed",
+   "note": "slug = ทาก"
+  },
+  {
+   "key": "frog",
+   "en": "Frog",
+   "official": "กบ",
+   "th": "กบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duck",
+   "en": "Duck",
+   "official": "เป็ด",
+   "th": "เป็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bird",
+   "en": "Bird",
+   "official": "นก",
+   "th": "นก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bluebird",
+   "en": "Bluebird",
+   "official": "นกฟ้า",
+   "th": "นกฟ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "canarybird",
+   "en": "Canary",
+   "official": "นกขมิ้น",
+   "th": "นกขมิ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cardinalbird",
+   "en": "Cardinal",
+   "official": "นกคาร์ดินัล",
+   "th": "นกคาร์ดินัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spider",
+   "en": "Spider",
+   "official": "แมงมุมลายตัวนั้น",
+   "th": "แมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mouse",
+   "en": "Mouse",
+   "official": "หนู",
+   "th": "หนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cropplerbeet",
+   "en": "Beet Croppler",
+   "official": "บีทเดินได้",
+   "th": "บีทเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cropplerpotato",
+   "en": "Potato Croppler",
+   "official": "มันฝรั่งเดินได้",
+   "th": "มันฝรั่งเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cropplercarrot",
+   "en": "Carrot Croppler",
+   "official": "แครอทเดินได้",
+   "th": "แครอทเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "croppleronion",
+   "en": "Onion Croppler",
+   "official": "หัวหอมเดินได้",
+   "th": "หัวหอมเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cropplerpumpkin",
+   "en": "Pumpkin Croppler",
+   "official": "ฟักทองเดินได้",
+   "th": "ฟักทองเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveling",
+   "en": "Caveling",
+   "official": "ผู้เร้นกายในถ้ำ",
+   "th": "ชาวถ้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stonecaveling",
+   "en": "Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหิน",
+   "th": "ชาวถ้ำหิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepstonecaveling",
+   "en": "Deep Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินลึก",
+   "th": "ชาวถ้ำหินชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "snowstonecaveling",
+   "en": "Snow Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินหิมะ",
+   "th": "ชาวถ้ำหินหิมะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepsnowstonecaveling",
+   "en": "Deep Snow Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินหิมะชั้นลึก",
+   "th": "ชาวถ้ำหินหิมะชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "dryadcaveling",
+   "en": "Dryad Caveling",
+   "official": "ผู้เร้นกายดรายแอด",
+   "th": "ชาวถ้ำดรายแอด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "granitecaveling",
+   "en": "Granite Caveling",
+   "official": "ผู้เร้นกายแกรนิต",
+   "th": "ชาวถ้ำแกรนิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "basaltcaveling",
+   "en": "Basalt Caveling",
+   "official": "ผู้เร้นกายบะซอลต์",
+   "th": "ชาวถ้ำบะซอลต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampstonecaveling",
+   "en": "Swamp Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินหนองน้ำ",
+   "th": "ชาวถ้ำหินหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepswampstonecaveling",
+   "en": "Deep Swamp Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินหนองน้ำชั้นลึก",
+   "th": "ชาวถ้ำหินหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sandstonecaveling",
+   "en": "Sand Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินทะเลทราย",
+   "th": "ชาวถ้ำหินทราย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepsandstonecaveling",
+   "en": "Deep Sand Stone Caveling",
+   "official": "ผู้เร้นกายในถ้ำหินทะเลทรายชั้นลึก",
+   "th": "ชาวถ้ำหินทรายชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "butterfly",
+   "en": "Butterfly",
+   "official": "ผีเสื้อ",
+   "th": "ผีเสื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firefly",
+   "en": "Firefly",
+   "official": "หิ่งห้อย",
+   "th": "หิ่งห้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flameling",
+   "en": "Flameling",
+   "official": "เปลวไฟ",
+   "th": "ภูตเปลวไฟ",
+   "status": "fixed",
+   "note": "ให้รู้ว่าเป็นสิ่งมีชีวิต"
+  },
+  {
+   "key": "incursioncaveling",
+   "en": "Incursion Caveling",
+   "official": "ผู้เร้นกายอินเคอชั่น",
+   "th": "ชาวถ้ำอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursioncavelingsspawnerportal",
+   "en": "Click me!",
+   "official": "คลิกฉันสิ!",
+   "th": "คลิกฉันสิ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "human",
+   "en": "Villager",
+   "official": "ชาวบ้าน",
+   "th": "ชาวบ้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "generichuman",
+   "en": "Villager",
+   "official": "",
+   "th": "ชาวบ้าน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "humanname",
+   "en": "<name> the Villager",
+   "official": "ลูกบ้าน <name>",
+   "th": "ชาวบ้าน <name>",
+   "status": "fixed",
+   "note": "ให้ตรงกับ Villager"
+  },
+  {
+   "key": "farmerhuman",
+   "en": "Farmer",
+   "official": "ชาวสวน",
+   "th": "ชาวสวน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmerhumanname",
+   "en": "<name> the Farmer",
+   "official": "ชาวสวน <name>",
+   "th": "ชาวสวน <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blacksmithhuman",
+   "en": "Blacksmith",
+   "official": "ช่างตีเหล็ก",
+   "th": "ช่างตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blacksmithhumanname",
+   "en": "<name> the Blacksmith",
+   "official": "ช่างตีเหล็ก <name>",
+   "th": "ช่างตีเหล็ก <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guardhuman",
+   "en": "Guard",
+   "official": "ทหารยาม",
+   "th": "ทหารยาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "guardhumanname",
+   "en": "<name> the Guard",
+   "official": "ทหารยาม <name>",
+   "th": "ทหารยาม <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magehuman",
+   "en": "Mage",
+   "official": "นักเวทย์",
+   "th": "นักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magehumanname",
+   "en": "<name> the Mage",
+   "official": "จอมเวทย์ <name>",
+   "th": "นักเวท <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gunsmithhuman",
+   "en": "Gunsmith",
+   "official": "พ่อค้าปืน",
+   "th": "ช่างปืน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gunsmithhumanname",
+   "en": "<name> the Gunsmith",
+   "official": "พ่อค้าปืน <name>",
+   "th": "ช่างปืน <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "alchemisthuman",
+   "en": "Alchemist",
+   "official": "นักแปรธาตุ",
+   "th": "นักแปรธาตุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemisthumanname",
+   "en": "<name> the Alchemist",
+   "official": "นักแปรธาตุ <name>",
+   "th": "นักแปรธาตุ <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hunterhuman",
+   "en": "Hunter",
+   "official": "นักล่าสัตว์",
+   "th": "นักล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hunterhumanname",
+   "en": "<name> the Hunter",
+   "official": "นักล่าสัตว์ <name>",
+   "th": "นักล่า <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "elderhuman",
+   "en": "Elder",
+   "official": "ผู้เฒ่า",
+   "th": "ผู้เฒ่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "elderhumanname",
+   "en": "<name> the Elder",
+   "official": "ผู้เฒ่า <name>",
+   "th": "ผู้เฒ่า <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anglerhuman",
+   "en": "Angler",
+   "official": "นักตกปลา",
+   "th": "นักตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "anglerhumanname",
+   "en": "<name> the Angler",
+   "official": "นักตกปลา <name>",
+   "th": "นักตกปลา <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animalkeeperhuman",
+   "en": "Animal Keeper",
+   "official": "คนดูแลสัตว์",
+   "th": "คนดูแลสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animalkeeperhumanname",
+   "en": "<name> the Animal Keeper",
+   "official": "คนดูแลสัตว์ <name>",
+   "th": "คนดูแลสัตว์ <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pawnbrokerhuman",
+   "en": "Pawnbroker",
+   "official": "ผู้รับจำนำ",
+   "th": "ผู้รับจำนำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pawnbrokerhumanname",
+   "en": "<name> the Pawnbroker",
+   "official": "พ่อค้ารับจำนำ <name>",
+   "th": "ผู้รับจำนำ <name>",
+   "status": "fixed",
+   "note": "ให้ตรงกับชื่ออาชีพ"
+  },
+  {
+   "key": "stylisthuman",
+   "en": "Stylist",
+   "official": "ช่างเสริมสวย",
+   "th": "ช่างเสริมสวย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stylisthumanname",
+   "en": "<name> the Stylist",
+   "official": "ช่างเสริมสวย <name>",
+   "th": "ช่างเสริมสวย <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratehuman",
+   "en": "Broken Pirate",
+   "official": "โจรสลัดที่แตกพ่าย",
+   "th": "โจรสลัดตกอับ",
+   "status": "fixed",
+   "note": "ให้ตรงกับแบบมีชื่อ"
+  },
+  {
+   "key": "piratehumanname",
+   "en": "<name> the Broken Pirate",
+   "official": "โจรสลัดที่ตกอับ <name>",
+   "th": "โจรสลัดตกอับ <name>",
+   "status": "fixed",
+   "note": "ตัด 'ที่'"
+  },
+  {
+   "key": "explorerhuman",
+   "en": "Explorer",
+   "official": "นักสำรวจ",
+   "th": "นักสำรวจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorerhumanname",
+   "en": "<name> the Explorer",
+   "official": "นักสำรวจ <name>",
+   "th": "นักสำรวจ <name>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minerhuman",
+   "en": "Miner",
+   "official": "นักขุดเหมือง",
+   "th": "คนงานเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "minerhumanname",
+   "en": "<name> the Miner",
+   "official": "<name> นักขุดเหมือง",
+   "th": "คนงานเหมือง <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "traderhuman",
+   "en": "Trader",
+   "official": "พ่อค้า",
+   "th": "พ่อค้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "traderhumanname",
+   "en": "<name> the Trader",
+   "official": "<name> นักค้าขาย",
+   "th": "พ่อค้า <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "exoticmerchanthuman",
+   "en": "Exotic Merchant",
+   "official": "พ่อค้าต่างดินแดน",
+   "th": "พ่อค้าต่างแดน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "exoticmerchanthumanname",
+   "en": "<name> the Exotic Merchant",
+   "official": "<name> นักค้าต่างแดน",
+   "th": "พ่อค้าต่างแดน <name>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stealthbaskethuman",
+   "en": "Suspicious Basket",
+   "official": "",
+   "th": "ตะกร้าน่าสงสัย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlywitchhuman",
+   "en": "Friendly Witch",
+   "official": "แม่มดใจดี",
+   "th": "แม่มดใจดี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "friendlywitchhumanname",
+   "en": "<name> the Friendly Witch",
+   "official": "<name> แม่มด",
+   "th": "แม่มดใจดี <name>",
+   "status": "fixed",
+   "note": "ให้ตรงกับชื่ออาชีพ"
+  },
+  {
+   "key": "friendlyjonashuman",
+   "en": "Jonas",
+   "official": "",
+   "th": "โจนัส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlyjonashumanname",
+   "en": "Jonas",
+   "official": "",
+   "th": "โจนัส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "zombie",
+   "en": "Zombie",
+   "official": "ซอมบี้",
+   "th": "ซอมบี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trapperzombie",
+   "en": "Trapper Zombie",
+   "official": "ซอมบี้ใส่หมวก",
+   "th": "ซอมบี้ใส่หมวก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goblin",
+   "en": "Goblin",
+   "official": "ก๊อบลิน",
+   "th": "ก็อบลิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "trenchcoatgoblinstacked",
+   "en": "Suspiciously Tall Goblin",
+   "official": "ก็อบลินที่สูงอย่างน่าสงสัย",
+   "th": "ก็อบลินที่สูงอย่างน่าสงสัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trenchcoatgoblinhelmet",
+   "en": "Helmet Goblin",
+   "official": "หมวกก๊อบลิน",
+   "th": "ก็อบลินหมวก",
+   "status": "fixed",
+   "note": "เป็นก็อบลิน ไม่ใช่หมวก"
+  },
+  {
+   "key": "trenchcoatgoblinchestplate",
+   "en": "Chestplate Goblin",
+   "official": "เกราะก๊อบลิน",
+   "th": "ก็อบลินเกราะ",
+   "status": "fixed",
+   "note": "เป็นก็อบลิน ไม่ใช่เกราะ"
+  },
+  {
+   "key": "trenchcoatgoblinshoes",
+   "en": "Shoes Goblin",
+   "official": "รองเท้าก๊อบลิน",
+   "th": "ก็อบลินรองเท้า",
+   "status": "fixed",
+   "note": "เป็นก็อบลิน ไม่ใช่รองเท้า"
+  },
+  {
+   "key": "vampire",
+   "en": "Vampire",
+   "official": "แวมไพร์",
+   "th": "แวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zombiearcher",
+   "en": "Zombie Archer",
+   "official": "ซอมบี้ถือธนู",
+   "th": "ซอมบี้ถือธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crawlingzombie",
+   "en": "Crawling Zombie",
+   "official": "ซอมบี้คลาน",
+   "th": "ซอมบี้คลาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "giantcavespider",
+   "en": "Giant Cave Spider",
+   "official": "แมงมุมถ้ำยักษ์",
+   "th": "แมงมุมถ้ำยักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blackcavespider",
+   "en": "Black Cave Spider",
+   "official": "แมงมุมถ้ำดำ",
+   "th": "แมงมุมถ้ำดำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcavespider",
+   "en": "Swamp Cave Spider",
+   "official": "แมงมุมถ้ำหนองน้ำ",
+   "th": "แมงมุมถ้ำหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cavemole",
+   "en": "Cave Mole",
+   "official": "ตัวตุ่นถ้ำ",
+   "th": "ตัวตุ่นถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozendwarf",
+   "en": "Frozen Dwarf",
+   "official": "คนแคระแช่แข็ง",
+   "th": "คนแคระแช่แข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostsentry",
+   "en": "Frost Sentry",
+   "official": "เสาเยือกแข็ง",
+   "th": "เสาเยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampzombie",
+   "en": "Swamp Zombie",
+   "official": "ซอมบี้หนองน้ำ",
+   "th": "ซอมบี้หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampslime",
+   "en": "Swamp Slime",
+   "official": "สไลม์หนองน้ำ",
+   "th": "สไลม์หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampshooter",
+   "en": "Swamp Shooter",
+   "official": "หม้อข้าวหม้อแกงหนองน้ำ",
+   "th": "หม้อข้าวหม้อแกงหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantedzombie",
+   "en": "Enchanted Zombie",
+   "official": "ซอมบี้เสริมพลัง",
+   "th": "ซอมบี้เสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantedzombiearcher",
+   "en": "Enchanted Zombie Archer",
+   "official": "ซอมบี้ธนูเสริมพลัง",
+   "th": "ซอมบี้ถือธนูเสริมพลัง",
+   "status": "fixed",
+   "note": "ให้ตรงกับ Zombie Archer"
+  },
+  {
+   "key": "enchantedcrawlingzombie",
+   "en": "Enchanted Crawling Zombie",
+   "official": "ซอมบี้คลานเสริมพลัง",
+   "th": "ซอมบี้คลานเสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidapprentice",
+   "en": "Void Apprentice",
+   "official": "พ่อมดมนต์ดำฝึกหัด",
+   "th": "พ่อมดฝึกหัดแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mummy",
+   "en": "Mummy",
+   "official": "มัมมี่",
+   "th": "มัมมี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mummymage",
+   "en": "Mummy Mage",
+   "official": "มัมมี่นักเวทย์",
+   "th": "มัมมี่นักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sandspirit",
+   "en": "Sand Spirit",
+   "official": "วิญญาณทราย",
+   "th": "วิญญาณทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jackal",
+   "en": "Jackal",
+   "official": "สุนัขจิ้งจอก",
+   "th": "สุนัขจิ้งจอก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "giantscorpion",
+   "en": "Giant Scorpion",
+   "official": "แมงป่องยักษ์",
+   "th": "แมงป่องยักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "skeleton",
+   "en": "Skeleton",
+   "official": "โครงกระดูก",
+   "th": "โครงกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "skeletonthrower",
+   "en": "Skeleton Thrower",
+   "official": "โครงกระดูกนักขว้าง",
+   "th": "โครงกระดูกนักขว้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "skeletonmage",
+   "en": "Skeleton Mage",
+   "official": "โครงกระดูกนักเวทย์",
+   "th": "โครงกระดูกนักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepcavespirit",
+   "en": "Deep Cave Spirit",
+   "official": "วิญญานชั้นลึก",
+   "th": "วิญญาณถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "สะกด + ตกคำ"
+  },
+  {
+   "key": "skeletonminer",
+   "en": "Skeleton Miner",
+   "official": "โครงกระดูกนักขุด",
+   "th": "โครงกระดูกคนงานเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ninja",
+   "en": "Ninja",
+   "official": "นินจา",
+   "th": "นินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowwolf",
+   "en": "Snow Wolf",
+   "official": "หมาป่าหิมะ",
+   "th": "หมาป่าหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryoflake",
+   "en": "Cryo Flake",
+   "official": "เกล็ดน้ำแข็งไครโอ",
+   "th": "เกล็ดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "giantswampslime",
+   "en": "Giant Swamp Slime",
+   "official": "สไลม์หนองน้ำยักษ์",
+   "th": "สไลม์หนองน้ำยักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampskeleton",
+   "en": "Swamp Skeleton",
+   "official": "โครงกระดูกหนองน้ำ",
+   "th": "โครงกระดูกหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampdweller",
+   "en": "Swamp Dweller",
+   "official": "ผู้เร้นกายในหนองน้ำ",
+   "th": "ผู้เร้นกายในหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smallswampcavespider",
+   "en": "Small Swamp Cave Spider",
+   "official": "แมงมุมถ้ำหนองน้ำขนาดเล็ก",
+   "th": "แมงมุมถ้ำหนองน้ำขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandworm",
+   "en": "Sandworm",
+   "official": "หนอนทราย",
+   "th": "หนอนทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertcrawler",
+   "en": "Desert Crawler",
+   "official": "สัตว์เลื้อยคลานทะเลทราย",
+   "th": "สัตว์เลื้อยคลานทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientskeleton",
+   "en": "Ancient Skeleton",
+   "official": "โครงกระดูกโบราณกาล",
+   "th": "โครงกระดูกโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientskeletonthrower",
+   "en": "Ancient Skeleton Thrower",
+   "official": "โครงกระดูกนักขว้างโบราณกาล",
+   "th": "โครงกระดูกนักขว้างโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientarmoredskeleton",
+   "en": "Ancient Armored Skeleton",
+   "official": "โครงกระดูกหุ้มเกราะโบราณกาล",
+   "th": "โครงกระดูกหุ้มเกราะโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientskeletonmage",
+   "en": "Ancient Skeleton Mage",
+   "official": "โครงกระดูกนักเวทย์โบราณกาล",
+   "th": "โครงกระดูกนักเวทโบราณกาล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "leggedslimethrower",
+   "en": "Legged Slime Thrower",
+   "official": "สไลม์เขวี้ยง",
+   "th": "สไลม์เขวี้ยง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mageslime",
+   "en": "Mage Slime",
+   "official": "สไลม์นักเวทย์",
+   "th": "สไลม์นักเวท",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ghostslime",
+   "en": "Ghost Slime",
+   "official": "ผีสไลม์",
+   "th": "สไลม์ผี",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "warriorslime",
+   "en": "Warrior Slime",
+   "official": "นักรบสไลม์",
+   "th": "นักรบสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimeworm",
+   "en": "Slimeworm",
+   "official": "หนอนสไลม์",
+   "th": "หนอนสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptbat",
+   "en": "Crypt Bat",
+   "official": "ค้างคาวถ้ำ",
+   "th": "ค้างคาวสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "phantom",
+   "en": "Phantom",
+   "official": "วิญญาณ",
+   "th": "ภูตผี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "webspinner",
+   "en": "Web Spinner",
+   "official": "เว็บสปินเนอร์",
+   "th": "แมงมุมชักใย",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "bloatedspider",
+   "en": "Bloated Spider",
+   "official": "แมงมุมท้องป่อง",
+   "th": "แมงมุมท้องป่อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderkin",
+   "en": "Spiderkin",
+   "official": "สไปเดอร์กิน",
+   "th": "สไปเดอร์กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderkinwarrior",
+   "en": "Spiderkin Warrior",
+   "official": "นักรบสไปเดอร์กิน",
+   "th": "นักรบสไปเดอร์กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderkinarcher",
+   "en": "Spiderkin Archer",
+   "official": "นักธนูสไปเดอร์กิน",
+   "th": "นักธนูสไปเดอร์กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderkinmage",
+   "en": "Spiderkin Mage",
+   "official": "นักเวทสไปเดอร์กิน",
+   "th": "นักเวทสไปเดอร์กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptvampire",
+   "en": "Crypt Vampire",
+   "official": "แวมไพร์ใต้ดิน",
+   "th": "แวมไพร์สุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stabbybush",
+   "en": "Stabby Bush",
+   "official": "พุ่มเบอร์รี่จอมแทง",
+   "th": "พุ่มเบอร์รี่จอมแทง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bashybush",
+   "en": "Bashy Bush",
+   "official": "พุ่มเบอร์รี่จอมทุบ",
+   "th": "พุ่มเบอร์รี่จอมทุบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mosquito",
+   "en": "Mosquito",
+   "official": "ยุง",
+   "th": "ยุง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mosquitoegg",
+   "en": "Mosquito Egg",
+   "official": "ไข่ยุง",
+   "th": "ไข่ยุง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundbrute",
+   "en": "Runebound Brute",
+   "official": "คนป่ารูนเบานด์",
+   "th": "คนป่ารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundshaman",
+   "en": "Runebound Shaman",
+   "official": "หมอผีเบานด์",
+   "th": "หมอผีรูนเบานด์",
+   "status": "fixed",
+   "note": "ตกคำ รูน"
+  },
+  {
+   "key": "runeboundtrapper",
+   "en": "Runebound Trapper",
+   "official": "นายพรานเบานด์",
+   "th": "นายพรานรูนเบานด์",
+   "status": "fixed",
+   "note": "ตกคำ รูน"
+  },
+  {
+   "key": "bonewalker",
+   "en": "Bonewalker",
+   "official": "กระดูกเดินได้",
+   "th": "กระดูกเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forestspector",
+   "en": "Forest Spector",
+   "official": "วิญญาณป่าไม้",
+   "th": "วิญญาณป่าไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadsentinel",
+   "en": "Dryad Sentinel",
+   "official": "ดรายแอดผู้เฝ้ายาม",
+   "th": "ดรายแอดผู้เฝ้ายาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiritghoul",
+   "en": "Spirit Ghoul",
+   "official": "วิญญาณผีดิบ",
+   "th": "วิญญาณผีดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cursedcronespiritghoul",
+   "en": "Spirit Ghoul",
+   "official": "วิญญาณผีดิบ",
+   "th": "วิญญาณผีดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spirittornado",
+   "en": "Spirit Tornado",
+   "official": "พายุวิญญาณ",
+   "th": "พายุวิญญาณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crazedraven",
+   "en": "Crazed Raven",
+   "official": "อีกาบ้าคลั่ง",
+   "th": "อีกาบ้าคลั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicpylon",
+   "en": "Arcanic Pylon",
+   "official": "เสาหินอาร์เคน",
+   "th": "เสาหินอาร์เคน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlechef",
+   "en": "Battle Chef <randomname>",
+   "official": "พ่อครัวนักสู้ <randomname>",
+   "th": "พ่อครัวนักสู้ <randomname>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "possessedsettler",
+   "en": "Possessed Settler",
+   "official": "ผู้อพยพที่ถูกครอบงำ",
+   "th": "ชาวนิคมที่ถูกสิง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "shark",
+   "en": "Shark",
+   "official": "ฉลาม",
+   "th": "ฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fakeshark",
+   "en": "\"Shark\"",
+   "official": "\"ฉลาม\"",
+   "th": "\"ฉลาม\"",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palworldsyndicatethug",
+   "en": "Syndicate Thug",
+   "official": "",
+   "th": "อันธพาลซินดิเคต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzbolt",
+   "en": "Grizzbolt",
+   "official": "",
+   "th": "กริซโบลต์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thrumbo",
+   "en": "Thrumbo",
+   "official": "",
+   "th": "ธรัมโบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mime",
+   "en": "Mime",
+   "official": "",
+   "th": "นักแสดงละครใบ้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimic",
+   "en": "Mimic",
+   "official": "",
+   "th": "มิมิก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mutant",
+   "en": "Mutant",
+   "official": "",
+   "th": "ผู้กลายพันธุ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "magechanic",
+   "en": "Magechanic",
+   "official": "",
+   "th": "เมจแคนิก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "rctoysoldier",
+   "en": "RC Toy Soldier",
+   "official": "",
+   "th": "ทหารของเล่นบังคับวิทยุ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "haywireshredder",
+   "en": "Haywire Shredder",
+   "official": "",
+   "th": "เครื่องบดย่อยคลุ้มคลั่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "furnacegolem",
+   "en": "Furnace Golem",
+   "official": "",
+   "th": "โกเลมเตาหลอม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenix",
+   "en": "Phoenix",
+   "official": "",
+   "th": "ฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenixegg",
+   "en": "Phoenix Egg",
+   "official": "",
+   "th": "ไข่ฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ashgolem",
+   "en": "Ash Golem",
+   "official": "",
+   "th": "โกเลมเถ้าถ่าน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "humanraider",
+   "en": "Human Raider",
+   "official": "ผู้รุกราน",
+   "th": "ผู้รุกราน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishianraider",
+   "en": "Fishian Raider",
+   "official": "โจรปล้นปลา",
+   "th": "ผู้รุกรานชาวปลา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ninjaraider",
+   "en": "Ninja",
+   "official": "นินจา",
+   "th": "นินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickenraider",
+   "en": "Wild Chicken",
+   "official": "แก๊งค์ไก่ป่า",
+   "th": "แก๊งไก่ป่า",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "roguehunterraider",
+   "en": "Rogue Hunter",
+   "official": "นักล่าอันธพาล",
+   "th": "นักล่าอันธพาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozendwarfraider",
+   "en": "Frozen Dwarf",
+   "official": "คนแคระหัวร้อนตัวเย็น",
+   "th": "คนแคระแช่แข็ง",
+   "status": "fixed",
+   "note": "ให้ตรงกับ Frozen Dwarf"
+  },
+  {
+   "key": "voidapprenticeraider",
+   "en": "Void Apprentice",
+   "official": "ผู้ศึกษาศาสตร์มืด",
+   "th": "พ่อมดฝึกหัดแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "vampireraider",
+   "en": "Vampire",
+   "official": "แวมไพร์",
+   "th": "แวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mummyraider",
+   "en": "Mummy",
+   "official": "มัมมี่",
+   "th": "มัมมี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pirateraider",
+   "en": "Pirate",
+   "official": "โจรสลัด",
+   "th": "โจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientskeletonraider",
+   "en": "Ancient Skeleton",
+   "official": "โครงกระดูกโบราณกาล",
+   "th": "โครงกระดูกโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mafiaraider",
+   "en": "The Mafia",
+   "official": "มาเฟีย",
+   "th": "มาเฟีย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spawnedname",
+   "en": "<player>'s <mob>",
+   "official": "<mob> ของ<player> ",
+   "th": "<mob> ของ <player>",
+   "status": "fixed",
+   "note": "ช่องว่างท้าย"
+  },
+  {
+   "key": "tameostrich",
+   "en": "Tame Ostrich",
+   "official": "นกกระจอกเทศเชื่อง",
+   "th": "นกกระจอกเทศเชื่อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pet",
+   "en": "Pet",
+   "official": "สัตว์เลี้ยง",
+   "th": "สัตว์เลี้ยง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "petevilminion",
+   "en": "Pet Evil Minion",
+   "official": "กีกี้ตัวร้าย",
+   "th": "ลูกสมุนปีศาจเลี้ยง",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "petpenguin",
+   "en": "Pet Penguin",
+   "official": "เพนกวิ้นเลี้ยง",
+   "th": "เพนกวินเลี้ยง",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "petgrizzlybearcub",
+   "en": "Pet Grizzly Cub",
+   "official": "ลูกหมีกริซลี่เลี้ยง",
+   "th": "ลูกหมีกริซลีเลี้ยง",
+   "status": "fixed",
+   "note": "ทับศัพท์ไม่ใส่วรรณยุกต์"
+  },
+  {
+   "key": "petthrumbo",
+   "en": "Pet Thrumbo",
+   "official": "",
+   "th": "ธรัมโบเลี้ยง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "petdragonwhelp",
+   "en": "Pet Dragon Whelp",
+   "official": "",
+   "th": "ลูกมังกรเลี้ยง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "peticiclearmadillo",
+   "en": "Pet Icicle Armadillo",
+   "official": "",
+   "th": "อาร์มาดิลโลน้ำแข็งเลี้ยง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "petparrot",
+   "en": "Pet Parrot",
+   "official": "นกแก้วเลี้ยง",
+   "th": "นกแก้วเลี้ยง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "petpug",
+   "en": "Pet Pug",
+   "official": "หมาจู",
+   "th": "หมาปั๊กเลี้ยง",
+   "status": "fixed",
+   "note": "pug ไม่ใช่หมาจู"
+  },
+  {
+   "key": "steelboat",
+   "en": "Steel Boat",
+   "official": "เรือเหล็ก",
+   "th": "เรือเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "petwalkingtorch",
+   "en": "Walking Torch",
+   "official": "คบเพลิงเดินได้",
+   "th": "คบเพลิงเดินได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "petcavelingelder",
+   "en": "Caveling Elder",
+   "official": "คนถ้ำโบราณ",
+   "th": "ผู้เฒ่าชาวถ้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "jumpingball",
+   "en": "Jumping Ball",
+   "official": "บอลกระโดด",
+   "th": "บอลกระโดด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoverboard",
+   "en": "Hoverboard",
+   "official": "โฮเวอร์บอร์ด",
+   "th": "โฮเวอร์บอร์ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchbroom",
+   "en": "Witch Broom",
+   "official": "ไม้กวาดแม่มด",
+   "th": "ไม้กวาดแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seahorse",
+   "en": "Seahorse",
+   "official": "ม้าน้ำ",
+   "th": "ม้าน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyzombie",
+   "en": "Baby Zombie",
+   "official": "ซอมบี้เด็ก",
+   "th": "ซอมบี้เด็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyzombiearcher",
+   "en": "Baby Zombie Archer",
+   "official": "ซอมบี้เด็กถือธนู",
+   "th": "ซอมบี้เด็กถือธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyspider",
+   "en": "Baby Spider",
+   "official": "ลูกแมงมุม",
+   "th": "ลูกแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostpiercer",
+   "en": "Frost Piercer",
+   "official": "หอกน้ำแข็ง",
+   "th": "หอกเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bee",
+   "en": "Bee",
+   "official": "",
+   "th": "ผึ้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vampiricbat",
+   "en": "Vampiric Bat",
+   "official": "",
+   "th": "ค้างคาวแวมไพร์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sentientsword",
+   "en": "Sentient Sword",
+   "official": "ดาบอัตตา",
+   "th": "ดาบอัตตา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babysnowman",
+   "en": "Baby Snowman",
+   "official": "ตุ๊กตาหิมะ",
+   "th": "มนุษย์หิมะน้อย",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "babycrawlingzombie",
+   "en": "Baby Crawling Zombie",
+   "official": "กีกี้ซอมบี้คลาน",
+   "th": "ซอมบี้คลานน้อย",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "playerpoisonslime",
+   "en": "Poison Slime",
+   "official": "สไลม์พิษ",
+   "th": "สไลม์พิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stabbybushfollowingmob",
+   "en": "Stabby Bush",
+   "official": "พุ่มเบอร์รี่จอมแทง",
+   "th": "พุ่มเบอร์รี่จอมแทง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bashybushfollowingmob",
+   "en": "Bashy Bush",
+   "official": "พุ่มเบอร์รี่จอมทุบ",
+   "th": "พุ่มเบอร์รี่จอมทุบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playervulturehatchling",
+   "en": "Vulture Hatchling",
+   "official": "ลูกอีแร้ง",
+   "th": "ลูกอีแร้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ghostship",
+   "en": "Ghost Ship",
+   "official": "เรือผีสิง",
+   "th": "เรือผีสิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playerreaperspirit",
+   "en": "Reaper Spirit",
+   "official": "วิญญาณยมทูต",
+   "th": "วิญญาณยมทูต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playercryoflake",
+   "en": "Cryo Flake",
+   "official": "เกล็ดน้ำแข็งไครโอ",
+   "th": "เกล็ดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "dryadspirit",
+   "en": "Dryad Spirit",
+   "official": "วิญญาณดรายแอด",
+   "th": "วิญญาณดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babydryad",
+   "en": "Baby Dryad",
+   "official": "ดรายแอดน้อย",
+   "th": "ดรายแอดน้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playerpouncingslime",
+   "en": "Pouncing Slime",
+   "official": "สไลม์",
+   "th": "สไลม์จู่โจม",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "slimegreatswordslime",
+   "en": "Slime Greatsword Slime",
+   "official": "สไลม์ยักษ์",
+   "th": "สไลม์จากดาบใหญ่สไลม์",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "babyskeleton",
+   "en": "Baby Skeleton",
+   "official": "โครงกระดูก",
+   "th": "โครงกระดูกน้อย",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "babyskeletonmage",
+   "en": "Baby Skeleton Mage",
+   "official": "โครงกระดูกนักเวทย์",
+   "th": "โครงกระดูกนักเวทน้อย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancestorknight",
+   "en": "Ancestor Knight",
+   "official": "นักรบบรรพกาล",
+   "th": "นักรบบรรพกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancestormage",
+   "en": "Ancestor Mage",
+   "official": "นักเวทย์บรรพกาล",
+   "th": "นักเวทบรรพกาล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "orbofslimesslime",
+   "en": "Slime Orb",
+   "official": "สไลม์ออร์บ",
+   "th": "ออร์บสไลม์",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "playerchargingphantom",
+   "en": "Charging Phantom",
+   "official": "พลังงานวิญญาน",
+   "th": "ภูตผีพุ่งชน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "babyspiderkinwarrior",
+   "en": "Baby Spiderkin Warrior",
+   "official": "นักรบสไปเดอร์กินตัวน้อย",
+   "th": "นักรบสไปเดอร์กินตัวน้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyspiderkinarcher",
+   "en": "Baby Spiderkin Archer",
+   "official": "นักธนูสไปเดอร์กินตัวน้อย",
+   "th": "นักธนูสไปเดอร์กินตัวน้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravenlordfeather",
+   "en": "Ravenlord's Feather",
+   "official": "ขนนก ราชาอีกา",
+   "th": "ขนนกราชาอีกา",
+   "status": "fixed",
+   "note": "เว้นวรรคเกิน"
+  },
+  {
+   "key": "duskmoondisc",
+   "en": "Dusk Moondisc",
+   "official": "มูนดิสก์พลบค่ำ",
+   "th": "มูนดิสก์พลบค่ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubyshield",
+   "en": "Ruby Shield",
+   "official": "โล่ทับทิม",
+   "th": "โล่ทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubydragon",
+   "en": "Ruby Dragon",
+   "official": "มังกรทับทิม",
+   "th": "มังกรทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowisp",
+   "en": "Will-o'-Wisp",
+   "official": "วิล-โอ-วิสป์",
+   "th": "วิล-โอ-วิสป์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystalgolem",
+   "en": "Crystal Golem",
+   "official": "คริสตัลโกเลม",
+   "th": "โกเลมคริสตัล",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "crystalarmadillo",
+   "en": "Crystal Armadillo",
+   "official": "คริสตัลอาร์มาดิลโล่",
+   "th": "อาร์มาดิลโลคริสตัล",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "fishianhookwarrior",
+   "en": "Fishian Hook Warrior",
+   "official": "นักรบชาวปลา",
+   "th": "นักรบตะขอชาวปลา",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "fishianhealer",
+   "en": "Fishian Healer",
+   "official": "นักบวชชาวปลา",
+   "th": "นักบวชชาวปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "staticjellyfish",
+   "en": "Static Jellyfish",
+   "official": "แมงกะพรุนไฟฟ้าสถิตย์",
+   "th": "แมงกะพรุนไฟฟ้าสถิต",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "ghostlybow",
+   "en": "Animated Bow",
+   "official": "ธนูมีชีวิต",
+   "th": "ธนูมีชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampion",
+   "en": "Aged Champion",
+   "official": "แชมป์เปี้ยนเก่าแก่",
+   "th": "แชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "wanderbotfollowingmob",
+   "en": "Wanderbot",
+   "official": "หุ่นยนต์เร่ร่อน",
+   "th": "หุ่นยนต์เร่ร่อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "junkmech",
+   "en": "Junk Mech",
+   "official": "",
+   "th": "หุ่นยนต์ขยะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "evilwitch",
+   "en": "Evil Witch",
+   "official": "แม่มด",
+   "th": "แม่มดชั่วร้าย",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "evilsprotector",
+   "en": "Evil's Protector",
+   "official": "ผู้ปกครองปีศาจ",
+   "th": "ผู้ปกครองปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "evilsportal",
+   "en": "Evil's Portal",
+   "official": "ประตูมิติปีศาจ",
+   "th": "ประตูมิติปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "portalminion",
+   "en": "Portal Minion",
+   "official": "ประตูมิติลูกสมุน",
+   "th": "ลูกสมุนประตูมิติ",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "queenspider",
+   "en": "Queen Spider",
+   "official": "ราชินีแมงมุม",
+   "th": "ราชินีแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderhatchling",
+   "en": "Spider Hatchling",
+   "official": "ลูกแมงมุม",
+   "th": "ลูกแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidwizard",
+   "en": "Void Wizard",
+   "official": "พ่อมดแห่งความมืด",
+   "th": "พ่อมดแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftain",
+   "en": "Runebound Chieftain",
+   "official": "หัวหน้าเผ่ารูนเบานด์",
+   "th": "หัวหน้าเผ่ารูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftaingauntletspawnerportal",
+   "en": "Gauntlet Portal",
+   "official": "ประตูรูนเบานด์",
+   "th": "ประตูมิติรูนเบานด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crone",
+   "en": "Crone",
+   "official": "ยายเฒ่า",
+   "th": "ยายเฒ่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratecaptain",
+   "en": "Pirate Captain",
+   "official": "กัปตันโจรสลัด",
+   "th": "กัปตันโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piraterecruit",
+   "en": "Pirate Recruit",
+   "official": "โจรสลัด",
+   "th": "โจรสลัดฝึกหัด",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "pirateparrot",
+   "en": "Pirate Parrot",
+   "official": "นกแก้วโจรสลัด",
+   "th": "นกแก้วโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientvulture",
+   "en": "Ancient Vulture",
+   "official": "อีแร้งดึกดำบรรพ์",
+   "th": "อีแร้งดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientvultureegg",
+   "en": "Ancient Vulture Egg",
+   "official": "ไข่อีแร้งดึกดำบรรพ์",
+   "th": "ไข่อีแร้งดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vulturehatchling",
+   "en": "Vulture Hatchling",
+   "official": "ลูกอีกแร้งดึกดำบรรพ์",
+   "th": "ลูกอีแร้ง",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "reaper",
+   "en": "Reaper",
+   "official": "ยมทูต",
+   "th": "ยมทูต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reaperspiritportal",
+   "en": "Reaper Spirit Portal",
+   "official": "ประตูวิญญาณ",
+   "th": "ประตูมิติวิญญาณยมทูต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "reaperspirit",
+   "en": "Reaper Spirit",
+   "official": "วิญญานยมทูต",
+   "th": "วิญญาณยมทูต",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "cryoqueen",
+   "en": "Cryo Queen",
+   "official": "ราชินีแห่งไครโอ",
+   "th": "ราชินีไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thecursedcrone",
+   "en": "The Cursed Crone",
+   "official": "ยายเฒ่าต้องสาป",
+   "th": "ยายเฒ่าต้องสาป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pestwarden",
+   "en": "Pest Warden",
+   "official": "ผู้ควมคุมสมดุลแห่งพงไพร",
+   "th": "ผู้คุมพงไพร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampguardian",
+   "en": "Swamp Guardian",
+   "official": "ผู้พิทักษ์แห่งหนองน้ำ",
+   "th": "ผู้พิทักษ์หนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampguardianbody",
+   "en": "Swamp Guardian body",
+   "official": "ลำตัวผู้พิทักษ์แห่งหนองน้ำ",
+   "th": "ลำตัวผู้พิทักษ์หนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampguardiantail",
+   "en": "Swamp Guardian tail",
+   "official": "หางผู้พิทักษ์แห่งหนองน้ำ",
+   "th": "หางผู้พิทักษ์หนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sage",
+   "en": "Sage",
+   "official": "เธียร",
+   "th": "เซจ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "grit",
+   "en": "Grit",
+   "official": "กริด",
+   "th": "กริต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sageandgrit",
+   "en": "Sage and Grit",
+   "official": "เธียร และ กริด",
+   "th": "เซจกับกริต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fallenwizard",
+   "en": "Fallen Wizard",
+   "official": "พ่อมดแห่งความมืดผู้ตกอับ",
+   "th": "พ่อมดผู้ตกอับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fallendragon",
+   "en": "Fallen Dragon",
+   "official": "มังกรร่วงโรย",
+   "th": "มังกรร่วงโรย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightswarm",
+   "en": "Night Swarm",
+   "official": "ฝูงราตรี",
+   "th": "ฝูงราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightswarmbat",
+   "en": "Night Swarm Bat",
+   "official": "ฝูงค้างคาว",
+   "th": "ค้างคาวฝูงราตรี",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "motherslime",
+   "en": "Mother Slime",
+   "official": "มาเธอร์สไลม์",
+   "th": "แม่สไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiderempress",
+   "en": "Spider Empress",
+   "official": "แมงมุมจักรพรรดินี",
+   "th": "จักรพรรดินีแมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sunlightchampion",
+   "en": "Sunlight Champion",
+   "official": "แชมป์เปี้ยนแห่งแสงตะวัน",
+   "th": "แชมเปียนแสงตะวัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sunlightgauntlet",
+   "en": "Sunlight Gauntlet",
+   "official": "ถุงมือดวงตะวัน",
+   "th": "ถุงมือแสงตะวัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "moonlightdancer",
+   "en": "Moonlight Dancer",
+   "official": "นักระบำใต้แสงจันทร์",
+   "th": "นักระบำแสงจันทร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystaldragon",
+   "en": "Crystal Dragon",
+   "official": "มังกรคริสตัล",
+   "th": "มังกรคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mutanthydra",
+   "en": "Mutant Hydra",
+   "official": "",
+   "th": "ไฮดรากลายพันธุ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mutanthydraneck",
+   "en": "Mutant Hydra Neck",
+   "official": "",
+   "th": "คอไฮดรากลายพันธุ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mutanthydrahead",
+   "en": "Mutant Hydra Head",
+   "official": "",
+   "th": "หัวไฮดรากลายพันธุ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ascendedwizard",
+   "en": "Ascended Wizard",
+   "official": "จอมเวทย์ผู้ก้าวข้าม",
+   "th": "พ่อมดผู้ก้าวข้าม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ascendedbeam",
+   "en": "Ascended Beam",
+   "official": "ลำแสงศักดิ์สิทธิ์",
+   "th": "ลำแสงศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedgolem",
+   "en": "Ascended Golem",
+   "official": "โกเลมศักดิ์สิทธิ์",
+   "th": "โกเลมศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedbat",
+   "en": "Ascended Bat",
+   "official": "ค้างคาวศักดิ์สิทธิ์",
+   "th": "ค้างคาวศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedgauntlet",
+   "en": "Ascended Gauntlet",
+   "official": "ถุงมือศักดิ์สิทธิ์",
+   "th": "ถุงมือศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thevoid",
+   "en": "The Void",
+   "official": "เดอะวอยด์",
+   "th": "เดอะวอยด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thevoidhorn",
+   "en": "The Void Horn",
+   "official": "เขาแห่งความมืด",
+   "th": "เขาเดอะวอยด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thevoidclaw",
+   "en": "Claw of The Void",
+   "official": "กรงเล็บแห่งความมืด",
+   "th": "กรงเล็บเดอะวอยด์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "woodboat",
+   "en": "Wood boat",
+   "official": "เรือไม้",
+   "th": "เรือไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeboundboat",
+   "en": "Runebound boat",
+   "official": "เรือรูนเบานด์",
+   "th": "เรือรูนเบานด์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minecart",
+   "en": "Minecart",
+   "official": "รถราง",
+   "th": "รถเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sawblade",
+   "en": "Saw blade",
+   "official": "ใบเลื่อย",
+   "th": "ใบเลื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeessencefollower",
+   "en": "Life Essence follower",
+   "official": "ติดตามแก่นพลังชีวิต",
+   "th": "ผู้ติดตามแก่นแท้พลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "quicktinkerfollower",
+   "en": "Quick Tinker follower",
+   "official": "",
+   "th": "ผู้ติดตามช่างซ่อมจอมไว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "homeportal",
+   "en": "Home Portal",
+   "official": "ประตูวาร์ปไปบ้าน",
+   "th": "ประตูมิติกลับบ้าน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "returnportal",
+   "en": "Return Portal",
+   "official": "กลับประตูบ้าน",
+   "th": "ประตูมิติขากลับ",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "bossspawnportal",
+   "en": "Boss Portal",
+   "official": "ประตูบอส",
+   "th": "ประตูมิติบอส",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "arenaentranceportal",
+   "en": "Arena Entrance Portal",
+   "official": "ประตูทางเข้าอารีน่า",
+   "th": "ประตูมิติทางเข้าอารีนา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "trialportal",
+   "en": "Trial Portal",
+   "official": "",
+   "th": "ประตูมิติการทดสอบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bonespike",
+   "en": "Bone Spike",
+   "official": "หนามกระดูก",
+   "th": "หนามกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "earthspike",
+   "en": "Earth Spike",
+   "official": "แท่งดิน",
+   "th": "หนามดิน",
+   "status": "fixed",
+   "note": "spike = หนาม"
+  },
+  {
+   "key": "unknown",
+   "en": "???",
+   "official": "???",
+   "th": "???",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursioncrawlingzombie",
+   "en": "Crawling Zombie",
+   "official": "ซอมบี้คลาน",
+   "th": "ซอมบี้คลาน",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

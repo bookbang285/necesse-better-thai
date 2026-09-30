@@ -1,0 +1,142 @@
+{
+ "category": "jobs",
+ "entries": [
+  {
+   "key": "settlerincapable",
+   "en": "Settler is incapable of this job",
+   "official": "ผู้อพยพไม่ถนัดงานแบบนี้",
+   "th": "ชาวนิคมคนนี้ทำงานนี้ไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Settler) + ความหมาย"
+  },
+  {
+   "key": "jobrange",
+   "en": "Work range: <range> tiles",
+   "official": "รัศมีพื้นที่ทำงาน: <range> ช่อง",
+   "th": "ระยะทำงาน: <range> ช่อง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "haulingname",
+   "en": "Hauling",
+   "official": "ขนย้าย",
+   "th": "ขนย้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "haulingtip",
+   "en": "Moving and picking up items",
+   "official": "ขนย้ายและหยิบไอเทม",
+   "th": "ขนย้ายและเก็บไอเทม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "craftingname",
+   "en": "Crafting",
+   "official": "ผลิต",
+   "th": "ประดิษฐ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crafting)"
+  },
+  {
+   "key": "craftingtip",
+   "en": "Crafting recipes at workstations",
+   "official": "ประดิษฐ์ของต่างๆ",
+   "th": "ประดิษฐ์ตามสูตรที่สถานีประดิษฐ์",
+   "status": "fixed",
+   "note": "แปลไม่ครบ · workstation ทั่วไป = สถานีประดิษฐ์"
+  },
+  {
+   "key": "forestryname",
+   "en": "Forestry",
+   "official": "ตัดไม้",
+   "th": "ตัดไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forestrytip",
+   "en": "Chopping down and planting trees in forestry zones",
+   "official": "ตัดต้นไม้และปลูกคืน ในพื้นที่ตัดไม้",
+   "th": "ตัดและปลูกต้นไม้ในพื้นที่ป่าไม้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "husbandryname",
+   "en": "Husbandry",
+   "official": "การเลี้ยงสัตว์",
+   "th": "ปศุสัตว์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Husbandry)"
+  },
+  {
+   "key": "husbandrytip",
+   "en": "Milking, shearing and slaughtering animals in husbandry zones and harvesting apiaries",
+   "official": "รีดนม,ตัดขน และเชือดสัตว์ในพื้นที่ปศุสัตว์",
+   "th": "รีดนม ตัดขน และเชือดสัตว์ในพื้นที่ปศุสัตว์ รวมถึงเก็บน้ำผึ้งจากรังผึ้ง",
+   "status": "fixed",
+   "note": "แปลไม่ครบ + ตัดจุลภาค"
+  },
+  {
+   "key": "fishingname",
+   "en": "Fishing",
+   "official": "ตกปลา",
+   "th": "ตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "farmingname",
+   "en": "Farming",
+   "official": "ทำสวน",
+   "th": "ทำไร่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "farmingtip",
+   "en": "Harvesting and planting crops, berry bushes and fruit trees",
+   "official": "เก็บเกี่ยวและปลูกพืชผักผลผลิต, เก็บเกี่ยวเบอรี่และผลไม้จากต้น",
+   "th": "เก็บเกี่ยวและปลูกพืชผล พุ่มเบอร์รี และต้นไม้ผล",
+   "status": "fixed",
+   "note": "ตัดจุลภาค + สะกด"
+  },
+  {
+   "key": "fertilizename",
+   "en": "Fertilize",
+   "official": "ใส่ปุ๋ย",
+   "th": "ใส่ปุ๋ย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fertilizetip",
+   "en": "Fertilize crops in fertilize zones",
+   "official": "ใส่ปุ๋ยให้กับพืชผักผลผลิตในพื้นที่ใส่ปุ๋ย",
+   "th": "ใส่ปุ๋ยพืชผลในพื้นที่ใส่ปุ๋ย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "huntingname",
+   "en": "Hunting",
+   "official": "ล่าสัตว์",
+   "th": "ล่าสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "huntingtip",
+   "en": "Hunting critters for food",
+   "official": "ล่าสัตว์ป่าเพื่อนำมาเป็นอาหาร",
+   "th": "ล่าสัตว์เล็กเพื่อเป็นอาหาร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Critters)"
+  }
+ ],
+ "removed": []
+}

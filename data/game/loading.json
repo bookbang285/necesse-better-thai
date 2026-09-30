@@ -1,0 +1,366 @@
+{
+ "category": "loading",
+ "entries": [
+  {
+   "key": "foundmods",
+   "en": "Found <mods> mod(s)",
+   "official": "พบเจอมอด <mods> (s)",
+   "th": "พบมอด <mods> ตัว",
+   "status": "fixed",
+   "note": "ตัด (s) ที่หลุดมา"
+  },
+  {
+   "key": "loadedmods",
+   "en": "Loaded <mods> mod(s)",
+   "official": "โหลดมอด <mods> เสร็จสิ้น(s)",
+   "th": "โหลดมอด <mods> ตัวแล้ว",
+   "status": "fixed",
+   "note": "ตัด (s) ที่หลุดมา"
+  },
+  {
+   "key": "loadingmods",
+   "en": "Loading mods",
+   "official": "กำลังโหลดมอด",
+   "th": "กำลังโหลดมอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "patchmods",
+   "en": "Applying mod patches",
+   "official": "กำลังแพทช์มอด",
+   "th": "กำลังใช้แพตช์ของมอด",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "preinitmods",
+   "en": "Pre initializing mods",
+   "official": "เตรียมตัวเริ่มมอด",
+   "th": "กำลังเตรียมเริ่มต้นมอด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "initmods",
+   "en": "Initializing mods",
+   "official": "เริ่มต้นมอด",
+   "th": "กำลังเริ่มต้นมอด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "initmodsres",
+   "en": "Initializing mod resources",
+   "official": "เริ่มต้นทรัพยากรมอด",
+   "th": "กำลังเริ่มต้นทรัพยากรมอด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "postinitmods",
+   "en": "Post initializing mods",
+   "official": "หลังการเริ่มต้นมอด",
+   "th": "กำลังจัดการหลังเริ่มต้นมอด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "firstsetup",
+   "en": "Performing first time setup",
+   "official": "ทำการติดตั้งครั้งแรก",
+   "th": "กำลังตั้งค่าครั้งแรก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "biomes",
+   "en": "Loading biomes",
+   "official": "กำลังโหลดพื้นที่",
+   "th": "กำลังโหลดไบโอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Biome)"
+  },
+  {
+   "key": "incursions",
+   "en": "Loading incursions",
+   "official": "กำลังโหลดการบุกรุก",
+   "th": "กำลังโหลดอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Incursion)"
+  },
+  {
+   "key": "buffs",
+   "en": "Loading buffs",
+   "official": "กำลังโหลดบัฟ",
+   "th": "กำลังโหลดบัฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "items",
+   "en": "Loading items",
+   "official": "กำลังโหลดไอเทม",
+   "th": "กำลังโหลดไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leveldata",
+   "en": "Loading level data",
+   "official": "กำลังโหลดข้อมูลเลเวล",
+   "th": "กำลังโหลดข้อมูลเลเวล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "levelevents",
+   "en": "Loading level events",
+   "official": "กำลังโหลดเลเวลเหตุการณ์",
+   "th": "กำลังโหลดเหตุการณ์เลเวล",
+   "status": "fixed",
+   "note": "ลำดับคำ"
+  },
+  {
+   "key": "mobs",
+   "en": "Loading mobs",
+   "official": "กำลังโหลดสิ่งมีชีวิต",
+   "th": "กำลังโหลดมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Mob)"
+  },
+  {
+   "key": "objects",
+   "en": "Loading objects",
+   "official": "กำลังโหลดสิ่งก่อสร้าง",
+   "th": "กำลังโหลดวัตถุ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "pickups",
+   "en": "Loading pickups",
+   "official": "กำลังโหลดของเก็บ",
+   "th": "กำลังโหลดของที่เก็บได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "projectiles",
+   "en": "Loading projectiles",
+   "official": "กำลังโหลดกระสุน",
+   "th": "กำลังโหลดกระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "textures",
+   "en": "Loading textures",
+   "official": "กำลังโหลดพื้นผิว",
+   "th": "กำลังโหลดเท็กซ์เจอร์",
+   "status": "fixed",
+   "note": "ความหมายผิด (พื้นผิว)"
+  },
+  {
+   "key": "sound",
+   "en": "Loading sound",
+   "official": "กำลังโหลดเสียง",
+   "th": "กำลังโหลดเสียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shaders",
+   "en": "Loading shaders",
+   "official": "กำลังโหลดเฉดสี",
+   "th": "กำลังโหลดเชเดอร์",
+   "status": "fixed",
+   "note": "ความหมายผิด (เฉดสี)"
+  },
+  {
+   "key": "commands",
+   "en": "Loading commands",
+   "official": "กำลังโหลดคำสั่ง",
+   "th": "กำลังโหลดคำสั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tiles",
+   "en": "Loading tiles",
+   "official": "กำลังโหลดพื้น",
+   "th": "กำลังโหลดไทล์พื้น",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "worlddata",
+   "en": "Loading world data",
+   "official": "กำลังโหลดข้อมูลโลก",
+   "th": "กำลังโหลดข้อมูลโลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "worldevents",
+   "en": "Loading world events",
+   "official": "กำลังโหลดเหตุการณ์โลก",
+   "th": "กำลังโหลดเหตุการณ์โลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "finishing",
+   "en": "Finishing up",
+   "official": "โชคดี ขอให้สนุก :3",
+   "th": "เกือบเสร็จแล้ว",
+   "status": "fixed",
+   "note": "แปลเกินความ"
+  },
+  {
+   "key": "mapshot",
+   "en": "Taking mapshot",
+   "official": "ถ่ายภาพแผนที่",
+   "th": "กำลังถ่ายภาพแผนที่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "loading",
+   "en": "Loading",
+   "official": "กำลังโหลด",
+   "th": "กำลังโหลด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "findingspawn",
+   "en": "Finding spawn position...",
+   "official": "กำลังหาจุดเกิด...",
+   "th": "กำลังหาจุดเกิด...",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "takeamoment",
+   "en": "This may take a moment",
+   "official": "นี่อาจจะต้องใช้เวลาสักครู่",
+   "th": "อาจใช้เวลาสักครู่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "migratingworld",
+   "en": "Migrating world...",
+   "official": "กำลังย้ายโลก...",
+   "th": "กำลังย้ายโลก...",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gatheringlevels",
+   "en": "Gathering levels",
+   "official": "ระดับการรวบรวม",
+   "th": "กำลังรวบรวมเลเวล",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "findingspot",
+   "en": "Finding level: <level>",
+   "official": "กำลังค้นหาระดับ: <level>",
+   "th": "กำลังหาตำแหน่งสำหรับเลเวล: <level>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "migratinglevel",
+   "en": "Placing level: <level>",
+   "official": "กำลังวางระดับ: <level>",
+   "th": "กำลังวางเลเวล: <level>",
+   "status": "fixed",
+   "note": "ใช้คำเดียวกับแถวอื่น"
+  },
+  {
+   "key": "migratingplayers",
+   "en": "Migrating players",
+   "official": "กำลังโยกย้ายข้อมูลผู้เล่น",
+   "th": "กำลังโยกย้ายข้อมูลผู้เล่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connecting",
+   "en": "Connecting",
+   "official": "กำลังเชื่อมต่อ",
+   "th": "กำลังเชื่อมต่อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connectrecipes",
+   "en": "Loading recipes <percent>%",
+   "official": "กำลังโหลดส่วนผสม <percent>%",
+   "th": "กำลังโหลดสูตร <percent>%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Recipe)"
+  },
+  {
+   "key": "connectstats",
+   "en": "Loading player stats",
+   "official": "กำลังโหลดข้อมูลผู้เล่น",
+   "th": "กำลังโหลดสถิติผู้เล่น",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "connectworld",
+   "en": "Loading world",
+   "official": "กำลังโหลดโลก",
+   "th": "กำลังโหลดโลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connectlevel",
+   "en": "Loading level",
+   "official": "กำลังโหลดเลเวล",
+   "th": "กำลังโหลดเลเวล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connectplayers",
+   "en": "Loading players <percent>%",
+   "official": "กำลังโหลดผู้เล่น <percent>%",
+   "th": "กำลังโหลดผู้เล่น <percent>%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connectclient",
+   "en": "Loading client",
+   "official": "กำลังโหลดผู้ใช้",
+   "th": "กำลังโหลดไคลเอนต์",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "connectquests",
+   "en": "Loading quests",
+   "official": "กำลังโหลดภารกิจ",
+   "th": "กำลังโหลดภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "connectmap",
+   "en": "Loading map <percent>%",
+   "official": "กำลังโหลดแผนที่ <percent>%",
+   "th": "กำลังโหลดแผนที่ <percent>%",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

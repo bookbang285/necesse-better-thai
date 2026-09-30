@@ -1,0 +1,126 @@
+{
+ "category": "logicgate",
+ "entries": [
+  {
+   "key": "andgate",
+   "en": "AND Gate",
+   "official": "AND Gate",
+   "th": "เกต AND",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "nandgate",
+   "en": "NAND Gate",
+   "official": "NAND Gate",
+   "th": "เกต NAND",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "orgate",
+   "en": "OR Gate",
+   "official": "OR Gate",
+   "th": "เกต OR",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "norgate",
+   "en": "NOR Gate",
+   "official": "NOR Gate",
+   "th": "เกต NOR",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "xorgate",
+   "en": "XOR Gate",
+   "official": "XOR Gate",
+   "th": "เกต XOR",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "tflipflopgate",
+   "en": "T flip-flop Gate",
+   "official": "T flip-flop Gate",
+   "th": "เกต T flip-flop",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "srlatchgate",
+   "en": "SR Latch Gate",
+   "official": "SR Latch Gate",
+   "th": "เกต SR Latch",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Logic gate = ลอจิกเกต) คงชื่อตรรกะอังกฤษ"
+  },
+  {
+   "key": "countergate",
+   "en": "Counter Gate",
+   "official": "Counter Gate",
+   "th": "เกตนับ",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "timergate",
+   "en": "Timer Gate",
+   "official": "Timer Gate",
+   "th": "เกตตั้งเวลา",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "buffergate",
+   "en": "Buffer Gate",
+   "official": "Buffer Gate",
+   "th": "เกตบัฟเฟอร์",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "delaygate",
+   "en": "Delay Gate",
+   "official": "Delay Gate",
+   "th": "เกตหน่วงเวลา",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "sensorgate",
+   "en": "Sensor Gate",
+   "official": "Sensor Gate",
+   "th": "เกตเซนเซอร์",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "soundgate",
+   "en": "Sound Gate",
+   "official": "Sound Gate",
+   "th": "เกตเสียง",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "countdowngate",
+   "en": "Countdown Gate",
+   "official": "Countdown Gate",
+   "th": "เกตนับถอยหลัง",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "countdownrelay",
+   "en": "Countdown Relay",
+   "official": "Countdown Relay",
+   "th": "รีเลย์นับถอยหลัง",
+   "status": "fixed",
+   "note": "แปลความ"
+  }
+ ],
+ "removed": []
+}

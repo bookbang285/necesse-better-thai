@@ -1,0 +1,38 @@
+{
+ "category": "global",
+ "entries": [
+  {
+   "key": "aphorea",
+   "en": "§!Aphorea Mod",
+   "official": "§!ม็อด Aphorea",
+   "th": "§!มอด Aphorea",
+   "status": "fixed",
+   "note": "มอด ตามคำที่เกมใช้ (ไม่ใช่ ม็อด)"
+  },
+  {
+   "key": "aphorearework",
+   "en": "§!Aphorea Mod Rework",
+   "official": "§!ม็อด Aphorea ปรับปรุงใหม่",
+   "th": "§!มอด Aphorea ปรับปรุงใหม่",
+   "status": "fixed",
+   "note": "มอด ตามคำที่เกมใช้ (ไม่ใช่ ม็อด)"
+  },
+  {
+   "key": "aphoreamightybanner",
+   "en": "§!Aphorea Mod x Mighty Banner Mod",
+   "official": "§!ม็อด Aphorea x ม็อด Mighty Banner",
+   "th": "§!มอด Aphorea x มอด Mighty Banner",
+   "status": "fixed",
+   "note": "มอด ตามคำที่เกมใช้ (ไม่ใช่ ม็อด)"
+  },
+  {
+   "key": "aphoreasummonerexpansion",
+   "en": "§!Aphorea Mod x Summoner Expansion",
+   "official": "§!ม็อด Aphorea x ส่วนขยาย Summoner",
+   "th": "§!มอด Aphorea x มอด Summoner Expansion",
+   "status": "fixed",
+   "note": "มอด ตามคำที่เกมใช้ (ไม่ใช่ ม็อด)"
+  }
+ ],
+ "removed": []
+}

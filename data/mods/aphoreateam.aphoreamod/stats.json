@@ -1,0 +1,14 @@
+{
+ "category": "stats",
+ "entries": [
+  {
+   "key": "inspiration_damage",
+   "en": "Inspiration damage",
+   "official": "ความเสียหายจากแรงบันดาลใจ",
+   "th": "ความเสียหายแรงบันดาลใจ",
+   "status": "fixed",
+   "note": "รูปแบบเดียวกับ ความเสียหายอัญเชิญ"
+  }
+ ],
+ "removed": []
+}

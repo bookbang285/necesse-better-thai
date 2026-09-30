@@ -1,0 +1,382 @@
+{
+ "category": "biome",
+ "entries": [
+  {
+   "key": "unknown",
+   "en": "Unknown",
+   "official": "ไม่ทราย",
+   "th": "ไม่ทราบ",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "forest",
+   "en": "Forest",
+   "official": "ป่า",
+   "th": "ป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plains",
+   "en": "Plains",
+   "official": "ที่ราบ",
+   "th": "ที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftain",
+   "en": "The Chieftain's Arena",
+   "official": "สนามประลองของหัวหน้าเผ่า",
+   "th": "สนามประลองหัวหน้าเผ่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thecursedcrone",
+   "en": "A source of corruption",
+   "official": "ต้นตอแห่งความแปดเปื้อน",
+   "th": "ต้นตอแห่งความแปดเปื้อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desert",
+   "en": "Desert",
+   "official": "ทะเลทราบ",
+   "th": "ทะเลทราย",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "swamp",
+   "en": "Swamp",
+   "official": "หนองน้ำ",
+   "th": "หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snow",
+   "en": "Snow",
+   "official": "หิมะ",
+   "th": "หิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeon",
+   "en": "Dungeon Entrance",
+   "official": "ทางเข้าดันเจี้ยน",
+   "th": "ทางเข้าดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "npcvillage",
+   "en": "NPC Village",
+   "official": "หมู่บ้าน",
+   "th": "หมู่บ้าน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratevillage",
+   "en": "Pirate Village",
+   "official": "หมู่บ้านโจรสลัด",
+   "th": "หมู่บ้านโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sageandgrit",
+   "en": "An ancient pedestal",
+   "official": "แท่นบูชาโบราณ",
+   "th": "แท่นโบราณ",
+   "status": "fixed",
+   "note": "pedestal ไม่ใช่แท่นบูชา"
+  },
+  {
+   "key": "temple",
+   "en": "Temple",
+   "official": "วิหาร",
+   "th": "วิหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trialroom",
+   "en": "Trial Room",
+   "official": "ห้องแห่งการทดสอบ",
+   "th": "ห้องแห่งการทดสอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "surface",
+   "en": "<biome> Surface",
+   "official": "<biome> พื้นผิวโลก",
+   "th": "พื้นผิว<biome>",
+   "status": "fixed",
+   "note": "ลำดับคำไทย · ติดชื่อไบโอมให้เข้าชุดกับ journal (ถ้ำป่า / ถ้ำป่าชั้นลึก)"
+  },
+  {
+   "key": "cave",
+   "en": "<biome> Cave",
+   "official": "<biome> ถ้ำ",
+   "th": "ถ้ำ<biome>",
+   "status": "fixed",
+   "note": "ลำดับคำไทย · ให้ตรงกับ journal เช่น ถ้ำป่า"
+  },
+  {
+   "key": "deepcave",
+   "en": "<biome> Deep Cave",
+   "official": "<biome> ถ้ำลึก",
+   "th": "ถ้ำ<biome>ชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ให้ตรงกับ journal เช่น ถ้ำป่าชั้นลึก"
+  },
+  {
+   "key": "slimecave",
+   "en": "Slime Cave",
+   "official": "ถ้ำสไลม์",
+   "th": "ถ้ำสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "graveyard",
+   "en": "Graveyard",
+   "official": "สุสาน",
+   "th": "สุสาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastle",
+   "en": "Spider Castle",
+   "official": "ปราสาทแมงมุม",
+   "th": "ปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sunarena",
+   "en": "Sun Arena",
+   "official": "อารีน่าแสงตะวัน",
+   "th": "อารีนาแสงตะวัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "moonarena",
+   "en": "Moon Arena",
+   "official": "อารีน่าดวงจันทรา",
+   "th": "อารีนาแสงจันทร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystalhollow",
+   "en": "Crystal Hollow",
+   "official": "หลุมลึกคริสตัล",
+   "th": "โพรงคริสตัล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "scrapyard",
+   "en": "Scrapyard",
+   "official": "",
+   "th": "ลานเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hunt",
+   "en": "Hunt",
+   "official": "ล่า",
+   "th": "การล่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "extraction",
+   "en": "Extraction",
+   "official": "สกัดแร่",
+   "th": "สกัดแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trial",
+   "en": "Trial",
+   "official": "ทดสอบ",
+   "th": "การทดสอบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursionhunt",
+   "en": "<incursion> Hunt",
+   "official": "<incursion> วันแห่งการล่า",
+   "th": "การล่า <incursion>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursionextraction",
+   "en": "<incursion> Extraction",
+   "official": "<incursion> ภารกิจสกัดแร่",
+   "th": "สกัดแร่ <incursion>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursiontrial",
+   "en": "<incursion> Trial",
+   "official": "<incursion> การทดสอบภาคปฎิบัติ",
+   "th": "การทดสอบ <incursion>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursionascended",
+   "en": "Ascended Incursion",
+   "official": "อินเคอชั่นศักดิ์สิทธิ์",
+   "th": "อินเคอร์ชันศักดิ์สิทธิ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "abandonedcampsignpreset",
+   "en": "A safe haven for weary travellers",
+   "official": "สถานที่หลบภัยอันปลอดภัยสำหรับนักเดินทางที่เหนื่อยล้า",
+   "th": "ที่หลบภัยสำหรับนักเดินทางผู้เหนื่อยล้า",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "undergroundblacksmithsignpreset",
+   "en": "<settlername>'s One Stop Deepcave Smithing Shop!",
+   "official": "ร้านตีเหล็กครบวงจรในถ้ำลึกของ... <settlername>!",
+   "th": "ร้านตีเหล็กครบวงจรในถ้ำชั้นลึกของ <settlername>!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "travellerscampsitepreset",
+   "en": "I've left my leftover supplies to any other explorers passing by. Good luck on your travels!",
+   "official": "ฉันได้ทิ้งเสบียงที่เหลือไว้ให้กับนักสำรวจคนอื่น ๆ ที่ผ่านมาแถวนี้ ขอให้โชคดีในการเดินทางของคุณ!",
+   "th": "ฉันได้ทิ้งเสบียงที่เหลือไว้ให้กับนักสำรวจคนอื่น ๆ ที่ผ่านมาแถวนี้ ขอให้โชคดีในการเดินทางของคุณ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trainingdummypresetpoem",
+   "en": "After a thousand brutal beatings\\nAnd a hundred awkward meetings\\nIt's time for something yummy\\nLove you, signed: your dummy",
+   "official": "หลังจากการถูกทำร้ายอย่างโหดเหี้ยมเป็นพันครั้ง\\nและการพบเจอที่น่าอึดอัดนับร้อยครั้ง\\nได้เวลาสำหรับอะไรที่อร่อย ๆ แล้ว\\nรักคุณนะ, ลงชื่อ: หุ่นฝึกซ้อมของคุณ",
+   "th": "หลังโดนทุบตีโหดร้ายนับพันหน\\nกับการพบหน้าสุดเขินอีกร้อยหน\\nถึงเวลาหาอะไรอร่อย ๆ กิน\\nรักนะ ลงชื่อ: หุ่นฝึกซ้อมของคุณ",
+   "status": "fixed",
+   "note": "ให้เป็นกลอน + ตัดจุลภาค"
+  },
+  {
+   "key": "davesplanthouse",
+   "en": "Please no zombies, only plants :)",
+   "official": "ได้โปรดอย่าให้มีซอมบี้เลย, ขอแค่พืชเท่านั้น :)",
+   "th": "ขอร้องล่ะ ไม่เอาซอมบี้ เอาแต่พืช :)",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "abandonedmineshaftpreset1",
+   "en": "DANGER!",
+   "official": "",
+   "th": "อันตราย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "abandonedmineshaftpreset2",
+   "en": "ABANDONED MINESHAFT",
+   "official": "",
+   "th": "เหมืองร้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "abandonedmineshaftpreset3",
+   "en": "KEEP OUT!",
+   "official": "",
+   "th": "ห้ามเข้า!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bigpirateshippreset",
+   "en": "Treasures of the sea",
+   "official": "",
+   "th": "สมบัติแห่งท้องทะเล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "deserttavernpreset",
+   "en": "<settlername1>'s & <settlername2>'s Oasis Inn",
+   "official": "",
+   "th": "โรงเตี๊ยมโอเอซิสของ <settlername1> และ <settlername2>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "farmersrefugepreset",
+   "en": "<settlername1>'s & <settlername2>'s cottage",
+   "official": "",
+   "th": "กระท่อมของ <settlername1> และ <settlername2>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "huntercabinpreset",
+   "en": "<settlername>'s hunting lodge",
+   "official": "",
+   "th": "กระท่อมล่าสัตว์ของ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "slimeranchpreset",
+   "en": "<settlername>'s slime ranch",
+   "official": "",
+   "th": "ฟาร์มสไลม์ของ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "chefinvaderpreset",
+   "en": "<settlername>'s diner",
+   "official": "",
+   "th": "ร้านอาหารของ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "portaltrialpreset",
+   "en": "Make it through these trials and you will receive cake at the end!",
+   "official": "",
+   "th": "ผ่านการทดสอบเหล่านี้ไปให้ได้ แล้วคุณจะได้กินเค้กตอนจบ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jonasapartmentsign",
+   "en": "Jonas' Apartment",
+   "official": "",
+   "th": "อพาร์ตเมนต์ของโจนัส",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

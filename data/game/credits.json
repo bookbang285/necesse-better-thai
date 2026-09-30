@@ -1,0 +1,318 @@
+{
+ "category": "credits",
+ "entries": [
+  {
+   "key": "thankyou",
+   "en": "Thank you for playing!",
+   "official": "ขอบคุณสำหรับการเล่นเกม Necesse!",
+   "th": "ขอบคุณสำหรับการเล่นเกม Necesse!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "createdby",
+   "en": "Necesse was created with love by the passionate team at Fair Games",
+   "official": "Necesse ถูกสร้างขึ้นด้วยความรัก โดยทีมงานที่มุ่งมั่นตั้งใจของ Fair Games",
+   "th": "Necesse ถูกสร้างขึ้นด้วยความรัก โดยทีมงานที่มุ่งมั่นตั้งใจของ Fair Games",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "creatorof",
+   "en": "Creator of Necesse",
+   "official": "ผู้สร้างเกม Necesse",
+   "th": "ผู้สร้างเกม Necesse",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gamedirector",
+   "en": "Game Director",
+   "official": "ผู้กำกับการสร้างเกม",
+   "th": "ผู้กำกับเกม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "gamedesigner",
+   "en": "Game Designer",
+   "official": "ผู้ออกแบบเกม",
+   "th": "ผู้ออกแบบเกม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leadprogrammer",
+   "en": "Lead Programmer",
+   "official": "หัวหน้าโปรแกรมเมอร์",
+   "th": "หัวหน้าโปรแกรมเมอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gameproducer",
+   "en": "Game Producer",
+   "official": "ผู้อำนวยการผลิตเกม",
+   "th": "ผู้อำนวยการผลิตเกม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gameplayprogrammer",
+   "en": "Gameplay Programmer",
+   "official": "ผู้เขียนโปรแกรมการเล่นเกม",
+   "th": "โปรแกรมเมอร์เกมเพลย์",
+   "status": "fixed",
+   "note": "ตรงตำแหน่งงาน"
+  },
+  {
+   "key": "pixelartist",
+   "en": "Pixel Artist",
+   "official": "นักวาดภาพพิกเซล",
+   "th": "นักวาดภาพพิกเซล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "2dartist",
+   "en": "2D Artist",
+   "official": "นักวาดภาพ 2 มิติ",
+   "th": "นักวาดภาพ 2 มิติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "technicalprogrammer",
+   "en": "Technical Programmer",
+   "official": "ผู้เชี่ยวชาญด้านเทคนิค",
+   "th": "โปรแกรมเมอร์ด้านเทคนิค",
+   "status": "fixed",
+   "note": "ตรงตำแหน่งงาน"
+  },
+  {
+   "key": "systemstools",
+   "en": "Systems, Tools & Porting",
+   "official": "ระบบ, เครื่องมือ และการพอร์ต",
+   "th": "ระบบ เครื่องมือ และการพอร์ต",
+   "status": "fixed",
+   "note": "ไทยไม่ใช้จุลภาค"
+  },
+  {
+   "key": "musiccomposer",
+   "en": "Music Composer",
+   "official": "ผู้แต่งเพลงประกอบ",
+   "th": "ผู้แต่งเพลงประกอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sounddesigner",
+   "en": "Sound Designer",
+   "official": "นักออกแบบเสียง",
+   "th": "นักออกแบบเสียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "selfpublishing",
+   "en": "Necesse is self-published and marketed by these talented people:",
+   "official": "Necesse ถูกจัดจำหน่ายและทำการตลาดด้วยตนเองโดยกลุ่มคนที่มีความสามารถเหล่านี้:",
+   "th": "Necesse จัดจำหน่ายและทำการตลาดด้วยตนเองโดยทีมงานผู้มีความสามารถเหล่านี้:",
+   "status": "fixed",
+   "note": "เลี่ยงสำนวน ถูก"
+  },
+  {
+   "key": "studiooperations",
+   "en": "Studio Operations",
+   "official": "การดำเนินงานสตูดิโอ",
+   "th": "การดำเนินงานสตูดิโอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "businessdevelopment",
+   "en": "Business Development",
+   "official": "การพัฒนาธุรกิจ",
+   "th": "การพัฒนาธุรกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "publishingmanagement",
+   "en": "Publishing Manager",
+   "official": "ผู้จัดการฝ่ายเผยแพร่",
+   "th": "ผู้จัดการฝ่ายเผยแพร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "communitymanagement",
+   "en": "Community Management",
+   "official": "การบริหารจัดการชุมชนคอมมูนิตี้เกม",
+   "th": "การบริหารคอมมูนิตี้",
+   "status": "fixed",
+   "note": "คำซ้ำซ้อน"
+  },
+  {
+   "key": "contentcreation",
+   "en": "Content Creation",
+   "official": "การสร้างเนื้อหา",
+   "th": "การสร้างเนื้อหา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "publishingmarketing",
+   "en": "Publishing & Marketing",
+   "official": "การเผยแพร่และการตลาด",
+   "th": "การเผยแพร่และการตลาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "videoeditor",
+   "en": "Video Editor",
+   "official": "ผู้ตัดต่อวิดีโอ",
+   "th": "ผู้ตัดต่อวิดีโอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "humanresources",
+   "en": "Human Resources",
+   "official": "ทรัพยากรบุคคล",
+   "th": "ทรัพยากรบุคคล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "andwithpartners",
+   "en": "And with help from our partners:",
+   "official": "และได้รับความช่วยเหลือจากพาร์ทเนอร์ของเรา:",
+   "th": "และได้รับความช่วยเหลือจากพาร์ตเนอร์ของเรา:",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "chinesemarket",
+   "en": "Chinese Market",
+   "official": "ตลาดจีน",
+   "th": "ตลาดจีน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "japanesemarket",
+   "en": "Japanese Market",
+   "official": "ตลาดญี่ปุ่น",
+   "th": "ตลาดญี่ปุ่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "koreanmarket",
+   "en": "Korean Market",
+   "official": "ตลาดเกาหลี",
+   "th": "ตลาดเกาหลี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "projectmanager",
+   "en": "Project Manager",
+   "official": "ผู้จัดการโครงการ",
+   "th": "ผู้จัดการโครงการ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "helpfulinterns",
+   "en": "We're grateful for the help from these inspiring interns:",
+   "official": "เราขอขอบคุณเหล่านักศึกษาฝึกงานผู้สร้างแรงบันดาลใจเหล่านี้ที่เข้ามาช่วยเหลือ:",
+   "th": "เราขอขอบคุณเหล่านักศึกษาฝึกงานผู้สร้างแรงบันดาลใจเหล่านี้ที่เข้ามาช่วยเหลือ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "playfuldogs",
+   "en": "While being playfully bothered by our office dogs:",
+   "official": "ขณะที่ถูกสุนัขในออฟฟิศของเรากวนใจอย่างสนุกสนาน:",
+   "th": "ขณะที่ถูกสุนัขในออฟฟิศของเรากวนใจอย่างสนุกสนาน:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amazingcommunity",
+   "en": "With love from our amazing community:",
+   "official": "ด้วยความรักจากชุมชนที่น่าทึ่งของเรา",
+   "th": "ด้วยความรักจากชุมชนที่น่าทึ่งของเรา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moderatorselders",
+   "en": "Moderators/Elders",
+   "official": "ผู้ดูแล/ผู้ให้คำปรึกษา",
+   "th": "ผู้ดูแล/ผู้อาวุโส",
+   "status": "fixed",
+   "note": "Elders = ยศในคอมมูนิตี้"
+  },
+  {
+   "key": "wikicontributors",
+   "en": "Wiki Contributors",
+   "official": "ผู้มีส่วนร่วมในการเขียนวิกิ",
+   "th": "ผู้มีส่วนร่วมในการเขียนวิกิ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amazingmodder",
+   "en": "Amazing Modders",
+   "official": "นักสร้าง Mod ที่ยอดเยี่ยม",
+   "th": "นักสร้างมอดที่ยอดเยี่ยม",
+   "status": "fixed",
+   "note": "ทับศัพท์ ไม่ทิ้งอังกฤษ"
+  },
+  {
+   "key": "andmanyother",
+   "en": "And many other",
+   "official": "และอื่น ๆ อีกมากมาย",
+   "th": "และอื่น ๆ อีกมากมาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thoughtfultranslations",
+   "en": "And thoughtful community translations by:",
+   "official": "และคำแปลที่ทำขึ้นอย่างใส่ใจโดยชุมชน ได้แก่:",
+   "th": "และคำแปลที่ทำขึ้นอย่างใส่ใจโดยชุมชน ได้แก่:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "creativepresets",
+   "en": "Our creative preset submitters",
+   "official": "ผู้ส่งพรีเซตที่สร้างสรรค์ของเรา",
+   "th": "ผู้ส่งพรีเซ็ตสุดสร้างสรรค์ของเรา",
+   "status": "fixed",
+   "note": "สะกดตามราชบัณฑิต"
+  },
+  {
+   "key": "specialthanks",
+   "en": "Special thanks to:",
+   "official": "ขอขอบคุณเป็นพิเศษแก่:",
+   "th": "ขอขอบคุณเป็นพิเศษแก่:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "finalthanks",
+   "en": "Every suggestion, feedback and bug report from the Necesse community",
+   "official": "ข้อเสนอแนะ คำติชม และรายงานข้อผิดพลาดทุกอย่างจากชุมชนผู้เล่น Necesse",
+   "th": "ข้อเสนอแนะ คำติชม และรายงานข้อผิดพลาดทุกอย่างจากชุมชนผู้เล่น Necesse",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

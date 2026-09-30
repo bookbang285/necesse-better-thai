@@ -1,0 +1,246 @@
+{
+ "category": "logictooltips",
+ "entries": [
+  {
+   "key": "logicinputs",
+   "en": "Inputs: <value>",
+   "official": "Inputs: <value>",
+   "th": "อินพุต: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "logicoutputs",
+   "en": "Outputs: <value>",
+   "official": "Outputs: <value>",
+   "th": "เอาต์พุต: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "logicactive",
+   "en": "Active",
+   "official": "Active",
+   "th": "ทำงาน",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "logicinactive",
+   "en": "Inactive",
+   "official": "Inactive",
+   "th": "ไม่ทำงาน",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "bufferdelay",
+   "en": "Delay: <value>",
+   "official": "Delay: <value>",
+   "th": "หน่วงเวลา: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorplayeron",
+   "en": "Detecting players",
+   "official": "Detecting players",
+   "th": "ตรวจพบผู้เล่น",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorplayeroff",
+   "en": "Not detecting players",
+   "official": "Not detecting players",
+   "th": "ไม่พบผู้เล่น",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorhostileon",
+   "en": "Detecting hostiles",
+   "official": "Detecting hostiles",
+   "th": "ตรวจพบสิ่งมีชีวิตไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorhostileoff",
+   "en": "Not detecting hostiles",
+   "official": "Not detecting hostiles",
+   "th": "ไม่พบสิ่งมีชีวิตไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorpassiveon",
+   "en": "Detecting passives",
+   "official": "Detecting passives",
+   "th": "ตรวจพบสิ่งมีชีวิตไม่ดุร้าย",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "sensorpassiveoff",
+   "en": "Not detecting passives",
+   "official": "Not detecting passives",
+   "th": "ไม่พบสิ่งมีชีวิตไม่ดุร้าย",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "rsactivate",
+   "en": "Activate: <value>",
+   "official": "Activate: <value>",
+   "th": "เปิดใช้: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "rsreset",
+   "en": "Reset: <value>",
+   "official": "Reset: <value>",
+   "th": "รีเซ็ต: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "tflipflopout1",
+   "en": "Flipped",
+   "official": "Flipped",
+   "th": "สลับแล้ว",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "tflipflopout2",
+   "en": "Not flipped",
+   "official": "Not flipped",
+   "th": "ยังไม่สลับ",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "counterinc",
+   "en": "Increase: <value>",
+   "official": "Increase: <value>",
+   "th": "เพิ่ม: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "counterdec",
+   "en": "Decrease: <value>",
+   "official": "Decrease: <value>",
+   "th": "ลด: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "countervalue",
+   "en": "Value: <value>/<max>",
+   "official": "Value: <value>/<max>",
+   "th": "ค่า: <value>/<max>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "timerticks",
+   "en": "Ticks: <value>",
+   "official": "Ticks: <value>",
+   "th": "ติก: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "timercurrent",
+   "en": "Timer: <value>",
+   "official": "Timer: <value>",
+   "th": "ตัวจับเวลา: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "timeractive",
+   "en": "Running",
+   "official": "Running",
+   "th": "กำลังทำงาน",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "timerinactive",
+   "en": "Not running",
+   "official": "Not running",
+   "th": "ไม่ได้ทำงาน",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundbass",
+   "en": "Bass",
+   "official": "Bass",
+   "th": "เบส",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundhat",
+   "en": "Hat",
+   "official": "Hat",
+   "th": "ไฮแฮต",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundkick",
+   "en": "Kick",
+   "official": "Kick",
+   "th": "กลองเตะ",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundpiano",
+   "en": "Piano",
+   "official": "Piano",
+   "th": "เปียโน",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundsnare",
+   "en": "Snare",
+   "official": "Snare",
+   "th": "สแนร์",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundnone",
+   "en": "N/A",
+   "official": "N/A",
+   "th": "ไม่มี",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundname",
+   "en": "Sound: <name>",
+   "official": "Sound: <name>",
+   "th": "เสียง: <name>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  },
+  {
+   "key": "soundsemitone",
+   "en": "Semitone: <value>",
+   "official": "Semitone: <value>",
+   "th": "ครึ่งเสียง: <value>",
+   "status": "fixed",
+   "note": "ทางการทิ้งเป็นอังกฤษ"
+  }
+ ],
+ "removed": []
+}

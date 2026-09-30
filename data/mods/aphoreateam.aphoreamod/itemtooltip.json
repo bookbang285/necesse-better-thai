@@ -1,0 +1,1630 @@
+{
+ "category": "itemtooltip",
+ "entries": [
+  {
+   "key": "line",
+   "en": "----------------------------------------",
+   "official": "----------------------------------------",
+   "th": "----------------------------------------",
+   "status": "same",
+   "note": "คงตามต้นฉบับ"
+  },
+  {
+   "key": "magichealingtip",
+   "en": "Magic healing: §7<health>",
+   "official": "การรักษาด้วยเวทมนตร์: §7<health>",
+   "th": "การรักษาด้วยเวทมนตร์: §7<health>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rangetip",
+   "en": "Range: §9<range>",
+   "official": "ระยะ: §9<range>",
+   "th": "ระยะ: §9<range>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "areatip",
+   "en": "§aArea <number>",
+   "official": "§aพื้นที่ <number>",
+   "th": "§aพื้นที่ <number>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationdamagetip",
+   "en": "Inspiration damage: <value>",
+   "official": "ความเสียหายจากแรงบันดาลใจ: <value>",
+   "th": "ความเสียหายจากแรงบันดาลใจ: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "areabuff",
+   "en": "Apply <buff> to allys",
+   "official": "ใช้ <buff> กับพันธมิตร",
+   "th": "ให้ <buff> แก่พันธมิตร",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "areadebuff",
+   "en": "Apply <buff> to enemies",
+   "official": "ใช้ <buff> กับศัตรู",
+   "th": "ใส่ <buff> ให้ศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "areabuffdisplay",
+   "en": "<buff> for <duration> seconds",
+   "official": "<buff> เป็นเวลา <duration> วินาที",
+   "th": "<buff> เป็นเวลา <duration> วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "attackarmorpentip",
+   "en": "Armor pen: <value>%",
+   "official": "การเจาะเกราะ: <value>%",
+   "th": "เจาะเกราะ: <value>%",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magichealinggrace",
+   "en": "§aMagic Healing Grace:§0 Heals yourself with a % of the Magic Healing intended for allies",
+   "official": "§aพระคุณแห่งการรักษาด้วยเวทมนตร์:§0 รักษาตัวเองด้วย % ของการรักษาด้วยเวทมนตร์ที่มุ่งเป้าไปที่พันธมิตร",
+   "th": "§aพระคุณการรักษาด้วยเวทมนตร์:§0 รักษาตัวเองเป็น % ของการรักษาด้วยเวทมนตร์ที่มอบให้พันธมิตร",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cursedbuff",
+   "en": "§bCursed:§0 §6+25%§0 Incoming Damage",
+   "official": "§bต้องคำสาป:§0 §6+25%§0 ความเสียหายที่ได้รับ",
+   "th": "§bต้องคำสาป:§0 §6+25%§0 ความเสียหายที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspiration",
+   "en": "§9Inspiration:§0 Improves the effects of banners and music tools",
+   "official": "§9แรงบันดาลใจ:§0 ปรับปรุงผลของธงและเครื่องดนตรี",
+   "th": "§9แรงบันดาลใจ:§0 เพิ่มผลของธงและเครื่องดนตรี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "adrenaline",
+   "en": "§6Adrenaline:§0 +5% Damage, -5% Armor. Can stack up to 5 times",
+   "official": "§6อะดรีนาลีน:§0 +5% ความเสียหาย, -5% เกราะ สามารถซ้อนกันได้ถึง 5 ครั้ง",
+   "th": "§6อะดรีนาลีน:§0 ความเสียหาย +5% เกราะ -5% สแต็กได้สูงสุด 5 ครั้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (สแต็ก)"
+  },
+  {
+   "key": "livingsapling",
+   "en": "§7Living Sapling:§0 Magic Heal owner with §73§0 every 10 attacks",
+   "official": "§7ต้นอ่อนที่มีชีวิต:§0 รักษาเจ้าของด้วยเวทมนตร์ §73§0 ทุกๆ 10 การโจมตี",
+   "th": "§7ต้นอ่อนมีชีวิต:§0 รักษาเจ้าของด้วยเวทมนตร์ §73§0 ทุก 10 การโจมตี",
+   "status": "fixed",
+   "note": "ชื่อสั้นลง"
+  },
+  {
+   "key": "gelslimenullifier",
+   "en": "They will stop bothering you with a simple click!",
+   "official": "พวกเขาจะหยุดรบกวนคุณด้วยการคลิกเพียงครั้งเดียว!",
+   "th": "พวกเขาจะหยุดรบกวนคุณด้วยการคลิกเพียงครั้งเดียว!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enchantingscrollhealingequipmenttip",
+   "en": "Used to enchant an healing equipment item with <enchantment>\\n§!Aphorea Mod",
+   "official": "ใช้เพื่อร่ายมนตร์อุปกรณ์รักษาด้วย <enchantment>\\n§!ม็อด Aphorea",
+   "th": "ใช้เสริมพลังอุปกรณ์สวมใส่สายรักษาด้วย <enchantment>\\n§!มอด Aphorea",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (เสริมพลัง)"
+  },
+  {
+   "key": "enchantingscrollhealingtip",
+   "en": "Used to enchant an healing tool with <enchantment>\\n§!Aphorea Mod",
+   "official": "ใช้เพื่อร่ายมนตร์เครื่องมือรักษาด้วย <enchantment>\\n§!ม็อด Aphorea",
+   "th": "ใช้เสริมพลังเครื่องมือรักษาด้วย <enchantment>\\n§!มอด Aphorea",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (เสริมพลัง)"
+  },
+  {
+   "key": "enchantingscrollareatip",
+   "en": "Used to enchant an area-effect tool with <enchantment>\\n§!Aphorea Mod",
+   "official": "ใช้เพื่อร่ายมนตร์เครื่องมือที่มีผลกระทบต่อพื้นที่ด้วย <enchantment>\\n§!ม็อด Aphorea",
+   "th": "ใช้เสริมพลังเครื่องมือโจมตีพื้นที่ด้วย <enchantment>\\n§!มอด Aphorea",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (เสริมพลัง)"
+  },
+  {
+   "key": "enchantingscrolldaggertip",
+   "en": "Used to enchant a dagger weapon with <enchantment>\\n§!Aphorea Mod",
+   "official": "ใช้เพื่อร่ายมนตร์อาวุธมีดสั้นด้วย <enchantment>\\n§!ม็อด Aphorea",
+   "th": "ใช้เสริมพลังอาวุธมีดสั้นด้วย <enchantment>\\n§!มอด Aphorea",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (เสริมพลัง)"
+  },
+  {
+   "key": "backpack",
+   "en": "It is a new inventory that stores all the items you collect",
+   "official": "เป็นช่องเก็บของใหม่ที่เก็บไอเท็มทั้งหมดที่คุณรวบรวม",
+   "th": "ช่องเก็บของใหม่ที่เก็บไอเทมทั้งหมดที่คุณเก็บได้",
+   "status": "fixed",
+   "note": "สะกด (ไอเทม)"
+  },
+  {
+   "key": "backpackslots",
+   "en": "Capacity of <slots> items",
+   "official": "ความจุ <slots> ไอเท็ม",
+   "th": "ความจุ <slots> ไอเทม",
+   "status": "fixed",
+   "note": "สะกด (ไอเทม)"
+  },
+  {
+   "key": "stored",
+   "en": "Stored items: <items>",
+   "official": "ไอเท็มที่เก็บไว้: <items>",
+   "th": "ไอเทมที่เก็บไว้: <items>",
+   "status": "fixed",
+   "note": "สะกด (ไอเทม)"
+  },
+  {
+   "key": "backpackcraft",
+   "en": "Must be empty to craft a better backpack",
+   "official": "ต้องว่างเปล่าเพื่อสร้างกระเป๋าเป้ที่ดีกว่า",
+   "th": "ต้องว่างเปล่าจึงจะประดิษฐ์เป็นเป้ที่ดีกว่าได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ประดิษฐ์)"
+  },
+  {
+   "key": "rpgmodnerf",
+   "en": "Item nerfed by RPG Mod",
+   "official": "ไอเทมถูกลดความสามารถโดย RPG Mod",
+   "th": "ไอเทมถูกลดความสามารถโดย RPG Mod",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deleteditem",
+   "en": "This item has been removed, use this item to recover the materials before it is permanently removed",
+   "official": "ไอเท็มนี้ถูกลบแล้ว ใช้ไอเท็มนี้เพื่อกู้คืนวัสดุก่อนที่จะถูกลบอย่างถาวร",
+   "th": "ไอเทมนี้ถูกลบออกแล้ว ใช้ไอเทมนี้เพื่อกู้คืนวัสดุก่อนที่มันจะถูกลบถาวร",
+   "status": "fixed",
+   "note": "สะกด (ไอเทม)"
+  },
+  {
+   "key": "unstablecore",
+   "en": "§bReleases an unstable aura...§0 Can only be used during the day",
+   "official": "§bปล่อยออร่าที่ไม่เสถียร...§0 สามารถใช้ได้เฉพาะในเวลากลางวันเท่านั้น",
+   "th": "§bปลดปล่อยออร่าไม่เสถียร...§0 ใช้ได้เฉพาะตอนกลางวัน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "venomextractbuff",
+   "en": "Lowd says drink it, don't do it",
+   "official": "โลว์ดบอกให้ดื่ม แต่อย่าทำ",
+   "th": "โลว์ดบอกให้ดื่ม แต่อย่าทำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomextractbuffdesc",
+   "en": "You can't have more than 1 HP",
+   "official": "คุณไม่สามารถมี HP มากกว่า 1 ได้",
+   "th": "คุณไม่สามารถมี HP มากกว่า 1 ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinsecondaryattack",
+   "en": "Hold [input=mouse2] to perform an spin attack",
+   "official": "กด [input=mouse2] ค้างไว้เพื่อทำการโจมตีแบบหมุน",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อโจมตีแบบหมุน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "areasecondaryattack",
+   "en": "Press [input=mouse2] to perform an area attack consuming <mana> Mana",
+   "official": "กด [input=mouse2] เพื่อทำการโจมตีแบบพื้นที่โดยใช้มานา <mana>",
+   "th": "กด [input=mouse2] เพื่อโจมตีแบบพื้นที่ โดยใช้มานา <mana>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "stikybuff1",
+   "en": "Makes the enemy Sticky for 1 second",
+   "official": "ทำให้ศัตรูเหนียวเป็นเวลา 1 วินาที",
+   "th": "ทำให้ศัตรูเหนียวหนึบ 1 วินาที",
+   "status": "fixed",
+   "note": "ชื่อบัฟตามไฟล์ buff"
+  },
+  {
+   "key": "stikybuff2",
+   "en": "Makes the enemy Sticky for 2 seconds",
+   "official": "ทำให้ศัตรูเหนียวเป็นเวลา 2 วินาที",
+   "th": "ทำให้ศัตรูเหนียวหนึบ 2 วินาที",
+   "status": "fixed",
+   "note": "ชื่อบัฟตามไฟล์ buff"
+  },
+  {
+   "key": "stikybuff3",
+   "en": "Makes the enemy Sticky for 3 seconds",
+   "official": "ทำให้ศัตรูเหนียวเป็นเวลา 3 วินาที",
+   "th": "ทำให้ศัตรูเหนียวหนึบ 3 วินาที",
+   "status": "fixed",
+   "note": "ชื่อบัฟตามไฟล์ buff"
+  },
+  {
+   "key": "projectilearea",
+   "en": "When the projectile ends, it deals area damage",
+   "official": "เมื่อกระสุนสิ้นสุดลง จะสร้างความเสียหายแบบพื้นที่",
+   "th": "เมื่อกระสุนสิ้นสุดระยะ จะสร้างความเสียหายแบบพื้นที่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "saber",
+   "en": "Charge to max for full damage and to unleash an aircut",
+   "official": "ชาร์จให้เต็มเพื่อสร้างความเสียหายสูงสุดและปล่อยการตัดอากาศ",
+   "th": "ชาร์จให้เต็มเพื่อสร้างความเสียหายเต็มที่และปล่อยคลื่นตัดอากาศ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "saberdash",
+   "en": "Hold [input=mouse2] to charge up a dash to slice through enemies",
+   "official": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการพุ่งเพื่อฟันศัตรู",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการพุ่งฟันผ่านศัตรู",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "battleaxe",
+   "en": "Takes a long time to charge",
+   "official": "ใช้เวลาชาร์จนาน",
+   "th": "ใช้เวลาชาร์จนาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battleaxe2",
+   "en": "Press [input=mouse2] to activate the Berserker Rush and gain 3 Adrenaline temporarily",
+   "official": "กด [input=mouse2] เพื่อเปิดใช้งาน Berserker Rush และรับอะดรีนาลีน 3 ชั่วคราว",
+   "th": "กด [input=mouse2] เพื่อเปิดโหมดคลั่ง และรับอะดรีนาลีน 3 สแต็กชั่วคราว",
+   "status": "fixed",
+   "note": "แปลชื่อ Berserker Rush ตามไฟล์ buff"
+  },
+  {
+   "key": "battleaxe3",
+   "en": "Gain Adrenaline temporarily by hitting enemies during Rush, improving movement and attack speed",
+   "official": "รับอะดรีนาลีนชั่วคราวโดยการโจมตีศัตรูระหว่าง Rush ซึ่งจะช่วยเพิ่มความเร็วในการเคลื่อนที่และการโจมตี",
+   "th": "ได้รับอะดรีนาลีนชั่วคราวเมื่อโจมตีโดนศัตรูระหว่างโหมดคลั่ง ช่วยเพิ่มความเร็วเคลื่อนที่และความเร็วโจมตี",
+   "status": "fixed",
+   "note": "แปลชื่อ Rush + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "dagger",
+   "en": "Hold [input=mouse2] to throw the dagger",
+   "official": "กด [input=mouse2] ค้างไว้เพื่อขว้างมีดสั้น",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อขว้างมีดสั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sling",
+   "en": "Throws stones with force",
+   "official": "ขว้างหินด้วยแรง",
+   "th": "ขว้างหินอย่างแรง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sling2",
+   "en": "§7100%§0 chance to stun the enemy for 0.5 seconds",
+   "official": "§7100%§0 โอกาสที่จะทำให้ศัตรูมึนงงเป็นเวลา 0.5 วินาที",
+   "th": "§7100%§0 โอกาสที่จะทำให้ศัตรูมึนงงเป็นเวลา 0.5 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "twoarrows",
+   "en": "Shoots two arrows at once",
+   "official": "ยิงธนูสองดอกพร้อมกัน",
+   "th": "ยิงลูกธนูสองดอกพร้อมกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ลูกธนู)"
+  },
+  {
+   "key": "threearrows",
+   "en": "Shoots three arrows at once",
+   "official": "ยิงธนูสามดอกพร้อมกัน",
+   "th": "ยิงลูกธนูสามดอกพร้อมกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ลูกธนู)"
+  },
+  {
+   "key": "blowgun",
+   "en": "Shoots seeds",
+   "official": "ยิงเมล็ด",
+   "th": "ยิงเมล็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodenrod",
+   "en": "Magic Heal yourself with §7<healing>§0 every 10 attacks",
+   "official": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ทุกๆ 10 การโจมตี",
+   "th": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ทุกๆ 10 การโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidhammer",
+   "en": "When the projectile bounces or hits an enemy, it targets the nearest one, hitting up to 3 times",
+   "official": "เมื่อกระสุนกระดอนหรือโดนศัตรู จะเล็งไปที่ศัตรูที่ใกล้ที่สุด โจมตีได้สูงสุด 3 ครั้ง",
+   "th": "เมื่อกระสุนกระดอนหรือโดนศัตรู จะเล็งไปที่ศัตรูที่ใกล้ที่สุด โจมตีได้สูงสุด 3 ครั้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crimsonkora",
+   "en": "Hold [input=mouse2] to charge a devastating but slow attack",
+   "official": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการโจมตีที่ทำลายล้างแต่ช้า",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อชาร์จการโจมตีที่ทำลายล้างแต่ช้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thenarcissist",
+   "en": "Chain 4 attacks to unleash a spinning sword throw on the fifth hit!\\n+20% Damage for each chained attack",
+   "official": "โจมตีต่อเนื่อง 4 ครั้งเพื่อปล่อยการขว้างดาบหมุนในการโจมตีครั้งที่ห้า!\\n+20% ความเสียหายสำหรับการโจมตีต่อเนื่องแต่ละครั้ง",
+   "th": "โจมตีต่อเนื่อง 4 ครั้งเพื่อปล่อยการขว้างดาบหมุนในการโจมตีครั้งที่ห้า!\\n+20% ความเสียหายสำหรับการโจมตีต่อเนื่องแต่ละครั้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firesling",
+   "en": "Burns the enemies",
+   "official": "เผาศัตรู",
+   "th": "เผาศัตรู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozensling",
+   "en": "Freezes the enemies",
+   "official": "แช่แข็งศัตรู",
+   "th": "แช่แข็งศัตรู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelgreatbow",
+   "en": "Turns Stone Arrows into Gel Arrows",
+   "official": "เปลี่ยนลูกศรหินเป็นลูกศรเจล",
+   "th": "เปลี่ยนลูกธนูหินเป็นลูกธนูเจล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ลูกธนู)"
+  },
+  {
+   "key": "unstablegelgreatbow",
+   "en": "Turns Stone Arrows and Gel Arrows into Unstable Gel Arrows",
+   "official": "เปลี่ยนลูกศรหินและลูกศรเจลเป็นลูกศรเจลที่ไม่เสถียร",
+   "th": "เปลี่ยนลูกธนูหินและลูกธนูเจลเป็นลูกธนูเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thespammer",
+   "en": "Can shot Spam Bullets",
+   "official": "สามารถยิงกระสุนสแปมได้",
+   "th": "ยิงกระสุนสแปมได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "shotgunsaber",
+   "en": "Aim near center for more powerful, accurate, and piercing shots",
+   "official": "เล็งใกล้ศูนย์กลางเพื่อการยิงที่ทรงพลัง แม่นยำ และทะลุทะลวงยิ่งขึ้น",
+   "th": "เล็งใกล้ศูนย์กลางเพื่อการยิงที่ทรงพลัง แม่นยำ และทะลุทะลวงยิ่งขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "honeysaber",
+   "en": "Charge to max for full damage and to shot honey and blueberries",
+   "official": "ชาร์จให้เต็มเพื่อสร้างความเสียหายสูงสุดและยิงน้ำผึ้งและบลูเบอร์รี่",
+   "th": "ชาร์จให้เต็มเพื่อสร้างความเสียหายสูงสุดและยิงน้ำผึ้งและบลูเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelcrossbow",
+   "en": "Shoots arrows that pierce up to 2 enemies, growing deadlier with each pierce",
+   "official": "ยิงลูกศรที่ทะลุทะลวงศัตรูได้ถึง 2 ตัว และจะอันตรายยิ่งขึ้นเมื่อทะลุทะลวงแต่ละครั้ง",
+   "th": "ยิงลูกธนูที่ทะลุศัตรูได้สูงสุด 2 ตัว และยิ่งอันตรายขึ้นทุกครั้งที่ทะลุ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ลื่นขึ้น"
+  },
+  {
+   "key": "spinelcrossbow2",
+   "en": "Hold [input=mouse2] to shoot 3 arrows at once",
+   "official": "กด [input=mouse2] ค้างไว้เพื่อยิงธนู 3 ดอกพร้อมกัน",
+   "th": "กด [input=mouse2] ค้างไว้เพื่อยิงลูกธนู 3 ดอกพร้อมกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ลูกธนู)"
+  },
+  {
+   "key": "unstablegelstaff",
+   "en": "When projectiles bounces off walls, they duplicate",
+   "official": "เมื่อกระสุนกระดอนออกจากกำแพง จะเกิดการซ้ำซ้อน",
+   "th": "เมื่อกระสุนกระดอนจากกำแพง จะแยกตัวเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "harpofharmony",
+   "en": "Harmony: Increased speed, health regen and mana regen",
+   "official": "ความสามัคคี: เพิ่มความเร็ว การฟื้นฟูพลังชีวิตและมานา",
+   "th": "ความสามัคคี: เพิ่มความเร็ว ฟื้นฟูพลังชีวิต และฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedstaff",
+   "en": "Summons two Living Saplings per invocation",
+   "official": "เรียกต้นอ่อนที่มีชีวิตสองต้นต่อการเรียกหนึ่งครั้ง",
+   "th": "อัญเชิญต้นอ่อนมีชีวิตสองต้นต่อการร่ายหนึ่งครั้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (อัญเชิญ)"
+  },
+  {
+   "key": "gelball",
+   "en": "Throws a gel ball",
+   "official": "ขว้างลูกบอลเจล",
+   "th": "ขว้างลูกบอลเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicalvial",
+   "en": "Point at an injured human to heal them, don't point at anyone to heal yourself",
+   "official": "ชี้ไปที่มนุษย์ที่ได้รับบาดเจ็บเพื่อรักษาพวกเขา อย่าชี้ไปที่ใครเพื่อรักษาตัวเอง",
+   "th": "ชี้ไปที่มนุษย์ที่บาดเจ็บเพื่อรักษาเขา หรือไม่ชี้ใครเลยเพื่อรักษาตัวเอง",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "magicalvial2",
+   "en": "Infinite uses",
+   "official": "ใช้งานได้ไม่จำกัด",
+   "th": "ใช้งานได้ไม่จำกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spambullet",
+   "en": "Randomly have one of these effects:",
+   "official": "มีผลกระทบอย่างใดอย่างหนึ่งแบบสุ่ม:",
+   "th": "สุ่มได้รับผลอย่างใดอย่างหนึ่งต่อไปนี้:",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spambullet1",
+   "en": "§9Sad:§0 Attacked enemy become sticky, slowing it down for 5 seconds",
+   "official": "§9เศร้า:§0 ศัตรูที่ถูกโจมตีจะเหนียว ทำให้เคลื่อนที่ช้าลงเป็นเวลา 5 วินาที",
+   "th": "§9เศร้า:§0 ศัตรูที่โดนโจมตีจะเหนียวหนึบ เคลื่อนที่ช้าลง 5 วินาที",
+   "status": "fixed",
+   "note": "ชื่อบัฟตามไฟล์ buff"
+  },
+  {
+   "key": "spambullet2",
+   "en": "§9Fire:§0 Instead of colliding, leaves a pool of fire on the ground",
+   "official": "§9ไฟ:§0 แทนที่จะชน จะทิ้งแอ่งไฟไว้บนพื้น",
+   "th": "§9ไฟ:§0 แทนที่จะชน จะทิ้งแอ่งไฟไว้บนพื้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spambullet3",
+   "en": "§9Like:§0 Bounces off walls and pierces mobs, up to 10 times each",
+   "official": "§9ชอบ:§0 กระดอนออกจากกำแพงและทะลุทะลวงม็อบได้สูงสุด 10 ครั้งต่อครั้ง",
+   "th": "§9ถูกใจ:§0 กระดอนจากกำแพงและทะลุมอนสเตอร์ได้อย่างละสูงสุด 10 ครั้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์) + ความหมาย"
+  },
+  {
+   "key": "spambullet4",
+   "en": "§9Check:§0 Magic healing area of 3 health at the end of its path",
+   "official": "§9ตรวจสอบ:§0 พื้นที่รักษาด้วยเวทมนตร์ 3 พลังชีวิตที่ปลายทาง",
+   "th": "§9ตรวจสอบ:§0 สร้างพื้นที่รักษาด้วยเวทมนตร์ 3 พลังชีวิตที่ปลายทาง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spambullet5",
+   "en": "§9Explosion:§0 Explodes at the end of its path instead of colliding",
+   "official": "§9ระเบิด:§0 ระเบิดที่ปลายทางแทนที่จะชน",
+   "th": "§9ระเบิด:§0 ระเบิดที่ปลายทางแทนที่จะชน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "geltile",
+   "en": "Sticky floor that greatly slows down everything on top",
+   "official": "พื้นที่เหนียวที่ทำให้ทุกอย่างที่อยู่ด้านบนเคลื่อนที่ช้าลงอย่างมาก",
+   "th": "พื้นเหนียวที่ทำให้ทุกอย่างที่อยู่บนมันช้าลงอย่างมาก",
+   "status": "fixed",
+   "note": "กำกวม (พื้นที่)"
+  },
+  {
+   "key": "goldwitchstatue",
+   "en": "Pink Witches cannot spawn near this statue (100 tiles range)",
+   "official": "การวางรูปปั้นนี้บนพื้นผิวของหนองน้ำจะกำจัดการเกิดของแม่มดทั่วทั้งเกาะ",
+   "th": "แม่มดสีชมพูจะไม่เกิดใกล้รูปปั้นนี้ (ระยะ 100 ช่อง)",
+   "status": "fixed",
+   "note": "ความหมายผิด (ข้อความเก่า)"
+  },
+  {
+   "key": "areawhenheal",
+   "en": "Executes this area for every <magichealing> Magic Healing done",
+   "official": "ดำเนินการในพื้นที่นี้ทุกๆ <magichealing> การรักษาด้วยเวทมนตร์ที่ทำได้",
+   "th": "เปิดใช้พื้นที่นี้ทุกครั้งที่รักษาด้วยเวทมนตร์ครบ <magichealing>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "periaptboost",
+   "en": "Press [input=trinketability] to gain a boost of Speed and Attack Speed for 10 seconds",
+   "official": "กด [input=trinketability] เพื่อรับการเพิ่มความเร็วและความเร็วในการโจมตีเป็นเวลา 10 วินาที",
+   "th": "กด [input=trinketability] เพื่อเพิ่มความเร็วและความเร็วโจมตีเป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rockyperiapt",
+   "en": "§7+5§0 Armor, but §6-5%§0 Movement Speed",
+   "official": "§7+5§0 เกราะ แต่ §6-5%§0 ความเร็วในการเคลื่อนที่",
+   "th": "§7+5§0 เกราะ แต่ §6-5%§0 ความเร็วเคลื่อนที่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rockyperiapt2",
+   "en": "Press [input=trinketability] to gain 10 Armor for 10 seconds",
+   "official": "กด [input=trinketability] เพื่อรับเกราะ 10 เป็นเวลา 10 วินาที",
+   "th": "กด [input=trinketability] เพื่อรับเกราะ 10 เป็นเวลา 10 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstableperiapt",
+   "en": "Summons two Baby Unstable Gel Slimes (6 Summoner Damage)",
+   "official": "เรียกสไลม์เจลที่ไม่เสถียรสองตัว (ความเสียหายจากผู้เรียก 6)",
+   "th": "อัญเชิญลูกสไลม์เจลไม่เสถียรสองตัว (ความเสียหายอัญเชิญ 6)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unstableperiapt2",
+   "en": "Makes you immune to the Sticky debuff",
+   "official": "ทำให้คุณมีภูมิคุ้มกันต่อดีบัฟเหนียว",
+   "th": "ทำให้คุณมีภูมิคุ้มกันต่อดีบัฟเหนียวหนึบ",
+   "status": "fixed",
+   "note": "ชื่อบัฟตามไฟล์ buff"
+  },
+  {
+   "key": "bloodyperiapt",
+   "en": "The weapons 'Blood Bolt' and 'Blood Volley' will steal §7<amount>%§0 of life",
+   "official": "นอกจากนี้ อาวุธ 'สายฟ้าโลหิต' และ 'กระสุนโลหิต' จะขโมยพลังชีวิต §7<amount>%§0",
+   "th": "อาวุธ 'อัสนีโลหิต' และ 'โลหิตพิฆาต' จะดูดพลังชีวิต §7<amount>%§0",
+   "status": "fixed",
+   "note": "ชื่อไอเทมตามทางการ + ตัด นอกจากนี้"
+  },
+  {
+   "key": "demonicperiapt",
+   "en": "Magic weapons will steal §7<amount>%§0 of life",
+   "official": "นอกจากนี้ อาวุธเวทมนตร์จะขโมยพลังชีวิต §7<amount>%§0",
+   "th": "อาวุธเวทมนตร์จะดูดพลังชีวิต §7<amount>%§0",
+   "status": "fixed",
+   "note": "ตัด นอกจากนี้"
+  },
+  {
+   "key": "necromancyperiapt",
+   "en": "Every time you or one of your summons kills a hostile mob you summon a Undead Skeleton",
+   "official": "ทุกครั้งที่คุณหรือผู้เรียกของคุณฆ่าม็อบที่เป็นศัตรู คุณจะเรียกโครงกระดูกที่ไม่ตาย",
+   "th": "ทุกครั้งที่คุณหรือสิ่งที่คุณอัญเชิญฆ่ามอนสเตอร์ที่ไม่เป็นมิตร จะอัญเชิญโครงกระดูกคืนชีพขึ้นมา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ความหมาย (summons ≠ ผู้เรียก)"
+  },
+  {
+   "key": "necromancyperiapt2",
+   "en": "20 Summoner Damage. Lasts 10 seconds and there can be a maximum of 3 at a time",
+   "official": "ความเสียหายจากผู้เรียก 20 อยู่ได้นาน 10 วินาที และสามารถมีได้สูงสุด 3 ตัวพร้อมกัน",
+   "th": "ความเสียหายอัญเชิญ 20 อยู่ได้ 10 วินาที และมีได้สูงสุด 3 ตัวพร้อมกัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "frozenperiapt",
+   "en": "Melee and Ranged weapons will Freeze for 3 seconds",
+   "official": "อาวุธระยะประชิดและระยะไกลจะแช่แข็งเป็นเวลา 3 วินาที",
+   "th": "อาวุธระยะประชิดและระยะไกลจะแช่แข็งศัตรู 3 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "frozenperiapt2",
+   "en": "Deal more damage to mobs affected by Frezze",
+   "official": "สร้างความเสียหายมากขึ้นให้กับม็อบที่ได้รับผลกระทบจากการแช่แข็ง",
+   "th": "สร้างความเสียหายมากขึ้นต่อมอนสเตอร์ที่ติดแช่แข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "frozenperiapt3",
+   "en": "Makes you immune to the Freeze and Frostslow debuffs",
+   "official": "ทำให้คุณมีภูมิคุ้มกันต่อดีบัฟแช่แข็งและทำให้เคลื่อนที่ช้าลงด้วยน้ำแข็ง",
+   "th": "ทำให้คุณมีภูมิคุ้มกันต่อดีบัฟแช่แข็งและดีบัฟเยือกแข็ง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "floralring",
+   "en": "Magic Heal yourself with §7<healing>§0 every 5 seconds",
+   "official": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ทุกๆ 5 วินาที",
+   "th": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ทุกๆ 5 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelring",
+   "en": "§7+30%§0 Magic Healing received",
+   "official": "§7+30%§0 การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "th": "§7+30%§0 การรักษาด้วยเวทมนตร์ที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "heartring",
+   "en": "§7+20§0 max health",
+   "official": "§7+20§0 พลังชีวิตสูงสุด",
+   "th": "§7+20§0 พลังชีวิตสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampshield",
+   "en": "Only protects attacks in the direction they are received",
+   "official": "ป้องกันการโจมตีในทิศทางที่ได้รับเท่านั้น",
+   "th": "ป้องกันการโจมตีได้เฉพาะจากทิศทางที่หันโล่อยู่เท่านั้น",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "swampshield2",
+   "en": "On perfect block: Magic Heal yourself with the §7<healing>§0 of your max health",
+   "official": "เมื่อบล็อกได้อย่างสมบูรณ์แบบ: รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ของพลังชีวิตสูงสุดของคุณ",
+   "th": "เมื่อบล็อกได้จังหวะพอดี: รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ของพลังชีวิตสูงสุด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "iceboots",
+   "en": "Makes you slide as if you were on ice, but grants +50% movement speed and +4 armor",
+   "official": "ทำให้คุณลื่นไถลราวกับอยู่บนน้ำแข็ง แต่ให้ความเร็วในการเคลื่อนที่ +50% และเกราะ +4",
+   "th": "ทำให้คุณลื่นไถลเหมือนอยู่บนน้ำแข็ง แต่ได้ความเร็วเคลื่อนที่ +50% และเกราะ +4",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "inspirationfoci1",
+   "en": "§7+40%§0 inspiration effect and §7+20%§0 inspiration ability speed",
+   "official": "§7+40%§0 ผลของแรงบันดาลใจ และ §7+20%§0 ความเร็วของความสามารถจากแรงบันดาลใจ",
+   "th": "§7+40%§0 ผลของแรงบันดาลใจ และ §7+20%§0 ความเร็วของความสามารถจากแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationfoci2",
+   "en": "§6-20%§0 all non-inspiration damage and §6-1§0 max summons",
+   "official": "§6-20%§0 ความเสียหายที่ไม่ใช่แรงบันดาลใจทั้งหมด และ §6-1§0 ผู้เรียกสูงสุด",
+   "th": "§6-20%§0 ความเสียหายทั้งหมดที่ไม่ใช่แรงบันดาลใจ และ §6-1§0 จำนวนอัญเชิญสูงสุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ผู้เรียก ผิดความ)"
+  },
+  {
+   "key": "essenceofhealing",
+   "en": "§7+<percent>%&§0 Magic Healing per life essence",
+   "official": "§7+<percent>%§0 การรักษาด้วยเวทมนตร์ต่อแก่นแท้แห่งชีวิต",
+   "th": "§7+<percent>%§0 การรักษาด้วยเวทมนตร์ต่อแก่นแท้พลังชีวิต 1 อัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "essenceofhealing2",
+   "en": "§7<flat>§0 Magic Healing per 2 life essences",
+   "official": "§7<flat>§0 การรักษาด้วยเวทมนตร์ต่อ 2 แก่นแท้แห่งชีวิต",
+   "th": "§7<flat>§0 การรักษาด้วยเวทมนตร์ต่อแก่นแท้พลังชีวิต 2 อัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "essenceofhealing3",
+   "en": "§6-80%§0 life essence duration, capped to -50%",
+   "official": "§6-80%§0 ระยะเวลาของแก่นแท้แห่งชีวิต จำกัดที่ -50%",
+   "th": "§6-80%§0 ระยะเวลาแก่นแท้พลังชีวิต (ลดได้ไม่เกิน -50%)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "ninjascarf",
+   "en": "Converts Saber Dashes into Saber Jumps",
+   "official": "เปลี่ยนการพุ่งของดาบโค้งเป็นการกระโดดของดาบโค้ง",
+   "th": "เปลี่ยนการพุ่งดาบโค้งเป็นการกระโดดดาบโค้ง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "adrenalinecharm",
+   "en": "Every hit received will give you Adrenaline for 20 seconds",
+   "official": "ทุกครั้งที่ถูกโจมตีจะได้รับอะดรีนาลีนเป็นเวลา 20 วินาที",
+   "th": "ทุกครั้งที่ถูกโจมตีจะได้รับอะดรีนาลีนเป็นเวลา 20 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedperiapt",
+   "en": "Summons two Living Saplings (8 Summoner Damage)",
+   "official": "เรียกต้นอ่อนที่มีชีวิตสองต้น (ความเสียหายจากผู้เรียก 8)",
+   "th": "อัญเชิญต้นอ่อนมีชีวิตสองต้น (ความเสียหายอัญเชิญ 8)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bloomrushcharm",
+   "en": "Decrease stamina usage by 10% for each Adrenaline you have\\nSummon a Living Sapling (8 Summoner Damage) for each Adrenaline you have",
+   "official": "ลดการใช้ความแข็งแกร่งลง 10% สำหรับอะดรีนาลีนแต่ละอันที่คุณมี\\nเรียกต้นอ่อนที่มีชีวิต (ความเสียหายจากผู้เรียก 8) สำหรับอะดรีนาลีนแต่ละอันที่คุณมี",
+   "th": "ลดการใช้พลังกายลง 10% ต่ออะดรีนาลีนแต่ละสแต็กที่คุณมี\\nอัญเชิญต้นอ่อนมีชีวิต (ความเสียหายอัญเชิญ 8) ต่ออะดรีนาลีนแต่ละสแต็กที่คุณมี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (พลังกาย, อัญเชิญ)"
+  },
+  {
+   "key": "goldhatsetbonus",
+   "en": "If you're still, your ranged attack speed is greatly increased",
+   "official": "หากคุณอยู่นิ่ง ความเร็วในการโจมตีระยะไกลของคุณจะเพิ่มขึ้นอย่างมาก",
+   "th": "หากคุณยืนนิ่ง ความเร็วโจมตีระยะไกลจะเพิ่มขึ้นอย่างมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pinkwitchsetbonus",
+   "en": "Increases Magic Attack Speed, Mana Regeneration, and Armor the lower your health is",
+   "official": "เพิ่มความเร็วในการโจมตีด้วยเวทมนตร์ การฟื้นฟูมานา และเกราะ ยิ่งพลังชีวิตของคุณต่ำลง",
+   "th": "ยิ่งพลังชีวิตต่ำ ยิ่งเพิ่มความเร็วโจมตีเวทมนตร์ การฟื้นฟูมานา และเกราะ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedsetbonus",
+   "en": "Summon three Living Saplings (8 Summoner Damage)",
+   "official": "เรียกต้นอ่อนที่มีชีวิตสามต้น (ความเสียหายจากผู้เรียก 8)",
+   "th": "อัญเชิญต้นอ่อนมีชีวิตสามต้น (ความเสียหายอัญเชิญ 8)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spinelhelmetsetbonus",
+   "en": "Magic Heal yourself with §7<healing>§0 of melee damage dealt to hostile mobs",
+   "official": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ของความเสียหายระยะประชิดที่สร้างให้กับม็อบที่เป็นศัตรู",
+   "th": "รักษาตัวเองด้วยเวทมนตร์ §7<healing>§0 ของความเสียหายระยะประชิดที่ทำต่อมอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "spinelhatsetbonus",
+   "en": "Magic Heal yourself and all close allys\\nwith §7<healing>§0 of magic damage dealt to hostile mobs",
+   "official": "รักษาตัวเองและพันธมิตรที่อยู่ใกล้เคียงทั้งหมดด้วยเวทมนตร์\\nด้วย §7<healing>§0 ของความเสียหายเวทมนตร์ที่สร้างให้กับม็อบที่เป็นศัตรู",
+   "th": "รักษาตัวเองและพันธมิตรใกล้เคียงทั้งหมดด้วยเวทมนตร์\\nเป็น §7<healing>§0 ของความเสียหายเวทมนตร์ที่ทำต่อมอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "strikebannereffect",
+   "en": "§7+<effect>%§0 health regen (in and out of combat)",
+   "official": "§7+<effect>%§0 การฟื้นฟูพลังชีวิต (ในและนอกการต่อสู้)",
+   "th": "§7+<effect>%§0 ฟื้นฟูพลังชีวิต (ทั้งในและนอกการต่อสู้)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "strikebannerability",
+   "en": "§aEvery <time> seconds:§0 Performs an area attack",
+   "official": "§aทุกๆ <time> วินาที:§0 ทำการโจมตีแบบพื้นที่",
+   "th": "§aทุกๆ <time> วินาที:§0 ทำการโจมตีแบบพื้นที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blankbannereffect",
+   "en": "§7+<effect>%§0 health regen (out of combat)",
+   "official": "§7+<effect>%§0 การฟื้นฟูพลังชีวิต (นอกการต่อสู้)",
+   "th": "§7+<effect>%§0 ฟื้นฟูพลังชีวิต (นอกการต่อสู้)",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "blankbannerability",
+   "en": "§aEvery <time> seconds:§0 Performs an area healing",
+   "official": "§aทุกๆ <time> วินาที:§0 ทำการรักษาแบบพื้นที่",
+   "th": "§aทุกๆ <time> วินาที:§0 ทำการรักษาแบบพื้นที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofdamageeffect",
+   "en": "§7+<effect>%§0 damage",
+   "official": "§7+<effect>%§0 ความเสียหาย",
+   "th": "§7+<effect>%§0 ความเสียหาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofdefenseeffect",
+   "en": "§7-<effect>%§0 incoming damage",
+   "official": "§7-<effect>%§0 ความเสียหายที่ได้รับ",
+   "th": "§7-<effect>%§0 ความเสียหายที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofspeedeffect",
+   "en": "§7+<effect>%§0 movement speed",
+   "official": "§7+<effect>%§0 ความเร็วในการเคลื่อนที่",
+   "th": "§7+<effect>%§0 ความเร็วเคลื่อนที่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bannerofsummonspeedeffect",
+   "en": "§7+<effect>%§0 summon movement speed",
+   "official": "§7+<effect>%§0 ความเร็วในการเคลื่อนที่ของผู้เรียก",
+   "th": "§7+<effect>%§0 ความเร็วเคลื่อนที่ของสิ่งที่อัญเชิญ",
+   "status": "fixed",
+   "note": "ความหมายผิด (ผู้เรียก)"
+  },
+  {
+   "key": "banneroffishingeffect",
+   "en": "§7+<effect>§0 fishing power",
+   "official": "§7+<effect>§0 พลังในการตกปลา",
+   "th": "§7+<effect>§0 พลังในการตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofhealthregeneffect",
+   "en": "§7+<effectfloat>§0 combat health regen",
+   "official": "§7+<effectfloat>§0 การฟื้นฟูพลังชีวิตในการต่อสู้",
+   "th": "§7+<effectfloat>§0 ฟื้นฟูพลังชีวิตระหว่างต่อสู้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bannerofmanaregeneffect",
+   "en": "§7+<effect>%§0 combat mana regen",
+   "official": "§7+<effect>%§0 การฟื้นฟูมานาในการต่อสู้",
+   "th": "§7+<effect>%§0 ฟื้นฟูมานาระหว่างต่อสู้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bannerofresistanceeffect",
+   "en": "§7+<effect>§0 armor",
+   "official": "§7+<effect>§0 เกราะ",
+   "th": "§7+<effect>§0 เกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofsummoningeffect",
+   "en": "§7+<effect>§0 max summons",
+   "official": "§7+<effect>§0 ผู้เรียกสูงสุด",
+   "th": "§7+<effect>§0 จำนวนอัญเชิญสูงสุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bannerofattackspeedeffect",
+   "en": "§7+<effect>%§0 attack speed",
+   "official": "§7+<effect>%§0 ความเร็วในการโจมตี",
+   "th": "§7+<effect>%§0 ความเร็วโจมตี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bannerofresilienceeffect",
+   "en": "§7+<effect>%§0 max resilience\\nRegen §7+<effect>§0 resilience per second",
+   "official": "§7+<effect>%§0 ความยืดหยุ่นสูงสุด\\nฟื้นฟูความยืดหยุ่น §7+<effect>§0 ต่อวินาที",
+   "th": "§7+<effect>%§0 ความทนทานสูงสุด\\nฟื้นฟูความทนทาน §7+<effect>§0 ต่อวินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Resilience)"
+  },
+  {
+   "key": "bannerofbouncingeffect",
+   "en": "§7+<effect>§0 projectile bounces",
+   "official": "§7+<effect>§0 การกระดอนของกระสุน",
+   "th": "§7+<effect>§0 จำนวนการกระดอนของกระสุน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bannerofessenceeffect",
+   "en": "§7+<effect>%§0 life essence duration",
+   "official": "§7+<effect>%§0 ระยะเวลาของแก่นแท้แห่งชีวิต",
+   "th": "§7+<effect>%§0 ระยะเวลาแก่นแท้พลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "bannerofstaminaeffect",
+   "en": "§7+<effect>%§0 stamina capacity\\n§7+<effect2>%§0 stamina regen\\n§7-<effect2>%§0 stamina usage",
+   "official": "§7+<effect>%§0 ความจุของความแข็งแกร่ง\\n§7+<effect2>%§0 การฟื้นฟูความแข็งแกร่ง\\n§7-<effect2>%§0 การใช้ความแข็งแกร่ง",
+   "th": "§7+<effect>%§0 ความจุพลังกาย\\n§7+<effect2>%§0 ฟื้นฟูพลังกาย\\n§7-<effect2>%§0 การใช้พลังกาย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Stamina)"
+  },
+  {
+   "key": "bannerofpickingeffect",
+   "en": "§7+<effectfloat>§0 pickup range",
+   "official": "§7+<effectfloat>§0 ระยะการเก็บ",
+   "th": "§7+<effectfloat>§0 ระยะเก็บของ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bannerofdashingeffect",
+   "en": "§7+<effect>§0 dash stacks\\n§7-<effect2>%§0 dash cooldown",
+   "official": "§7+<effect>§0 สแต็คการพุ่ง\\n§7-<effect2>%§0 คูลดาวน์การพุ่ง",
+   "th": "§7+<effect>§0 สแต็กการพุ่ง\\n§7-<effect2>%§0 คูลดาวน์การพุ่ง",
+   "status": "fixed",
+   "note": "สะกด (สแต็ก)"
+  },
+  {
+   "key": "bannerofmanaeffect",
+   "en": "§7+<effect>%§0 max mana\\n§7<effect2>%§0 mana regen",
+   "official": "§7+<effect>%§0 มานาสูงสุด\\n§7<effect2>%§0 การฟื้นฟูมานา",
+   "th": "§7+<effect>%§0 มานาสูงสุด\\n§7<effect2>%§0 ฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "baserune",
+   "en": "§iBase Rune",
+   "official": "§iรูนพื้นฐาน",
+   "th": "§iรูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modifierrune",
+   "en": "§aModifier Rune",
+   "official": "§aรูนดัดแปลง",
+   "th": "§aรูนดัดแปลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "linkedrune",
+   "en": "§bRune linked to [<player>]",
+   "official": "§bรูนที่เชื่อมโยงกับ [<player>]",
+   "th": "§bรูนที่เชื่อมโยงกับ [<player>]",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "notruneowner",
+   "en": "You are not the Base Rune owner",
+   "official": "คุณไม่ใช่เจ้าของรูนพื้นฐาน",
+   "th": "คุณไม่ใช่เจ้าของรูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runesslots",
+   "en": "Can insert up to 1 Base Rune + <modifierslots> Modifier Runes",
+   "official": "สามารถใส่รูนพื้นฐานได้สูงสุด 1 อัน + รูนดัดแปลง <modifierslots> อัน",
+   "th": "สามารถใส่รูนพื้นฐานได้สูงสุด 1 อัน + รูนดัดแปลง <modifierslots> อัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "useruneinfusor",
+   "en": "[input=runesinjectorability] to active",
+   "official": "[input=runesinjectorability] เพื่อเปิดใช้งาน",
+   "th": "[input=runesinjectorability] เพื่อเปิดใช้งาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "requiresbaserune",
+   "en": "Requires a base rune inserted",
+   "official": "ต้องใส่รูนพื้นฐาน",
+   "th": "ต้องใส่รูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onlyonebaserune",
+   "en": "Only one base rune can be inserted at a time",
+   "official": "สามารถใส่รูนพื้นฐานได้เพียงอันเดียวในแต่ละครั้ง",
+   "th": "สามารถใส่รูนพื้นฐานได้เพียงอันเดียวในแต่ละครั้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duplicatedmodifierrunes",
+   "en": "Cannot insert more than one of the same modifier rune",
+   "official": "ไม่สามารถใส่รูนดัดแปลงชนิดเดียวกันได้มากกว่าหนึ่งอัน",
+   "th": "ไม่สามารถใส่รูนดัดแปลงชนิดเดียวกันได้มากกว่าหนึ่งอัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runehealthcost",
+   "en": "Consumes <health>% of max health upon activation",
+   "official": "ใช้พลังชีวิตสูงสุด <health>% เมื่อเปิดใช้งาน",
+   "th": "ใช้พลังชีวิตสูงสุด <health>% เมื่อเปิดใช้งาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runehealthhealing",
+   "en": "Restores <health>% of max health when used",
+   "official": "ฟื้นฟูพลังชีวิตสูงสุด <health>% เมื่อใช้งาน",
+   "th": "ฟื้นฟูพลังชีวิตสูงสุด <health>% เมื่อใช้งาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runecooldown",
+   "en": "Recharges in <seconds> seconds",
+   "official": "ชาร์จใหม่ใน <seconds> วินาที",
+   "th": "ชาร์จใหม่ใน <seconds> วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "increaseruneeffectnumber",
+   "en": "Increases the effect by §7<variation>%§0",
+   "official": "เพิ่มผลกระทบขึ้น §7<variation>%§0",
+   "th": "เพิ่มผลกระทบขึ้น §7<variation>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decreaseruneeffectnumber",
+   "en": "Decreases the effect by §6<variation>%§0",
+   "official": "ลดผลกระทบลง §6<variation>%§0",
+   "th": "ลดผลกระทบลง §6<variation>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "increaserunecooldown",
+   "en": "Increases the cooldown by §6<variation>%§0",
+   "official": "เพิ่มคูลดาวน์ขึ้น §6<variation>%§0",
+   "th": "เพิ่มคูลดาวน์ขึ้น §6<variation>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decreaserunecooldown",
+   "en": "Decreases the cooldown by §7<variation>%§0",
+   "official": "ลดคูลดาวน์ลง §7<variation>%§0",
+   "th": "ลดคูลดาวน์ลง §7<variation>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "increaserunehealthcost",
+   "en": "Increases the consumption of max health by §6<health>%§0",
+   "official": "เพิ่มการใช้พลังชีวิตสูงสุดขึ้น §6<health>%§0",
+   "th": "เพิ่มการใช้พลังชีวิตสูงสุดขึ้น §6<health>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "increaserunehealthhealing",
+   "en": "Increases the restoration of max health by §7<health>%§0",
+   "official": "เพิ่มการฟื้นฟูพลังชีวิตสูงสุดขึ้น §7<health>%§0",
+   "th": "เพิ่มการฟื้นฟูพลังชีวิตสูงสุดขึ้น §7<health>%§0",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runedamagereduction",
+   "en": "The damage is drastically reduced against humans and even more against bosses",
+   "official": "ความเสียหายจะลดลงอย่างมากเมื่อเทียบกับมนุษย์และยิ่งกว่านั้นเมื่อเทียบกับบอส",
+   "th": "ความเสียหายลดลงอย่างมากเมื่อใช้กับมนุษย์ และลดลงยิ่งกว่านั้นเมื่อใช้กับบอส",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runedamagereductionnoboss",
+   "en": "The damage is drastically reduced against humans and don't affect bosses",
+   "official": "ความเสียหายจะลดลงอย่างมากเมื่อเทียบกับมนุษย์และไม่มีผลกับบอส",
+   "th": "ความเสียหายลดลงอย่างมากเมื่อใช้กับมนุษย์ และไม่มีผลกับบอส",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "moreextraeffectmod",
+   "en": "Effect modifications are <mod>% more effective",
+   "official": "การปรับเปลี่ยนผลกระทบมีประสิทธิภาพมากขึ้น <mod>%",
+   "th": "การปรับเปลี่ยนผลกระทบมีประสิทธิภาพมากขึ้น <mod>%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lessextraeffectmod",
+   "en": "Effect modifications are <mod>% less effective",
+   "official": "การปรับเปลี่ยนผลกระทบมีประสิทธิภาพน้อยลง <mod>%",
+   "th": "การปรับเปลี่ยนผลกระทบมีประสิทธิภาพน้อยลง <mod>%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeoffury",
+   "en": "Increase your damage and attack speed by §7<effectNumber>§0% for 10 seconds",
+   "official": "เพิ่มความเสียหายและความเร็วในการโจมตีของคุณขึ้น §7<effectNumber>§0% เป็นเวลา 10 วินาที",
+   "th": "เพิ่มความเสียหายและความเร็วโจมตีของคุณ §7<effectNumber>§0% เป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofspeed",
+   "en": "Dash with §7<effectNumber>§0 strength in the direction you are moving and become invincible for 0.5 seconds",
+   "official": "พุ่งด้วยความแรง §7<effectNumber>§0 ไปในทิศทางที่คุณกำลังเคลื่อนที่และกลายเป็นอมตะเป็นเวลา 0.5 วินาที",
+   "th": "พุ่งด้วยแรง §7<effectNumber>§0 ไปในทิศที่คุณกำลังเคลื่อนที่ และเป็นอมตะ 0.5 วินาที",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runeofresistance",
+   "en": "Increases your armor by §7<effectNumber>§0% for 10 seconds",
+   "official": "เพิ่มเกราะของคุณขึ้น §7<effectNumber>§0% เป็นเวลา 10 วินาที",
+   "th": "เพิ่มเกราะของคุณขึ้น §7<effectNumber>§0% เป็นเวลา 10 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofresistance2",
+   "en": "While on cooldown, your armor is reduced by half",
+   "official": "ในขณะที่คูลดาวน์ เกราะของคุณจะลดลงครึ่งหนึ่ง",
+   "th": "ระหว่างคูลดาวน์ เกราะของคุณจะลดลงครึ่งหนึ่ง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runeofvalor",
+   "en": "+200% inspiration for §7<effectNumber>§0 seconds",
+   "official": "+200% แรงบันดาลใจเป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "+200% แรงบันดาลใจเป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofdetonation",
+   "en": "Explodes, dealing more damage and knocking back enemies the closer they are",
+   "official": "ระเบิด สร้างความเสียหายมากขึ้นและผลักศัตรูให้ถอยหลัง ยิ่งอยู่ใกล้มากเท่าไหร่",
+   "th": "ระเบิด สร้างความเสียหายและผลักศัตรูแรงขึ้นยิ่งอยู่ใกล้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofdetonation2",
+   "en": "The maximum damage is §7<effectNumber>§0% of the mobs' max health as damage",
+   "official": "ความเสียหายสูงสุดคือ §7<effectNumber>§0% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "ความเสียหายสูงสุดคือ §7<effectNumber>§0% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeofthunder",
+   "en": "After two seconds, a lightning strikes your cursor's initial position",
+   "official": "หลังจากสองวินาที สายฟ้าจะฟาดลงที่ตำแหน่งเริ่มต้นของเคอร์เซอร์ของคุณ",
+   "th": "หลังจากสองวินาที สายฟ้าจะฟาดลงที่ตำแหน่งเริ่มต้นของเคอร์เซอร์ของคุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofthunder2",
+   "en": "The lightning deals §7<effectNumber>§0% of the mobs' health as damage and stun for 2 seconds",
+   "official": "สายฟ้าจะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตของม็อบและทำให้มึนงงเป็นเวลา 2 วินาที",
+   "th": "สายฟ้าสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตมอนสเตอร์ และทำให้มึนงง 2 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeofwinter",
+   "en": "Frost-slows enemies within a 500 range for §7<effectNumber>§0 seconds",
+   "official": "ทำให้ศัตรูเคลื่อนที่ช้าลงด้วยน้ำแข็งในระยะ 500 เป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "ทำให้ศัตรูในระยะ 500 ติดเยือกแข็งช้าลงเป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost)"
+  },
+  {
+   "key": "runeofimmortality",
+   "en": "If you die within the next §7<effectNumber>§0 seconds, you will survive with max health",
+   "official": "หากคุณตายภายใน §7<effectNumber>§0 วินาทีข้างหน้า คุณจะรอดชีวิตด้วยพลังชีวิตสูงสุด",
+   "th": "หากคุณตายภายใน §7<effectNumber>§0 วินาทีข้างหน้า คุณจะรอดชีวิตด้วยพลังชีวิตสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofimmortality2",
+   "en": "If this happens, you will be invulnerable for 3 seconds, but the cooldown will be 30 seconds",
+   "official": "หากเกิดเหตุการณ์นี้ขึ้น คุณจะกลายเป็นอมตะเป็นเวลา 3 วินาที แต่คูลดาวน์จะเป็น 30 วินาที",
+   "th": "หากเกิดเหตุการณ์นี้ขึ้น คุณจะกลายเป็นอมตะเป็นเวลา 3 วินาที แต่คูลดาวน์จะเป็น 30 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofimmortality3",
+   "en": "While on cooldown, your max health is reduced by half",
+   "official": "ในขณะที่คูลดาวน์ พลังชีวิตสูงสุดของคุณจะลดลงครึ่งหนึ่ง",
+   "th": "ระหว่างคูลดาวน์ พลังชีวิตสูงสุดของคุณจะลดลงครึ่งหนึ่ง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runeofshadows",
+   "en": "For §7<effectNumber>§0 seconds, you will become invisible but also intimidated, preventing you from taking any actions",
+   "official": "เป็นเวลา §7<effectNumber>§0 วินาที คุณจะล่องหนแต่ก็จะถูกข่มขู่ ทำให้ไม่สามารถดำเนินการใดๆ ได้",
+   "th": "เป็นเวลา §7<effectNumber>§0 วินาที คุณจะล่องหนแต่ก็ถูกข่มขวัญ ทำให้ทำอะไรไม่ได้เลย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofunstablegelslime",
+   "en": "Teleport to a nearby location and summon 2 Runic Unstable Gel Slimes for §7<effectNumber>§0 seconds",
+   "official": "เทเลพอร์ตไปยังตำแหน่งใกล้เคียงและเรียกสไลม์เจลที่ไม่เสถียร 2 ตัวเป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "วาร์ปไปยังจุดใกล้เคียงและอัญเชิญสไลม์เจลไม่เสถียรรูน 2 ตัวเป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (วาร์ป, อัญเชิญ)"
+  },
+  {
+   "key": "runeofunstablegelslime2",
+   "en": "The summons will deal 5% of the mobs' maximum health as damage",
+   "official": "ผู้เรียกจะสร้างความเสียหาย 5% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "สิ่งที่อัญเชิญจะสร้างความเสียหาย 5% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ความหมายผิด (ผู้เรียก) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofevilsprotector",
+   "en": "+§7<effectNumber>§0% attack speed, but -50% movement speed for 10 seconds",
+   "official": "+§7<effectNumber>§0% ความเร็วในการโจมตี แต่ -50% ความเร็วในการเคลื่อนที่เป็นเวลา 10 วินาที",
+   "th": "+§7<effectNumber>§0% ความเร็วโจมตี แต่ -50% ความเร็วเคลื่อนที่ เป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofevilsprotector2",
+   "en": "During the night on the surface, the positive effect is doubled",
+   "official": "ในเวลากลางคืนบนพื้นผิว ผลบวกจะเพิ่มเป็นสองเท่า",
+   "th": "ในเวลากลางคืนบนพื้นผิว ผลบวกจะเพิ่มเป็นสองเท่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofqueenspider",
+   "en": "Leaves a spider web on the ground for §7<effectNumber>§0 seconds",
+   "official": "ทิ้งใยแมงมุมไว้บนพื้นเป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "ทิ้งใยแมงมุมไว้บนพื้นเป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofvoidwizard",
+   "en": "All projectiles will bounce infinitely and +§7<effectNumber>§0% projectile speed for 10 seconds",
+   "official": "กระสุนทั้งหมดจะกระดอนอย่างไม่มีที่สิ้นสุดและ +§7<effectNumber>§0% ความเร็วของกระสุนเป็นเวลา 10 วินาที",
+   "th": "กระสุนทั้งหมดจะกระดอนไม่สิ้นสุด และ +§7<effectNumber>§0% ความเร็วกระสุน เป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runeofswampguardian",
+   "en": "Reduces all damage taken by 80% for §7<effectNumber>§0 seconds",
+   "official": "ลดความเสียหายที่ได้รับทั้งหมดลง 80% เป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "ลดความเสียหายที่ได้รับทั้งหมดลง 80% เป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofancientvulture",
+   "en": "Summons a Runic Vulture Hatchling for 10 seconds",
+   "official": "เรียกอีแร้งรูนเป็นเวลา 10 วินาที",
+   "th": "อัญเชิญลูกอีแร้งรูนเป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "แปลไม่ครบ (Hatchling)"
+  },
+  {
+   "key": "runeofancientvulture2",
+   "en": "The summon will deal §7<effectNumber>§0% of the mobs' maximum health as damage",
+   "official": "ผู้เรียกจะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "สิ่งที่อัญเชิญจะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ความหมายผิด (ผู้เรียก) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofpiratecaptain",
+   "en": "Increase your Damage by §7<effectNumber>§0% for every 200 coins you have, up to a maximum of 20,000 coins",
+   "official": "เพิ่มความเสียหายของคุณขึ้น §7<effectNumber>§0% สำหรับทุกๆ 200 เหรียญที่คุณมี สูงสุด 20,000 เหรียญ",
+   "th": "เพิ่มความเสียหายของคุณขึ้น §7<effectNumber>§0% สำหรับทุกๆ 200 เหรียญที่คุณมี สูงสุด 20,000 เหรียญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofpiratecaptain2",
+   "en": "Each time you attack, you will lose 3 coins",
+   "official": "ทุกครั้งที่คุณโจมตี คุณจะเสีย 3 เหรียญ",
+   "th": "ทุกครั้งที่คุณโจมตี คุณจะเสีย 3 เหรียญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofchieftain",
+   "en": "For the next 20 seconds, your Damage increases the lower your health is, up to a maximum of +§7<effectNumber>§0%",
+   "official": "ในอีก 20 วินาทีข้างหน้า ความเสียหายของคุณจะเพิ่มขึ้นเมื่อพลังชีวิตของคุณต่ำลง สูงสุด +§7<effectNumber>§0%",
+   "th": "ในอีก 20 วินาทีข้างหน้า ความเสียหายของคุณจะเพิ่มขึ้นเมื่อพลังชีวิตของคุณต่ำลง สูงสุด +§7<effectNumber>§0%",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofreaper",
+   "en": "Teleport to the position of your mouse. Maximum §7<effectNumber>§0 distance",
+   "official": "เทเลพอร์ตไปยังตำแหน่งของเมาส์ของคุณ ระยะทางสูงสุด §7<effectNumber>§0",
+   "th": "วาร์ปไปยังตำแหน่งเมาส์ของคุณ ระยะสูงสุด §7<effectNumber>§0",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (วาร์ป)"
+  },
+  {
+   "key": "runeofcryoqueen",
+   "en": "Stop for 1 second and launch an ice attack around you with §7<effectNumber>§0 range",
+   "official": "หยุดเป็นเวลา 1 วินาทีและปล่อยการโจมตีด้วยน้ำแข็งรอบตัวคุณด้วยระยะ §7<effectNumber>§0",
+   "th": "หยุดนิ่ง 1 วินาทีแล้วปล่อยการโจมตีน้ำแข็งรอบตัวในระยะ §7<effectNumber>§0",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofcryoqueen2",
+   "en": "The projectiles will deal 200% of the mobs' maximum health as damage",
+   "official": "กระสุนจะสร้างความเสียหาย 200% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "กระสุนจะสร้างความเสียหาย 200% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeofpestwarden",
+   "en": "For the next §7<effectNumber>§0 seconds, colliding with enemies damages and pushes them",
+   "official": "ในอีก §7<effectNumber>§0 วินาทีข้างหน้า การชนกับศัตรูจะสร้างความเสียหายและผลักพวกเขา",
+   "th": "ในอีก §7<effectNumber>§0 วินาทีข้างหน้า การชนศัตรูจะสร้างความเสียหายและผลักพวกมันออกไป",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofpestwarden2",
+   "en": "The damage is 20% of their max health",
+   "official": "ความเสียหายคือ 20% ของพลังชีวิตสูงสุดของพวกเขา",
+   "th": "ความเสียหายคือ 20% ของพลังชีวิตสูงสุดของพวกเขา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofsageandgrit",
+   "en": "If there are damaged allies nearby (500 range), heal §7<effectNumber>§0% of their total health",
+   "official": "หากมีพันธมิตรที่ได้รับบาดเจ็บอยู่ใกล้ๆ (ระยะ 500) ให้รักษาพลังชีวิตทั้งหมดของพวกเขา §7<effectNumber>§0%",
+   "th": "หากมีพันธมิตรที่บาดเจ็บอยู่ใกล้ ๆ (ระยะ 500) จะรักษา §7<effectNumber>§0% ของพลังชีวิตทั้งหมดของพวกเขา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofsageandgrit2",
+   "en": "If not, increase your damage, attack speed and movement speed by +§7<effectNumber>§0% for 20 seconds",
+   "official": "หากไม่เป็นเช่นนั้น ให้เพิ่มความเสียหาย ความเร็วในการโจมตี และความเร็วในการเคลื่อนที่ของคุณขึ้น +§7<effectNumber>§0% เป็นเวลา 20 วินาที",
+   "th": "หากไม่มี จะเพิ่มความเสียหาย ความเร็วโจมตี และความเร็วเคลื่อนที่ของคุณ +§7<effectNumber>§0% เป็นเวลา 20 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeoffallenwizard",
+   "en": "Stun all mobs except you for §7<effectNumber>§0 seconds",
+   "official": "ทำให้ม็อบทั้งหมดมึนงงยกเว้นคุณเป็นเวลา §7<effectNumber>§0 วินาที",
+   "th": "ทำให้มอนสเตอร์ทั้งหมดยกเว้นคุณมึนงงเป็นเวลา §7<effectNumber>§0 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeoffallenwizard2",
+   "en": "Humans will break free faster, and bosses even faster",
+   "official": "มนุษย์จะหลุดพ้นได้เร็วกว่า และบอสจะเร็วกว่านั้นอีก",
+   "th": "มนุษย์จะหลุดได้เร็วกว่า และบอสจะหลุดเร็วยิ่งกว่า",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofbabylontower",
+   "en": "+§7<effectNumber>§0% all damage, but you can't move. 10 seconds",
+   "official": "+§7<effectNumber>§0% ความเสียหายทั้งหมด แต่คุณไม่สามารถเคลื่อนที่ได้ 10 วินาที",
+   "th": "+§7<effectNumber>§0% ความเสียหายทั้งหมด แต่คุณเคลื่อนที่ไม่ได้ นาน 10 วินาที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofmotherslime",
+   "en": "Perform a large leap towards your mouse position and deal area damage upon landing",
+   "official": "กระโดดครั้งใหญ่ไปยังตำแหน่งของเมาส์ของคุณและสร้างความเสียหายแบบพื้นที่เมื่อลงจอด",
+   "th": "กระโดดไกลไปยังตำแหน่งเมาส์ของคุณ และสร้างความเสียหายแบบพื้นที่เมื่อลงพื้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runeofmotherslime2",
+   "en": "The lading will deal §7<effectNumber>§0% of the mobs' maximum health as damage",
+   "official": "การลงจอดจะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "การลงพื้นจะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeofnightswarm",
+   "en": "Summon 5 bats for §7<effectNumber>§0 seconds that seek out hostile mobs to bite them",
+   "official": "เรียกค้างคาว 5 ตัวเป็นเวลา §7<effectNumber>§0 วินาทีซึ่งจะค้นหาและกัดม็อบที่เป็นศัตรู",
+   "th": "อัญเชิญค้างคาว 5 ตัวเป็นเวลา §7<effectNumber>§0 วินาที คอยไล่กัดมอนสเตอร์ที่ไม่เป็นมิตร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofnightswarm2",
+   "en": "Each bite restores 1% of your total health (at least 1)",
+   "official": "การกัดแต่ละครั้งจะฟื้นฟูพลังชีวิตทั้งหมดของคุณ 1% (อย่างน้อย 1)",
+   "th": "การกัดแต่ละครั้งจะฟื้นฟูพลังชีวิตทั้งหมดของคุณ 1% (อย่างน้อย 1)",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofspiderempress",
+   "en": "Throws §7<F0effectNumber>§0 web balls in the direction of your mouse",
+   "official": "ขว้างลูกบอลใยแมงมุม §7<F0effectNumber>§0 ลูกไปในทิศทางของเมาส์ของคุณ",
+   "th": "ขว้างลูกบอลใยแมงมุม §7<F0effectNumber>§0 ลูกไปในทิศทางของเมาส์ของคุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofspiderempress2",
+   "en": "The web balls will stun for 3 seconds and slow down for 10 seconds",
+   "official": "ลูกบอลใยแมงมุมจะทำให้มึนงงเป็นเวลา 3 วินาทีและทำให้เคลื่อนที่ช้าลงเป็นเวลา 10 วินาที",
+   "th": "ลูกบอลใยแมงมุมจะทำให้มึนงงเป็นเวลา 3 วินาทีและทำให้เคลื่อนที่ช้าลงเป็นเวลา 10 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofsunlightchampion",
+   "en": "Get stuned for 3 seconds charging a nova of §7<effectNumber>§0 range",
+   "official": "ทำให้มึนงงเป็นเวลา 3 วินาทีเพื่อชาร์จโนวาที่มีระยะ §7<effectNumber>§0",
+   "th": "ยอมมึนงง 3 วินาทีเพื่อชาร์จโนวาระยะ §7<effectNumber>§0",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "runeofsunlightchampion2",
+   "en": "The nova will deal 200% of the mobs' maximum health as damage",
+   "official": "โนวาจะสร้างความเสียหาย 200% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "โนวาจะสร้างความเสียหาย 200% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "runeofmoonlightdancer",
+   "en": "+§7<effectNumber>§0% damage for every +1% movement speed for 10 seconds",
+   "official": "+§7<effectNumber>§0% ความเสียหายสำหรับทุกๆ +1% ความเร็วในการเคลื่อนที่เป็นเวลา 10 วินาที",
+   "th": "+§7<effectNumber>§0% ความเสียหายต่อความเร็วเคลื่อนที่ทุก +1% เป็นเวลา 10 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofcrystaldragon",
+   "en": "Throw a laser beam in your cursor position for 5 seconds",
+   "official": "ยิงลำแสงเลเซอร์ที่ตำแหน่งเคอร์เซอร์ของคุณเป็นเวลา 5 วินาที",
+   "th": "ยิงลำแสงเลเซอร์ที่ตำแหน่งเคอร์เซอร์ของคุณเป็นเวลา 5 วินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofcrystaldragon2",
+   "en": "The laser will deal §7<effectNumber>§0% of the mobs' maximum health as damage",
+   "official": "เลเซอร์จะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของม็อบ",
+   "th": "เลเซอร์จะสร้างความเสียหาย §7<effectNumber>§0% ของพลังชีวิตสูงสุดของมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (มอนสเตอร์)"
+  },
+  {
+   "key": "onyxrune",
+   "en": "When activated, summons Onyx for 5 seconds. It will deal damage based on 5% of the mob's health",
+   "official": "เมื่อเปิดใช้งาน จะเรียกโอนิกซ์เป็นเวลา 5 วินาที มันจะสร้างความเสียหายตาม 5% ของพลังชีวิตของม็อบ",
+   "th": "เมื่อเปิดใช้งาน จะอัญเชิญโอนิกซ์เป็นเวลา 5 วินาที สร้างความเสียหายเท่ากับ 5% ของพลังชีวิตมอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "onyxrune2",
+   "en": "Each bite from Onyx restores 1% of your total health (at least 1)",
+   "official": "การกัดแต่ละครั้งของโอนิกซ์จะฟื้นฟูพลังชีวิตทั้งหมดของคุณ 1% (อย่างน้อย 1)",
+   "th": "การกัดแต่ละครั้งของโอนิกซ์จะฟื้นฟูพลังชีวิตทั้งหมดของคุณ 1% (อย่างน้อย 1)",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onyxrune3",
+   "en": "§3Thanks Onyx for the brilliant rune ideas! <3",
+   "official": "§3ขอบคุณโอนิกซ์สำหรับแนวคิดรูนที่ยอดเยี่ยม! <3",
+   "th": "§3ขอบคุณโอนิกซ์สำหรับแนวคิดรูนที่ยอดเยี่ยม! <3",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pawningrune",
+   "en": "When activated, if you don't already have the effect, immediately restores 20% of your maximum health",
+   "official": "เมื่อเปิดใช้งาน หากคุณยังไม่มีผลกระทบ จะฟื้นฟูพลังชีวิตสูงสุดของคุณ 20% ทันที",
+   "th": "เมื่อเปิดใช้งาน หากคุณยังไม่มีผลนี้อยู่ จะฟื้นฟูพลังชีวิต 20% ของพลังชีวิตสูงสุดทันที",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "pawningrune2",
+   "en": "After 10 seconds, you will lose the amount restored plus an additional 40%",
+   "official": "หลังจาก 10 วินาที คุณจะสูญเสียจำนวนที่ฟื้นฟูไปบวกกับอีก 40%",
+   "th": "หลังจาก 10 วินาที คุณจะเสียพลังชีวิตเท่าที่ฟื้นฟูไป บวกเพิ่มอีก 40%",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "abysmalrune",
+   "en": "When activated, summons a black hole at your cursor position, pulling enemies in for 2 seconds",
+   "official": "เมื่อเปิดใช้งาน จะเรียกหลุมดำที่ตำแหน่งเคอร์เซอร์ของคุณ ดึงศัตรูเข้ามาเป็นเวลา 2 วินาที",
+   "th": "เมื่อเปิดใช้งาน จะอัญเชิญหลุมดำที่ตำแหน่งเคอร์เซอร์ ดูดศัตรูเข้าไปเป็นเวลา 2 วินาที",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (อัญเชิญ)"
+  },
+  {
+   "key": "abysmalrune2",
+   "en": "The black hole will only summon if 10 seconds have passed since the last activation",
+   "official": "หลุมดำจะถูกเรียกก็ต่อเมื่อผ่านไป 10 วินาทีจากการเปิดใช้งานครั้งล่าสุด",
+   "th": "หลุมดำจะถูกอัญเชิญได้ก็ต่อเมื่อผ่านไป 10 วินาทีนับจากการเปิดใช้งานครั้งล่าสุด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "tidalrune",
+   "en": "When activated, summons a wave of water that pushes enemies away",
+   "official": "เมื่อเปิดใช้งาน จะเรียกคลื่นน้ำที่ผลักศัตรูออกไป",
+   "th": "เมื่อเปิดใช้งาน จะอัญเชิญคลื่นน้ำผลักศัตรูออกไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (อัญเชิญ)"
+  }
+ ],
+ "removed": []
+}

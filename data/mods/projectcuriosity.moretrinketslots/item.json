@@ -1,0 +1,174 @@
+{
+ "category": "item",
+ "entries": [
+  {
+   "key": "moretrinketslots_evilsprotector",
+   "en": "Belt Clip",
+   "official": "",
+   "th": "คลิปเหน็บเข็มขัด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_queenspider",
+   "en": "Spider Leg Keychain",
+   "official": "",
+   "th": "พวงกุญแจขาแมงมุม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_swampguardian",
+   "en": "Protective Case",
+   "official": "",
+   "th": "เคสกันกระแทก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_ancientvulture",
+   "en": "Pocket Protector",
+   "official": "",
+   "th": "ซองเสียบกระเป๋าเสื้อ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_reaper",
+   "en": "Trinket Pouch",
+   "official": "",
+   "th": "ถุงใส่เครื่องประดับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_cryoqueen",
+   "en": "Charm Bracelet",
+   "official": "",
+   "th": "สร้อยข้อมือเครื่องราง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_thecursedcrone",
+   "en": "The Crone's Crown",
+   "official": "",
+   "th": "มงกุฎยายเฒ่า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_pestwarden",
+   "en": "Swamp Fruit",
+   "official": "",
+   "th": "ผลไม้หนองน้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_sageandgrit",
+   "en": "Dragon Satchel",
+   "official": "",
+   "th": "ย่ามมังกร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_motherslime",
+   "en": "Dry Bag",
+   "official": "",
+   "th": "ถุงกันน้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_nightswarm",
+   "en": "Sling Bag",
+   "official": "",
+   "th": "กระเป๋าคาดอก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_1",
+   "en": "How To Hold More Trinkets: Vol. 1",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 1",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_2",
+   "en": "How To Hold More Trinkets: Vol. 2",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 2",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_3",
+   "en": "How To Hold More Trinkets: Vol. 3",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 3",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_4",
+   "en": "How To Hold More Trinkets: Vol. 4",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 4",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_5",
+   "en": "How To Hold More Trinkets: Vol. 5",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 5",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_6",
+   "en": "How To Hold More Trinkets: Vol. 6",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 6",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_7",
+   "en": "How To Hold More Trinkets: Vol. 7",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 7",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_8",
+   "en": "How To Hold More Trinkets: Vol. 8",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 8",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_9",
+   "en": "How To Hold More Trinkets: Vol. 9",
+   "official": "",
+   "th": "วิธีพกเครื่องประดับให้มากขึ้น: เล่ม 9",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_testsword",
+   "en": "Test Sword",
+   "official": "",
+   "th": "ดาบทดสอบ",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

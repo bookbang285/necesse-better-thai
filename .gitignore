@@ -1,0 +1,19 @@
+# ของส่วนตัว / เฉพาะเครื่อง — ไม่ขึ้น git
+CLAUDE.md
+.superpowers/
+.claude/
+server-data/
+save-backup/
+checkpoints/
+build/
+docs/superpowers/specs/2026-09-30-server-bot-design.md
+
+# ไฟล์ภาษาของเกมทั้งไฟล์ (สร้างใหม่ได้ด้วย py -m tools.extract)
+data/source/
+
+# ฟอนต์ที่ลองเทียบแล้วไม่ได้ใช้
+mod/fonts/cand/
+
+__pycache__/
+*.pyc
+*.lock

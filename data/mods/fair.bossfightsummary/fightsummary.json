@@ -1,0 +1,38 @@
+{
+ "category": "fightsummary",
+ "entries": [
+  {
+   "key": "header",
+   "en": "§aFight Summary for <mob>:",
+   "official": "",
+   "th": "§aสรุปการต่อสู้กับ <mob>:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "unsuccessful",
+   "en": "§aThe fight lasted <time> and reached <percent> health",
+   "official": "",
+   "th": "§aการต่อสู้กินเวลา <time> และลดพลังชีวิตเหลือ <percent>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "successful",
+   "en": "§aThe fight took <time>",
+   "official": "",
+   "th": "§aการต่อสู้ใช้เวลา <time>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "client",
+   "en": "§7<name> did <damage> total damage",
+   "official": "",
+   "th": "§7<name> สร้างความเสียหายรวม <damage>",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,1454 @@
+{
+ "category": "personalities",
+ "entries": [
+  {
+   "key": "personalitiesheader",
+   "en": "Personalities:",
+   "official": "",
+   "th": "นิสัย:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "perqollevel",
+   "en": "Each quality of life level at <quality> or above:",
+   "official": "",
+   "th": "ทุกระดับคุณภาพชีวิตตั้งแต่ <quality> ขึ้นไป:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "atqolrange",
+   "en": "At <low> to <high> quality of life:",
+   "official": "",
+   "th": "เมื่อคุณภาพชีวิต <low> ถึง <high>:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "atqolonly",
+   "en": "At <quality> quality of life:",
+   "official": "",
+   "th": "เมื่อคุณภาพชีวิต <quality>:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "atqolorbetter",
+   "en": "At <quality> or better quality of life:",
+   "official": "",
+   "th": "เมื่อคุณภาพชีวิต <quality> ขึ้นไป:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "currentbonus",
+   "en": "Current bonus:",
+   "official": "",
+   "th": "โบนัสตอนนี้:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nobonus",
+   "en": "No bonus",
+   "official": "",
+   "th": "ไม่มีโบนัส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "elder",
+   "en": "Settlement Elder",
+   "official": "",
+   "th": "ผู้เฒ่าประจำนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "elder_desc",
+   "en": "<name> doesn't do any work or eat any food, but they will always be happy and enjoy life",
+   "official": "",
+   "th": "<name> ไม่ทำงานและไม่กินอาหารเลย แต่จะมีความสุขและสนุกกับชีวิตเสมอ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pawnbroker",
+   "en": "Pawnbroker",
+   "official": "",
+   "th": "ผู้รับจำนำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pawnbroker_desc",
+   "en": "<name> will buy anything from you! Even your old socks! If <name> runs out of money, then they usually find some more after a few days",
+   "official": "",
+   "th": "<name> รับซื้อทุกอย่างจากคุณ! แม้แต่ถุงเท้าเก่า ๆ! ถ้า <name> เงินหมด ปกติอีกไม่กี่วันก็จะหามาได้ใหม่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "exoticmerchant",
+   "en": "Exotic Merchant",
+   "official": "",
+   "th": "พ่อค้าต่างแดน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "exoticmerchant_desc",
+   "en": "<name> sells exclusive goods! You never know what they might bring. As the saying goes... <name> has wares, if you have coin!",
+   "official": "",
+   "th": "<name> ขายสินค้าหายาก! ไม่มีใครรู้ว่าจะขนอะไรมาบ้าง อย่างที่เขาว่ากัน... <name> มีของ ถ้าคุณมีเงิน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlywitch",
+   "en": "Friendly Witch",
+   "official": "",
+   "th": "แม่มดใจดี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlywitch_desc",
+   "en": "<name> doesn't usually keep company, except for her zombies of course! But she'll make an exception for you. If she runs out of potions or doesn't have the ones you're looking for, then you can always come back tomorrow for more!",
+   "official": "",
+   "th": "<name> ปกติไม่ค่อยคบหาใคร ยกเว้นซอมบี้ของตัวเองนะ! แต่ยอมยกเว้นให้คุณ ถ้าน้ำยาหมดหรือไม่มีแบบที่คุณตามหา พรุ่งนี้ค่อยกลับมาใหม่ได้เสมอ!",
+   "status": "new",
+   "note": "เลี่ยงสรรพนาม เธอ"
+  },
+  {
+   "key": "gamedevonnecesse",
+   "en": "Game Developer on Necesse",
+   "official": "",
+   "th": "ผู้พัฒนาเกม Necesse",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gamedevonnecesse_desc",
+   "en": "But wait... How can he be inside the game and ALSO make it?? That's some serious breaking of the 4th wall!",
+   "official": "",
+   "th": "เดี๋ยวนะ... เขาอยู่ในเกมแล้วยังสร้างเกมนี้ด้วยได้ยังไง?? นี่มันทะลุกำแพงที่สี่ชัด ๆ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jogger",
+   "en": "Jogger",
+   "official": "",
+   "th": "นักวิ่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jogger_desc",
+   "en": "<name> has stuff to do and people that need them. They will run faster with each higher quality of life level they are at",
+   "official": "",
+   "th": "<name> มีธุระต้องทำและมีคนที่ต้องการตัว ยิ่งคุณภาพชีวิตสูงขึ้นแต่ละระดับ ก็จะวิ่งได้เร็วขึ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voyager",
+   "en": "Voyager",
+   "official": "",
+   "th": "นักเดินทาง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voyager_desc",
+   "en": "<name> has always been a traveller by heart and through their travels they have learned how to navigate the world more efficiently than anyone else. They will complete missions <percent> faster with each higher quality of life level they are at",
+   "official": "",
+   "th": "<name> เป็นนักเดินทางมาแต่ไหนแต่ไร และจากการเดินทางก็ได้เรียนรู้วิธีท่องโลกได้คล่องกว่าใคร จะทำภารกิจสำเร็จเร็วขึ้น <percent> ในแต่ละระดับคุณภาพชีวิตที่สูงขึ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voyager_current",
+   "en": "<percent> faster missions",
+   "official": "",
+   "th": "ทำภารกิจเร็วขึ้น <percent>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fastworker",
+   "en": "Fast Worker",
+   "official": "",
+   "th": "คนทำงานไว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fastworker_desc",
+   "en": "Having plenty of experience from their previous life, <name> can do tasks faster than others. They will work faster with each higher quality of life level they are at",
+   "official": "",
+   "th": "ด้วยประสบการณ์มากมายจากชีวิตก่อนหน้า <name> จึงทำงานได้เร็วกว่าคนอื่น ยิ่งคุณภาพชีวิตสูงขึ้นแต่ละระดับ ก็จะทำงานเร็วขึ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggestfan",
+   "en": "Biggest Fan",
+   "official": "",
+   "th": "แฟนพันธุ์แท้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggestfan_desc",
+   "en": "<name> is absolutely mesmerised by your big muscles and heroic stance! They will literally pay to watch you slay foes if you bring them along on your adventures. Higher quality of life means more money!",
+   "official": "",
+   "th": "<name> หลงใหลกล้ามโต ๆ และท่วงท่าวีรบุรุษของคุณสุด ๆ! ถ้าพาไปผจญภัยด้วย ถึงกับยอมจ่ายเงินเพื่อดูคุณล้มศัตรูเลยทีเดียว คุณภาพชีวิตยิ่งสูง ยิ่งได้เงินมาก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggestfan_reward",
+   "en": "<value> coins",
+   "official": "",
+   "th": "<value> เหรียญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggestfan_effect",
+   "en": "Regular enemies: <percent> chance for <reward>",
+   "official": "",
+   "th": "ศัตรูทั่วไป: โอกาส <percent> ได้รับ <reward>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggestfan_boss_effect",
+   "en": "Bosses: Guaranteed <reward>",
+   "official": "",
+   "th": "บอส: ได้รับ <reward> แน่นอน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "glyphmaniac",
+   "en": "Glyph Maniac",
+   "official": "",
+   "th": "คลั่งตรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "glyphmaniac_desc",
+   "en": "<name> once ate a weird crystal, which has resulted in them summoning magic glyphs when they sneeze. They will occasionally spawn a random glyph when in combat or in an adventure party. Frequency starts at <seconds> seconds and gets <percent> faster for each quality of life level",
+   "official": "",
+   "th": "<name> เคยกินคริสตัลประหลาดเข้าไป ผลก็คือทุกครั้งที่จามจะอัญเชิญตราเวทมนตร์ออกมา จะสร้างตราแบบสุ่มเป็นครั้งคราวระหว่างต่อสู้หรืออยู่ในปาร์ตี้ผจญภัย ความถี่เริ่มที่ทุก <seconds> วินาที และเร็วขึ้น <percent> ในแต่ละระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": "ปาร์ตี้ผจญภัย ให้ตรง ui"
+  },
+  {
+   "key": "glyphmaniac_current",
+   "en": "Current frequency:",
+   "official": "",
+   "th": "ความถี่ตอนนี้:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "glyphmaniac_effect",
+   "en": "Every <value> seconds",
+   "official": "",
+   "th": "ทุก <value> วินาที",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "inspiring",
+   "en": "Inspiring",
+   "official": "",
+   "th": "สร้างแรงบันดาลใจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "inspiring_desc",
+   "en": "<name> is simply just the best! They will give other settlers they talk to a happiness boost for some time. Bonus starts at <value> happiness and increases with <percent> for each quality of life level",
+   "official": "",
+   "th": "<name> คือที่สุดแล้ว! ชาวนิคมคนอื่นที่ได้คุยด้วยจะมีความสุขเพิ่มขึ้นชั่วคราว โบนัสเริ่มที่ความสุข <value> และเพิ่มขึ้น <percent> ในแต่ละระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "inspiring_effect",
+   "en": "<value> happiness boost",
+   "official": "",
+   "th": "ความสุขเพิ่มขึ้น <value>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "inspiringreceived",
+   "en": "I've had a truly inspiring conversation recently",
+   "official": "",
+   "th": "เพิ่งได้คุยเรื่องที่สร้างแรงบันดาลใจสุด ๆ มา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warrior",
+   "en": "Warrior",
+   "official": "",
+   "th": "นักรบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warrior_desc",
+   "en": "<name> has been brawling ever since they were a kid. As they grew older, fists were replaced with swords and they now excel at melee combat. They will get bonuses based on their quality of life level",
+   "official": "",
+   "th": "<name> ชกต่อยมาตั้งแต่เด็ก พอโตขึ้นก็เปลี่ยนจากกำปั้นเป็นดาบ และตอนนี้เก่งการต่อสู้ระยะประชิดมาก จะได้รับโบนัสตามระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ranger",
+   "en": "Ranger",
+   "official": "",
+   "th": "นักแม่นธนู",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ranger_desc",
+   "en": "<name> feels the wind, breathes, and fires. Because a true marksman, only needs one arrow. They will get bonuses based on their quality of life level",
+   "official": "",
+   "th": "<name> สัมผัสสายลม หายใจ แล้วยิง เพราะนักแม่นธนูตัวจริงใช้ลูกธนูแค่ดอกเดียวก็พอ จะได้รับโบนัสตามระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "summoner",
+   "en": "Summoner",
+   "official": "",
+   "th": "ผู้อัญเชิญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "summoner_desc",
+   "en": "<name> was never any good at making friends. So they summoned their own! Which has resulted in them being an experienced summoner. They will get bonuses based on their quality of life level",
+   "official": "",
+   "th": "<name> ไม่เคยเก่งเรื่องหาเพื่อน เลยอัญเชิญเพื่อนขึ้นมาเองซะเลย! จนกลายเป็นผู้อัญเชิญที่ช่ำชอง จะได้รับโบนัสตามระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "magician",
+   "en": "Magician",
+   "official": "",
+   "th": "นักมายากล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "magician_desc",
+   "en": "<name> once made their pet penguin levitate by waving a stick. Since then they have excelled in the power of magic. They will get bonuses based on their quality of life level.",
+   "official": "",
+   "th": "<name> เคยทำให้สัตว์เลี้ยงเพนกวินลอยได้แค่โบกไม้ ตั้งแต่นั้นก็เชี่ยวชาญพลังเวทมนตร์ จะได้รับโบนัสตามระดับคุณภาพชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "magician_invisible",
+   "en": "Turns invisible and immune to damage for a short duration when hit",
+   "official": "",
+   "th": "เมื่อถูกโจมตี จะล่องหนและไม่รับความเสียหายชั่วครู่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "potionseller",
+   "en": "Potion Seller",
+   "official": "",
+   "th": "คนขายน้ำยา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "potionseller_desc",
+   "en": "<name> always brews an extra potion for people in need. They will have one random potion available to sell for each quality of life level above Low. Their selection will change every day",
+   "official": "",
+   "th": "<name> ต้มน้ำยาเผื่อไว้ให้คนที่ต้องการเสมอ จะมีน้ำยาแบบสุ่มวางขาย 1 ชนิดต่อทุกระดับคุณภาพชีวิตที่สูงกว่า \"ต่ำ\" และสินค้าจะเปลี่ยนทุกวัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "potionsellercurrent",
+   "en": "<number> potion(s) available in shop",
+   "official": "",
+   "th": "มีน้ำยาในร้าน <number> ชนิด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "furnitureenthusiast",
+   "en": "<type> Enthusiast",
+   "official": "",
+   "th": "คนรัก<type>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "furnitureenthusiast_desc",
+   "en": "<name> loves the smell of fresh <type> in the morning. They get a happiness bonus when they have a lot of <type> furniture in their room",
+   "official": "",
+   "th": "<name> ชอบกลิ่น<type>สด ๆ ยามเช้า จะได้รับโบนัสความสุขเมื่อมีเฟอร์นิเจอร์<type>หลายชิ้นในห้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nopreferedfurniture",
+   "en": "I do not have any <type> furniture in my room",
+   "official": "",
+   "th": "ในห้องไม่มีเฟอร์นิเจอร์<type>เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "somepreferedfurniture",
+   "en": "I have some <type> furniture in my room",
+   "official": "",
+   "th": "ในห้องมีเฟอร์นิเจอร์<type>อยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wallarchitect",
+   "en": "<type> Architect",
+   "official": "",
+   "th": "สถาปนิก<type>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wallarchitect_desc",
+   "en": "<name> always dreamt of building a house made entirely of <type>. They get a happiness bonus when their room has some <type> walls and an even bigger bonus if it only has <type> walls",
+   "official": "",
+   "th": "<name> ใฝ่ฝันมาตลอดว่าจะสร้างบ้านจาก<type>ทั้งหลัง จะได้รับโบนัสความสุขเมื่อห้องมีกำแพง<type>อยู่บ้าง และได้โบนัสมากขึ้นอีกถ้าห้องมีแต่กำแพง<type>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nopreferedwalls",
+   "en": "My room have no <type> walls",
+   "official": "",
+   "th": "ห้องไม่มีกำแพง<type>เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "somepreferedwalls",
+   "en": "My room have some <type> walls",
+   "official": "",
+   "th": "ห้องมีกำแพง<type>อยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fullpreferedwalls",
+   "en": "My room is complete with <type> walls",
+   "official": "",
+   "th": "ห้องเป็นกำแพง<type>ทั้งหมดแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "maker",
+   "en": "Maker",
+   "official": "",
+   "th": "นักประดิษฐ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "maker_desc",
+   "en": "<name> is always tinkering with something. They get a happiness bonus when they have many different crafting stations in their room",
+   "official": "",
+   "th": "<name> ชอบซ่อมนั่นทำนี่อยู่เสมอ จะได้รับโบนัสความสุขเมื่อมีโต๊ะประดิษฐ์หลายแบบในห้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nomakerstations",
+   "en": "My room does not have any crafting stations",
+   "official": "",
+   "th": "ในห้องไม่มีโต๊ะประดิษฐ์เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "somemakerstations",
+   "en": "My room has some crafting stations",
+   "official": "",
+   "th": "ในห้องมีโต๊ะประดิษฐ์อยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "beachlover",
+   "en": "Beach Lover",
+   "official": "",
+   "th": "คนรักทะเล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "beachlover_desc",
+   "en": "Living near the water gives <name> tranquility. They will get a happiness bonus when their room is located near water",
+   "official": "",
+   "th": "การได้อยู่ใกล้น้ำทำให้ <name> สงบใจ จะได้รับโบนัสความสุขเมื่อห้องอยู่ใกล้น้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomnotnearwater",
+   "en": "My room is not near any water",
+   "official": "",
+   "th": "ห้องไม่ได้อยู่ใกล้น้ำเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomisnearwater",
+   "en": "My room is placed near water",
+   "official": "",
+   "th": "ห้องอยู่ใกล้น้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomie",
+   "en": "Roomie",
+   "official": "",
+   "th": "รูมเมต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomie_desc",
+   "en": "<name> doesn't mind living with another person. In fact, they prefer it and will get a happiness bonus when they have one other settler living in the same room as them",
+   "official": "",
+   "th": "<name> ไม่ถือเรื่องอยู่ร่วมห้องกับคนอื่น ที่จริงชอบด้วยซ้ำ จะได้รับโบนัสความสุขเมื่อมีชาวนิคมอีกหนึ่งคนอยู่ห้องเดียวกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomnoroomies",
+   "en": "I have no one living in my room",
+   "official": "",
+   "th": "ไม่มีใครอยู่ห้องเดียวกันเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomhasroomie",
+   "en": "I have someone living in my room",
+   "official": "",
+   "th": "มีคนอยู่ห้องเดียวกันด้วย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "roomcrowdedroomie",
+   "en": "There are too many people living in my room",
+   "official": "",
+   "th": "ในห้องมีคนอยู่เยอะเกินไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "favoritedish",
+   "en": "Favorite Dish",
+   "official": "",
+   "th": "อาหารจานโปรด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "favoritedish_desc",
+   "en": "<name> enjoys eating <dish> and will never get tired of eating it. They get an extra happiness bonus when they eat it as well",
+   "official": "",
+   "th": "<name> ชอบกิน<dish> และไม่มีวันเบื่อ เมื่อได้กินจะได้รับโบนัสความสุขเพิ่มด้วย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "eatenfavoritedish",
+   "en": "I have recently eaten my favorite dish",
+   "official": "",
+   "th": "เพิ่งได้กินอาหารจานโปรด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nothadfavoritedish",
+   "en": "I've not had my favorite dish recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้กินอาหารจานโปรดเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "artconnoisseur",
+   "en": "Art Connoisseur",
+   "official": "",
+   "th": "นักเสพศิลป์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "artconnoisseur_desc",
+   "en": "<name> doesn't just see the art, they FEEL it. They will get a happiness boost when they have a lot of different paintings in their room",
+   "official": "",
+   "th": "<name> ไม่ได้แค่ดูงานศิลปะ แต่ \"รู้สึก\" ถึงมันด้วย จะได้รับความสุขเพิ่มเมื่อมีภาพวาดหลายแบบในห้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "noartinroom",
+   "en": "I have no paintings in my room",
+   "official": "",
+   "th": "ในห้องไม่มีภาพวาดเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "someartinroom",
+   "en": "I have some paintings in my room",
+   "official": "",
+   "th": "ในห้องมีภาพวาดอยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fashionista",
+   "en": "Fashionista",
+   "official": "",
+   "th": "สายแฟชั่น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fashionista_desc",
+   "en": "<name> just has a bit more style than everyone else. They would like to have a full set of cosmetic armor equipped different from their normal armor set",
+   "official": "",
+   "th": "<name> มีสไตล์กว่าคนอื่นนิดหน่อย อยากสวมชุดแฟชั่นครบเซ็ตที่ต่างจากชุดเกราะปกติ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hascosmeticset",
+   "en": "I have a full cosmetic set equipped",
+   "official": "",
+   "th": "สวมชุดแฟชั่นครบเซ็ตแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "missingcosmeticset",
+   "en": "I am missing some pieces in my cosmetic set",
+   "official": "",
+   "th": "ชุดแฟชั่นยังขาดบางชิ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "audiophile",
+   "en": "Audiophile",
+   "official": "",
+   "th": "คนรักเสียงเพลง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "audiophile_desc",
+   "en": "<name> needs to bust a move every now and then. They would like to have a music player and vinyls in their room",
+   "official": "",
+   "th": "<name> ต้องได้ขยับแข้งขยับขาบ้างเป็นครั้งคราว อยากมีเครื่องเล่นเพลงและแผ่นเสียงในห้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hasmusicplayer",
+   "en": "I have a music player in my room",
+   "official": "",
+   "th": "ในห้องมีเครื่องเล่นเพลง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "missingmusicplayer",
+   "en": "I am missing a music player in my room",
+   "official": "",
+   "th": "ในห้องยังไม่มีเครื่องเล่นเพลง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "novinyls",
+   "en": "I have no vinyls in my room",
+   "official": "",
+   "th": "ในห้องไม่มีแผ่นเสียงเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "somevinyls",
+   "en": "I have some vinyls in my room",
+   "official": "",
+   "th": "ในห้องมีแผ่นเสียงอยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologist",
+   "en": "Ecologist",
+   "official": "",
+   "th": "นักนิเวศวิทยา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologist_desc",
+   "en": "<name> loves the feeling of grass between their toes. They get a happiness bonus when their room is filled with plants and the floor is completely organic",
+   "official": "",
+   "th": "<name> ชอบความรู้สึกของหญ้าระหว่างนิ้วเท้า จะได้รับโบนัสความสุขเมื่อห้องเต็มไปด้วยต้นไม้และพื้นเป็นวัสดุธรรมชาติทั้งหมด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologistsolidfloor",
+   "en": "My room has non-organic floors in it",
+   "official": "",
+   "th": "ห้องมีพื้นที่ไม่ใช่วัสดุธรรมชาติ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologistorganicfloor",
+   "en": "My room has a completely organic floor",
+   "official": "",
+   "th": "พื้นห้องเป็นวัสดุธรรมชาติทั้งหมด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologistnoplant",
+   "en": "My room has no plants in it",
+   "official": "",
+   "th": "ในห้องไม่มีต้นไม้เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ecologistsomeplants",
+   "en": "My room has some plants in it",
+   "official": "",
+   "th": "ในห้องมีต้นไม้อยู่บ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "clumsy",
+   "en": "Clumsy",
+   "official": "",
+   "th": "ซุ่มซ่าม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "clumsy_desc",
+   "en": "<name> is a bit clumsy, but that's okay. They even get a happiness bonus because of it. They will damage furniture in their room over time, eventually ending up getting a negative thought for each broken piece",
+   "official": "",
+   "th": "<name> ซุ่มซ่ามไปหน่อย แต่ไม่เป็นไร ยังได้โบนัสความสุขจากเรื่องนี้ด้วย จะทำเฟอร์นิเจอร์ในห้องเสียหายไปเรื่อย ๆ และสุดท้ายจะเกิดความคิดแง่ลบจากของที่พังแต่ละชิ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "clumsyhappy",
+   "en": "I enjoy my clumsy life",
+   "official": "",
+   "th": "ชีวิตซุ่มซ่าม ๆ แบบนี้ก็สนุกดี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "clumsyunhappy",
+   "en": "I have broken furniture in my room",
+   "official": "",
+   "th": "ในห้องมีเฟอร์นิเจอร์พัง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "indoorsy",
+   "en": "Indoorsy",
+   "official": "",
+   "th": "ชอบอยู่ในร่ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "indoorsy_desc",
+   "en": "<name> once got struck by lightning and lived! But since then they prefer working indoors and will get a happiness boost for doing indoor jobs",
+   "official": "",
+   "th": "<name> เคยโดนฟ้าผ่าแล้วรอดมาได้! แต่ตั้งแต่นั้นก็ชอบทำงานในร่มมากกว่า และจะได้รับความสุขเพิ่มเมื่อทำงานในร่ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "indoorsyinside",
+   "en": "I have been doing indoor jobs",
+   "official": "",
+   "th": "ช่วงนี้ได้ทำงานในร่ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "indoorsynone",
+   "en": "I haven't been doing any indoor jobs lately",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ทำงานในร่มเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gardener",
+   "en": "Gardener",
+   "official": "",
+   "th": "ชาวสวน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gardener_desc",
+   "en": "<name> has been tending the farm their whole life, and they ain't about to stop now! They enjoy doing farming tasks and will get a happiness boost every time they complete one",
+   "official": "",
+   "th": "<name> ดูแลไร่นามาทั้งชีวิต และไม่คิดจะเลิกตอนนี้หรอก! ชอบทำงานเกษตร และจะได้รับความสุขเพิ่มทุกครั้งที่ทำเสร็จ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gardenertask",
+   "en": "I have been doing farming tasks",
+   "official": "",
+   "th": "ช่วงนี้ได้ทำงานเกษตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gardenernotasks",
+   "en": "I haven't been doing any farming tasks lately",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ทำงานเกษตรเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lumberjack",
+   "en": "Lumberjack",
+   "official": "",
+   "th": "คนตัดไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lumberjack_desc",
+   "en": "<name> likes to chop trees and chew bubblegum. But they're all out of gum. They enjoy doing forestry tasks and will get a happiness boost every time they complete one",
+   "official": "",
+   "th": "<name> ชอบตัดต้นไม้กับเคี้ยวหมากฝรั่ง แต่หมากฝรั่งหมดเกลี้ยงแล้ว ชอบทำงานป่าไม้ และจะได้รับความสุขเพิ่มทุกครั้งที่ทำเสร็จ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lumberjacktask",
+   "en": "I have been doing forestry tasks",
+   "official": "",
+   "th": "ช่วงนี้ได้ทำงานป่าไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lumberjacknotasks",
+   "en": "I haven't been doing any forestry tasks lately",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ทำงานป่าไม้เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "orderly",
+   "en": "Orderly",
+   "official": "",
+   "th": "รักความเป็นระเบียบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "orderly_desc",
+   "en": "<name> likes to keep things neat and organized. They will get a happiness boost when their settlement has all the items in the correct storage chests",
+   "official": "",
+   "th": "<name> ชอบให้ทุกอย่างเรียบร้อยเป็นระเบียบ จะได้รับความสุขเพิ่มเมื่อไอเทมทุกชิ้นในนิคมอยู่ในกล่องเก็บของที่ถูกต้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "orderlyhappy",
+   "en": "The settlement storage is completely organized",
+   "official": "",
+   "th": "ที่เก็บของในนิคมเป็นระเบียบเรียบร้อยดี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "orderlyunhappy",
+   "en": "The settlement storage has items out of place",
+   "official": "",
+   "th": "ที่เก็บของในนิคมมีไอเทมวางผิดที่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bloodthirsty",
+   "en": "Bloodthirsty",
+   "official": "",
+   "th": "กระหายเลือด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bloodthirsty_desc",
+   "en": "<name> wasn't loved enough as a child. They enjoy hurting others and will get a happiness boost when they do damage",
+   "official": "",
+   "th": "<name> ไม่ค่อยได้รับความรักตอนเด็ก ชอบทำร้ายคนอื่น และจะได้รับความสุขเพิ่มเมื่อสร้างความเสียหาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bloodthirstysatisfied",
+   "en": "I have been hurting enemies lately",
+   "official": "",
+   "th": "ช่วงนี้ได้ทำร้ายศัตรูบ้างแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bloodthirstyneeded",
+   "en": "I haven't been hurting any enemies lately",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ทำร้ายศัตรูเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "adventurer",
+   "en": "Adventurer",
+   "official": "",
+   "th": "นักผจญภัย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "adventurer_desc",
+   "en": "<name> used to be an adventurer like you, but then they took an arrow to the knee. Luckily they still get happiness from joining your adventure party, outside the settlement",
+   "official": "",
+   "th": "<name> เคยเป็นนักผจญภัยแบบคุณ จนกระทั่งโดนลูกธนูปักเข่า โชคดีที่ยังมีความสุขเมื่อได้ร่วมปาร์ตี้ผจญภัยของคุณออกไปนอกนิคม",
+   "status": "new",
+   "note": "ปาร์ตี้ผจญภัย ให้ตรง ui"
+  },
+  {
+   "key": "adventurerhappy",
+   "en": "I have been adventuring outside the settlement recently",
+   "official": "",
+   "th": "ช่วงนี้ได้ออกไปผจญภัยนอกนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "adventureridle",
+   "en": "I haven't been adventuring outside the settlement recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ออกไปผจญภัยนอกนิคมเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tourist",
+   "en": "Tourist",
+   "official": "",
+   "th": "นักท่องเที่ยว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tourist_desc",
+   "en": "<name> likes to brag about travelling all the time. They will get a happiness bonus while they are in your adventure party and you're visiting a different settlement or NPC village",
+   "official": "",
+   "th": "<name> ชอบคุยโวเรื่องเที่ยวอยู่ตลอด จะได้รับโบนัสความสุขขณะอยู่ในปาร์ตี้ผจญภัยของคุณและคุณไปเยือนนิคมอื่นหรือหมู่บ้าน NPC",
+   "status": "new",
+   "note": "ปาร์ตี้ผจญภัย ให้ตรง ui"
+  },
+  {
+   "key": "touristhappy",
+   "en": "I have visited another village recently",
+   "official": "",
+   "th": "ช่วงนี้ได้ไปเที่ยวหมู่บ้านอื่นมา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "touristidle",
+   "en": "I haven't visited another village recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ไปเที่ยวหมู่บ้านอื่นเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "collectortakethanks",
+   "en": "Thank you! You can speak to me again if you don't want me to anymore",
+   "official": "",
+   "th": "ขอบคุณนะ! ถ้าไม่อยากให้ทำแบบนี้แล้ว มาคุยกันอีกทีได้เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "collectorstoppedtaking",
+   "en": "Ok, I'll stop taking from storage in the future",
+   "official": "",
+   "th": "โอเค ต่อไปจะไม่หยิบของจากที่เก็บของแล้วนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollector",
+   "en": "Gem Collector",
+   "official": "",
+   "th": "นักสะสมอัญมณี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollector_desc",
+   "en": "<name> is fascinated by shiny minerals, not rocks, minerals. They will get a happiness boost when given a gem as a gift",
+   "official": "",
+   "th": "<name> หลงใหลแร่แวววาว ไม่ใช่ก้อนหินนะ แร่! จะได้รับความสุขเพิ่มเมื่อได้อัญมณีเป็นของขวัญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorreceived",
+   "en": "I've collected a gem recently",
+   "official": "",
+   "th": "เพิ่งได้อัญมณีมาเก็บสะสม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectoridle",
+   "en": "I haven't collected a gem recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้อัญมณีมาเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorhave",
+   "en": "I have a gem for you!",
+   "official": "",
+   "th": "มีอัญมณีมาให้นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorintro",
+   "en": "Thank you! I'm collecting gems!",
+   "official": "",
+   "th": "ขอบคุณ! กำลังสะสมอัญมณีอยู่พอดี!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorgive",
+   "en": "Give gem",
+   "official": "",
+   "th": "ให้อัญมณี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorstart",
+   "en": "Start collecting gems from storage",
+   "official": "",
+   "th": "เริ่มหยิบอัญมณีจากที่เก็บของ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gemcollectorstop",
+   "en": "Stop collecting gems from storage",
+   "official": "",
+   "th": "หยุดหยิบอัญมณีจากที่เก็บของ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollector",
+   "en": "Flower Collector",
+   "official": "",
+   "th": "นักสะสมดอกไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollector_desc",
+   "en": "<name> loves flowers. She even eats them sometimes, hehe. They will get a happiness boost when given a flower as a gift",
+   "official": "",
+   "th": "<name> รักดอกไม้ บางทีถึงขั้นกินเข้าไปด้วย ฮิฮิ จะได้รับความสุขเพิ่มเมื่อได้ดอกไม้เป็นของขวัญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorreceived",
+   "en": "I've collected a flower recently",
+   "official": "",
+   "th": "เพิ่งได้ดอกไม้มาเก็บสะสม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectoridle",
+   "en": "I haven't collected any flowers recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ดอกไม้มาเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorhave",
+   "en": "I have a flower for you!",
+   "official": "",
+   "th": "มีดอกไม้มาให้นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorintro",
+   "en": "Thank you! I'm collecting flowers!",
+   "official": "",
+   "th": "ขอบคุณ! กำลังสะสมดอกไม้อยู่พอดี!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorgive",
+   "en": "Give flower",
+   "official": "",
+   "th": "ให้ดอกไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorstart",
+   "en": "Start collecting flowers from storage",
+   "official": "",
+   "th": "เริ่มหยิบดอกไม้จากที่เก็บของ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "flowercollectorstop",
+   "en": "Stop collecting flowers from storage",
+   "official": "",
+   "th": "หยุดหยิบดอกไม้จากที่เก็บของ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhand",
+   "en": "Hired Hand",
+   "official": "",
+   "th": "ลูกจ้าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhand_desc",
+   "en": "<name> thinks you're great and all, but all this unpaid labour seems illegal. They will get a happiness boost when given coins as a gift",
+   "official": "",
+   "th": "<name> คิดว่าคุณก็ดีอยู่หรอก แต่ทำงานไม่ได้ค่าจ้างแบบนี้มันดูผิดกฎหมายนะ จะได้รับความสุขเพิ่มเมื่อได้เหรียญเป็นของขวัญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandreceived",
+   "en": "I've received payment recently",
+   "official": "",
+   "th": "เพิ่งได้ค่าจ้างมา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandidle",
+   "en": "I haven't received payment recently",
+   "official": "",
+   "th": "ช่วงนี้ไม่ได้ค่าจ้างเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandhave",
+   "en": "I have coins for you!",
+   "official": "",
+   "th": "มีเหรียญมาให้นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandintro",
+   "en": "Fair pay for fair work as I see it! Hand it over!",
+   "official": "",
+   "th": "ทำงานดีก็ต้องได้ค่าจ้างที่คุ้มสิ! ส่งมาเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandgive",
+   "en": "Give coins",
+   "official": "",
+   "th": "ให้เหรียญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandstart",
+   "en": "Start paying yourself with coins from storage",
+   "official": "",
+   "th": "เริ่มหยิบเหรียญจากที่เก็บของเป็นค่าจ้างเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hiredhandstop",
+   "en": "Stop paying yourself with coins from storage",
+   "official": "",
+   "th": "หยุดหยิบเหรียญจากที่เก็บของเป็นค่าจ้างเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vengeful",
+   "en": "Vengeful",
+   "official": "",
+   "th": "อาฆาตแค้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vengeful_desc",
+   "en": "<name> secretly thinks it's sorta of cool having an edgy and vengeful backstory. They will get a happiness boost for a while after the settlement is raided",
+   "official": "",
+   "th": "<name> แอบคิดว่าการมีอดีตดาร์ก ๆ แบบคนอาฆาตแค้นมันก็เท่ดีเหมือนกัน จะได้รับความสุขเพิ่มชั่วคราวหลังนิคมถูกรุกราน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vengefulhappy",
+   "en": "I can handle a few raiders",
+   "official": "",
+   "th": "ผู้รุกรานไม่กี่คน จัดการได้สบาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "expeditioner",
+   "en": "Expeditioner",
+   "official": "",
+   "th": "นักสำรวจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "expeditioner_desc",
+   "en": "<name> used to run away from home a lot as a kid. They will get a happiness boost for a while after being sent on an mission",
+   "official": "",
+   "th": "<name> ชอบหนีออกจากบ้านบ่อย ๆ ตอนเด็ก จะได้รับความสุขเพิ่มชั่วคราวหลังถูกส่งไปทำภารกิจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "expeditioner_happy",
+   "en": "I went on a mission recently",
+   "official": "",
+   "th": "เพิ่งได้ไปทำภารกิจมา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "expeditioner_unhappy",
+   "en": "I haven't been on a mission in a while",
+   "official": "",
+   "th": "ไม่ได้ไปทำภารกิจมานานแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pacifist",
+   "en": "Pacifist",
+   "official": "",
+   "th": "รักสันติ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pacifist_desc",
+   "en": "<name> just goes with the flow man, make love, not war. They are happier when they haven't fought in a while, but they become very upset if they have to fight",
+   "official": "",
+   "th": "<name> ใช้ชีวิตชิล ๆ ไปตามน้ำ รักกันดีกว่ารบกัน จะมีความสุขมากขึ้นเมื่อไม่ได้สู้มาสักพัก แต่จะไม่พอใจมากถ้าต้องสู้",
+   "status": "new",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "pacifisthappy",
+   "en": "I enjoy my peaceful way of life",
+   "official": "",
+   "th": "ชอบชีวิตสงบสุขแบบนี้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pacifistunhappy",
+   "en": "I never want to fight again",
+   "official": "",
+   "th": "ไม่อยากสู้อีกแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedout",
+   "en": "Stressed Out",
+   "official": "",
+   "th": "เครียดง่าย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedout_desc",
+   "en": "<name> used to be a lazy teenager which has resulted in them getting easily overworked. Every <value> days they will take the day off to relax",
+   "official": "",
+   "th": "<name> เคยเป็นวัยรุ่นขี้เกียจ เลยทำงานหนักไม่ค่อยไหว ทุก ๆ <value> วันจะขอหยุดพักผ่อนหนึ่งวัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedoutnext",
+   "en": "Taking the day off <when>",
+   "official": "",
+   "th": "หยุดพัก <when>",
+   "status": "new",
+   "note": "เว้นวรรครอบตัวแปร"
+  },
+  {
+   "key": "stressedoutnow",
+   "en": "today",
+   "official": "",
+   "th": "วันนี้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedoutsoon",
+   "en": "in <value> day(s)",
+   "official": "",
+   "th": "ในอีก <value> วัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedouthappy",
+   "en": "I'm happy working at my own pace",
+   "official": "",
+   "th": "มีความสุขที่ได้ทำงานตามจังหวะของตัวเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "stressedoutidle",
+   "en": "Taking the day off",
+   "official": "",
+   "th": "วันนี้ขอหยุดพัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "persistent",
+   "en": "Persistent",
+   "official": "",
+   "th": "ไม่ยอมแพ้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "persistent_desc",
+   "en": "<name> gets knocked down, but they get up again! They will fully heal if they would die an amount of times based on their quality of life level. Resets every hour",
+   "official": "",
+   "th": "<name> ล้มแล้วก็ลุกขึ้นใหม่ได้! เมื่อโดนโจมตีจนจะตาย จะฟื้นพลังชีวิตเต็มหลอดแทน ได้หลายครั้งตามระดับคุณภาพชีวิต รีเซ็ตทุกชั่วโมง",
+   "status": "new",
+   "note": "อ่านเข้าใจยาก"
+  },
+  {
+   "key": "persistent_effect",
+   "en": "Can survive <value> killing blow(s)",
+   "official": "",
+   "th": "รอดจากการโจมตีปลิดชีพได้ <value> ครั้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weatherbound",
+   "en": "Weather-Bound",
+   "official": "",
+   "th": "อารมณ์ตามฟ้าฝน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weatherbound_desc",
+   "en": "<name> is one of those people who seem to think that their mood changes with the weather. They will get a happiness boost when the weather is sunny, but will lose it when it is raining or snowing",
+   "official": "",
+   "th": "<name> เป็นคนประเภทที่เชื่อว่าอารมณ์เปลี่ยนตามสภาพอากาศ จะได้รับความสุขเพิ่มเมื่อแดดออก แต่จะหายไปเมื่อฝนตกหรือหิมะตก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weatherboundclear",
+   "en": "I love the weather today! Nice and sunny",
+   "official": "",
+   "th": "ชอบอากาศวันนี้จัง! แดดดีสดใส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "weatherboundrain",
+   "en": "I don't like it when the weather is like this! It makes me feel gloomy",
+   "official": "",
+   "th": "ไม่ชอบอากาศแบบนี้เลย! ทำให้รู้สึกหม่นหมอง",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,110 @@
+{
+ "category": "runestutorialbook",
+ "entries": [
+  {
+   "key": "openheader",
+   "en": "Opening the Runes Injector",
+   "official": "การเปิดเครื่องฉีดรูน",
+   "th": "เปิดเครื่องฉีดรูน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "opentext",
+   "en": "To make use of runes, you'll need a Runes Injector. These special devices can be opened to insert runes. Each injector has one slot for a Base Rune and multiple slots for Modifier Runes, depending on its capacity. You're free to add as many Modifier Runes as the injector allows, experiment to find the best combinations!",
+   "official": "ในการใช้รูน คุณจะต้องมีเครื่องฉีดรูน อุปกรณ์พิเศษเหล่านี้สามารถเปิดเพื่อใส่รูนได้ เครื่องฉีดแต่ละเครื่องมีช่องสำหรับรูนพื้นฐานหนึ่งช่องและช่องสำหรับรูนดัดแปลงหลายช่อง ขึ้นอยู่กับความจุของมัน คุณสามารถเพิ่มรูนดัดแปลงได้มากเท่าที่เครื่องฉีดอนุญาต ทดลองเพื่อค้นหาส่วนผสมที่ดีที่สุด!",
+   "th": "การจะใช้รูนได้ คุณต้องมีเครื่องฉีดรูน อุปกรณ์พิเศษนี้เปิดออกเพื่อใส่รูนได้ เครื่องฉีดแต่ละเครื่องมีช่องสำหรับรูนพื้นฐาน 1 ช่อง และช่องสำหรับรูนดัดแปลงหลายช่องตามความจุ คุณใส่รูนดัดแปลงได้มากเท่าที่เครื่องฉีดรองรับ ลองทดลองหาชุดผสมที่ดีที่สุดดูสิ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "equipheader",
+   "en": "Equipping the Injector",
+   "official": "การติดตั้งเครื่องฉีด",
+   "th": "สวมใส่เครื่องฉีด",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "equiptext",
+   "en": "To activate your runes, the Runes Injector must be equipped in a Trinkets slot. Once equipped, simply press G (or the key assigned in settings) to trigger its effects. Make sure the injector is properly configured and ready before jumping into action!",
+   "official": "ในการเปิดใช้งานรูนของคุณ เครื่องฉีดรูนจะต้องติดตั้งในช่องเครื่องประดับ เมื่อติดตั้งแล้ว เพียงกด G (หรือปุ่มที่กำหนดในการตั้งค่า) เพื่อเรียกใช้เอฟเฟกต์ของมัน ตรวจสอบให้แน่ใจว่าเครื่องฉีดได้รับการกำหนดค่าอย่างถูกต้องและพร้อมก่อนที่จะลงมือ!",
+   "th": "การจะใช้พลังรูน ต้องสวมเครื่องฉีดรูนไว้ในช่องเครื่องประดับ เมื่อสวมแล้วเพียงกด G (หรือปุ่มที่ตั้งไว้ในการตั้งค่า) เพื่อใช้ผลของมัน ตรวจดูให้แน่ใจว่าจัดเครื่องฉีดไว้เรียบร้อยก่อนลุยจริง!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "runesheader",
+   "en": "What Are Runes?",
+   "official": "รูนคืออะไร",
+   "th": "รูนคืออะไร?",
+   "status": "fixed",
+   "note": "เครื่องหมายคำถาม"
+  },
+  {
+   "key": "runestext",
+   "en": "Runes are mystical stones that provide powerful effects when inserted into a Runes Injector. Their strength and behavior depend on how they're combined, mastering their use is key to unlocking your full potential.",
+   "official": "รูนเป็นหินลึกลับที่ให้ผลกระทบอันทรงพลังเมื่อใส่เข้าไปในเครื่องฉีดรูน ความแข็งแกร่งและพฤติกรรมของพวกมันขึ้นอยู่กับวิธีการรวมกัน การเรียนรู้การใช้งานของพวกมันเป็นกุญแจสำคัญในการปลดปล่อยศักยภาพสูงสุดของคุณ",
+   "th": "รูนคือศิลาลึกลับที่ให้ผลอันทรงพลังเมื่อใส่ลงในเครื่องฉีดรูน พลังและพฤติกรรมของมันขึ้นอยู่กับวิธีผสมผสาน การใช้รูนให้เชี่ยวชาญคือกุญแจสู่ศักยภาพสูงสุดของคุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "baserunesheader",
+   "en": "Base Runes",
+   "official": "รูนพื้นฐาน",
+   "th": "รูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "baserunestext",
+   "en": "Every Runes Injector requires exactly one Base Rune to function. The Base Rune defines the main effect of the injector and acts as the core of your setup. You'll notice a green number next to the effect, this represents its effect value, which can be increased or decreased with modifiers.",
+   "official": "เครื่องฉีดรูนแต่ละเครื่องต้องการรูนพื้นฐานเพียงอันเดียวในการทำงาน รูนพื้นฐานจะกำหนดเอฟเฟกต์หลักของเครื่องฉีดและทำหน้าที่เป็นแกนหลักของการตั้งค่าของคุณ คุณจะสังเกตเห็นตัวเลขสีเขียวถัดจากเอฟเฟกต์ ซึ่งแสดงถึงค่าเอฟเฟกต์ของมัน ซึ่งสามารถเพิ่มหรือลดได้ด้วยตัวดัดแปลง",
+   "th": "เครื่องฉีดรูนทุกเครื่องต้องมีรูนพื้นฐาน 1 อันพอดีจึงจะทำงาน รูนพื้นฐานกำหนดผลหลักของเครื่องฉีดและเป็นแกนของชุดรูนทั้งหมด คุณจะเห็นตัวเลขสีเขียวข้างผล ซึ่งคือค่าของผลนั้น ค่านี้เพิ่มหรือลดได้ด้วยรูนดัดแปลง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "modifierrunesheader",
+   "en": "Modifier Runes",
+   "official": "รูนดัดแปลง",
+   "th": "รูนดัดแปลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modifierrunestext",
+   "en": "Modifier Runes are used to customize and enhance the effect of your Base Rune. They can tweak the effect value, change how it behaves, or add special properties. However, Modifier Runes always come with trade-offs: no modifier is purely beneficial, so choose wisely!",
+   "official": "รูนดัดแปลงใช้เพื่อปรับแต่งและเพิ่มประสิทธิภาพของรูนพื้นฐานของคุณ พวกมันสามารถปรับเปลี่ยนค่าเอฟเฟกต์ เปลี่ยนพฤติกรรม หรือเพิ่มคุณสมบัติพิเศษได้ อย่างไรก็ตาม รูนดัดแปลงมักมาพร้อมกับการแลกเปลี่ยน: ไม่มีตัวดัดแปลงใดที่เป็นประโยชน์อย่างแท้จริง ดังนั้นควรเลือกอย่างชาญฉลาด!",
+   "th": "รูนดัดแปลงใช้ปรับแต่งและเสริมผลของรูนพื้นฐาน อาจปรับค่าผล เปลี่ยนวิธีทำงาน หรือเพิ่มคุณสมบัติพิเศษ แต่รูนดัดแปลงมีข้อเสียเสมอ ไม่มีรูนดัดแปลงไหนให้แต่ข้อดี จึงควรเลือกให้ดี!",
+   "status": "fixed",
+   "note": "ความหมายผิด (ไม่มีตัวใดดีล้วน)"
+  },
+  {
+   "key": "tableheader",
+   "en": "The Runes Table",
+   "official": "โต๊ะรูน",
+   "th": "โต๊ะรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tabletext",
+   "en": "The Runes Table is your go-to station for crafting a wide variety of runes. Most standard runes can be made here, but remember: some powerful runes can only be found through exploration. Keep your eyes open, adventure rewards the curious!",
+   "official": "โต๊ะรูนเป็นสถานีที่คุณสามารถสร้างรูนได้หลากหลายชนิด รูนมาตรฐานส่วนใหญ่สามารถสร้างได้ที่นี่ แต่จำไว้ว่า: รูนที่ทรงพลังบางอันสามารถพบได้จากการสำรวจเท่านั้น จับตาดูให้ดี การผจญภัยให้รางวัลแก่ผู้ที่อยากรู้อยากเห็น!",
+   "th": "โต๊ะรูนคือที่ประจำสำหรับประดิษฐ์รูนหลากหลายชนิด รูนทั่วไปส่วนใหญ่ทำได้ที่นี่ แต่จำไว้ว่ารูนทรงพลังบางชนิดหาได้จากการสำรวจเท่านั้น คอยสังเกตให้ดี การผจญภัยให้รางวัลแก่ผู้ช่างสงสัย!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ประดิษฐ์) + ลื่นขึ้น"
+  },
+  {
+   "key": "crafttext",
+   "en": "In Rune Workshop, you'll find everything you need to get started. Combine the contents with your Initial Rune and a Base Rune you can craft in the Runes Table, and you'll have a fully functional Runes Injector ready to equip!",
+   "official": "ในเวิร์กช็อปรูน คุณจะพบทุกสิ่งที่คุณต้องการในการเริ่มต้น รวมเนื้อหากับรูนเริ่มต้นของคุณและรูนพื้นฐานที่คุณสามารถสร้างได้ที่โต๊ะรูน และคุณจะมีเครื่องฉีดรูนที่ใช้งานได้อย่างสมบูรณ์พร้อมที่จะติดตั้ง!",
+   "th": "ในเวิร์กช็อปรูน คุณจะพบทุกอย่างที่ต้องใช้ในการเริ่มต้น นำของข้างในมารวมกับรูนเริ่มต้นและรูนพื้นฐานที่ประดิษฐ์ได้ที่โต๊ะรูน แล้วคุณจะได้เครื่องฉีดรูนที่พร้อมสวมใส่!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  }
+ ],
+ "removed": []
+}

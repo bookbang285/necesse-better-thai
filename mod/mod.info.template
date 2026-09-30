@@ -1,0 +1,10 @@
+{{
+	id = {modid},
+	name = {name},
+	version = {version},
+	gameVersion = {gameVersion},
+	author = {author},
+	description = {description},
+	clientside = true,
+	optionalDependencies = [{optional}]
+}}

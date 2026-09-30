@@ -1,0 +1,206 @@
+{
+ "category": "itemtooltip",
+ "entries": [
+  {
+   "key": "emptypendanttip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "piratesheathtip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wizardsockettip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_evilsprotectortip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_queenspidertip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_swampguardiantip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_ancientvulturetip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_piratecaptaintip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_reapertip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_cryoqueentip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_thecursedcronetip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_pestwardentip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_sageandgrittip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_motherslimetip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_nightswarmtip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_1tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_2tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_3tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_4tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_5tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_6tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_7tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_8tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_genericitem_9tip",
+   "en": "Permanently increases max trinkets",
+   "official": "",
+   "th": "เพิ่มจำนวนช่องเครื่องประดับสูงสุดถาวร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moretrinketslots_testswordtip",
+   "en": "Dev sword used to test boss drops",
+   "official": "",
+   "th": "ดาบของผู้พัฒนา ใช้ทดสอบของดรอปจากบอส",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

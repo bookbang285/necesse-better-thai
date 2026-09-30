@@ -1,0 +1,38 @@
+{
+ "category": "tile",
+ "entries": [
+  {
+   "key": "geltile",
+   "en": "Gel Floor",
+   "official": "พื้นเจล",
+   "th": "พื้นเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedwatertile",
+   "en": "Infected Water",
+   "official": "น้ำที่ติดเชื้อ",
+   "th": "น้ำติดเชื้อ",
+   "status": "fixed",
+   "note": "ตัด ที่ ตามคลัง"
+  },
+  {
+   "key": "infectedgrasstile",
+   "en": "Infected Grass",
+   "official": "หญ้าที่ติดเชื้อ",
+   "th": "หญ้าติดเชื้อ",
+   "status": "fixed",
+   "note": "ตัด ที่ ตามคลัง"
+  },
+  {
+   "key": "spinelgravel",
+   "en": "Spinel Gravel",
+   "official": "กรวดสปิเนล",
+   "th": "กรวดสปิเนล",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

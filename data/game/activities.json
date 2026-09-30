@@ -1,0 +1,326 @@
+{
+ "category": "activities",
+ "entries": [
+  {
+   "key": "unknown",
+   "en": "Unknown",
+   "official": "ไม่ทราบ",
+   "th": "ไม่ทราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unknownactivity",
+   "en": "Unknown activity",
+   "official": "",
+   "th": "กิจกรรมที่ไม่ทราบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "idle",
+   "en": "Idle",
+   "official": "นิ่งเฉย",
+   "th": "ว่างงาน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "onstrike",
+   "en": "On strike",
+   "official": "ประท้วง",
+   "th": "กำลังประท้วง",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "inventoryfull",
+   "en": "Has a full inventory",
+   "official": "ถือของจนเต็มสองมือ",
+   "th": "ช่องเก็บของเต็ม",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "hunting",
+   "en": "Hunting <target>",
+   "official": "กำลังล่า <target>",
+   "th": "กำลังล่า <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slaughtering",
+   "en": "Slaughtering <target>",
+   "official": "กำลังเชือด <target>",
+   "th": "กำลังเชือด <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pickingup",
+   "en": "Picking up <item> from <target>",
+   "official": "กำลังเก็บ <item> จาก <target>",
+   "th": "กำลังเก็บ <item> จาก <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "theground",
+   "en": "the ground",
+   "official": "พื้น",
+   "th": "พื้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "droppingoff",
+   "en": "Dropping off <item> at <target>",
+   "official": "กำลังใส่ <item> เข้าไปใน <target>",
+   "th": "กำลังนำ <item> ไปวางที่ <target>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "droppingoffinv",
+   "en": "Dropping off inventory",
+   "official": "กำลังย้ายของลงที่เก็บของ",
+   "th": "กำลังนำของไปเก็บ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "hauling",
+   "en": "Hauling <item> from <target>",
+   "official": "กำลังย้าย <item> จาก <target>",
+   "th": "กำลังขน <item> จาก <target>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "equipping",
+   "en": "Equipping <item>",
+   "official": "กำลังสวมใส่ <item>",
+   "th": "กำลังสวมใส่ <item>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "harvesting",
+   "en": "Harvesting <target>",
+   "official": "กำลังเก็บเกี่ยว <target>",
+   "th": "กำลังเก็บเกี่ยว <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "consuming",
+   "en": "Consuming <item>",
+   "official": "กำลังกิน <item>",
+   "th": "กำลังกิน <item>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "planting",
+   "en": "Planting <item>",
+   "official": "กำลังปลูก <item>",
+   "th": "กำลังปลูก <item>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "milking",
+   "en": "Milking <target>",
+   "official": "กำลังรีดนม <target>",
+   "th": "กำลังรีดนม <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shearing",
+   "en": "Shearing <target>",
+   "official": "กำลังตัดขน <target>",
+   "th": "กำลังตัดขน <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crafting",
+   "en": "Crafting <item> at <target>",
+   "official": "กำลังประดิษฐ์ <item> ที่ <target>",
+   "th": "กำลังประดิษฐ์ <item> ที่ <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishing",
+   "en": "Fishing",
+   "official": "กำลังตกปลา",
+   "th": "กำลังตกปลา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fertilizing",
+   "en": "Fertilizing <target>",
+   "official": "กำลังใส่ปุ๋ย <target>",
+   "th": "กำลังใส่ปุ๋ย <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fillingapiary",
+   "en": "Filling apiary frame",
+   "official": "เติมกรอบเลี้ยงผึ้ง",
+   "th": "กำลังเติมกรอบเลี้ยงผึ้ง",
+   "status": "fixed",
+   "note": "สม่ำเสมอ · ชื่อตาม item: Apiary Frame"
+  },
+  {
+   "key": "chopping",
+   "en": "Chopping down <target>",
+   "official": "กำลังตัด <target>",
+   "th": "กำลังโค่น <target>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "attacking",
+   "en": "Attacking <target>",
+   "official": "กำลังโจมตี <target>",
+   "th": "กำลังโจมตี <target>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "movingtoposition",
+   "en": "Moving to position",
+   "official": "กำลังไปตรงนั้น",
+   "th": "กำลังไปยังตำแหน่ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "watchingfortargets",
+   "en": "Watching for targets",
+   "official": "กำลังมองหาเป้าหมาย",
+   "th": "กำลังเฝ้าระวังเป้าหมาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "following",
+   "en": "Following <target>",
+   "official": "กำลังตาม <target>",
+   "th": "กำลังติดตาม <target>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "resting",
+   "en": "Resting",
+   "official": "กำลังนอน",
+   "th": "กำลังพักผ่อน",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "hiding",
+   "en": "Hiding",
+   "official": "กำลังซ่อนตัว",
+   "th": "กำลังซ่อนตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onmission",
+   "en": "On a mission",
+   "official": "กำลังทำภารกิจ",
+   "th": "กำลังทำภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onmissiontype",
+   "en": "On <mission>",
+   "official": "กำลังทำ <mission>",
+   "th": "กำลังทำ <mission>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goingmission",
+   "en": "Going on <mission>",
+   "official": "กำลังไปทำ <mission>",
+   "th": "กำลังไปทำ <mission>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gazing",
+   "en": "Gazing",
+   "official": "",
+   "th": "กำลังเหม่อมอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "enjoyingart",
+   "en": "Enjoying art",
+   "official": "",
+   "th": "กำลังชื่นชมงานศิลปะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "listeningtomusic",
+   "en": "Listening to music",
+   "official": "",
+   "th": "กำลังฟังเพลง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "chatting",
+   "en": "Chatting with <target>",
+   "official": "",
+   "th": "กำลังคุยกับ <target>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "relaxing",
+   "en": "Relaxing at <target>",
+   "official": "",
+   "th": "กำลังพักผ่อนที่ <target>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jogging",
+   "en": "Jogging",
+   "official": "",
+   "th": "กำลังวิ่งเหยาะ ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "usingcollector",
+   "en": "Using <item> for <personality>",
+   "official": "",
+   "th": "กำลังใช้ <item> ตามนิสัย <personality>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "downed",
+   "en": "Downed",
+   "official": "ล้มลง",
+   "th": "หมดสติ",
+   "status": "fixed",
+   "note": "สม่ำเสมอกับ revival"
+  }
+ ],
+ "removed": []
+}

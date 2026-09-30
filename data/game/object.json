@@ -1,0 +1,7070 @@
+{
+ "category": "object",
+ "entries": [
+  {
+   "key": "object",
+   "en": "Object",
+   "official": "วัตถุ",
+   "th": "วัตถุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "air",
+   "en": "Air",
+   "official": "อากาศ",
+   "th": "อากาศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oaktree",
+   "en": "Oak Tree",
+   "official": "ต้นโอ๊ก",
+   "th": "ต้นโอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oaktreestump",
+   "en": "Oak Tree Stump",
+   "official": "ตอไม้โอ๊ค",
+   "th": "ตอไม้โอ๊ก",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับต้นโอ๊ก"
+  },
+  {
+   "key": "oaksapling",
+   "en": "Oak Sapling",
+   "official": "ต้นอ่อน ของต้นโอ๊ก",
+   "th": "ต้นกล้าโอ๊ก",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "sprucetree",
+   "en": "Spruce Tree",
+   "official": "ต้นสปรูซ",
+   "th": "ต้นสปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucetreestump",
+   "en": "Spruce Tree Stump",
+   "official": "ตอไม้สปรูซ",
+   "th": "ตอไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucelogbench",
+   "en": "Spruce Log Bench",
+   "official": "ม้านั่งไม้สน",
+   "th": "ม้านั่งไม้สปรูซ",
+   "status": "fixed",
+   "note": "Spruce ไม่ใช่ไม้สน"
+  },
+  {
+   "key": "sprucesapling",
+   "en": "Spruce Sapling",
+   "official": "ต้นอ่อน ของต้นสปรูซ",
+   "th": "ต้นกล้าสปรูซ",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "pinetree",
+   "en": "Pine Tree",
+   "official": "ต้นสน",
+   "th": "ต้นสน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinesapling",
+   "en": "Pine Sapling",
+   "official": "ต้นอ่อน ของต้นสน",
+   "th": "ต้นกล้าสน",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "palmtree",
+   "en": "Palm Tree",
+   "official": "ต้นปาล์ม",
+   "th": "ต้นปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmsapling",
+   "en": "Palm Sapling",
+   "official": "ต้นอ่อน ของต้นปาล์ม",
+   "th": "ต้นกล้าปาล์ม",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "willowtree",
+   "en": "Willow Tree",
+   "official": "ต้นหลิว",
+   "th": "ต้นหลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowtreestump",
+   "en": "Willow Tree Stump",
+   "official": "ตอไม้ต้นหลิว",
+   "th": "ตอไม้ต้นหลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowsapling",
+   "en": "Willow Sapling",
+   "official": "ต้นอ่อน ของต้นหลิว",
+   "th": "ต้นกล้าหลิว",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "willowlogbench",
+   "en": "Willow Log Bench",
+   "official": "ม้านั่งไม้หลิว",
+   "th": "ม้านั่งไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cavemapletree",
+   "en": "Cave Maple Tree",
+   "official": "ต้นเมเปิลถ้ำ",
+   "th": "ต้นเมเปิ้ลถ้ำ",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เมเปิ้ล"
+  },
+  {
+   "key": "cavemaplesapling",
+   "en": "Cave Maple Sapling",
+   "official": "ต้นอ่อน ของต้นเมเปิลถ้ำ",
+   "th": "ต้นกล้าเมเปิ้ลถ้ำ",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "mapletree",
+   "en": "Maple Tree",
+   "official": "ต้นเมเปิ้ล",
+   "th": "ต้นเมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplesapling",
+   "en": "Maple Sapling",
+   "official": "ต้นอ่อน ของต้นเมเปิ้ล",
+   "th": "ต้นกล้าเมเปิ้ล",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "birchtree",
+   "en": "Birch Tree",
+   "official": "ต้นเบิร์ช",
+   "th": "ต้นเบิร์ช",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "birchsapling",
+   "en": "Birch Sapling",
+   "official": "ต้นอ่อน ของต้นเบิร์ช",
+   "th": "ต้นกล้าเบิร์ช",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "cavebirchtree",
+   "en": "Cave Birch Tree",
+   "official": "ต้นเบิร์ชถ้ำ",
+   "th": "ต้นเบิร์ชถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cavebirchsapling",
+   "en": "Cave Birch Sapling",
+   "official": "ต้นอ่อน ของต้นเบิร์ชถ้ำ",
+   "th": "ต้นกล้าเบิร์ชถ้ำ",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "dryadtree",
+   "en": "Dryad Tree",
+   "official": "ต้นดรายแอด",
+   "th": "ต้นดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadsapling",
+   "en": "Dryad Sapling",
+   "official": "ต้นอ่อน ของต้นดรายแอด",
+   "th": "ต้นกล้าดรายแอด",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "dryadtreestump",
+   "en": "Dryad Tree Stump",
+   "official": "ตอไม้ดรายแอด",
+   "th": "ตอไม้ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadlogbench",
+   "en": "Dryad Log Bench",
+   "official": "ม้านั่งไม้ดรายแอด",
+   "th": "ม้านั่งไม้ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bambootree",
+   "en": "Bamboo Tree",
+   "official": "ต้นไผ่",
+   "th": "ต้นไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboosapling",
+   "en": "Bamboo Sapling",
+   "official": "หน่ออ่อนไผ่",
+   "th": "หน่ออ่อนไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboologbench",
+   "en": "Bamboo Log Bench",
+   "official": "ม้านั่งไม้ไผ่",
+   "th": "ม้านั่งไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cactus",
+   "en": "Cactus Tree",
+   "official": "ต้นกระบองเพชร",
+   "th": "ต้นกระบองเพชร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cactussapling",
+   "en": "Cactus",
+   "official": "กระบองเพชรอ่อน",
+   "th": "กระบองเพชรอ่อน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodsapling",
+   "en": "Deadwood Sapling",
+   "official": "ต้นอ่อนเดทวู๊ด",
+   "th": "ต้นกล้าเดดวูด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deadwoodtree",
+   "en": "Deadwood Tree",
+   "official": "ต้นเดทวูด",
+   "th": "ต้นเดดวูด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "burnedtree",
+   "en": "Burned Tree",
+   "official": "",
+   "th": "ต้นไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "burnedtreestump",
+   "en": "Burned Tree Stump",
+   "official": "",
+   "th": "ตอไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "burnedbush",
+   "en": "Burned Bush",
+   "official": "",
+   "th": "พุ่มไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "burnedlogbench",
+   "en": "Burned Log Bench",
+   "official": "",
+   "th": "ม้านั่งไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "appletree",
+   "en": "Apple Tree",
+   "official": "ต้นแอปเปิ้ล",
+   "th": "ต้นแอปเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "applesapling",
+   "en": "Apple Sapling",
+   "official": "ต้นอ่อน ของต้นแอปเปิ้ล",
+   "th": "ต้นกล้าแอปเปิ้ล",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "lemontree",
+   "en": "Lemon Tree",
+   "official": "ต้นเลมอน",
+   "th": "ต้นเลมอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lemonsapling",
+   "en": "Lemon Sapling",
+   "official": "ต้นอ่อน ของต้นเลมอน",
+   "th": "ต้นกล้าเลมอน",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "coconuttree",
+   "en": "Coconut Tree",
+   "official": "ต้นมะพร้าว",
+   "th": "ต้นมะพร้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coconutsapling",
+   "en": "Coconut Sapling",
+   "official": "ต้นอ่อน ของต้นมะพร้าว",
+   "th": "ต้นกล้ามะพร้าว",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "bananatree",
+   "en": "Banana Tree",
+   "official": "ต้นกล้วย",
+   "th": "ต้นกล้วย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bananasapling",
+   "en": "Banana Sapling",
+   "official": "ต้นอ่อน ของต้นกล้วย",
+   "th": "ต้นกล้ากล้วย",
+   "status": "fixed",
+   "note": "ตัดช่องว่าง/กระชับ"
+  },
+  {
+   "key": "blueberrybush",
+   "en": "Blueberry Bush",
+   "official": "พุ่มไม้บลูเบอร์รี่",
+   "th": "พุ่มไม้บลูเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blueberrysapling",
+   "en": "Blueberry Bush Sapling",
+   "official": "ต้นอ่อนบลูเบอร์รี่",
+   "th": "ต้นกล้าบลูเบอร์รี่",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับต้นกล้าอื่น"
+  },
+  {
+   "key": "raspberrybush",
+   "en": "Raspberry Bush",
+   "official": "พุ่มไม้ราสเบอร์รี่",
+   "th": "พุ่มไม้ราสเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raspberrysapling",
+   "en": "Raspberry Bush Sapling",
+   "official": "ต้นอ่อนราสเบอร์รี่",
+   "th": "ต้นกล้าราสเบอร์รี่",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับต้นกล้าอื่น"
+  },
+  {
+   "key": "blackberrybush",
+   "en": "Blackberry Bush",
+   "official": "พุ่มไม้แบล็กเบอร์รี่",
+   "th": "พุ่มไม้แบล็กเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blackberrysapling",
+   "en": "Blackberry Bush Sapling",
+   "official": "ต้นอ่อนแบล็กเบอร์รี่",
+   "th": "ต้นกล้าแบล็กเบอร์รี่",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับต้นกล้าอื่น"
+  },
+  {
+   "key": "workstation",
+   "en": "Workstation",
+   "official": "โต๊ะประดิษฐ์",
+   "th": "โต๊ะประดิษฐ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forge",
+   "en": "Forge",
+   "official": "เตาเผา",
+   "th": "เตาหลอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "carpentersbench",
+   "en": "Carpenters Bench",
+   "official": "โต๊ะงานช่างไม้",
+   "th": "โต๊ะงานช่างไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstencarpentersbench",
+   "en": "Tungsten Carpenters Bench",
+   "official": "โต๊ะงานช่างทังสเตน",
+   "th": "โต๊ะงานช่างไม้ทังสเตน",
+   "status": "fixed",
+   "note": "คำหาย (ช่างไม้)"
+  },
+  {
+   "key": "fallencarpentersbench",
+   "en": "Fallen Carpenters Bench",
+   "official": "โต๊ะงานช่างร้าง",
+   "th": "โต๊ะงานช่างไม้ร้าง",
+   "status": "fixed",
+   "note": "คำหาย (ช่างไม้)"
+  },
+  {
+   "key": "landscapingstation",
+   "en": "Landscaping Station",
+   "official": "โต๊ะภูมิประเทศ",
+   "th": "โต๊ะภูมิประเทศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenlandscapingstation",
+   "en": "Tungsten Landscaping Station",
+   "official": "โต๊ะภูมิประเทศทังสเตน",
+   "th": "โต๊ะภูมิประเทศทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenlandscapingstation",
+   "en": "Fallen Landscaping Station",
+   "official": "โต๊ะภูมิประเทศร้าง",
+   "th": "โต๊ะภูมิประเทศร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironanvil",
+   "en": "Iron Anvil",
+   "official": "ทั่งตีเหล็ก",
+   "th": "ทั่งตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicworkstation",
+   "en": "Demonic Workstation",
+   "official": "โต๊ะประดิษฐ์ปีศาจ",
+   "th": "โต๊ะประดิษฐ์ปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicanvil",
+   "en": "Demonic Anvil",
+   "official": "ทั่งตีเหล็กปีศาจ",
+   "th": "ทั่งตีเหล็กปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemytable",
+   "en": "Alchemy Table",
+   "official": "โต๊ะปรุงยา",
+   "th": "โต๊ะปรุงยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenworkstation",
+   "en": "Tungsten Workstation",
+   "official": "โต๊ะประดิษฐ์ทังสเตน",
+   "th": "โต๊ะประดิษฐ์ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenanvil",
+   "en": "Tungsten Anvil",
+   "official": "ทั่งตีเหล็กทังสเตน",
+   "th": "ทั่งตีเหล็กทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidalchemytable",
+   "en": "Void Alchemy Table",
+   "official": "โต๊ะปรุงยาแห่งความมืด",
+   "th": "โต๊ะปรุงยาแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveglowalchemytable",
+   "en": "Caveglow Alchemy Table",
+   "official": "โต๊ะปรุงยาแห่งแสง",
+   "th": "โต๊ะปรุงยาพืชถ้ำ",
+   "status": "fixed",
+   "note": "Caveglow = พืชถ้ำ ตามชื่อไอเทม"
+  },
+  {
+   "key": "fallenworkstation",
+   "en": "Fallen Workstation",
+   "official": "โต๊ะประดิษฐ์ร้าง",
+   "th": "โต๊ะประดิษฐ์ร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenanvil",
+   "en": "Fallen Anvil",
+   "official": "ทั่งตีเหล็กร้าง",
+   "th": "ทั่งตีเหล็กร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenalchemytable",
+   "en": "Fallen Alchemy Table",
+   "official": "โต๊ะปรุงยาร้าง",
+   "th": "โต๊ะปรุงยาร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodwall",
+   "en": "Wood Wall",
+   "official": "กำแพงไม้",
+   "th": "กำแพงไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wooddoor",
+   "en": "Wood Door",
+   "official": "ประตูไม้",
+   "th": "ประตูไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wooddoorlocked",
+   "en": "Locked Wood Door",
+   "official": "ประตูไม้ล็อค",
+   "th": "ประตูไม้ล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "pinewall",
+   "en": "Pine Wall",
+   "official": "กำแพงไม้สน",
+   "th": "กำแพงไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedoor",
+   "en": "Pine Door",
+   "official": "ประตูไม้สน",
+   "th": "ประตูไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedoorlocked",
+   "en": "Locked Pine Door",
+   "official": "ประตูไม้สนล็อค",
+   "th": "ประตูไม้สนล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "palmwall",
+   "en": "Palm Wall",
+   "official": "กำแพงไม้ปาล์ม",
+   "th": "กำแพงไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdoor",
+   "en": "Palm Door",
+   "official": "ประตูไม้ปาล์ม",
+   "th": "ประตูไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdoorlocked",
+   "en": "Locked Palm Door",
+   "official": "ประตูไม้ปาล์มล็อค",
+   "th": "ประตูไม้ปาล์มล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "willowwall",
+   "en": "Willow Wall",
+   "official": "กำแพงไม้หลิว",
+   "th": "กำแพงไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdoor",
+   "en": "Willow Door",
+   "official": "ประตูไม้หลิว",
+   "th": "ประตูไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdoorlocked",
+   "en": "Locked Willow Door",
+   "official": "ประตูไม้หลิวล็อค",
+   "th": "ประตูไม้หลิวล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "bamboowall",
+   "en": "Bamboo Wall",
+   "official": "กำแพงไม้ไผ่",
+   "th": "กำแพงไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodoor",
+   "en": "Bamboo Door",
+   "official": "ประตูไม้ไผ่",
+   "th": "ประตูไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodoorlocked",
+   "en": "Locked Bamboo Door",
+   "official": "ประตูไม้ไผ่ล็อค",
+   "th": "ประตูไม้ไผ่ล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "dryadwall",
+   "en": "Dryad Wall",
+   "official": "กำแพงไม้แห้ง",
+   "th": "กำแพงไม้ดรายแอด",
+   "status": "fixed",
+   "note": "Dryad ไม่ใช่ไม้แห้ง (คลังศัพท์)"
+  },
+  {
+   "key": "dryaddoor",
+   "en": "Dryad Door",
+   "official": "ประตูไม้แห้ง",
+   "th": "ประตูไม้ดรายแอด",
+   "status": "fixed",
+   "note": "Dryad ไม่ใช่ไม้แห้ง (คลังศัพท์)"
+  },
+  {
+   "key": "dryaddoorlocked",
+   "en": "Locked Dryad Door",
+   "official": "ประตูไม้แห้งล็อค",
+   "th": "ประตูไม้ดรายแอดล็อก",
+   "status": "fixed",
+   "note": "Dryad ไม่ใช่ไม้แห้ง + สะกด ล็อก"
+  },
+  {
+   "key": "stonewall",
+   "en": "Stone Wall",
+   "official": "กำแพงหิน",
+   "th": "กำแพงหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonedoor",
+   "en": "Stone Door",
+   "official": "ประตูหิน",
+   "th": "ประตูหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonedoorlocked",
+   "en": "Locked Stone Door",
+   "official": "ประตูหินล็อค",
+   "th": "ประตูหินล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "sandstonewall",
+   "en": "Sandstone Wall",
+   "official": "กำแพงหินทราย",
+   "th": "กำแพงหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonedoor",
+   "en": "Sandstone Door",
+   "official": "ประตูหินทราย",
+   "th": "ประตูหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonedoorlocked",
+   "en": "Locked Sandstone Door",
+   "official": "ประตูหินทรายล็อค",
+   "th": "ประตูหินทรายล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "swampstonewall",
+   "en": "Swamp Stone Wall",
+   "official": "กำแพงหินป่าหนองน้ำ",
+   "th": "กำแพงหินหนองน้ำ",
+   "status": "fixed",
+   "note": "ตัดคำเกิน (ป่า)"
+  },
+  {
+   "key": "swampstonedoor",
+   "en": "Swamp Stone Door",
+   "official": "ประตูหินป่าหนองน้ำ",
+   "th": "ประตูหินหนองน้ำ",
+   "status": "fixed",
+   "note": "ตัดคำเกิน (ป่า)"
+  },
+  {
+   "key": "swampstonedoorlocked",
+   "en": "Locked Swamp Stone Door",
+   "official": "ประตูหินหนองน้ำล็อค",
+   "th": "ประตูหินหนองน้ำล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "snowstonewall",
+   "en": "Snow Stone Wall",
+   "official": "กำแพงหินหิมะ",
+   "th": "กำแพงหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonedoor",
+   "en": "Snow Stone Door",
+   "official": "ประตูหินหิมะ",
+   "th": "ประตูหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonedoorlocked",
+   "en": "Locked Snow Stone Door",
+   "official": "ประตูหินหิมะล็อค",
+   "th": "ประตูหินหิมะล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "granitewall",
+   "en": "Granite Wall",
+   "official": "กำแพงหินแกรนิต",
+   "th": "กำแพงหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granitedoor",
+   "en": "Granite Door",
+   "official": "ประตูหินแกรนิต",
+   "th": "ประตูหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granitedoorlocked",
+   "en": "Locked Granite Door",
+   "official": "หินแกรนิตล็อค",
+   "th": "ประตูหินแกรนิตล็อก",
+   "status": "fixed",
+   "note": "คำหาย (ประตู) + สะกด ล็อก"
+  },
+  {
+   "key": "icewall",
+   "en": "Ice Wall",
+   "official": "กำแพงน้ำแข็ง",
+   "th": "กำแพงน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icedoor",
+   "en": "Ice Door",
+   "official": "ประตูน้ำแข็ง",
+   "th": "ประตูน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icedoorlocked",
+   "en": "Locked Ice Door",
+   "official": "ประตูน้ำแข็งล็อค",
+   "th": "ประตูน้ำแข็งล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "brickwall",
+   "en": "Brick Wall",
+   "official": "กำแพงอิฐ",
+   "th": "กำแพงอิฐ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brickdoor",
+   "en": "Brick Door",
+   "official": "ประตูอิฐ",
+   "th": "ประตูอิฐ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brickdoorlocked",
+   "en": "Locked Brick Door",
+   "official": "ประตูอิฐล็อค",
+   "th": "ประตูอิฐล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "dungeonwall",
+   "en": "Dungeon Wall",
+   "official": "กำแพงดันเจี้ยน",
+   "th": "กำแพงดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondoor",
+   "en": "Dungeon Door",
+   "official": "ประตูดันเจี้ยน",
+   "th": "ประตูดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondoorlocked",
+   "en": "Locked Dungeon Door",
+   "official": "ประตูดันเจี้ยนล็อค",
+   "th": "ประตูดันเจี้ยนล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "deepstonewall",
+   "en": "Deep Stone Wall",
+   "official": "กำแพงหินชั้นลึก",
+   "th": "กำแพงหินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonedoor",
+   "en": "Deep Stone Door",
+   "official": "ประตูหินชั้นลึก",
+   "th": "ประตูหินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonedoorlocked",
+   "en": "Locked Deep Stone Door",
+   "official": "ประตูหินชั้นลึกล็อค",
+   "th": "ประตูหินชั้นลึกล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "obsidianwall",
+   "en": "Obsidian Wall",
+   "official": "กำแพงออปซิเดียน",
+   "th": "กำแพงออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "obsidiandoor",
+   "en": "Obsidian Door",
+   "official": "ประตูออปซิเดียน",
+   "th": "ประตูออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "obsidiandoorlocked",
+   "en": "Locked Obsidian Door",
+   "official": "ประตูออปซิเดียนล็อค",
+   "th": "ประตูออบซิเดียนล็อก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด ล็อก"
+  },
+  {
+   "key": "deepsnowstonewall",
+   "en": "Deep Snow Stone Wall",
+   "official": "กำแพงหินหิมะชั้นลึก",
+   "th": "กำแพงหินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstonedoor",
+   "en": "Deep Snow Stone Door",
+   "official": "ประตูหินหิมะชั้นลึก",
+   "th": "ประตูหินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstonedoorlocked",
+   "en": "Locked Deep Snow Stone Door",
+   "official": "ประตูหินหิมะชั้นลึกล็อค",
+   "th": "ประตูหินหิมะชั้นลึกล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "basaltwall",
+   "en": "Basalt Wall",
+   "official": "กำแพงหินบะซอลต์",
+   "th": "กำแพงหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltdoor",
+   "en": "Basalt Door",
+   "official": "ประตูหินบะซอลต์",
+   "th": "ประตูหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltdoorlocked",
+   "en": "Locked Basalt Door",
+   "official": "ประตูหินบะซอลต์ล็อค",
+   "th": "ประตูหินบะซอลต์ล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "deepswampstonewall",
+   "en": "Deep Swamp Stone Wall",
+   "official": "กำแพงหินหนองน้ำชั้นลึก",
+   "th": "กำแพงหินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonedoor",
+   "en": "Deep Swamp Stone Door",
+   "official": "ประตูหินหนองน้ำชั้นลึก",
+   "th": "ประตูหินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonedoorlocked",
+   "en": "Locked Deep Swamp Stone Door",
+   "official": "ประตูหินหนองน้ำชั้นลึกล็อค",
+   "th": "ประตูหินหนองน้ำชั้นลึกล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "deepsandstonewall",
+   "en": "Deep Sandstone Wall",
+   "official": "กำแพงหินทรายชั้นลึก",
+   "th": "กำแพงหินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsandstonedoor",
+   "en": "Deep Sandstone Door",
+   "official": "ประตูหินทรายชั้นลึก",
+   "th": "ประตูหินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsandstonedoorlocked",
+   "en": "Locked Deep Sandstone Door",
+   "official": "ประตูหินทรายชั้นลึกล็อค",
+   "th": "ประตูหินทรายชั้นลึกล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "cryptwall",
+   "en": "Crypt Wall",
+   "official": "กำแพงห้องใต้ดิน",
+   "th": "กำแพงสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "cryptdoor",
+   "en": "Crypt Door",
+   "official": "ประตูห้องใต้ดิน",
+   "th": "ประตูสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "cryptdoorlocked",
+   "en": "Locked Crypt Door",
+   "official": "ประตูล็อคห้องใต้ดิน",
+   "th": "ประตูสุสานใต้ดินล็อก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด ล็อก"
+  },
+  {
+   "key": "spidercastlewall",
+   "en": "Spider Castle Wall",
+   "official": "กำแพงปราสาทแมงมุม",
+   "th": "กำแพงปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastledoor",
+   "en": "Spider Castle Door",
+   "official": "ประตูปราสาทแมงมุม",
+   "th": "ประตูปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastledoorlocked",
+   "en": "Locked Spider Castle Door",
+   "official": "ประตูปราสาทแมงมุมที่ถูกล็อค",
+   "th": "ประตูปราสาทแมงมุมล็อก",
+   "status": "fixed",
+   "note": "ให้เข้าชุด + สะกด ล็อก"
+  },
+  {
+   "key": "dawnwall",
+   "en": "Dawn Wall",
+   "official": "กำแพงรุ่งอรุณ",
+   "th": "กำแพงรุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawndoor",
+   "en": "Dawn Door",
+   "official": "ประตูรุ่งอรุณ",
+   "th": "ประตูรุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawndoorlocked",
+   "en": "Locked Dawn Door",
+   "official": "ประตูรุ่งอรุณที่ถูกล็อค",
+   "th": "ประตูรุ่งอรุณล็อก",
+   "status": "fixed",
+   "note": "ให้เข้าชุด + สะกด ล็อก"
+  },
+  {
+   "key": "duskwall",
+   "en": "Dusk Wall",
+   "official": "กำแพงพลบค่ำ",
+   "th": "กำแพงพลบค่ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duskdoor",
+   "en": "Dusk Door",
+   "official": "ประตูพลบค่ำ",
+   "th": "ประตูพลบค่ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duskdoorlocked",
+   "en": "Locked Dusk Door",
+   "official": "ประตูค่ำที่ถูกล็อค",
+   "th": "ประตูพลบค่ำล็อก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด ล็อก"
+  },
+  {
+   "key": "ancientruinwall",
+   "en": "Ancient Ruin Wall",
+   "official": "กำแพงซากปรักหักพังโบราณ",
+   "th": "กำแพงซากปรักหักพังโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientruindoor",
+   "en": "Ancient Ruin Door",
+   "official": "ประตูซากปรักหักพังโบราณ",
+   "th": "ประตูซากปรักหักพังโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientruindoorlocked",
+   "en": "Locked Ancient Ruin Door",
+   "official": "ประตูซากปรักหักพังโบราณที่ถูกล็อค",
+   "th": "ประตูซากปรักหักพังโบราณล็อก",
+   "status": "fixed",
+   "note": "ให้เข้าชุด + สะกด ล็อก"
+  },
+  {
+   "key": "factorywall",
+   "en": "Factory Wall",
+   "official": "",
+   "th": "กำแพงโรงงาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "factorydoor",
+   "en": "Factory Door",
+   "official": "",
+   "th": "ประตูโรงงาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "factorydoorlocked",
+   "en": "Locked Factory Door",
+   "official": "",
+   "th": "ประตูโรงงานล็อก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ravenwall",
+   "en": "Raven Wall",
+   "official": "กำแพงอีกา",
+   "th": "กำแพงอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravendoor",
+   "en": "Raven Door",
+   "official": "ประตูอีกา",
+   "th": "ประตูอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravendoorlocked",
+   "en": "Locked Raven Door",
+   "official": "ประตูอีกาล็อค",
+   "th": "ประตูอีกาล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "arcanicwall",
+   "en": "Arcanic Wall",
+   "official": "กำแพงลึกลับ",
+   "th": "กำแพงลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicdoor",
+   "en": "Arcanic Door",
+   "official": "ประตูลึกลับ",
+   "th": "ประตูลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicdoorlocked",
+   "en": "Locked Arcanic Door",
+   "official": "ประตูลึกลับล็อค",
+   "th": "ประตูลึกลับล็อก",
+   "status": "fixed",
+   "note": "สะกด ล็อก"
+  },
+  {
+   "key": "woodfence",
+   "en": "Wood Fence",
+   "official": "รั้วไม้",
+   "th": "รั้วไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodfencegate",
+   "en": "Wood Fence Gate",
+   "official": "ประตูรั้วไม้",
+   "th": "ประตูรั้วไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonefence",
+   "en": "Stone Fence",
+   "official": "รั้วหิน",
+   "th": "รั้วหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonefencegate",
+   "en": "Stone Fence Gate",
+   "official": "ประตูรั้วหิน",
+   "th": "ประตูรั้วหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironfence",
+   "en": "Iron Fence",
+   "official": "รั้วเหล็ก",
+   "th": "รั้วเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironfencegate",
+   "en": "Iron Fence Gate",
+   "official": "ประตูรั้วเหล็ก",
+   "th": "ประตูรั้วเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptfence",
+   "en": "Crypt Fence",
+   "official": "รั้วใต้ดิน",
+   "th": "รั้วสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "cryptfencegate",
+   "en": "Crypt Fence Gate",
+   "official": "ประตูรั้วใต้ดิน",
+   "th": "ประตูรั้วสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "foresthedge",
+   "en": "Forest Hedge",
+   "official": "รั้วป่า",
+   "th": "รั้วพุ่มไม้ป่า",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "foresthedgegate",
+   "en": "Forest Hedge Gate",
+   "official": "ประตูรั้วป่า",
+   "th": "ประตูรั้วพุ่มไม้ป่า",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "snowhedge",
+   "en": "Snow Hedge",
+   "official": "รั้วหิมะ",
+   "th": "รั้วพุ่มไม้หิมะ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "snowhedgegate",
+   "en": "Snow Hedge Gate",
+   "official": "ประตูรั้วหิมะ",
+   "th": "ประตูรั้วพุ่มไม้หิมะ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "plainshedge",
+   "en": "Plains Hedge",
+   "official": "รั้วที่ราบ",
+   "th": "รั้วพุ่มไม้ที่ราบ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "plainshedgegate",
+   "en": "Plains Hedge Gate",
+   "official": "ประตูรั้วที่ราบ",
+   "th": "ประตูรั้วพุ่มไม้ที่ราบ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "swamphedge",
+   "en": "Swamp Hedge",
+   "official": "รั้วหนองน้ำ",
+   "th": "รั้วพุ่มไม้หนองน้ำ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "swamphedgegate",
+   "en": "Swamp Hedge Gate",
+   "official": "ประตูรั้วหนองน้ำ",
+   "th": "ประตูรั้วพุ่มไม้หนองน้ำ",
+   "status": "fixed",
+   "note": "Hedge = รั้วต้นไม้"
+  },
+  {
+   "key": "banditfence",
+   "en": "Bandit Fence",
+   "official": "รั้วกองโจร",
+   "th": "รั้วกองโจร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "banditfencegate",
+   "en": "Bandit Fence Gate",
+   "official": "ประตูรั้วกองโจร",
+   "th": "ประตูรั้วกองโจร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "jailfence",
+   "en": "Jail Fence",
+   "official": "",
+   "th": "รั้วคุก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "jailfencegate",
+   "en": "Jail Fence Gate",
+   "official": "",
+   "th": "ประตูรั้วคุก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "woodcolumn",
+   "en": "Wood Column",
+   "official": "เสาไม้",
+   "th": "เสาไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonecolumn",
+   "en": "Stone Column",
+   "official": "เสาหิน",
+   "th": "เสาหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonecolumn",
+   "en": "Snow Stone Column",
+   "official": "เสาหินหิมะ",
+   "th": "เสาหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granitecolumn",
+   "en": "Granite Column",
+   "official": "เสาหินแกรนิต",
+   "th": "เสาหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampstonecolumn",
+   "en": "Swamp Stone Column",
+   "official": "เสาหินหนองน้ำ",
+   "th": "เสาหินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonecolumn",
+   "en": "Sandstone Column",
+   "official": "เสาหินทราย",
+   "th": "เสาหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonecolumn",
+   "en": "Deep Stone Column",
+   "official": "เสาหินชั้นลึก",
+   "th": "เสาหินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "obsidiancolumn",
+   "en": "Obsidian Column",
+   "official": "เสาออปซิเดียน",
+   "th": "เสาออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepsnowstonecolumn",
+   "en": "Deep Snow Stone Column",
+   "official": "เสาหินหิมะชั้นลึก",
+   "th": "เสาหินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltcolumn",
+   "en": "Basalt Stone Column",
+   "official": "เสาหินบะซอลต์",
+   "th": "เสาหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonecolumn",
+   "en": "Deep Swamp Stone Column",
+   "official": "เสาหินหนองน้ำชั้นลึก",
+   "th": "เสาหินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsandstonecolumn",
+   "en": "Deep Sandstone Column",
+   "official": "เสาหินทรายชั้นลึก",
+   "th": "เสาหินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptcolumn",
+   "en": "Crypt Column",
+   "official": "เสาใต้ดิน",
+   "th": "เสาสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "spidercastlecolumn",
+   "en": "Spider Castle Column",
+   "official": "เสาปราสาทแมงมุม",
+   "th": "เสาปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcaniccolumn",
+   "en": "Arcanic Column",
+   "official": "เสาลึกลับ",
+   "th": "เสาลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wallwindow",
+   "en": "Wall Window",
+   "official": "หน้าต่างติดกำแพง",
+   "th": "หน้าต่างติดกำแพง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "storagebox",
+   "en": "Storagebox",
+   "official": "กล่องเก็บของ",
+   "th": "กล่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "barrel",
+   "en": "Barrel",
+   "official": "ถังใส่ของ",
+   "th": "ถังใส่ของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonchest",
+   "en": "Demon Chest",
+   "official": "กล่องใส่ของปีศาจ",
+   "th": "กล่องปีศาจ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Chest=กล่อง) ให้เข้าชุดกล่องไม้"
+  },
+  {
+   "key": "coolingbox",
+   "en": "Cooling Box",
+   "official": "กล่องทำความเย็น",
+   "th": "กล่องทำความเย็น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incinerator",
+   "en": "Incinerator",
+   "official": "เตาเผา",
+   "th": "เตาเผาขยะ",
+   "status": "fixed",
+   "note": "แยกจาก Forge ให้ชัด"
+  },
+  {
+   "key": "torch",
+   "en": "Torch",
+   "official": "คบเพลิง",
+   "th": "คบเพลิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightsource",
+   "en": "Light Source",
+   "official": "แหล่งกำเนิดแสง",
+   "th": "แหล่งกำเนิดแสง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "walltorch",
+   "en": "Wall Torch",
+   "official": "คบเพลิงติดผนัง",
+   "th": "คบเพลิงติดผนัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironlamp",
+   "en": "Iron Lamp",
+   "official": "โคมไฟเหล็ก",
+   "th": "โคมไฟเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldlamp",
+   "en": "Gold Lamp",
+   "official": "โคมไฟทอง",
+   "th": "โคมไฟทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold)"
+  },
+  {
+   "key": "firechalice",
+   "en": "Fire Chalice",
+   "official": "ถ้วยไฟ",
+   "th": "ถ้วยไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "templefirechalice",
+   "en": "Temple Fire Chalice",
+   "official": "ถ้วยไฟวิหาร",
+   "th": "ถ้วยไฟวิหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperstreetlamp",
+   "en": "Copper Streetlamp",
+   "official": "โคมไฟถนนทองแดง",
+   "th": "โคมไฟถนนทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperdoublestreetlamp",
+   "en": "Copper Double Streetlamp",
+   "official": "โคมไฟถนนทองแดงคู่",
+   "th": "โคมไฟถนนทองแดงคู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironstreetlamp",
+   "en": "Iron Streetlamp",
+   "official": "โคมไฟถนนเหล็ก",
+   "th": "โคมไฟถนนเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "irondoublestreetlamp",
+   "en": "Iron Double Streetlamp",
+   "official": "โคมไฟถนนเหล็กคู่",
+   "th": "โคมไฟถนนเหล็กคู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldstreetlamp",
+   "en": "Gold Streetlamp",
+   "official": "โคมไฟถนนสีทอง",
+   "th": "โคมไฟถนนทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold)"
+  },
+  {
+   "key": "golddoublestreetlamp",
+   "en": "Gold Double Streetlamp",
+   "official": "โคมไฟถนนสีทองคู่",
+   "th": "โคมไฟถนนทองคำคู่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold)"
+  },
+  {
+   "key": "tungstenstreetlamp",
+   "en": "Tungsten Streetlamp",
+   "official": "โคมไฟถนนทังสเตน",
+   "th": "โคมไฟถนนทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstendoublestreetlamp",
+   "en": "Tungsten Double Streetlamp",
+   "official": "โคมไฟถนนทังสเตนคู่",
+   "th": "โคมไฟถนนทังสเตนคู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "scraplamp",
+   "en": "Scrap Lamp",
+   "official": "",
+   "th": "โคมไฟเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "oillantern",
+   "en": "Oil Lantern",
+   "official": "ตะเกียงน้ำมัน",
+   "th": "ตะเกียงน้ำมัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lantern",
+   "en": "Lantern",
+   "official": "ตะเกียง",
+   "th": "ตะเกียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "walllantern",
+   "en": "Wall Lantern",
+   "official": "โคมไฟติดผนัง",
+   "th": "ตะเกียงติดผนัง",
+   "status": "fixed",
+   "note": "Lantern = ตะเกียง ให้เข้าชุด"
+  },
+  {
+   "key": "waterlantern",
+   "en": "Water Lantern",
+   "official": "โคมไฟน้ำ",
+   "th": "ตะเกียงลอยน้ำ",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "candle",
+   "en": "Candle",
+   "official": "เทียน",
+   "th": "เทียน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wallcandle",
+   "en": "Wall Candle",
+   "official": "เทียนติดผนัง",
+   "th": "เทียนติดผนัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonecandlepedestal",
+   "en": "Stone Candle Pedestal",
+   "official": "เชิงเทียนหิน",
+   "th": "เชิงเทียนหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowcandlepedestal",
+   "en": "Snow Candle Pedestal",
+   "official": "เชิงเทียนหิมะ",
+   "th": "เชิงเทียนหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcandlepedestal",
+   "en": "Swamp Candle Pedestal",
+   "official": "เชิงเทียนหนองน้ำ",
+   "th": "เชิงเทียนหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertcandlepedestal",
+   "en": "Desert Candle Pedestal",
+   "official": "เชิงเทียนทะเลทราย",
+   "th": "เชิงเทียนทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tikitorch",
+   "en": "Tiki Torch",
+   "official": "คบเพลิงทิกิ",
+   "th": "คบเพลิงทิกิ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basalttorch",
+   "en": "Basalt Torch",
+   "official": "คบเพลิงหินบะซอลต์",
+   "th": "คบเพลิงหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wallbasalttorch",
+   "en": "Basalt Wall Torch",
+   "official": "คบเพลิงหินบะซอลต์ติดผนัง",
+   "th": "คบเพลิงหินบะซอลต์ติดผนัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcaniclamp",
+   "en": "Arcanic Lamp",
+   "official": "โคมไฟลึกลับ",
+   "th": "โคมไฟลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wallarcaniclamp",
+   "en": "Arcanic Wall Lamp",
+   "official": "โคมไฟติดผนังลึกลับ",
+   "th": "โคมไฟติดผนังลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodencandleset",
+   "en": "Wooden Candle Set",
+   "official": "ชุดเทียนไม้",
+   "th": "ชุดเทียนไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcandlestand",
+   "en": "Swamp Candle Stand",
+   "official": "เชิงเทียนหนองน้ำ",
+   "th": "เชิงเทียนหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcandlestandduo",
+   "en": "Swamp Candle Stand Duo",
+   "official": "เชิงเทียนหนองน้ำคู่",
+   "th": "เชิงเทียนหนองน้ำคู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brazier",
+   "en": "Brazier",
+   "official": "เตาอั้งโล่",
+   "th": "กระถางไฟ",
+   "status": "fixed",
+   "note": "เตาอั้งโล่ไม่ตรงกับ brazier (ภาชนะใส่ไฟให้แสง)"
+  },
+  {
+   "key": "paintingbroken",
+   "en": "Broken Painting",
+   "official": "ภาพวาดที่แตกหัก",
+   "th": "ภาพวาดชำรุด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "paintingapple",
+   "en": "Apple Painting",
+   "official": "ภาพวาดแอปเปิ้ล",
+   "th": "ภาพวาดแอปเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingavocado",
+   "en": "Avocado Painting",
+   "official": "ภาพวาดอะโวคาโด",
+   "th": "ภาพวาดอะโวคาโด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingbanana",
+   "en": "Banana Painting",
+   "official": "ภาพวาดกล้วย",
+   "th": "ภาพวาดกล้วย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingabstract",
+   "en": "Abstract Painting",
+   "official": "ภาพวาดเชิงนามธรรม",
+   "th": "ภาพวาดนามธรรม",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "paintingrainsun",
+   "en": "Rainy Day Painting",
+   "official": "ภาพวาดวันฝนตก",
+   "th": "ภาพวาดวันฝนตก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingheart",
+   "en": "Heart Painting",
+   "official": "ภาพวาดหัวใจ",
+   "th": "ภาพวาดหัวใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingdagger",
+   "en": "Dagger Painting",
+   "official": "ภาพวาดมีดสั้น",
+   "th": "ภาพวาดมีดสั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingeye",
+   "en": "Suspicious Painting",
+   "official": "ภาพวาดที่น่าสงสัย",
+   "th": "ภาพวาดน่าสงสัย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "paintingmouse",
+   "en": "Mouse Painting",
+   "official": "ภาพวาดหนู",
+   "th": "ภาพวาดหนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingparrot",
+   "en": "Parrot Painting",
+   "official": "ภาพวาดนกแก้ว",
+   "th": "ภาพวาดนกแก้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingduck",
+   "en": "Duck Painting",
+   "official": "ภาพวาดเป็ด",
+   "th": "ภาพวาดเป็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingcastle",
+   "en": "Castle Painting",
+   "official": "ภาพวาดปราสาท",
+   "th": "ภาพวาดปราสาท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintingstonecaveling",
+   "en": "Stone Caveling Painting",
+   "official": "ภาพผู้เร้นกายในถ้ำหิน",
+   "th": "ภาพวาดชาวถ้ำหิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Caveling)"
+  },
+  {
+   "key": "paintingsnowcaveling",
+   "en": "Snow Stone Caveling Painting",
+   "official": "ภาพผู้เร้นกายในถ้ำหิมะ",
+   "th": "ภาพวาดชาวถ้ำหินหิมะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Caveling) · ชื่อตาม mob: Snow Stone Caveling"
+  },
+  {
+   "key": "paintingswampcaveling",
+   "en": "Swamp Stone Caveling Painting",
+   "official": "ภาพผู้เร้นกายในถ้ำหนองน้ำ",
+   "th": "ภาพวาดชาวถ้ำหินหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Caveling) · ชื่อตาม mob: Swamp Stone Caveling"
+  },
+  {
+   "key": "paintingsandstonecaveling",
+   "en": "Sand Stone Caveling Painting",
+   "official": "ภาพผู้เร้นกายในถ้ำทะเลทราย",
+   "th": "ภาพวาดชาวถ้ำหินทราย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Caveling)"
+  },
+  {
+   "key": "paintinglargeworldmap",
+   "en": "Large Painting Of Strange Lands",
+   "official": "ภาพวาดของดินแดนแปลกๆขนาดใหญ่",
+   "th": "ภาพวาดดินแดนแปลกตาขนาดใหญ่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "paintinglargeship",
+   "en": "Large Ship Painting",
+   "official": "ภาพเรือขนาดใหญ่",
+   "th": "ภาพวาดเรือขนาดใหญ่",
+   "status": "fixed",
+   "note": "ให้เข้าชุดภาพวาด"
+  },
+  {
+   "key": "paintinglargecastle",
+   "en": "Large Castle Painting",
+   "official": "ภาพวาดปราสาทขนาดใหญ่",
+   "th": "ภาพวาดปราสาทขนาดใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "paintinglargeabstract",
+   "en": "Large Abstract Painting",
+   "official": "ภาพวาดเชิงนามธรรมขนาดใหญ่",
+   "th": "ภาพวาดนามธรรมขนาดใหญ่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "paintingelder",
+   "en": "Wise Painting",
+   "official": "ภาพชาญฉลาด",
+   "th": "ภาพวาดผู้รอบรู้",
+   "status": "fixed",
+   "note": "ภาพชาญฉลาด ฟังแปลก"
+  },
+  {
+   "key": "paintingcooljonas",
+   "en": "Cool Painting",
+   "official": "ภาพสุดเท่",
+   "th": "ภาพวาดสุดเท่",
+   "status": "fixed",
+   "note": "ให้เข้าชุดภาพวาด"
+  },
+  {
+   "key": "paintingposter",
+   "en": "Happy Poster",
+   "official": "โปสเตอร์แห่งความสุข",
+   "th": "โปสเตอร์ยิ้มแย้ม",
+   "status": "fixed",
+   "note": "แปลตรงตัวเกิน"
+  },
+  {
+   "key": "paintinglargeflatgrass",
+   "en": "Large Flatgrass Painting",
+   "official": "",
+   "th": "ภาพวาดทุ่งหญ้าขนาดใหญ่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mossymonkstatue",
+   "en": "Moss Covered Monk Statue",
+   "official": "รูปปั้นพระปกคลุมด้วยมอส",
+   "th": "รูปปั้นพระที่มีมอสขึ้น",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "angelicstatue",
+   "en": "Angelic Statue",
+   "official": "รูปปั้นเทวดา",
+   "th": "รูปปั้นเทวดา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hoodedknightstatue",
+   "en": "Hooded Knight Statue",
+   "official": "รูปปั้นอัศวินสวมหน้ากาก",
+   "th": "รูปปั้นอัศวินสวมฮู้ด",
+   "status": "fixed",
+   "note": "Hooded ≠ หน้ากาก"
+  },
+  {
+   "key": "pigstatue",
+   "en": "Majestic Pig Statue",
+   "official": "รูปปั้นหมูสง่างาม",
+   "th": "รูปปั้นหมูสง่างาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pigstatuetip",
+   "en": "Some claim that this beast is the king of the jungle!",
+   "official": "บางคนอ้างว่าสัตว์ร้ายตัวนี้เป็นราชาแห่งป่า!",
+   "th": "บางคนอ้างว่าสัตว์ร้ายตัวนี้เป็นราชาแห่งป่า!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blacksmithstatue",
+   "en": "Blacksmith Statue",
+   "official": "รูปปั้นช่างตีเหล็ก",
+   "th": "รูปปั้นช่างตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blacksmithstatuetip",
+   "en": "Now this is some fine craftsmanship!",
+   "official": "นี่มันงานฝีมือชั้นดีจริงๆ!",
+   "th": "นี่มันงานฝีมือชั้นดีจริงๆ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchstatue",
+   "en": "Witch Statue",
+   "official": "รูปปั้นแม่มด",
+   "th": "รูปปั้นแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchstatuetip",
+   "en": "A witch is only as good as her potions!",
+   "official": "แม่มดจะดีหรือไม่ดีขึ้นอยู่กับน้ำยาของเธอ!",
+   "th": "แม่มดจะเก่งแค่ไหนก็ขึ้นอยู่กับน้ำยาของนางนี่แหละ!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ancientpillar",
+   "en": "Ancient Pillar",
+   "official": "เสาหินโบราณ",
+   "th": "เสาหินโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientmummystatue",
+   "en": "Ancient Mummy Statue",
+   "official": "เสาหินมัมมี่โบราณ",
+   "th": "รูปปั้นมัมมี่โบราณ",
+   "status": "fixed",
+   "note": "Statue = รูปปั้น"
+  },
+  {
+   "key": "ravenstatue",
+   "en": "Raven Statue",
+   "official": "รูปปั้นอีกา",
+   "th": "รูปปั้นอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raveneffigy",
+   "en": "Raven Effigy",
+   "official": "รูปแกะสลักอีกา",
+   "th": "รูปแกะสลักอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "freyastatue",
+   "en": "Freya Statue",
+   "official": "",
+   "th": "รูปปั้นเฟรยา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "zithastatue",
+   "en": "Zitha Statue",
+   "official": "",
+   "th": "รูปปั้นซิธา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "freyaandzithastatue",
+   "en": "Freya and Zitha Statue",
+   "official": "",
+   "th": "รูปปั้นเฟรยาและซิธา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thecore",
+   "en": "The Core",
+   "official": "",
+   "th": "แกนกลาง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "huginstatue",
+   "en": "Hugin Statue",
+   "official": "",
+   "th": "รูปปั้นฮูกิน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "praisethemoonstatue",
+   "en": "Shrine of the Moon",
+   "official": "",
+   "th": "ศาลบูชาดวงจันทร์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sign",
+   "en": "Sign",
+   "official": "ป้าย",
+   "th": "ป้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flowerpot",
+   "en": "Flower Pot",
+   "official": "กระถางดอกไม้",
+   "th": "กระถางดอกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decorativepot",
+   "en": "Decorative Pot",
+   "official": "กระถางประดับ",
+   "th": "กระถางประดับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pottedplant",
+   "en": "Potted Plant",
+   "official": "ต้นไม้ในกระถาง",
+   "th": "ต้นไม้ในกระถาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pottedflower",
+   "en": "Potted Flower",
+   "official": "ดอกไม้ในกระถาง",
+   "th": "ดอกไม้ในกระถาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pottedcactus",
+   "en": "Potted Cactus",
+   "official": "กระบองเพชรในกระถาง",
+   "th": "กระบองเพชรในกระถาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonsaitree",
+   "en": "Bonsai Tree",
+   "official": "บอนไซในกระถาง",
+   "th": "ต้นบอนไซ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "itemstand",
+   "en": "Item Stand",
+   "official": "แท่นวางของ",
+   "th": "แท่นวางของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "armorstand",
+   "en": "Armor Stand",
+   "official": "แท่นวางชุดเกราะ",
+   "th": "แท่นวางชุดเกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trainingdummy",
+   "en": "Training Dummy",
+   "official": "หุ่นฝึกซ้อม",
+   "th": "หุ่นฝึกซ้อม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowmantrainingdummy",
+   "en": "Snowman",
+   "official": "สโนว์แมน",
+   "th": "ตุ๊กตาหิมะ",
+   "status": "fixed",
+   "note": "ใช้คำไทย"
+  },
+  {
+   "key": "stonecoffin",
+   "en": "Stone Coffin",
+   "official": "โลงศพหิน",
+   "th": "โลงศพหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptcoffin",
+   "en": "Crypt Coffin",
+   "official": "โลงศพใต้ดิน",
+   "th": "โลงศพสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "basaltcoffin",
+   "en": "Basalt Coffin",
+   "official": "โลงศพหินบะซอลต์",
+   "th": "โลงศพหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gravestone",
+   "en": "Gravestone",
+   "official": "สุสานหิน",
+   "th": "ป้ายหลุมศพ",
+   "status": "fixed",
+   "note": "แปลผิด (สุสานหิน)"
+  },
+  {
+   "key": "minecarttrack",
+   "en": "Minecart Track",
+   "official": "รางรถไฟ",
+   "th": "รางรถเหมือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Minecart)"
+  },
+  {
+   "key": "traptrack",
+   "en": "Trap Track",
+   "official": "กับดักรางรถไฟ",
+   "th": "รางกับดัก",
+   "status": "fixed",
+   "note": "ไม่ใช่รางรถไฟ"
+  },
+  {
+   "key": "skull",
+   "en": "Skull",
+   "official": "กะโหลก",
+   "th": "กะโหลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mosscoveredskull",
+   "en": "Moss Covered Skull",
+   "official": "กะโหลกตะไคร่ขึ้น",
+   "th": "กะโหลกตะไคร่ขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodstains",
+   "en": "Bloodstains",
+   "official": "รอยเลือด",
+   "th": "รอยเลือด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenicicle",
+   "en": "Fallen Icicle",
+   "official": "น้ำแข็งย้อย",
+   "th": "น้ำแข็งย้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallingicicletrigger",
+   "en": "Falling Icicle Trigger",
+   "official": "Trigger น้ำแข็งย้อย",
+   "th": "ตัวกระตุ้นน้ำแข็งย้อย",
+   "status": "fixed",
+   "note": "ไม่ทิ้งคำอังกฤษ"
+  },
+  {
+   "key": "bloodgoblet",
+   "en": "Goblet",
+   "official": "กุณโฑ",
+   "th": "จอกไวน์",
+   "status": "fixed",
+   "note": "กุณโฑ = เหยือก ไม่ใช่ goblet"
+  },
+  {
+   "key": "bloodgobletspilled",
+   "en": "Spilled Goblet",
+   "official": "กุณโฑหกล้ม",
+   "th": "จอกไวน์หก",
+   "status": "fixed",
+   "note": "หกล้ม ผิดความ"
+  },
+  {
+   "key": "swampstonecase",
+   "en": "Swamp Stone Case",
+   "official": "กล่องหินหนองน้ำ",
+   "th": "กล่องหินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tableclock",
+   "en": "Table Clock",
+   "official": "นาฬิกาตั้งโต๊ะ",
+   "th": "นาฬิกาตั้งโต๊ะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dogplush",
+   "en": "Dog Plush",
+   "official": "ตุ๊กตาสุนัข",
+   "th": "ตุ๊กตาสุนัข",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadspiritcage",
+   "en": "Dryad Spirit Cage",
+   "official": "กรงวิญญาณดรายแอด",
+   "th": "กรงวิญญาณดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dinoplush",
+   "en": "Dino Plush",
+   "official": "ตุ๊กตาไดโนเสาร์",
+   "th": "ตุ๊กตาไดโนเสาร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plate",
+   "en": "Plate",
+   "official": "จาน",
+   "th": "จาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mug",
+   "en": "Mug",
+   "official": "เหยือกแก้ว",
+   "th": "แก้วมัค",
+   "status": "fixed",
+   "note": "Mug ไม่ใช่เหยือก"
+  },
+  {
+   "key": "teapot",
+   "en": "Teapot",
+   "official": "กาน้ำชา",
+   "th": "กาน้ำชา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "diningset",
+   "en": "Dining Set",
+   "official": "ชุดอาหารค่ำ",
+   "th": "ชุดจานอาหาร",
+   "status": "fixed",
+   "note": "Dining Set ไม่ได้เจาะจงมื้อค่ำ"
+  },
+  {
+   "key": "bluediningset",
+   "en": "Blue Dining Set",
+   "official": "ชุดอาหารค่ำน้ำเงิน",
+   "th": "ชุดจานอาหารสีน้ำเงิน",
+   "status": "fixed",
+   "note": "ให้เข้าชุด"
+  },
+  {
+   "key": "reddiningset",
+   "en": "Red Dining Set",
+   "official": "ชุดอาหารค่ำแดง",
+   "th": "ชุดจานอาหารสีแดง",
+   "status": "fixed",
+   "note": "ให้เข้าชุด"
+  },
+  {
+   "key": "dirtyplate",
+   "en": "Dirty Plate",
+   "official": "จานสกปรก",
+   "th": "จานสกปรก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dirtydishes",
+   "en": "Dirty Dishes",
+   "official": "กองจากปกสรก",
+   "th": "กองจานสกปรก",
+   "status": "fixed",
+   "note": "สะกดผิด"
+  },
+  {
+   "key": "stewpot",
+   "en": "Stew Pot",
+   "official": "หม้อตุ๋น",
+   "th": "หม้อตุ๋น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cuttingboard",
+   "en": "Cutting Board",
+   "official": "เขียง",
+   "th": "เขียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "utensilrack",
+   "en": "Utensil Rack",
+   "official": "ชั้นวางอุปกรณ์",
+   "th": "ชั้นวางเครื่องครัว",
+   "status": "fixed",
+   "note": "ชัดขึ้น"
+  },
+  {
+   "key": "papertowel",
+   "en": "Paper Towel",
+   "official": "กระดาษเช็ดมือ",
+   "th": "กระดาษเช็ดมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stackofpaper",
+   "en": "Paper Stack",
+   "official": "กองกระดาษ",
+   "th": "กองกระดาษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greenandpinkbooks",
+   "en": "Green and Pink Books",
+   "official": "หนังสือสีเขียวและสีชมพู",
+   "th": "หนังสือสีเขียวและสีชมพู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "redbooks",
+   "en": "Red Books",
+   "official": "หนังสือสีแดง",
+   "th": "หนังสือสีแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blueandyellowbooks",
+   "en": "Blue and Yellow Books",
+   "official": "หนังสือสีน้ำเงินและสีเหลือง",
+   "th": "หนังสือสีน้ำเงินและสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "yellowbook",
+   "en": "Yellow Book",
+   "official": "หนังสือสีเหลือง",
+   "th": "หนังสือสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greenbook",
+   "en": "Green Book",
+   "official": "หนังสือสีเขียว",
+   "th": "หนังสือสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "orangebook",
+   "en": "Orange Book",
+   "official": "หนังสือสีส้ม",
+   "th": "หนังสือสีส้ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stackedbooks",
+   "en": "Stacked Books",
+   "official": "กองหนังสือ",
+   "th": "กองหนังสือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quillandparchment",
+   "en": "Quill and Parchment",
+   "official": "ปากกาขนนกและกระดาษหนัง",
+   "th": "ปากกาขนนกและกระดาษหนัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "observantmask",
+   "en": "Observant Mask",
+   "official": "หน้ากากช่างสังเกต",
+   "th": "หน้ากากช่างสังเกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unamusedmask",
+   "en": "Unamused Mask",
+   "official": "หน้ากากที่ไม่สนุก",
+   "th": "หน้ากากหน้าบึ้ง",
+   "status": "fixed",
+   "note": "ไม่สนุก ผิดความ (unamused)"
+  },
+  {
+   "key": "farseersorb",
+   "en": "Farseer's Orb",
+   "official": "ลูกแก้วหยั่งรู้",
+   "th": "ลูกแก้วหยั่งรู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishonastick",
+   "en": "Fish on a Stick",
+   "official": "ปลาเสียบไม้",
+   "th": "ปลาเสียบไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidcube",
+   "en": "Void Cube",
+   "official": "ลูกบาศก์แห่งความมืด",
+   "th": "ลูกบาศก์แห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "relicofthedepths",
+   "en": "Relic of the Depths",
+   "official": "ซากจากส่วนลึก",
+   "th": "วัตถุโบราณจากห้วงลึก",
+   "status": "fixed",
+   "note": "ซาก ผิดความ (relic)"
+  },
+  {
+   "key": "largeglobe",
+   "en": "Large Globe",
+   "official": "ลูกโลก",
+   "th": "ลูกโลกใหญ่",
+   "status": "fixed",
+   "note": "คำหาย (Large)"
+  },
+  {
+   "key": "emptyglassdisplay",
+   "en": "Empty Glass Display",
+   "official": "ขวดแก้วสำหรับแสดง",
+   "th": "โหลแก้วจัดแสดงเปล่า",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "brokenglassdisplay",
+   "en": "Broken Glass Display",
+   "official": "ขวดแก้วสำหรับแสดงที่แตกหัก",
+   "th": "โหลแก้วจัดแสดงแตก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "beetglassdisplay",
+   "en": "Beet Glass Display",
+   "official": "บีทในขวดแก้ว",
+   "th": "บีทในขวดแก้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brokenherbglassdisplay",
+   "en": "Broken Herb Glass Display",
+   "official": "ขวดแก้วสมุนไพรที่แตกหัก",
+   "th": "โหลแก้วสมุนไพรแตก",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "caveglowglassdisplay",
+   "en": "Caveglow Glass Display",
+   "official": "พืชถ้ำในขวดแก้ว",
+   "th": "พืชถ้ำในขวดแก้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "experimentalroot",
+   "en": "Experimental Root",
+   "official": "รากไม้แห้ง",
+   "th": "รากไม้ทดลอง",
+   "status": "fixed",
+   "note": "แปลผิด (แห้ง)"
+  },
+  {
+   "key": "testtubes",
+   "en": "Test Tubes",
+   "official": "หลอดทดลอง",
+   "th": "หลอดทดลอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidflaskandtesttube",
+   "en": "Void Flask and Test Tube",
+   "official": "หลอดทดลองและหลอดสสารมืด",
+   "th": "ขวดทดลองแห่งความมืดและหลอดทดลอง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Void)"
+  },
+  {
+   "key": "voidflasks",
+   "en": "Void Flasks",
+   "official": "หลอดสสารมืด",
+   "th": "ขวดทดลองแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Void)"
+  },
+  {
+   "key": "blueberryandcornextract",
+   "en": "Blueberry and Corn Extract",
+   "official": "หลอดสารสกัดบลูเบอร์รี่และข้าวโพด",
+   "th": "สารสกัดบลูเบอร์รี่และข้าวโพด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "caveglowflask",
+   "en": "Caveglow Flask",
+   "official": "หลอดทดลองพืชถ้ำ",
+   "th": "ขวดทดลองพืชถ้ำ",
+   "status": "fixed",
+   "note": "Flask = ขวดทดลอง"
+  },
+  {
+   "key": "stuffedpig",
+   "en": "Stuffed Pig",
+   "official": "หมูยัดไส้",
+   "th": "หมูยัดไส้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spilledgoldchalice",
+   "en": "Spilled Gold Chalice",
+   "official": "ถ้วยทองล้ม",
+   "th": "ถ้วยทองคำหก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold) + ล้ม → หก"
+  },
+  {
+   "key": "goldchalice",
+   "en": "Gold Chalice",
+   "official": "ถ้วยทอง",
+   "th": "ถ้วยทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold)"
+  },
+  {
+   "key": "oldplate",
+   "en": "Old Plate",
+   "official": "จานเก่า",
+   "th": "จานเก่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rottenpigdish",
+   "en": "Rotten Pig Dish",
+   "official": "จานหมูเน่า",
+   "th": "จานหมูเน่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rottenfishstew",
+   "en": "Rotten Fish Stew",
+   "official": "ซุปปลาเน่า",
+   "th": "ซุปปลาเน่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oldsoup",
+   "en": "Old Soup",
+   "official": "ซุปค้างคืน",
+   "th": "ซุปค้างคืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brokenplate",
+   "en": "Broken Plate",
+   "official": "จานแตก",
+   "th": "จานแตก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "simplesculpture",
+   "en": "Simple Sculpture",
+   "official": "รูปปั้นเรียบง่าย",
+   "th": "รูปปั้นเรียบง่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oldchalices",
+   "en": "Old Chalices",
+   "official": "ถ้วยเก่า",
+   "th": "ถ้วยเก่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forgottenblade",
+   "en": "Forgotten Blade",
+   "official": "ดาบที่ถูกลืม",
+   "th": "ดาบที่ถูกลืม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duelistclock",
+   "en": "Duelist Clock",
+   "official": "นาฬิกานักดวล",
+   "th": "นาฬิกานักดวล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "halfeatenduck",
+   "en": "Half-Eaten Duck",
+   "official": "เป็ดที่กินไปแล้วครึ่งหนึ่ง",
+   "th": "เป็ดกินเหลือครึ่งตัว",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "roastedduck",
+   "en": "Roasted Duck",
+   "official": "เป็ดย่าง",
+   "th": "เป็ดย่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leftovertray",
+   "en": "Leftover Tray",
+   "official": "ถาดที่มีอาหารเหลือ",
+   "th": "ถาดอาหารเหลือ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "picnicblanket",
+   "en": "Picnic Blanket",
+   "official": "ผ้าปูปิคนิค",
+   "th": "ผ้าปูปิคนิค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "steppingstones",
+   "en": "Stepping Stones",
+   "official": "ก้อนหินสำหรับเท้าเหยียบ",
+   "th": "หินทางเดิน",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "largesteppingstone",
+   "en": "Large Stepping Stone",
+   "official": "ก้อนหินสำหรับเท้าเหยียบใหญ่",
+   "th": "หินทางเดินก้อนใหญ่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "mossysteppingstones",
+   "en": "Mossy Stepping Stones",
+   "official": "ก้อนหินสำหรับเท้าเหยียบที่ปกคลุมไปด้วยมอส",
+   "th": "หินทางเดินมีมอส",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "largemossysteppingstone",
+   "en": "Large Mossy Stepping Stone",
+   "official": "ก้อนหินสำหรับเท้าเหยียบที่ปกคลุมไปด้วยมอสใหญ่",
+   "th": "หินทางเดินมีมอสก้อนใหญ่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fireflyjaryellow",
+   "en": "Yellow Firefly Jar",
+   "official": "โหลหิ่งห้อยสีเหลือง",
+   "th": "โหลหิ่งห้อยสีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireflyjargreen",
+   "en": "Green Firefly Jar",
+   "official": "โหลหิ่งห้อยสีเขียว",
+   "th": "โหลหิ่งห้อยสีเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fireflyjarblue",
+   "en": "Blue Firefly Jar",
+   "official": "โหลหิ่งห้อยสีน้ำเงิน",
+   "th": "โหลหิ่งห้อยสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potatoclock",
+   "en": "Potato Clock",
+   "official": "",
+   "th": "นาฬิกามันฝรั่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "witchcauldron",
+   "en": "Witch Cauldron",
+   "official": "",
+   "th": "หม้อต้มแม่มด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "spiritbasin",
+   "en": "Spirit Basin",
+   "official": "",
+   "th": "อ่างวิญญาณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "dryadplant",
+   "en": "Dryad Plant",
+   "official": "",
+   "th": "ต้นไม้ดรายแอด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fishianbathtub",
+   "en": "Fishian Bathtub",
+   "official": "",
+   "th": "อ่างอาบน้ำชาวปลา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pestwardenlamp",
+   "en": "Pest Warden Lamp",
+   "official": "",
+   "th": "โคมไฟผู้คุมพงไพร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "luckyrabbitsfoot",
+   "en": "Lucky Rabbit's Foot",
+   "official": "",
+   "th": "ตีนกระต่ายนำโชค",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wizardbookshelf",
+   "en": "Wizard Bookshelf",
+   "official": "",
+   "th": "ตู้หนังสือพ่อมด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "friendlybush",
+   "en": "Friendly Bush",
+   "official": "",
+   "th": "พุ่มไม้แสนดี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cavelingdisplay",
+   "en": "Caveling Display",
+   "official": "",
+   "th": "แท่นจัดแสดงชาวถ้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bearrug",
+   "en": "Bear Rug",
+   "official": "",
+   "th": "พรมหนังหมี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sheepchair",
+   "en": "Sheep Chair",
+   "official": "",
+   "th": "เก้าอี้แกะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "goblinfriendspainting",
+   "en": "Goblin Friends Painting",
+   "official": "",
+   "th": "ภาพวาดเพื่อนก็อบลิน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "reapersscythestand",
+   "en": "Reaper's Scythe Stand",
+   "official": "",
+   "th": "แท่นวางเคียวยมทูต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "parrotperch",
+   "en": "Parrot Perch",
+   "official": "",
+   "th": "คอนนกแก้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voidflame",
+   "en": "Void Flame",
+   "official": "",
+   "th": "เปลวไฟแห่งความมืด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "unmeltableice",
+   "en": "Unmeltable Ice",
+   "official": "",
+   "th": "น้ำแข็งไม่มีวันละลาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "championbelt",
+   "en": "Champion Belt",
+   "official": "",
+   "th": "เข็มขัดแชมเปียน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fangoftheprotector",
+   "en": "Fang of the Protector",
+   "official": "",
+   "th": "เขี้ยวผู้ปกครอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sagepedestal",
+   "en": "Sage Pedestal",
+   "official": "",
+   "th": "แท่นเซจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gritpedestal",
+   "en": "Grit Pedestal",
+   "official": "",
+   "th": "แท่นกริต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tropicalislandpainting",
+   "en": "Tropical Island Painting",
+   "official": "",
+   "th": "ภาพวาดเกาะเขตร้อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "piratecarpet",
+   "en": "Pirate Carpet",
+   "official": "",
+   "th": "พรมโจรสลัด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mossycarpet",
+   "en": "Mossy Carpet",
+   "official": "",
+   "th": "พรมมอส",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "swampguardianpainting",
+   "en": "Swamp Guardian Painting",
+   "official": "",
+   "th": "ภาพวาดผู้พิทักษ์หนองน้ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sarcophagus",
+   "en": "Sarcophagus",
+   "official": "",
+   "th": "โลงหินโบราณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "runebounddrum",
+   "en": "Runebound Drum",
+   "official": "",
+   "th": "กลองรูนเบานด์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vulturedisplay",
+   "en": "Vulture Display",
+   "official": "",
+   "th": "แท่นจัดแสดงอีแร้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "queeneggnest",
+   "en": "Queen Egg Nest",
+   "official": "",
+   "th": "รังไข่ราชินี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "woodenduck",
+   "en": "Wooden Duck",
+   "official": "",
+   "th": "เป็ดไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "slimebench",
+   "en": "Slime Bench",
+   "official": "",
+   "th": "ม้านั่งสไลม์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "oakchest",
+   "en": "Oak Chest",
+   "official": "กล่องไม้โอ๊ก",
+   "th": "กล่องไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakdinnertable",
+   "en": "Oak Dinner Table",
+   "official": "โต๊ะทานข้าวไม้โอ๊ก",
+   "th": "โต๊ะทานข้าวไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakdesk",
+   "en": "Oak Desk",
+   "official": "โต๊ะไม้โอ๊ก",
+   "th": "โต๊ะไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakmodulartable",
+   "en": "Oak Modular Table",
+   "official": "โต๊ะโมดูลไม้โอ๊ก",
+   "th": "โต๊ะโมดูลไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakchair",
+   "en": "Oak Chair",
+   "official": "เก้าอี้ไม้โอ๊ก",
+   "th": "เก้าอี้ไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakbench",
+   "en": "Oak Bench",
+   "official": "ม้านั่งไม้โอ๊ก",
+   "th": "ม้านั่งไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakbookshelf",
+   "en": "Oak Bookshelf",
+   "official": "ตู้หนังสือไม้โอ๊ก",
+   "th": "ตู้หนังสือไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakcabinet",
+   "en": "Oak Cabinet",
+   "official": "ตู้ไม้โอ๊ก",
+   "th": "ตู้ไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakbed",
+   "en": "Oak Bed",
+   "official": "เตียงไม้โอ๊ก",
+   "th": "เตียงไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakdoublebed",
+   "en": "Oak Double Bed",
+   "official": "เตียงคู่ไม้โอ๊ก",
+   "th": "เตียงคู่ไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakdresser",
+   "en": "Oak Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้โอ๊ก",
+   "th": "โต๊ะเครื่องแป้งไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakclock",
+   "en": "Oak Clock",
+   "official": "นาฬิกาไม้โอ๊ก",
+   "th": "นาฬิกาไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakcandelabra",
+   "en": "Oak Candelabra",
+   "official": "เชิงเทียนไม้โอ๊ก",
+   "th": "เชิงเทียนไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakdisplay",
+   "en": "Oak Display",
+   "official": "แท่นจัดแสดงไม้โอ๊ก",
+   "th": "แท่นจัดแสดงไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oakbathtub",
+   "en": "Oak Bathtub",
+   "official": "อ่างอาบน้ำไม้โอ๊ก",
+   "th": "อ่างอาบน้ำไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oaktoilet",
+   "en": "Oak Toilet",
+   "official": "ส้วมไม้โอ๊ก",
+   "th": "ส้วมไม้โอ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucechest",
+   "en": "Spruce Chest",
+   "official": "กล่องไม้สปรูซ",
+   "th": "กล่องไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucedinnertable",
+   "en": "Spruce Dinner Table",
+   "official": "โต๊ะทานข้าวไม้สปรูซ",
+   "th": "โต๊ะทานข้าวไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucedesk",
+   "en": "Spruce Desk",
+   "official": "โต๊ะไม้สปรูซ",
+   "th": "โต๊ะไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucemodulartable",
+   "en": "Spruce Modular Table",
+   "official": "โต๊ะโมดูลไม้สปรูซ",
+   "th": "โต๊ะโมดูลไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucechair",
+   "en": "Spruce Chair",
+   "official": "เก้าอี้ไม้สปรูซ",
+   "th": "เก้าอี้ไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucebench",
+   "en": "Spruce Bench",
+   "official": "ม้านั่งไม้สปรูซ",
+   "th": "ม้านั่งไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucebookshelf",
+   "en": "Spruce Bookshelf",
+   "official": "ตู้หนังสือไม้สปรูซ",
+   "th": "ตู้หนังสือไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucecabinet",
+   "en": "Spruce Cabinet",
+   "official": "ตู้ไม้สปรูซ",
+   "th": "ตู้ไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucebed",
+   "en": "Spruce Bed",
+   "official": "เตียงไม้สปรูซ",
+   "th": "เตียงไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucedoublebed",
+   "en": "Spruce Double Bed",
+   "official": "เตียงคู่ไม้สปรูซ",
+   "th": "เตียงคู่ไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucedresser",
+   "en": "Spruce Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้สปรูซ",
+   "th": "โต๊ะเครื่องแป้งไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spruceclock",
+   "en": "Spruce Clock",
+   "official": "นาฬิกาไม้สปรูซ",
+   "th": "นาฬิกาไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucecandelabra",
+   "en": "Spruce Candelabra",
+   "official": "เชิงเทียนไม้สปรูซ",
+   "th": "เชิงเทียนไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucedisplay",
+   "en": "Spruce Display",
+   "official": "แท่นจัดแสดงไม้สปรูซ",
+   "th": "แท่นจัดแสดงไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucebathtub",
+   "en": "Spruce Bathtub",
+   "official": "อ่างอาบน้ำไม้สปรูซ",
+   "th": "อ่างอาบน้ำไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sprucetoilet",
+   "en": "Spruce Toilet",
+   "official": "ส้วมไม้สปรูซ",
+   "th": "ส้วมไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinechest",
+   "en": "Pine Chest",
+   "official": "กล่องไม้สน",
+   "th": "กล่องไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedinnertable",
+   "en": "Pine Dinner Table",
+   "official": "โต๊ะทานข้าวไม้สน",
+   "th": "โต๊ะทานข้าวไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedesk",
+   "en": "Pine Desk",
+   "official": "โต๊ะไม้สน",
+   "th": "โต๊ะไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinemodulartable",
+   "en": "Pine Modular Table",
+   "official": "โต๊ะโมดูลไม้สน",
+   "th": "โต๊ะโมดูลไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinechair",
+   "en": "Pine Chair",
+   "official": "เก้าอี้ไม้สน",
+   "th": "เก้าอี้ไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinebench",
+   "en": "Pine Bench",
+   "official": "ม้านั่งไม้สน",
+   "th": "ม้านั่งไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinebookshelf",
+   "en": "Pine Bookshelf",
+   "official": "ตู้หนังสือไม้สน",
+   "th": "ตู้หนังสือไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinecabinet",
+   "en": "Pine Cabinet",
+   "official": "ตู้ไม้สน",
+   "th": "ตู้ไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinebed",
+   "en": "Pine Bed",
+   "official": "เตียงไม้สน",
+   "th": "เตียงไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedoublebed",
+   "en": "Pine Double Bed",
+   "official": "เตียงคู่ไม้สน",
+   "th": "เตียงคู่ไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedresser",
+   "en": "Pine Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้สน",
+   "th": "โต๊ะเครื่องแป้งไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pineclock",
+   "en": "Pine Clock",
+   "official": "นาฬิกาไม้สน",
+   "th": "นาฬิกาไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinecandelabra",
+   "en": "Pine Candelabra",
+   "official": "เชิงเทียนไม้สน",
+   "th": "เชิงเทียนไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinedisplay",
+   "en": "Pine Display",
+   "official": "แท่นจัดแสดงไม้สน",
+   "th": "แท่นจัดแสดงไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinebathtub",
+   "en": "Pine Bathtub",
+   "official": "อ่างอาบน้ำไม้สน",
+   "th": "อ่างอาบน้ำไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinetoilet",
+   "en": "Pine Toilet",
+   "official": "ส้วมไม้สน",
+   "th": "ส้วมไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmchest",
+   "en": "Palm Chest",
+   "official": "กล่องไม้ปาล์ม",
+   "th": "กล่องไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdinnertable",
+   "en": "Palm Dinner Table",
+   "official": "โต๊ะทานข้าวไม้ปาล์ม",
+   "th": "โต๊ะทานข้าวไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdesk",
+   "en": "Palm Desk",
+   "official": "โต๊ะไม้ปาล์ม",
+   "th": "โต๊ะไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmmodulartable",
+   "en": "Palm Modular Table",
+   "official": "โต๊ะโมดูลไม้ปาล์ม",
+   "th": "โต๊ะโมดูลไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmchair",
+   "en": "Palm Chair",
+   "official": "เก้าอี้ไม้ปาล์ม",
+   "th": "เก้าอี้ไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmbench",
+   "en": "Palm Bench",
+   "official": "ม้านั่งไม้ปาล์ม",
+   "th": "ม้านั่งไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmbookshelf",
+   "en": "Palm Bookshelf",
+   "official": "ตู้หนังสือไม้ปาล์ม",
+   "th": "ตู้หนังสือไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmcabinet",
+   "en": "Palm Cabinet",
+   "official": "ตู้ไม้ปาล์ม",
+   "th": "ตู้ไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmbed",
+   "en": "Palm Bed",
+   "official": "เตียงไม้ปาล์ม",
+   "th": "เตียงไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdoublebed",
+   "en": "Palm Double Bed",
+   "official": "เตียงคู่ไม้ปาล์ม",
+   "th": "เตียงคู่ไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdresser",
+   "en": "Palm Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้ปาล์ม",
+   "th": "โต๊ะเครื่องแป้งไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmclock",
+   "en": "Palm Clock",
+   "official": "นาฬิกาไม้ปาล์ม",
+   "th": "นาฬิกาไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmcandelabra",
+   "en": "Palm Candelabra",
+   "official": "เชิงเทียนไม้ปาล์ม",
+   "th": "เชิงเทียนไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmdisplay",
+   "en": "Palm Display",
+   "official": "แท่นจัดแสดงไม้ปาล์ม",
+   "th": "แท่นจัดแสดงไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmbathtub",
+   "en": "Palm Bathtub",
+   "official": "อ่างอาบน้ำไม้ปาล์ม",
+   "th": "อ่างอาบน้ำไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmtoilet",
+   "en": "Palm Toilet",
+   "official": "ส้วมไม้ปาล์ม",
+   "th": "ส้วมไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowchest",
+   "en": "Willow Chest",
+   "official": "กล่องไม้หลิว",
+   "th": "กล่องไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdinnertable",
+   "en": "Willow Dinner Table",
+   "official": "โต๊ะทานข้าวไม้หลิว",
+   "th": "โต๊ะทานข้าวไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdesk",
+   "en": "Willow Desk",
+   "official": "โต๊ะไม้หลิว",
+   "th": "โต๊ะไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowmodulartable",
+   "en": "Willow Modular Table",
+   "official": "โต๊ะโมดูลไม้หลิว",
+   "th": "โต๊ะโมดูลไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowchair",
+   "en": "Willow Chair",
+   "official": "เก้าอี้ไม้หลิว",
+   "th": "เก้าอี้ไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowbench",
+   "en": "Willow Bench",
+   "official": "ม้านั่งไม้หลิว",
+   "th": "ม้านั่งไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowbookshelf",
+   "en": "Willow Bookshelf",
+   "official": "ตู้หนังสือไม้หลิว",
+   "th": "ตู้หนังสือไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowcabinet",
+   "en": "Willow Cabinet",
+   "official": "ตู้ไม้หลิว",
+   "th": "ตู้ไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowbed",
+   "en": "Willow Bed",
+   "official": "เตียงไม้หลิว",
+   "th": "เตียงไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdoublebed",
+   "en": "Willow Double Bed",
+   "official": "เตียงคู่ไม้หลิว",
+   "th": "เตียงคู่ไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdresser",
+   "en": "Willow Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้หลิว",
+   "th": "โต๊ะเครื่องแป้งไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowclock",
+   "en": "Willow Clock",
+   "official": "นาฬิกาไม้หลิว",
+   "th": "นาฬิกาไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowcandelabra",
+   "en": "Willow Candelabra",
+   "official": "เชิงเทียนไม้หลิว",
+   "th": "เชิงเทียนไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowdisplay",
+   "en": "Willow Display",
+   "official": "แท่นจัดแสดงไม้หลิว",
+   "th": "แท่นจัดแสดงไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowbathtub",
+   "en": "Willow Bathtub",
+   "official": "อ่างอาบน้ำไม้หลิว",
+   "th": "อ่างอาบน้ำไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowtoilet",
+   "en": "Willow Toilet",
+   "official": "ส้วมไม้หลิว",
+   "th": "ส้วมไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplechest",
+   "en": "Maple Chest",
+   "official": "กล่องไม้เมเปิ้ล",
+   "th": "กล่องไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapledinnertable",
+   "en": "Maple Dinner Table",
+   "official": "โต๊ะทานข้าวไม้เมเปิ้ล",
+   "th": "โต๊ะทานข้าวไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapledesk",
+   "en": "Maple Desk",
+   "official": "โต๊ะไม้เมเปิ้ล",
+   "th": "โต๊ะไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplemodulartable",
+   "en": "Maple Modular Table",
+   "official": "โต๊ะโมดูลไม้เมเปิ้ล",
+   "th": "โต๊ะโมดูลไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplechair",
+   "en": "Maple Chair",
+   "official": "เก้าอี้ไม้เมเปิ้ล",
+   "th": "เก้าอี้ไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplebench",
+   "en": "Maple Bench",
+   "official": "ม้านั่งไม้เมเปิ้ล",
+   "th": "ม้านั่งไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplebookshelf",
+   "en": "Maple Bookshelf",
+   "official": "ตู้หนังสือไม้เมเปิ้ล",
+   "th": "ตู้หนังสือไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplecabinet",
+   "en": "Maple Cabinet",
+   "official": "ตู้ไม้เมเปิ้ล",
+   "th": "ตู้ไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplebed",
+   "en": "Maple Bed",
+   "official": "เตียงไม้เมเปิ้ล",
+   "th": "เตียงไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapledoublebed",
+   "en": "Maple Double Bed",
+   "official": "เตียงคู่ไม้เมเปิ้ล",
+   "th": "เตียงคู่ไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapledresser",
+   "en": "Maple Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้เมเปิ้ล",
+   "th": "โต๊ะเครื่องแป้งไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapleclock",
+   "en": "Maple Clock",
+   "official": "นาฬิกาไม้เมเปิ้ล",
+   "th": "นาฬิกาไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplecandelabra",
+   "en": "Maple Candelabra",
+   "official": "เชิงเทียนไม้เมเปิ้ล",
+   "th": "เชิงเทียนไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapledisplay",
+   "en": "Maple Display",
+   "official": "แท่นจัดแสดงไม้เมเปิ้ล",
+   "th": "แท่นจัดแสดงไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maplebathtub",
+   "en": "Maple Bathtub",
+   "official": "อ่างอาบน้ำไม้เมเปิ้ล",
+   "th": "อ่างอาบน้ำไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapletoilet",
+   "en": "Maple Toilet",
+   "official": "ส้วมไม้เมเปิ้ล",
+   "th": "ส้วมไม้เมเปิ้ล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "birchchest",
+   "en": "Birch Chest",
+   "official": "กล่องไม้เบอร์ช",
+   "th": "กล่องไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchdinnertable",
+   "en": "Birch Dinner Table",
+   "official": "โต๊ะทานข้าวไม้เบอร์ช",
+   "th": "โต๊ะทานข้าวไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchdesk",
+   "en": "Birch Desk",
+   "official": "โต๊ะไม้เบอร์ช",
+   "th": "โต๊ะไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchmodulartable",
+   "en": "Birch Modular Table",
+   "official": "โต๊ะโมดูลไม้เบอร์ช",
+   "th": "โต๊ะโมดูลไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchchair",
+   "en": "Birch Chair",
+   "official": "เก้าอี้ไม้เบอร์ช",
+   "th": "เก้าอี้ไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchbench",
+   "en": "Birch Bench",
+   "official": "ม้านั่งไม้เบอร์ช",
+   "th": "ม้านั่งไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchbookshelf",
+   "en": "Birch Bookshelf",
+   "official": "ตู้หนังสือไม้เบอร์ช",
+   "th": "ตู้หนังสือไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchcabinet",
+   "en": "Birch Cabinet",
+   "official": "ตู้ไม้เบอร์ช",
+   "th": "ตู้ไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchbed",
+   "en": "Birch Bed",
+   "official": "เตียงไม้เบอร์ช",
+   "th": "เตียงไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchdoublebed",
+   "en": "Birch Double Bed",
+   "official": "เตียงคู่ไม้เบอร์ช",
+   "th": "เตียงคู่ไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchdresser",
+   "en": "Birch Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้เบอร์ช",
+   "th": "โต๊ะเครื่องแป้งไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchclock",
+   "en": "Birch Clock",
+   "official": "นาฬิกาไม้เบอร์ช",
+   "th": "นาฬิกาไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchcandelabra",
+   "en": "Birch Candelabra",
+   "official": "เชิงเทียนไม้เบอร์ช",
+   "th": "เชิงเทียนไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchdisplay",
+   "en": "Birch Display",
+   "official": "แท่นจัดแสดงไม้เบอร์ช",
+   "th": "แท่นจัดแสดงไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchbathtub",
+   "en": "Birch Bathtub",
+   "official": "อ่างอาบน้ำไม้เบอร์ช",
+   "th": "อ่างอาบน้ำไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "birchtoilet",
+   "en": "Birch Toilet",
+   "official": "ส้วมไม้เบอร์ช",
+   "th": "ส้วมไม้เบิร์ช",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับไม้เบิร์ช"
+  },
+  {
+   "key": "dungeonchest",
+   "en": "Dungeon Chest",
+   "official": "กล่องดันเจี้ยน",
+   "th": "กล่องดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondinnertable",
+   "en": "Dungeon Dinner Table",
+   "official": "โต๊ะทานข้าวดันเจี้ยน",
+   "th": "โต๊ะทานข้าวดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondesk",
+   "en": "Dungeon Desk",
+   "official": "โต๊ะดันเจี้ยน",
+   "th": "โต๊ะดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonmodulartable",
+   "en": "Dungeon Modular Table",
+   "official": "โต๊ะโมดูลดันเจี้ยน",
+   "th": "โต๊ะโมดูลดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonchair",
+   "en": "Dungeon Chair",
+   "official": "เก้าอี้ดันเจี้ยน",
+   "th": "เก้าอี้ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonbench",
+   "en": "Dungeon Bench",
+   "official": "ม้านั่งดันเจี้ยน",
+   "th": "ม้านั่งดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonbookshelf",
+   "en": "Dungeon Bookshelf",
+   "official": "ตู้หนังสือดันเจี้ยน",
+   "th": "ตู้หนังสือดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeoncabinet",
+   "en": "Dungeon Cabinet",
+   "official": "ตู้ดันเจี้ยน",
+   "th": "ตู้ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonbed",
+   "en": "Dungeon Bed",
+   "official": "เตียงดันเจี้ยน",
+   "th": "เตียงดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondoublebed",
+   "en": "Dungeon Double Bed",
+   "official": "เตียงคู่ดันเจี้ยน",
+   "th": "เตียงคู่ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondresser",
+   "en": "Dungeon Dresser",
+   "official": "โต๊ะเครื่องแป้งดันเจี้ยน",
+   "th": "โต๊ะเครื่องแป้งดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonclock",
+   "en": "Dungeon Clock",
+   "official": "นาฬิกาดันเจี้ยน",
+   "th": "นาฬิกาดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeoncandelabra",
+   "en": "Dungeon Candelabra",
+   "official": "เชิงเทียนดันเจี้ยน",
+   "th": "เชิงเทียนดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeondisplay",
+   "en": "Dungeon Display",
+   "official": "แท่นจัดแสดงดันเจี้ยน",
+   "th": "แท่นจัดแสดงดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonbathtub",
+   "en": "Dungeon Bathtub",
+   "official": "อ่างอาบน้ำดันเจี้ยน",
+   "th": "อ่างอาบน้ำดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeontoilet",
+   "en": "Dungeon Toilet",
+   "official": "ส้วมดันเจี้ยน",
+   "th": "ส้วมดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonechest",
+   "en": "Bone Chest",
+   "official": "กล่องกระดูก",
+   "th": "กล่องกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonedinnertable",
+   "en": "Bone Dinner Table",
+   "official": "โต๊ะทานข้าวกระดูก",
+   "th": "โต๊ะทานข้าวกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonedesk",
+   "en": "Bone Desk",
+   "official": "โต๊ะกระดูก",
+   "th": "โต๊ะกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonemodulartable",
+   "en": "Bone Modular Table",
+   "official": "โต๊ะโมดูลกระดูก",
+   "th": "โต๊ะโมดูลกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonechair",
+   "en": "Bone Chair",
+   "official": "เก้าอี้กระดูก",
+   "th": "เก้าอี้กระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonebench",
+   "en": "Bone Bench",
+   "official": "ม้านั่งกระดูก",
+   "th": "ม้านั่งกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonebookshelf",
+   "en": "Bone Bookshelf",
+   "official": "ตู้หนังสือกระดูก",
+   "th": "ตู้หนังสือกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonecabinet",
+   "en": "Bone Cabinet",
+   "official": "ตู้กระดูก",
+   "th": "ตู้กระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonebed",
+   "en": "Bone Bed",
+   "official": "เตียงกระดูก",
+   "th": "เตียงกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonedoublebed",
+   "en": "Bone Double Bed",
+   "official": "เตียงคู่กระดูก",
+   "th": "เตียงคู่กระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonedresser",
+   "en": "Bone Dresser",
+   "official": "โต๊ะเครื่องแป้งกระดูก",
+   "th": "โต๊ะเครื่องแป้งกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "boneclock",
+   "en": "Bone Clock",
+   "official": "นาฬิกากระดูก",
+   "th": "นาฬิกากระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonecandelabra",
+   "en": "Bone Candelabra",
+   "official": "เชิงเทียนกระดูก",
+   "th": "เชิงเทียนกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonedisplay",
+   "en": "Bone Display",
+   "official": "แท่นจัดแสดงกระดูก",
+   "th": "แท่นจัดแสดงกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonebathtub",
+   "en": "Bone Bathtub",
+   "official": "อ่างอาบน้ำกระดูก",
+   "th": "อ่างอาบน้ำกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonetoilet",
+   "en": "Bone Toilet",
+   "official": "ส้วมกระดูก",
+   "th": "ส้วมกระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadchest",
+   "en": "Dryad Chest",
+   "official": "กล่องดรายแอด",
+   "th": "กล่องดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryaddinnertable",
+   "en": "Dryad Dinner Table",
+   "official": "โต๊ะทานข้าวดรายแอด",
+   "th": "โต๊ะทานข้าวดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryaddesk",
+   "en": "Dryad Desk",
+   "official": "โต๊ะดรายแอด",
+   "th": "โต๊ะดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadmodulartable",
+   "en": "Dryad Modular Table",
+   "official": "โต๊ะโมดูลดรายแอด",
+   "th": "โต๊ะโมดูลดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadchair",
+   "en": "Dryad Chair",
+   "official": "เก้าอี้ดรายแอด",
+   "th": "เก้าอี้ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbench",
+   "en": "Dryad Bench",
+   "official": "ม้านั่งดรายแอด",
+   "th": "ม้านั่งดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbookshelf",
+   "en": "Dryad Bookshelf",
+   "official": "ตู้หนังสือดรายแอด",
+   "th": "ตู้หนังสือดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadcabinet",
+   "en": "Dryad Cabinet",
+   "official": "ตู้ดรายแอด",
+   "th": "ตู้ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbed",
+   "en": "Dryad Bed",
+   "official": "เตียงดรายแอด",
+   "th": "เตียงดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryaddoublebed",
+   "en": "Dryad Double Bed",
+   "official": "เตียงคู่ดรายแอด",
+   "th": "เตียงคู่ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryaddresser",
+   "en": "Dryad Dresser",
+   "official": "โต๊ะเครื่องแป้งดรายแอด",
+   "th": "โต๊ะเครื่องแป้งดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadclock",
+   "en": "Dryad Clock",
+   "official": "นาฬิกาดรายแอด",
+   "th": "นาฬิกาดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadcandelabra",
+   "en": "Dryad Candelabra",
+   "official": "เชิงเทียนดรายแอด",
+   "th": "เชิงเทียนดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryaddisplay",
+   "en": "Dryad Display",
+   "official": "แท่นจัดแสดงดรายแอด",
+   "th": "แท่นจัดแสดงดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadbathtub",
+   "en": "Dryad Bathtub",
+   "official": "อ่างอาบน้ำดรายแอด",
+   "th": "อ่างอาบน้ำดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadtoilet",
+   "en": "Dryad Toilet",
+   "official": "ส้วมดรายแอด",
+   "th": "ส้วมดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboochest",
+   "en": "Bamboo Chest",
+   "official": "กล่องไม้ไผ่",
+   "th": "กล่องไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodinnertable",
+   "en": "Bamboo Dinner Table",
+   "official": "โต๊ะทานข้าวไม้ไผ่",
+   "th": "โต๊ะทานข้าวไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodesk",
+   "en": "Bamboo Desk",
+   "official": "โต๊ะไม้ไผ่",
+   "th": "โต๊ะไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboomodulartable",
+   "en": "Bamboo Modular Table",
+   "official": "โต๊ะโมดูลไม้ไผ่",
+   "th": "โต๊ะโมดูลไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboochair",
+   "en": "Bamboo Chair",
+   "official": "เก้าอี้ไม้ไผ่",
+   "th": "เก้าอี้ไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboobench",
+   "en": "Bamboo Bench",
+   "official": "ม้านั่งไม้ไผ่",
+   "th": "ม้านั่งไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboobookshelf",
+   "en": "Bamboo Bookshelf",
+   "official": "ตู้หนังสือไม้ไผ่",
+   "th": "ตู้หนังสือไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboocabinet",
+   "en": "Bamboo Cabinet",
+   "official": "ตู้ไม้ไผ่",
+   "th": "ตู้ไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboobed",
+   "en": "Bamboo Bed",
+   "official": "เตียงไม้ไผ่",
+   "th": "เตียงไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodoublebed",
+   "en": "Bamboo Double Bed",
+   "official": "เตียงคู่ไม้ไผ่",
+   "th": "เตียงคู่ไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodresser",
+   "en": "Bamboo Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้ไผ่",
+   "th": "โต๊ะเครื่องแป้งไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bambooclock",
+   "en": "Bamboo Clock",
+   "official": "นาฬิกาไม้ไผ่",
+   "th": "นาฬิกาไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboocandelabra",
+   "en": "Bamboo Candelabra",
+   "official": "เชิงเทียนไม้ไผ่",
+   "th": "เชิงเทียนไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodisplay",
+   "en": "Bamboo Display",
+   "official": "แท่นจัดแสดงไม้ไผ่",
+   "th": "แท่นจัดแสดงไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboobathtub",
+   "en": "Bamboo Bathtub",
+   "official": "อ่างอาบน้ำไม้ไผ่",
+   "th": "อ่างอาบน้ำไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bambootoilet",
+   "en": "Bamboo Toilet",
+   "official": "ส้วมไม้ไผ่",
+   "th": "ส้วมไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodchest",
+   "en": "Deadwood Chest",
+   "official": "กล่องไม้เดดวูด",
+   "th": "กล่องไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwooddinnertable",
+   "en": "Deadwood Dinner Table",
+   "official": "โต๊ะทานข้าวไม้เดดวูด",
+   "th": "โต๊ะทานข้าวไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwooddesk",
+   "en": "Deadwood Desk",
+   "official": "โต๊ะไม้เดดวูด",
+   "th": "โต๊ะไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodmodulartable",
+   "en": "Deadwood Modular Table",
+   "official": "โต๊ะโมดูลไม้เดดวูด",
+   "th": "โต๊ะโมดูลไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodchair",
+   "en": "Deadwood Chair",
+   "official": "เก้าอี้ไม้เดดวูด",
+   "th": "เก้าอี้ไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodbench",
+   "en": "Deadwood Bench",
+   "official": "ม้านั่งไม้เดดวูด",
+   "th": "ม้านั่งไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodbookshelf",
+   "en": "Deadwood Bookshelf",
+   "official": "ตู้หนังสือไม้เดดวูด",
+   "th": "ตู้หนังสือไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodcabinet",
+   "en": "Deadwood Cabinet",
+   "official": "ตู้ไม้เดดวูด",
+   "th": "ตู้ไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodbed",
+   "en": "Deadwood Bed",
+   "official": "เตียงไม้เดดวูด",
+   "th": "เตียงไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwooddoublebed",
+   "en": "Deadwood Double Bed",
+   "official": "เตียงคู่ไม้เดดวูด",
+   "th": "เตียงคู่ไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwooddresser",
+   "en": "Deadwood Dresser",
+   "official": "โต๊ะเครื่องแป้งไม้เดดวูด",
+   "th": "โต๊ะเครื่องแป้งไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodclock",
+   "en": "Deadwood Clock",
+   "official": "นาฬิกาไม้เดดวูด",
+   "th": "นาฬิกาไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodcandelabra",
+   "en": "Deadwood Candelabra",
+   "official": "เชิงเทียนไม้เดดวูด",
+   "th": "เชิงเทียนไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodcandles",
+   "en": "Deadwood Candles",
+   "official": "เทียนไม้เดดวูด",
+   "th": "เทียนไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwooddisplay",
+   "en": "Deadwood Display",
+   "official": "แท่นจัดแสดงไม้เดดวูด",
+   "th": "แท่นจัดแสดงไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodbathtub",
+   "en": "Deadwood Bathtub",
+   "official": "อ่างอาบน้ำไม้เดดวูด",
+   "th": "อ่างอาบน้ำไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodtoilet",
+   "en": "Deadwood Toilet",
+   "official": "ส้วมไม้เดดวูด",
+   "th": "ส้วมไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderthrone",
+   "en": "Spider Throne",
+   "official": "บัลลังก์แมงมุม",
+   "th": "บัลลังก์แมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastlecandelabra",
+   "en": "Spider Castle Candelabra",
+   "official": "เชิงเทียนปราสาทแมงมุม",
+   "th": "เชิงเทียนปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastlewallcandle",
+   "en": "Spider Castle Wall Candle",
+   "official": "เทียนติดกำแพงปราสาทแมงมุม",
+   "th": "เทียนติดผนังปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "ให้เข้าชุดเทียนติดผนัง"
+  },
+  {
+   "key": "spidercastlemodulartable",
+   "en": "Spider Castle Modular Table",
+   "official": "โต๊ะโมดูลาร์ปราสาทแมงมุม",
+   "th": "โต๊ะโมดูลปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "ให้เข้าชุดโต๊ะโมดูล"
+  },
+  {
+   "key": "spidercastlechair",
+   "en": "Spider Castle Chair",
+   "official": "เก้าอี้ปราสาทแมงมุม",
+   "th": "เก้าอี้ปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastlebench",
+   "en": "Spider Castle Bench",
+   "official": "ม้านั่งปราสาทแมงมุม",
+   "th": "ม้านั่งปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastlebookshelf",
+   "en": "Spider Castle Bookshelf",
+   "official": "ชั้นหนังสือปราสาทแมงมุม",
+   "th": "ตู้หนังสือปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "ให้เข้าชุดตู้หนังสือ"
+  },
+  {
+   "key": "spideritearmorstand",
+   "en": "Spiderite Armor Stand",
+   "official": "ขาตั้งเกราะแมงมุม",
+   "th": "แท่นวางชุดเกราะสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Spiderite) + ให้เข้าชุด Armor Stand"
+  },
+  {
+   "key": "emptyravennest",
+   "en": "Empty Raven Nest",
+   "official": "รังอีกาว่างเปล่า",
+   "th": "รังอีกาว่างเปล่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravennestwithegg",
+   "en": "Raven Nest",
+   "official": "รังอีกา",
+   "th": "รังอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravenskull",
+   "en": "Raven Skull",
+   "official": "กะโหลกอีกา",
+   "th": "กะโหลกอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicmachinery",
+   "en": "Arcanic Machinery",
+   "official": "เครื่องจักรลึกลับ",
+   "th": "เครื่องจักรลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "largekeg",
+   "en": "Large Keg",
+   "official": "ถังไม้ขนาดใหญ่",
+   "th": "ถังไม้ขนาดใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stool",
+   "en": "Stool",
+   "official": "เก้าอี้สตูล",
+   "th": "เก้าอี้สตูล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sink",
+   "en": "Sink",
+   "official": "อ่างล้างมือ",
+   "th": "อ่างล้างมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstensink",
+   "en": "Tungsten Sink",
+   "official": "อ่างล้างมือทังสเตน",
+   "th": "อ่างล้างมือทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "barshelf",
+   "en": "Bar Shelf",
+   "official": "ชั้นวางเครื่องดื่ม",
+   "th": "ชั้นวางเครื่องดื่ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coolingtower",
+   "en": "Cooling Tower",
+   "official": "",
+   "th": "หอหล่อเย็น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "electrictower",
+   "en": "Electric Tower",
+   "official": "",
+   "th": "เสาไฟฟ้า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapheap",
+   "en": "Scrap Heap",
+   "official": "",
+   "th": "กองเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapheapsmall",
+   "en": "Small Scrap Heap",
+   "official": "",
+   "th": "กองเศษเหล็กเล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapheapbig",
+   "en": "Big Scrap Heap",
+   "official": "",
+   "th": "กองเศษเหล็กใหญ่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vendingmachine",
+   "en": "Vending Machine",
+   "official": "",
+   "th": "ตู้กดสินค้า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyardbossentrance",
+   "en": "Scrapyard Boss Entrance",
+   "official": "",
+   "th": "ทางเข้าห้องบอสลานเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wooddinnertable",
+   "en": "Wood Dinner Table",
+   "official": "โต๊ะทานข้าวไม้",
+   "th": "โต๊ะทานข้าวไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wooddesk",
+   "en": "Wood Desk",
+   "official": "โต๊ะไม้",
+   "th": "โต๊ะไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodmodulartable",
+   "en": "Wood Modular Table",
+   "official": "โต๊ะโมดูลไม้",
+   "th": "โต๊ะโมดูลไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodchair",
+   "en": "Wood Chair",
+   "official": "เก้าอี้ไม้",
+   "th": "เก้าอี้ไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "golddinnertable",
+   "en": "Gold Dinner Table",
+   "official": "โต๊ะทานข้าวทองคำ",
+   "th": "โต๊ะทานข้าวทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldchair",
+   "en": "Gold Chair",
+   "official": "เก้าอี้ทองคำ",
+   "th": "เก้าอี้ทองคำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodbookshelf",
+   "en": "Wood Bookshelf",
+   "official": "ตู้หนังสือไม้",
+   "th": "ตู้หนังสือไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodbathtub",
+   "en": "Wood Bathtub",
+   "official": "อ่างอาบน้ำไม้",
+   "th": "อ่างอาบน้ำไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodtoilet",
+   "en": "Wood Toilet",
+   "official": "ส้วมไม้",
+   "th": "ส้วมไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "apiary",
+   "en": "Apiary",
+   "official": "ที่เลี้ยงผึ้ง",
+   "th": "ที่เลี้ยงผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "beehive",
+   "en": "Beehive",
+   "official": "รังผึ้ง",
+   "th": "รังผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eggnest",
+   "en": "Egg Nest",
+   "official": "รังนก",
+   "th": "รังไข่",
+   "status": "fixed",
+   "note": "ให้ตรงความ (Egg Nest)"
+  },
+  {
+   "key": "merchantsbackpack",
+   "en": "Merchant's Backpack",
+   "official": "กระเป๋าเป้ของพ่อค้า",
+   "th": "กระเป๋าเป้ของพ่อค้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sack",
+   "en": "Sack",
+   "official": "กระสอบ",
+   "th": "กระสอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bigtent",
+   "en": "Tent",
+   "official": "เต็นท์",
+   "th": "เต็นท์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratechest",
+   "en": "Pirate's Chest",
+   "official": "กล่องโจรสลัด",
+   "th": "กล่องโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mimicchest",
+   "en": "Mimic Chest",
+   "official": "",
+   "th": "กล่องมิมิก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "woolcarpet",
+   "en": "Wool Carpet",
+   "official": "พรมขนแกะ",
+   "th": "พรมขนแกะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "leathercarpet",
+   "en": "Leather Carpet",
+   "official": "พรมหนังสัตว์",
+   "th": "พรมหนังสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brownbearcarpet",
+   "en": "Brown Bear Carpet",
+   "official": "พรมหนังหมี",
+   "th": "พรมหนังหมีสีน้ำตาล",
+   "status": "fixed",
+   "note": "แยกจาก Bear Rug"
+  },
+  {
+   "key": "bluecarpet",
+   "en": "Blue Carpet",
+   "official": "พรมสีน้ำเงิน",
+   "th": "พรมสีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldgridcarpet",
+   "en": "Golden Pattern Carpet",
+   "official": "พรมลายตารางสีทอง",
+   "th": "พรมลายตารางสีทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "greencarpet",
+   "en": "Green Scales Carpet",
+   "official": "พรมเกล็ดเขียว",
+   "th": "พรมเกล็ดเขียว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "heartcarpet",
+   "en": "Carpet of Love",
+   "official": "พรมแห่งความรัก",
+   "th": "พรมแห่งความรัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "purplecarpet",
+   "en": "Purple Dotted Carpet",
+   "official": "พรมลายจุดสีม่วง",
+   "th": "พรมลายจุดสีม่วง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "redyarncarpet",
+   "en": "Red Yarn Carpet",
+   "official": "พรมไหมสีแดง",
+   "th": "พรมไหมพรมสีแดง",
+   "status": "fixed",
+   "note": "Yarn = ไหมพรม ไม่ใช่ไหม"
+  },
+  {
+   "key": "steelgreycarpet",
+   "en": "Steel Grey Carpet",
+   "official": "พรมเหล็กสีเทา",
+   "th": "พรมสีเทาเหล็ก",
+   "status": "fixed",
+   "note": "ไม่ใช่พรมทำจากเหล็ก"
+  },
+  {
+   "key": "velourcarpet",
+   "en": "Velour Carpet",
+   "official": "พรมกำมะหยี่",
+   "th": "พรมกำมะหยี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "groundslime",
+   "en": "Ground Slime",
+   "official": "ดินสไลม์",
+   "th": "ดินสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodbed",
+   "en": "Wood Bed",
+   "official": "เตียงไม้",
+   "th": "เตียงไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodpressureplate",
+   "en": "Wood Pressure Plate",
+   "official": "แท่นเหยียบไม้",
+   "th": "แท่นเหยียบไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonepressureplate",
+   "en": "Stone Pressure Plate",
+   "official": "แท่นเหยียบหิน",
+   "th": "แท่นเหยียบหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonepressureplate",
+   "en": "Snow Stone Pressure Plate",
+   "official": "แท่นเหยียบหินหิมะ",
+   "th": "แท่นเหยียบหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granitepressureplate",
+   "en": "Granite Pressure Plate",
+   "official": "แท่นเหยียบหินแกรนิต",
+   "th": "แท่นเหยียบหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampstonepressureplate",
+   "en": "Swamp Stone Pressure Plate",
+   "official": "แท่นเหยียบหินหนองน้ำ",
+   "th": "แท่นเหยียบหินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonepressureplate",
+   "en": "Sandstone Pressure Plate",
+   "official": "แท่นเหยียบหินทราย",
+   "th": "แท่นเหยียบหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonpressureplate",
+   "en": "Dungeon Pressure Plate",
+   "official": "แท่นเหยียบดันเจี้ยน",
+   "th": "แท่นเหยียบดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonepressureplate",
+   "en": "Deep Stone Pressure Plate",
+   "official": "แท่นเหยียบหินชั้นลึก",
+   "th": "แท่นเหยียบหินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstonepressureplate",
+   "en": "Deep Snow Stone Pressure Plate",
+   "official": "แท่นเหยียบหินหิมะชั้นลึก",
+   "th": "แท่นเหยียบหินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltpressureplate",
+   "en": "Basalt Pressure Plate",
+   "official": "แท่นเหยียบหินบะซอลต์",
+   "th": "แท่นเหยียบหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonepressureplate",
+   "en": "Deep Swamp Stone Pressure Plate",
+   "official": "แท่นเหยียบหินหนองน้ำชั้นลึก",
+   "th": "แท่นเหยียบหินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rocklever",
+   "en": "Rock Lever",
+   "official": "คันโยกหิน",
+   "th": "คันโยกหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ledpanel",
+   "en": "LED Panel",
+   "official": "แผงไฟ",
+   "th": "แผงไฟ LED",
+   "status": "fixed",
+   "note": "คงคำ LED ให้ชัด"
+  },
+  {
+   "key": "woodwalltrap",
+   "en": "Wood <trap>",
+   "official": "ไม้ <trap>",
+   "th": "<trap>ไม้",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "stonewalltrap",
+   "en": "Stone <trap>",
+   "official": "หิน <trap>",
+   "th": "<trap>หิน",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "dryadwalltrap",
+   "en": "Dryad <trap>",
+   "official": "ไม้แห้ง <trap>",
+   "th": "<trap>ไม้ดรายแอด",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย + Dryad ตามคลัง"
+  },
+  {
+   "key": "sandstonewalltrap",
+   "en": "Sandstone <trap>",
+   "official": "หินทราย <trap>",
+   "th": "<trap>หินทราย",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "swampstonewalltrap",
+   "en": "Swamp Stone <trap>",
+   "official": "หินหนองน้ำ <trap>",
+   "th": "<trap>หินหนองน้ำ",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "snowstonewalltrap",
+   "en": "Snow Stone <trap>",
+   "official": "หินหิมะ <trap>",
+   "th": "<trap>หินหิมะ",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "granitewalltrap",
+   "en": "Granite <trap>",
+   "official": "หินแกรนิต <trap>",
+   "th": "<trap>หินแกรนิต",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "icewalltrap",
+   "en": "Ice <trap>",
+   "official": "น้ำเแข็ง <trap>",
+   "th": "<trap>น้ำแข็ง",
+   "status": "fixed",
+   "note": "สะกดผิด + เรียงคำตามไทย"
+  },
+  {
+   "key": "deepstonewalltrap",
+   "en": "Deep Stone <trap>",
+   "official": "หินชั้นลึก <trap>",
+   "th": "<trap>หินชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "obsidianwalltrap",
+   "en": "Obsidian <trap>",
+   "official": "ออปซิเดี้ยน <trap>",
+   "th": "<trap>ออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เรียงคำตามไทย"
+  },
+  {
+   "key": "dungeonwalltrap",
+   "en": "Dungeon <trap>",
+   "official": "ดันเจี้ยน <trap>",
+   "th": "<trap>ดันเจี้ยน",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "deepsnowstonewalltrap",
+   "en": "Deep Snow Stone <trap>",
+   "official": "หินหิมะชั้นลึก <trap>",
+   "th": "<trap>หินหิมะชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "basaltwalltrap",
+   "en": "Basalt <trap>",
+   "official": "หินบะซอลต์ <trap>",
+   "th": "<trap>หินบะซอลต์",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "deepswampstonewalltrap",
+   "en": "Deep Swamp Stone <trap>",
+   "official": "หินหนองน้ำชั้นลึก <trap>",
+   "th": "<trap>หินหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "deepsandstonewalltrap",
+   "en": "Deep Sandstone <trap>",
+   "official": "หินทรายชั้นลึก <trap>",
+   "th": "<trap>หินทรายชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "spidercastlewalltrap",
+   "en": "Spider Castle Wall <trap>",
+   "official": "หินปราสาทแมงมุม <trap>",
+   "th": "<trap>กำแพงปราสาทแมงมุม",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "arrowtrap",
+   "en": "Arrow Trap",
+   "official": "กับดักลูกธนู",
+   "th": "กับดักลูกธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flametrap",
+   "en": "Flame Trap",
+   "official": "กับดักไฟ",
+   "th": "กับดักไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiketrap",
+   "en": "Spike Trap",
+   "official": "กับดักหนาม",
+   "th": "กับดักหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sawtrap",
+   "en": "Saw Trap",
+   "official": "กับดักใบเลื่อย",
+   "th": "กับดักใบเลื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explosiontrap",
+   "en": "Explosion Trap",
+   "official": "",
+   "th": "กับดักระเบิด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voidtrap",
+   "en": "Void Trap",
+   "official": "กับดักความมืด",
+   "th": "กับดักแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Void)"
+  },
+  {
+   "key": "tnt",
+   "en": "TNT",
+   "official": "ระเบิดTNT",
+   "th": "ระเบิด TNT",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "fireworkdispenser",
+   "en": "Firework Dispenser",
+   "official": "เครื่องจ่ายดอกไม้ไฟ",
+   "th": "เครื่องจ่ายดอกไม้ไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glyphtrapchicken",
+   "en": "Chicken Glyph Trap",
+   "official": "กับดักสัญลักษณ์ไก่",
+   "th": "กับดักตราไก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Glyph=ตรา)"
+  },
+  {
+   "key": "glyphtrapbounce",
+   "en": "Bounce Glyph Trap",
+   "official": "กับดักสัญลักษณ์เด้งดึ้ง",
+   "th": "กับดักตราเด้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Glyph=ตรา)"
+  },
+  {
+   "key": "glyphtrapreversedamage",
+   "en": "Reverse Damage Glyph Trap",
+   "official": "กับดักสัญลักษณ์พลัง",
+   "th": "กับดักตราสะท้อนความเสียหาย",
+   "status": "fixed",
+   "note": "แปลผิด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "wheatseed",
+   "en": "Wheat Seeds",
+   "official": "เมล็ดข้าวสาลีบู้มเกิดเป็นโกโก้ครั้นช์",
+   "th": "เมล็ดข้าวสาลี",
+   "status": "fixed",
+   "note": "ข้อความเกินมั่ว"
+  },
+  {
+   "key": "cornseed",
+   "en": "Corn Seeds",
+   "official": "-เมล็ดข้าวโพด",
+   "th": "เมล็ดข้าวโพด",
+   "status": "fixed",
+   "note": "ลบขีดเกิน"
+  },
+  {
+   "key": "tomatoseed",
+   "en": "Tomato Seeds",
+   "official": "เมล็ดมะเขือเทศ",
+   "th": "เมล็ดมะเขือเทศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cabbageseed",
+   "en": "Cabbage Seeds",
+   "official": "เมล็ดกะหล่ำปลี",
+   "th": "เมล็ดกะหล่ำปลี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chilipepperseed",
+   "en": "Chili Pepper Seeds",
+   "official": "เมล็ดพริก",
+   "th": "เมล็ดพริก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sugarbeetseed",
+   "en": "Sugar Beet Seeds",
+   "official": "เมล็ดบีทชูการ์",
+   "th": "เมล็ดบีทชูการ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eggplantseed",
+   "en": "Eggplant Seeds",
+   "official": "เมล็ดมะเขือม่วง",
+   "th": "เมล็ดมะเขือม่วง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potatoseed",
+   "en": "Potato Seeds",
+   "official": "เมล็ดมันฝรั่ง",
+   "th": "เมล็ดมันฝรั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "riceseed",
+   "en": "Rice Seeds",
+   "official": "เมล็ดข้าว",
+   "th": "เมล็ดข้าว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "carrotseed",
+   "en": "Carrot Seeds",
+   "official": "เมล็ดแครอท",
+   "th": "เมล็ดแครอท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onionseed",
+   "en": "Onion Seeds",
+   "official": "เมล็ดหัวหอม",
+   "th": "เมล็ดหัวหอม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pumpkinseed",
+   "en": "Pumpkin Seeds",
+   "official": "เมล็ดฟักทอง",
+   "th": "เมล็ดฟักทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "strawberryseed",
+   "en": "Strawberry Seeds",
+   "official": "เมล็ดสตรอว์เบอร์รี่",
+   "th": "เมล็ดสตรอว์เบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "beetseed",
+   "en": "Beet Seeds",
+   "official": "เมล็ดบีท",
+   "th": "เมล็ดบีท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coffeebeans",
+   "en": "Coffee Beans",
+   "official": "เมล็ดกาแฟ",
+   "th": "เมล็ดกาแฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sunflowerseed",
+   "en": "Sunflower Seeds",
+   "official": "เมล็ดดอกทานตะวัน",
+   "th": "เมล็ดดอกทานตะวัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildsunflower",
+   "en": "Wild Sunflower",
+   "official": "ทานตะวันป่า",
+   "th": "ทานตะวันป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sunflower",
+   "en": "Sunflower",
+   "official": "ดอกทานตะวัน",
+   "th": "ดอกทานตะวัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firemoneseed",
+   "en": "Firemone Seeds",
+   "official": "เมล็ดไฟร์โมน",
+   "th": "เมล็ดไฟร์โมน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildfiremone",
+   "en": "Wild Firemone",
+   "official": "ไฟร์โมนป่า",
+   "th": "ไฟร์โมนป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firemone",
+   "en": "Firemone",
+   "official": "ดอกไฟร์โมน",
+   "th": "ดอกไฟร์โมน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "iceblossomseed",
+   "en": "Iceblossom Seeds",
+   "official": "เมล็ดดอกน้ำแข็ง",
+   "th": "เมล็ดดอกน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildiceblossom",
+   "en": "Wild Iceblossom",
+   "official": "ดอกน้ำแข็งป่า",
+   "th": "ดอกน้ำแข็งป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "iceblossom",
+   "en": "Iceblossom",
+   "official": "ดอกน้ำแข็ง",
+   "th": "ดอกน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mushroom",
+   "en": "Mushroom",
+   "official": "เห็ด",
+   "th": "เห็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildmushroom",
+   "en": "Wild Mushroom",
+   "official": "เห็ดป่า",
+   "th": "เห็ดป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mushroomflower",
+   "en": "Mushroom Flower",
+   "official": "ดอกเห็ด",
+   "th": "ดอกเห็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveglowsprout",
+   "en": "Caveglow Sprout",
+   "official": "ต้นกล้าพืชถ้ำ",
+   "th": "ต้นกล้าพืชถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildcaveglow",
+   "en": "Wild Caveglow",
+   "official": "พืชถ้ำป่า",
+   "th": "พืชถ้ำป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveglow",
+   "en": "Caveglow",
+   "official": "พืชถ้ำ",
+   "th": "พืชถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "yellowflowerpatch",
+   "en": "Yellow Flower Patch",
+   "official": "ทุ่งดอกไม้สีเหลือง",
+   "th": "ทุ่งดอกไม้สีเหลือง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "redflowerpatch",
+   "en": "Red Flower Patch",
+   "official": "ทุ่งดอกไม้สีแดง",
+   "th": "ทุ่งดอกไม้สีแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "purpleflowerpatch",
+   "en": "Purple Flower Patch",
+   "official": "ทุ่งดอกไม้สีม่วง",
+   "th": "ทุ่งดอกไม้สีม่วง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "blueflowerpatch",
+   "en": "Blue Flower Patch",
+   "official": "ทุ่งดอกไม้สีน้ำเงิน",
+   "th": "ทุ่งดอกไม้สีน้ำเงิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "whiteflowerpatch",
+   "en": "White Flower Patch",
+   "official": "ทุ่งดอกไม้สีขาว",
+   "th": "ทุ่งดอกไม้สีขาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientrootssprout",
+   "en": "Ancient Roots Sprout",
+   "official": "",
+   "th": "ต้นกล้ารากโบราณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wildancientroots",
+   "en": "Wild Ancient Roots",
+   "official": "",
+   "th": "รากโบราณป่า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ancientroots",
+   "en": "Ancient Roots",
+   "official": "",
+   "th": "รากโบราณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "campfire",
+   "en": "Campfire",
+   "official": "แคมป์ไฟ",
+   "th": "แคมป์ไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cookingpot",
+   "en": "Cooking Pot",
+   "official": "หม้อทำอาหาร",
+   "th": "หม้อทำอาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastingstation",
+   "en": "Roasting Station",
+   "official": "ฐานย่างเนื้อ",
+   "th": "ที่ย่างเนื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cookingstation",
+   "en": "Cooking Station",
+   "official": "ฐานปรุงอาหาร",
+   "th": "ที่ปรุงอาหาร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "compostbin",
+   "en": "Compost Bin",
+   "official": "ถังหมัก",
+   "th": "ถังหมัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grainmill",
+   "en": "Grain Mill",
+   "official": "โรงสี",
+   "th": "โรงสี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cheesepress",
+   "en": "Cheese Press",
+   "official": "เครื่องอัดชีส",
+   "th": "เครื่องอัดชีส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "feedingtrough",
+   "en": "Feeding Trough",
+   "official": "ที่ให้อาหารสัตว์",
+   "th": "ที่ให้อาหารสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "singlerock",
+   "en": "Single <rock>",
+   "official": "ก้อน<rock>",
+   "th": "ก้อน<rock>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smallsinglerock",
+   "en": "Small Single <rock>",
+   "official": "<rock>ก้อนเล็ก",
+   "th": "<rock>ก้อนเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rock",
+   "en": "Rock",
+   "official": "หิน",
+   "th": "หิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonerock",
+   "en": "Sandstone",
+   "official": "หินทราย",
+   "th": "หินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamprock",
+   "en": "Swamp Rock",
+   "official": "หินหนองน้ำ",
+   "th": "หินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowrock",
+   "en": "Snow Rock",
+   "official": "หินหิมะ",
+   "th": "หินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "graniterock",
+   "en": "Granite Rock",
+   "official": "หินแกรนิต",
+   "th": "หินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deeprock",
+   "en": "Deep Rock",
+   "official": "หินชั้นลึก",
+   "th": "หินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowrock",
+   "en": "Deep Snow Rock",
+   "official": "หินหิมะชั้นลึก",
+   "th": "หินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltrock",
+   "en": "Basalt Rock",
+   "official": "หินบะซอลต์",
+   "th": "หินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswamprock",
+   "en": "Deep Swamp Rock",
+   "official": "หินหนองน้ำชั้นลึก",
+   "th": "หินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsandstonerock",
+   "en": "Deep Sandstone Rock",
+   "official": "หินทรายชั้นลึก",
+   "th": "หินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "charredforestrock",
+   "en": "Charred Rock",
+   "official": "",
+   "th": "หินไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "slimerock",
+   "en": "Slime Rock",
+   "official": "หินสไลม์",
+   "th": "หินสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiderrock",
+   "en": "Spider Rock",
+   "official": "หินแมงมุม",
+   "th": "หินแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptrock",
+   "en": "Crypt Rock",
+   "official": "หินสุสาน",
+   "th": "หินสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "crystalrock",
+   "en": "Crystal Rock",
+   "official": "",
+   "th": "หินคริสตัล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scraprock",
+   "en": "Scrap Rock",
+   "official": "",
+   "th": "หินเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pearlescentshard",
+   "en": "Pearlescent Shard",
+   "official": "ชิ้นส่วนไข่มุก",
+   "th": "เศษประกายมุก",
+   "status": "fixed",
+   "note": "ให้เข้าชุดเพชรประกายมุก"
+  },
+  {
+   "key": "fuelskullencasing",
+   "en": "Fuel Skull Encasing",
+   "official": "",
+   "th": "กะโหลกห่อหุ้มเชื้อเพลิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ascendedwall",
+   "en": "Ascended Wall",
+   "official": "กำแพงศักดิ์สิทธิ์",
+   "th": "กำแพงศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedpylon",
+   "en": "Ascended Pylon",
+   "official": "เสาหินศักดิ์สิทธิ์",
+   "th": "เสาหินศักดิ์สิทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystcluster",
+   "en": "Amethyst Cluster",
+   "official": "ก้อนอเมทิสต์",
+   "th": "ก้อนอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystclusterpure",
+   "en": "Pure Amethyst Cluster",
+   "official": "ก้อนอเมทิสต์บริสุทธ์",
+   "th": "ก้อนอเมทิสต์บริสุทธิ์",
+   "status": "fixed",
+   "note": "สะกด บริสุทธิ์"
+  },
+  {
+   "key": "amethystcluster_small",
+   "en": "Small Amethyst Cluster",
+   "official": "ก้อนอเมทิสต์ขนาดเล็ก",
+   "th": "ก้อนอเมทิสต์ขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphirecluster",
+   "en": "Sapphire Cluster",
+   "official": "ก้อนไพลิน",
+   "th": "ก้อนไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphireclusterpure",
+   "en": "Pure Sapphire Cluster",
+   "official": "ก้อนไพลินบริสุทธ์",
+   "th": "ก้อนไพลินบริสุทธิ์",
+   "status": "fixed",
+   "note": "สะกด บริสุทธิ์"
+  },
+  {
+   "key": "sapphirecluster_small",
+   "en": "Small Sapphire Cluster",
+   "official": "ก้อนไพลินขนาดเล็ก",
+   "th": "ก้อนไพลินขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldcluster",
+   "en": "Emerald Cluster",
+   "official": "ก้อนมรกต",
+   "th": "ก้อนมรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldclusterpure",
+   "en": "Pure Emerald Cluster",
+   "official": "ก้อนมรกตบริสุทธ์",
+   "th": "ก้อนมรกตบริสุทธิ์",
+   "status": "fixed",
+   "note": "สะกด บริสุทธิ์"
+  },
+  {
+   "key": "emeraldcluster_small",
+   "en": "Small Emerald Cluster",
+   "official": "ก้อนมรกตขนาดเล็ก",
+   "th": "ก้อนมรกตขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubycluster",
+   "en": "Ruby Cluster",
+   "official": "ก้อนทับทิม",
+   "th": "ก้อนทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubyclusterpure",
+   "en": "Pure Ruby Cluster",
+   "official": "ก้อนทับทิมบริสุทธ์",
+   "th": "ก้อนทับทิมบริสุทธิ์",
+   "status": "fixed",
+   "note": "สะกด บริสุทธิ์"
+  },
+  {
+   "key": "rubycluster_small",
+   "en": "Small Ruby Cluster",
+   "official": "ก้อนทับทิมขนาดเล็ก",
+   "th": "ก้อนทับทิมขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazcluster",
+   "en": "Topaz Cluster",
+   "official": "ก้อนบุษราคัม",
+   "th": "ก้อนบุษราคัม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazclusterpure",
+   "en": "Pure Topaz Cluster",
+   "official": "ก้อนบุษราคัมบริสุทธิ์",
+   "th": "ก้อนบุษราคัมบริสุทธิ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazcluster_small",
+   "en": "Small Topaz Cluster",
+   "official": "ก้อนบุษราคัมขนาดเล็ก",
+   "th": "ก้อนบุษราคัมขนาดเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clayrock",
+   "en": "Clay rock",
+   "official": "ดินเหนียวก้อน",
+   "th": "ก้อนดินเหนียว",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "obsidianrock",
+   "en": "Obsidian rock",
+   "official": "หินออปซิเดียน",
+   "th": "หินออบซิเดียน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rockoreformat",
+   "en": "<rock> <ore>",
+   "official": "<rock> <ore>",
+   "th": "<rock> <ore>",
+   "status": "same",
+   "note": "รูปแบบตัวแปรล้วน"
+  },
+  {
+   "key": "ironore",
+   "en": "Iron Ore",
+   "official": "แร่เหล็ก",
+   "th": "แร่เหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperore",
+   "en": "Copper Ore",
+   "official": "แร่ทองแดง",
+   "th": "แร่ทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldore",
+   "en": "Gold Ore",
+   "official": "แร่ทอง",
+   "th": "แร่ทอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostshardore",
+   "en": "Frost Shard",
+   "official": "เศษน้ำแข็ง",
+   "th": "เศษเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost) ตามชื่อไอเทม"
+  },
+  {
+   "key": "runicboulder",
+   "en": "Runic Boulder",
+   "official": "ก้อนหินรูน",
+   "th": "ก้อนหินรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smallrunestone",
+   "en": "Small Rune Stone",
+   "official": "หินรูนเล็ก",
+   "th": "หินรูนเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivyore",
+   "en": "Ivy Ore",
+   "official": "แร่ไม้เลื้อย",
+   "th": "แร่ไม้เลื้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quartzore",
+   "en": "Quartz",
+   "official": "แร่เขี้ยวหนุมาน",
+   "th": "ควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Quartz)"
+  },
+  {
+   "key": "tungstenore",
+   "en": "Tungsten Ore",
+   "official": "แร่ทังสเตน",
+   "th": "แร่ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifequartzore",
+   "en": "Life Quartz",
+   "official": "แร่ควอตซ์",
+   "th": "ควอตซ์ชีวิต",
+   "status": "fixed",
+   "note": "ตามชื่อไอเทม"
+  },
+  {
+   "key": "glacialore",
+   "en": "Glacial Ore",
+   "official": "แร่เกล็ดน้ำแข็ง",
+   "th": "แร่เกล็ดน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amberore",
+   "en": "Amber Ore",
+   "official": "อำพัน",
+   "th": "แร่อำพัน",
+   "status": "fixed",
+   "note": "คำหาย (Ore)"
+  },
+  {
+   "key": "myceliumore",
+   "en": "Mycelium Ore",
+   "official": "แร่ไมซีเลียม",
+   "th": "แร่ไมซีเลียม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientfossilore",
+   "en": "Ancient Fossil Ore",
+   "official": "แร่ฟอสซิลดึกดำบรรพ์",
+   "th": "แร่ฟอสซิลดึกดำบรรพ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemyshardore",
+   "en": "Alchemy Shard",
+   "official": "เศษการเล่นแร่แปรธาตุ",
+   "th": "เศษแปรธาตุ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "upgradeshardore",
+   "en": "Upgrade Shard",
+   "official": "เศษอัปเกรด",
+   "th": "เศษอัปเกรด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimeum",
+   "en": "Slimeum",
+   "official": "แร่สไลม์",
+   "th": "แร่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nightsteelore",
+   "en": "Nightsteel Ore",
+   "official": "แร่เหล็กราตรี",
+   "th": "แร่เหล็กราตรี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spideriteore",
+   "en": "Spiderite Ore",
+   "official": "แร่แมงมุม",
+   "th": "แร่สไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Spiderite)"
+  },
+  {
+   "key": "pearlescentdiamond",
+   "en": "Pearlescent Diamond",
+   "official": "เพชรประกายมุก",
+   "th": "เพชรประกายมุก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shadowessenceore",
+   "en": "Shadow Essence",
+   "official": "แก่นแห่งเงา",
+   "th": "แก่นแท้เงา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryoessenceore",
+   "en": "Cryo Essence",
+   "official": "แก่นน้ำแข็ง",
+   "th": "แก่นแท้ไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bioessenceore",
+   "en": "Bio Essence",
+   "official": "แก่นแห่งชีวิต",
+   "th": "แก่นแท้ชีวภาพ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "primordialessenceore",
+   "en": "Primordial Essence",
+   "official": "แก่นบรรพกาล",
+   "th": "แก่นแท้ปฐมกาล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimeessenceore",
+   "en": "Slime Essence",
+   "official": "แก่นสไลม์",
+   "th": "แก่นแท้สไลม์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bloodessenceore",
+   "en": "Blood Essence",
+   "official": "แก่นโลหิต",
+   "th": "แก่นแท้โลหิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spideressenceore",
+   "en": "Spider Essence",
+   "official": "แก่นแมงมุม",
+   "th": "แก่นแท้แมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystalessenceore",
+   "en": "Crystal Essence",
+   "official": "",
+   "th": "แก่นแท้คริสตัล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "radiatedessenceore",
+   "en": "Radiated Essence",
+   "official": "",
+   "th": "แก่นแท้กัมมันตรังสี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grass",
+   "en": "Grass",
+   "official": "หญ้า",
+   "th": "หญ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampgrass",
+   "en": "Swamp Grass",
+   "official": "หญ้าหนองน้ำ",
+   "th": "หญ้าหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainsgrass",
+   "en": "Plains Grass",
+   "official": "หญ้าที่ราบ",
+   "th": "หญ้าที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tallswampgrass",
+   "en": "Tall Swamp Grass",
+   "official": "หญ้าสูงหนองน้ำ",
+   "th": "หญ้าสูงหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptgrass",
+   "en": "Crypt Grass",
+   "official": "หญ้าใต้ดิน",
+   "th": "หญ้าสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "witheredgrass",
+   "en": "Withered Grass",
+   "official": "",
+   "th": "หญ้าเหี่ยว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cattail",
+   "en": "Cattail",
+   "official": "ต้นธูปฤาษี",
+   "th": "ต้นธูปฤาษี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reeds",
+   "en": "Reeds",
+   "official": "ต้นกก",
+   "th": "ต้นกก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "watergrass",
+   "en": "Water Grass",
+   "official": "ผักน้ำ",
+   "th": "หญ้าน้ำ",
+   "status": "fixed",
+   "note": "ให้เข้าชุดหญ้าน้ำถ้ำ"
+  },
+  {
+   "key": "cavewatergrass",
+   "en": "Cave Water Grass",
+   "official": "หญ้าน้ำถ้ำ",
+   "th": "หญ้าน้ำถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glowcoral",
+   "en": "Glow Coral",
+   "official": "ปะการังเรืองแสง",
+   "th": "ปะการังเรืองแสง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowpile",
+   "en": "Snow Pile",
+   "official": "พื้นหิมะ",
+   "th": "กองหิมะ",
+   "status": "fixed",
+   "note": "Pile = กอง"
+  },
+  {
+   "key": "leafpile",
+   "en": "Leaf Pile",
+   "official": "พื้นใบไม้",
+   "th": "กองใบไม้",
+   "status": "fixed",
+   "note": "Pile = กอง"
+  },
+  {
+   "key": "burnedleafpile",
+   "en": "Burned Leaf Pile",
+   "official": "",
+   "th": "กองใบไม้ไหม้เกรียม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cobweb",
+   "en": "Cobweb",
+   "official": "หยากไย่",
+   "th": "หยากไย่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thorns",
+   "en": "Thorns",
+   "official": "หนาม",
+   "th": "หนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seashell",
+   "en": "Seashell",
+   "official": "เปลือกหอย",
+   "th": "เปลือกหอย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seasnail",
+   "en": "Seasnail",
+   "official": "หอยทากทะเล",
+   "th": "หอยทากทะเล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seastar",
+   "en": "Seastar",
+   "official": "ดาวทะเล",
+   "th": "ดาวทะเล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboodebris",
+   "en": "Bamboo Debris",
+   "official": "เศษไม้ไผ่",
+   "th": "เศษไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamproot",
+   "en": "Swamp Root",
+   "official": "รากหนองน้ำ",
+   "th": "รากหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cowskeleton",
+   "en": "Cow Skeleton",
+   "official": "โครงกระดูกวัว",
+   "th": "โครงกระดูกวัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "katanastone",
+   "en": "Katana Stone",
+   "official": "หินคาตานะ",
+   "th": "หินคาตานะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveladder",
+   "en": "Cave Ladder",
+   "official": "บันไดถ้ำ",
+   "th": "บันไดถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonentrance",
+   "en": "Dungeon Entrance",
+   "official": "ทางเข้าดันเจี้ยน",
+   "th": "ทางเข้าดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trialentrance",
+   "en": "Trial Entrance",
+   "official": "ทางเข้าบททดสอบ",
+   "th": "ทางเข้าการทดสอบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Trial)"
+  },
+  {
+   "key": "trialexit",
+   "en": "Trial Exit",
+   "official": "ทางออกบททดสอบ",
+   "th": "ทางออกการทดสอบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Trial)"
+  },
+  {
+   "key": "dungeonexit",
+   "en": "Dungeon Exit",
+   "official": "ทางออกดันเจี้ยน",
+   "th": "ทางออกดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepcaveladder",
+   "en": "Deep Cave Ladder",
+   "official": "บันไดถ้ำลึก",
+   "th": "บันไดถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Deep Cave)"
+  },
+  {
+   "key": "templeentrance",
+   "en": "Temple Entrance",
+   "official": "ทางเข้าวิหาร",
+   "th": "ทางเข้าวิหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "templeexit",
+   "en": "Temple Exit",
+   "official": "ทางออกวิหาร",
+   "th": "ทางออกวิหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenaltar",
+   "en": "Fallen Altar",
+   "official": "แท่นบูชาร้าง",
+   "th": "แท่นบูชาร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "upgradestation",
+   "en": "Upgrade Station",
+   "official": "โต๊ะอัปเกรด",
+   "th": "โต๊ะอัปเกรด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "salvagestation",
+   "en": "Salvage Station",
+   "official": "โต๊ะแยกส่วนของเหลือใช้",
+   "th": "โต๊ะย่อยไอเทม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "transmutationstation",
+   "en": "Transmutation Station",
+   "official": "",
+   "th": "โต๊ะแปรสภาพ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tictactoeboard",
+   "en": "Tic-Tac-Toe Board",
+   "official": "กระดาน XO",
+   "th": "กระดาน XO",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coinstack",
+   "en": "Coin Stack",
+   "official": "กองเหรียญ",
+   "th": "กองเหรียญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crate",
+   "en": "Crate",
+   "official": "ลัง",
+   "th": "ลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowcrate",
+   "en": "Snow Crate",
+   "official": "ลังหิมะ",
+   "th": "ลังหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcrate",
+   "en": "Swamp Crate",
+   "official": "ลังหนองน้ำ",
+   "th": "ลังหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmascrate",
+   "en": "Christmas Crate",
+   "official": "ลังคริสต์มาส",
+   "th": "ลังคริสต์มาส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcaniccrate",
+   "en": "Arcanic Crate",
+   "official": "ลังลึกลับ",
+   "th": "ลังลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vase",
+   "en": "Vase",
+   "official": "แจกัน",
+   "th": "แจกัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampspore",
+   "en": "Swamp Spore",
+   "official": "สปอร์หนองน้ำ",
+   "th": "สปอร์หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancienttotem",
+   "en": "Ancient Totem",
+   "official": "โทเท็มโบราณ",
+   "th": "โทเท็มโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "templepedestal",
+   "en": "Temple Pedestal",
+   "official": "โทเท็มแท่น",
+   "th": "แท่นวิหาร",
+   "status": "fixed",
+   "note": "แปลผิด (โทเท็ม)"
+  },
+  {
+   "key": "chieftainbonespikewall",
+   "en": "Bone Spike Wall",
+   "official": "กำแพงกระดูกหนามใหญ่",
+   "th": "กำแพงกระดูกหนามใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonespikewall",
+   "en": "Bone Spike Wall",
+   "official": "กำแพงกระดูกหนาม",
+   "th": "กำแพงกระดูกหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftainspedestal",
+   "en": "Chieftain Pedestal",
+   "official": "ฐานหัวหน้าเผ่า",
+   "th": "แท่นหัวหน้าเผ่า",
+   "status": "fixed",
+   "note": "ให้เข้าชุด Pedestal = แท่น"
+  },
+  {
+   "key": "settlementflag",
+   "en": "Settlement Flag",
+   "official": "ธงตั้งถิ่นฐาน",
+   "th": "ธงนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "homestone",
+   "en": "Homestone",
+   "official": "โฮมสโตน",
+   "th": "โฮมสโตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "waystone",
+   "en": "Waystone",
+   "official": "เวย์สโตน",
+   "th": "เวย์สโตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teleportationstone",
+   "en": "Teleportation Stone",
+   "official": "หินเคลื่อนย้าย",
+   "th": "หินวาร์ป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Teleport)"
+  },
+  {
+   "key": "missionboard",
+   "en": "Mission Board",
+   "official": "กระดานภารกิจ",
+   "th": "กระดานภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shippingchest",
+   "en": "Shipping Chest",
+   "official": "กล่องขายของ",
+   "th": "กล่องขายของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerstand",
+   "en": "Banner Stand",
+   "official": "แท่นวางธง",
+   "th": "แท่นวางธง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofpeace",
+   "en": "Banner of Peace",
+   "official": "ธงแห่งสันติภาพ",
+   "th": "ธงแห่งสันติภาพ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofwar",
+   "en": "Banner of War",
+   "official": "ธงประกาศสงคราม",
+   "th": "ธงประกาศสงคราม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "challengersbanner",
+   "en": "Challengers Banner",
+   "official": "ธงท้าทาย",
+   "th": "ธงผู้ท้าชิง",
+   "status": "fixed",
+   "note": "ตรงความ"
+  },
+  {
+   "key": "musicplayer",
+   "en": "Music Player",
+   "official": "เครื่องเล่นเสียง",
+   "th": "เครื่องเล่นเพลง",
+   "status": "fixed",
+   "note": "ตรงความ"
+  },
+  {
+   "key": "cartographertable",
+   "en": "Cartographer Table",
+   "official": "โต๊ะทำแผนที่",
+   "th": "โต๊ะทำแผนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spideregg",
+   "en": "Spider Egg",
+   "official": "ไข่แมงมุม",
+   "th": "ไข่แมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmastree",
+   "en": "Christmas Tree",
+   "official": "ต้นคริสต์มาส",
+   "th": "ต้นคริสต์มาส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "christmaswreath",
+   "en": "Christmas Wreath",
+   "official": "พวงหรีดคริสต์มาส",
+   "th": "พวงหรีดคริสต์มาส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fountain",
+   "en": "Fountain",
+   "official": "น้ำพุ",
+   "th": "น้ำพุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownfountain",
+   "en": "Overgrown Fountain",
+   "official": "น้ำพุรกครึ้ม",
+   "th": "น้ำพุรกครึ้ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodfountain",
+   "en": "Gargoyle Fountain",
+   "official": "น้ำพุโลหิต",
+   "th": "น้ำพุการ์กอยล์",
+   "status": "fixed",
+   "note": "ตามชื่ออังกฤษ (Gargoyle)"
+  },
+  {
+   "key": "beetcavecroppler",
+   "en": "Curious Beet",
+   "official": "บีทรูทอันน่าสงสัย",
+   "th": "บีทรูทอันน่าสงสัย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chieftainsthrone",
+   "en": "Runebound Chieftain's Throne",
+   "official": "บัลลังก์ของหัวหน้าเผ่ารูนเบานด์",
+   "th": "บัลลังก์หัวหน้าเผ่ารูนเบานด์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "frostbanner",
+   "en": "Frost Banner",
+   "official": "ธงน้ำแข็ง",
+   "th": "ธงเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost)"
+  },
+  {
+   "key": "largefrostbanner",
+   "en": "Large Frost Banner",
+   "official": "ธงน้ำแข็งใหญ่",
+   "th": "ธงเยือกแข็งใหญ่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost)"
+  },
+  {
+   "key": "dryadbanner",
+   "en": "Dryad Banner",
+   "official": "ธงดรายแอด",
+   "th": "ธงดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "largedryadbanner",
+   "en": "Large Dryad Banner",
+   "official": "ธงดรายแอดใหญ่",
+   "th": "ธงดรายแอดใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eggcellentbanner",
+   "en": "Eggcellent Banner",
+   "official": "ธงไข่",
+   "th": "ธงไข่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "largeeggcellentbanner",
+   "en": "Large Eggcellent Banner",
+   "official": "ธงไข่ใหญ่?",
+   "th": "ธงไข่ใหญ่",
+   "status": "fixed",
+   "note": "ลบ ? เกิน"
+  },
+  {
+   "key": "fishianbanner",
+   "en": "Fishian Banner",
+   "official": "ธงตกปลา",
+   "th": "ธงชาวปลา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Fishian)"
+  },
+  {
+   "key": "largefishianbanner",
+   "en": "Large Fishian Banner",
+   "official": "ธงตกปลาใหญ่",
+   "th": "ธงชาวปลาใหญ่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Fishian)"
+  },
+  {
+   "key": "piratebanner",
+   "en": "Pirate Banner",
+   "official": "ธงโจรสลัด",
+   "th": "ธงโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "largepiratebanner",
+   "en": "Large Pirate Banner",
+   "official": "ธงโจรสลัดใหญ่",
+   "th": "ธงโจรสลัดใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vampiricbanner",
+   "en": "Vampiric Banner",
+   "official": "ธงแวมไพร์",
+   "th": "ธงแวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "largevampiricbanner",
+   "en": "Large Vampiric Banner",
+   "official": "ธงแวมไพร์ใหญ่",
+   "th": "ธงแวมไพร์ใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidvessel",
+   "en": "Void Vessel",
+   "official": "ไหแห่งความมืด",
+   "th": "ไหแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

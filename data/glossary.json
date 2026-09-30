@@ -1,0 +1,2088 @@
+[
+ {
+  "en": "Cave",
+  "th": "ถ้ำ",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Crypt",
+  "th": "สุสานใต้ดิน",
+  "kind": "biome",
+  "note": "ทางการ: ใต้ดิน / ห้องใต้ดิน / ถ้ำ (Crypt Bat=ค้างคาวถ้ำ)",
+  "approved": true
+ },
+ {
+  "en": "Crystal Hollow",
+  "th": "โพรงคริสตัล",
+  "kind": "biome",
+  "note": "ทางการ: หลุมลึกคริสตัล",
+  "approved": true
+ },
+ {
+  "en": "Deep",
+  "th": "ชั้นลึก",
+  "kind": "biome",
+  "note": "เช่น Deep Stone=หินชั้นลึก",
+  "approved": true
+ },
+ {
+  "en": "Deep Cave",
+  "th": "ถ้ำชั้นลึก",
+  "kind": "biome",
+  "note": "ทางการปน ถ้ำลึก / ถ้ำ...ชั้นลึก → Deep=ชั้นลึก ทั้งหมด",
+  "approved": true
+ },
+ {
+  "en": "Desert",
+  "th": "ทะเลทราย",
+  "kind": "biome",
+  "note": "ทางการสะกดผิด 'ทะเลทราบ'",
+  "approved": true
+ },
+ {
+  "en": "Dungeon",
+  "th": "ดันเจี้ยน",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Extraction",
+  "th": "สกัดแร่",
+  "kind": "biome",
+  "note": "ประเภทอินเคอร์ชัน",
+  "approved": true
+ },
+ {
+  "en": "Forest",
+  "th": "ป่า",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Graveyard",
+  "th": "สุสาน",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Hunt",
+  "th": "การล่า",
+  "kind": "biome",
+  "note": "ประเภทอินเคอร์ชัน · ทางการ: ล่า / วันแห่งการล่า",
+  "approved": true
+ },
+ {
+  "en": "Infected Fields",
+  "th": "ทุ่งติดเชื้อ",
+  "kind": "biome",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Moon Arena",
+  "th": "อารีนาแสงจันทร์",
+  "kind": "biome",
+  "note": "ทางการ: อารีน่าดวงจันทรา / อารีน่าจันทรา",
+  "approved": true
+ },
+ {
+  "en": "Pirate Village",
+  "th": "หมู่บ้านโจรสลัด",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Plains",
+  "th": "ที่ราบ",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Scrapyard",
+  "th": "ลานเศษเหล็ก",
+  "kind": "biome",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Slime Cave",
+  "th": "ถ้ำสไลม์",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Snow",
+  "th": "หิมะ",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Spider Castle",
+  "th": "ปราสาทแมงมุม",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Sun Arena",
+  "th": "อารีนาแสงตะวัน",
+  "kind": "biome",
+  "note": "ทางการ อารีน่า — ไม่ใส่วรรณยุกต์",
+  "approved": true
+ },
+ {
+  "en": "Surface",
+  "th": "พื้นผิว",
+  "kind": "biome",
+  "note": "ทางการ: พื้นผิว / พื้นผิวโลก / ตัดทิ้ง",
+  "approved": true
+ },
+ {
+  "en": "Swamp",
+  "th": "หนองน้ำ",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Temple",
+  "th": "วิหาร",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "The Chieftain's Arena",
+  "th": "สนามประลองหัวหน้าเผ่า",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Trial",
+  "th": "การทดสอบ",
+  "kind": "biome",
+  "note": "ประเภทอินเคอร์ชัน · ทางการ: ทดสอบ / การทดสอบภาคปฎิบัติ",
+  "approved": true
+ },
+ {
+  "en": "Village",
+  "th": "หมู่บ้าน",
+  "kind": "biome",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ancient Vulture",
+  "th": "อีแร้งดึกดำบรรพ์",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ascended Wizard",
+  "th": "พ่อมดผู้ก้าวข้าม",
+  "kind": "boss",
+  "note": "ทางการ: จอมเวทย์ผู้ก้าวข้าม (เวทย์ สะกดผิด) · ใช้ พ่อมด ให้เข้าชุดกับ Void Wizard",
+  "approved": true
+ },
+ {
+  "en": "Babylon Tower",
+  "th": "หอคอยบาเบล",
+  "kind": "boss",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Cryo Queen",
+  "th": "ราชินีไครโอ",
+  "kind": "boss",
+  "note": "ทางการ: ราชินีแห่งไครโอ · Ice Crown ทางการ 'มงกุญราชินีน้ำแข็ง'",
+  "approved": true
+ },
+ {
+  "en": "Crystal Dragon",
+  "th": "มังกรคริสตัล",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Evil's Protector",
+  "th": "ผู้ปกครองปีศาจ",
+  "kind": "boss",
+  "note": "ทางการในชื่อ rune: ผู้พิทักษ์แห่งความชั่วร้าย → ใช้ชื่อบอสทุกที่",
+  "approved": true
+ },
+ {
+  "en": "Fallen Wizard",
+  "th": "พ่อมดผู้ตกอับ",
+  "kind": "boss",
+  "note": "ทางการ: พ่อมดแห่งความมืดผู้ตกอับ (ยาว)",
+  "approved": true
+ },
+ {
+  "en": "Moonlight Dancer",
+  "th": "นักระบำแสงจันทร์",
+  "kind": "boss",
+  "note": "ทางการ: นักระบำใต้แสงจันทร์ / นักเต้นแห่งแสงจันทร์",
+  "approved": true
+ },
+ {
+  "en": "Mother Slime",
+  "th": "แม่สไลม์",
+  "kind": "boss",
+  "note": "ทางการ: มาเธอร์สไลม์ (ชื่อ mob) / แม่สไลม์ (rune)",
+  "approved": true
+ },
+ {
+  "en": "Mutant Hydra",
+  "th": "ไฮดรากลายพันธุ์",
+  "kind": "boss",
+  "note": "ทางการว่าง (เนื้อหาใหม่)",
+  "approved": true
+ },
+ {
+  "en": "Night Swarm",
+  "th": "ฝูงราตรี",
+  "kind": "boss",
+  "note": "rune ทางการ: ฝูงค้างคาวกลางคืน",
+  "approved": true
+ },
+ {
+  "en": "Pest Warden",
+  "th": "ผู้คุมพงไพร",
+  "kind": "boss",
+  "note": "ทางการ 'ผู้ควมคุมสมดุลแห่งพงไพร' (สะกดผิด+ยาว) · rune ใช้ 'ผู้พิทักษ์โรคระบาด'",
+  "approved": true
+ },
+ {
+  "en": "Pirate Captain",
+  "th": "กัปตันโจรสลัด",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Queen Spider",
+  "th": "ราชินีแมงมุม",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Reaper",
+  "th": "ยมทูต",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Runebound Chieftain",
+  "th": "หัวหน้าเผ่ารูนเบานด์",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Sage and Grit",
+  "th": "เซจกับกริต",
+  "kind": "boss",
+  "note": "ทางการ 'เธียร และ กริด' (Sage≠เธียร) · rune แปลเป็น 'ปราชญ์และความกล้าหาญ'",
+  "approved": true
+ },
+ {
+  "en": "Spider Empress",
+  "th": "จักรพรรดินีแมงมุม",
+  "kind": "boss",
+  "note": "ทางการ mob 'แมงมุมจักรพรรดินี' (ลำดับผิด) · rune ใช้ จักรพรรดินีแมงมุม",
+  "approved": true
+ },
+ {
+  "en": "Sunlight Champion",
+  "th": "แชมเปียนแสงตะวัน",
+  "kind": "boss",
+  "note": "ทางการ: แชมป์เปี้ยนแห่งแสงตะวัน / แห่งแสงอาทิตย์ · สะกดตามราชบัณฑิต",
+  "approved": true
+ },
+ {
+  "en": "Swamp Guardian",
+  "th": "ผู้พิทักษ์หนองน้ำ",
+  "kind": "boss",
+  "note": "ทางการ: ผู้พิทักษ์แห่งหนองน้ำ — ตัด แห่ง",
+  "approved": true
+ },
+ {
+  "en": "The Cursed Crone",
+  "th": "ยายเฒ่าต้องสาป",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Unstable Gel Slime",
+  "th": "สไลม์เจลไม่เสถียร",
+  "kind": "boss",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Void Wizard",
+  "th": "พ่อมดแห่งความมืด",
+  "kind": "boss",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Alchemy Shard",
+  "th": "เศษแปรธาตุ",
+  "kind": "item",
+  "note": "ทางการ: เศษการเล่นแร่แปรธาตุ (ยาว)",
+  "approved": true
+ },
+ {
+  "en": "Altar Dust",
+  "th": "ผงแท่นบูชา",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ammo",
+  "th": "กระสุน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ancient Fossil",
+  "th": "ฟอสซิลดึกดำบรรพ์",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Arachnid",
+  "th": "อะแรกนิด",
+  "kind": "item",
+  "note": "ทางการ Arachnid Helmet=เกราะ... (ผิดชิ้น)",
+  "approved": true
+ },
+ {
+  "en": "Arrow",
+  "th": "ลูกธนู",
+  "kind": "item",
+  "note": "ทางการปน ลูกศร",
+  "approved": true
+ },
+ {
+  "en": "Ascended",
+  "th": "ศักดิ์สิทธิ์",
+  "kind": "item",
+  "note": "ชื่อไอเทม/มอนสเตอร์ตามทางการ · บอส Ascended Wizard ใช้ 'ผู้ก้าวข้าม'",
+  "approved": true
+ },
+ {
+  "en": "Axe",
+  "th": "ขวาน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Bar",
+  "th": "แท่ง",
+  "kind": "item",
+  "note": "ชื่อไอเทม เช่น Iron Bar=แท่งเหล็ก · หมวด Bars=แท่งแร่",
+  "approved": true
+ },
+ {
+  "en": "Battleaxe",
+  "th": "ขวานรบ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Bio Essence",
+  "th": "แก่นแท้ชีวภาพ",
+  "kind": "item",
+  "note": "ทางการ: แก่นแท้แห่งชีวิต/แก่นแห่งชีวิต — ชนกับ Life Essence",
+  "approved": true
+ },
+ {
+  "en": "Blood",
+  "th": "โลหิต",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Blood Essence",
+  "th": "แก่นแท้โลหิต",
+  "kind": "item",
+  "note": "ทางการ: แก่นแท้แห่งโลหิต / แก่นโลหิต",
+  "approved": true
+ },
+ {
+  "en": "Bloodplate",
+  "th": "โลหิต",
+  "kind": "item",
+  "note": "ชุดเกราะ Bloodplate — ทางการ: เกราะโลหิต/ผ้าคลุมโลหิต",
+  "approved": true
+ },
+ {
+  "en": "Boomerang",
+  "th": "บูมเมอแรง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Boots",
+  "th": "รองเท้า",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Bow",
+  "th": "ธนู",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Charm",
+  "th": "เครื่องราง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Chestplate",
+  "th": "เกราะ",
+  "kind": "item",
+  "note": "ทางการ Arachnid Chestplate='เสื้อเกราะ' ปน",
+  "approved": true
+ },
+ {
+  "en": "Circlet",
+  "th": "รัดเกล้า",
+  "kind": "item",
+  "note": "ทางการใช้ มงกุฎ (ชนกับ Crown)",
+  "approved": true
+ },
+ {
+  "en": "Copper",
+  "th": "ทองแดง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Cowl",
+  "th": "ผ้าคลุม",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Crossbow",
+  "th": "หน้าไม้",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Crown",
+  "th": "มงกุฎ",
+  "kind": "item",
+  "note": "ทางการสะกดผิด มงกุฏ / มงกุญ",
+  "approved": true
+ },
+ {
+  "en": "Cryo",
+  "th": "ไครโอ",
+  "kind": "item",
+  "note": "ทางการปน ไครโอ/แห่งไครโอ/แห่งน้ำแข็ง/น้ำแข็ง — ทับศัพท์เพื่อแยกจาก Ice/Frost/Glacial",
+  "approved": true
+ },
+ {
+  "en": "Cryo Essence",
+  "th": "แก่นแท้ไครโอ",
+  "kind": "item",
+  "note": "ทางการ: แก่นแท้แห่งน้ำแข็ง / แก่นน้ำแข็ง",
+  "approved": true
+ },
+ {
+  "en": "Crystal",
+  "th": "คริสตัล",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Dagger",
+  "th": "มีดสั้น",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Dawn",
+  "th": "รุ่งอรุณ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Deadwood",
+  "th": "เดดวูด",
+  "kind": "item",
+  "note": "ทางการมี เดทวูด",
+  "approved": true
+ },
+ {
+  "en": "Demonic",
+  "th": "ปีศาจ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Dryad",
+  "th": "ดรายแอด",
+  "kind": "item",
+  "note": "ทางการ Dryad Log=ท่อนซุงไม้แห้ง, Dryad Floor=พื้นหญ้าแห้ง (อ่าน Dryad เป็น dry) ผิด",
+  "approved": true
+ },
+ {
+  "en": "Dusk",
+  "th": "พลบค่ำ",
+  "kind": "item",
+  "note": "ทางการปน ยามค่ำ",
+  "approved": true
+ },
+ {
+  "en": "Essence",
+  "th": "แก่นแท้",
+  "kind": "item",
+  "note": "ทางการปน แก่นแท้/แก่น · รูปแบบ 'แก่นแท้<ชื่อ>' ไม่ต้องมี แห่ง",
+  "approved": true
+ },
+ {
+  "en": "Foci",
+  "th": "โฟกัส",
+  "kind": "item",
+  "note": "ทางการแปลมั่ว: จุดรวมสติ / จุดรวมพลังมิตรภาพ / จุดรวมพละกำลัง · Aphorea ใช้ โฟกัส",
+  "approved": true
+ },
+ {
+  "en": "Frost",
+  "th": "เยือกแข็ง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Gateway Tablet",
+  "th": "แผ่นศิลาเกตเวย์",
+  "kind": "item",
+  "note": "UI ทางการใช้ 'แผ่นป้ายสำหรับเข้า' → ใช้ชื่อไอเทมทุกที่",
+  "approved": true
+ },
+ {
+  "en": "Gel",
+  "th": "เจล",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Glacial",
+  "th": "เกล็ดน้ำแข็ง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Glaive",
+  "th": "ทวน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Gold",
+  "th": "ทองคำ",
+  "kind": "item",
+  "note": "ทางการปน ทอง/ทองคำ (Gold Ore=แร่ทอง)",
+  "approved": true
+ },
+ {
+  "en": "Greatbow",
+  "th": "ธนูใหญ่",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Greatsword",
+  "th": "ดาบใหญ่",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Greaves",
+  "th": "รองเท้าเกราะ",
+  "kind": "item",
+  "note": "ทางการ: รองเท้า",
+  "approved": true
+ },
+ {
+  "en": "Hat",
+  "th": "หมวก",
+  "kind": "item",
+  "note": "ชุดสายเวทใช้ 'หมวกผ้า' ตามทางการเพื่อแยกจาก Helmet",
+  "approved": true
+ },
+ {
+  "en": "Health Potion",
+  "th": "น้ำยาฟื้นฟูพลังชีวิต",
+  "kind": "item",
+  "note": "ทางการ: น้ำยาฟื้นฟู (ไม่บอกว่าฟื้นอะไร)",
+  "approved": true
+ },
+ {
+  "en": "Helmet",
+  "th": "หมวก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Hood",
+  "th": "ฮู้ด",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ice",
+  "th": "น้ำแข็ง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Infected",
+  "th": "ติดเชื้อ",
+  "kind": "item",
+  "note": "ตัด 'ที่' ได้ในชื่อสั้น",
+  "approved": true
+ },
+ {
+  "en": "Iron",
+  "th": "เหล็ก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ivy",
+  "th": "ไม้เลื้อย",
+  "kind": "item",
+  "note": "ทางการ Ivy Greatbow ตกคำว่า ไม้",
+  "approved": true
+ },
+ {
+  "en": "Javelin",
+  "th": "หอกซัด",
+  "kind": "item",
+  "note": "ทางการ Ice Javelin=ศรน้ำแข็ง (ผิดประเภท)",
+  "approved": true
+ },
+ {
+  "en": "Katana",
+  "th": "คาตานะ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Mask",
+  "th": "หน้ากาก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Medallion",
+  "th": "เหรียญตรา",
+  "kind": "item",
+  "note": "แยกจาก Coin=เหรียญ",
+  "approved": true
+ },
+ {
+  "en": "Minecart",
+  "th": "รถเหมือง",
+  "kind": "item",
+  "note": "ทางการ 'รถราง' (= tram) ผิดความ",
+  "approved": true
+ },
+ {
+  "en": "Mycelium",
+  "th": "ไมซีเลียม",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Nightsteel",
+  "th": "เหล็กราตรี",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Obsidian",
+  "th": "ออบซิเดียน",
+  "kind": "item",
+  "note": "ทางการสะกด ออปซิเดียน",
+  "approved": true
+ },
+ {
+  "en": "Ore",
+  "th": "แร่",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Pearlescent Diamond",
+  "th": "เพชรประกายมุก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Pendant",
+  "th": "จี้",
+  "kind": "item",
+  "note": "ทางการปน จี้ / เครื่องราง",
+  "approved": true
+ },
+ {
+  "en": "Periapt",
+  "th": "เครื่องราง",
+  "kind": "item",
+  "note": "Aphorea · ชนกับ Charm แต่ชื่อไม่ซ้ำกัน",
+  "approved": true
+ },
+ {
+  "en": "Pickaxe",
+  "th": "อีเต้อ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Potion",
+  "th": "น้ำยา",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Primordial Essence",
+  "th": "แก่นแท้ปฐมกาล",
+  "kind": "item",
+  "note": "ทางการ: แก่นแท้ปฐมกาล / แก่นบรรพกาล",
+  "approved": true
+ },
+ {
+  "en": "Quartz",
+  "th": "ควอตซ์",
+  "kind": "item",
+  "note": "ทางการ 'เขี้ยวหนุมาน' (ถูกแต่ชื่ออาวุธฟังตลก: ขวานเขี้ยวหนุมาน) ปน 'ควอตซ์' (Life Quartz)",
+  "approved": true
+ },
+ {
+  "en": "Ring",
+  "th": "แหวน",
+  "kind": "item",
+  "note": "ทางการ Ring of Fire/Water='วงแหวน...' ผิด (เป็นแหวนสวม)",
+  "approved": true
+ },
+ {
+  "en": "Robe",
+  "th": "เสื้อคลุม",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Runebound",
+  "th": "รูนเบานด์",
+  "kind": "item",
+  "note": "ตาม style guide",
+  "approved": true
+ },
+ {
+  "en": "Runic",
+  "th": "รูน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Saber",
+  "th": "ดาบโค้ง",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Scepter",
+  "th": "คทา",
+  "kind": "item",
+  "note": "ใช้คำเดียวกับ Staff (ชื่อไม่ซ้ำกันอยู่แล้ว)",
+  "approved": true
+ },
+ {
+  "en": "Scroll",
+  "th": "คัมภีร์",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Shadow",
+  "th": "เงา",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Shadow Essence",
+  "th": "แก่นแท้เงา",
+  "kind": "item",
+  "note": "ทางการ: แก่นแท้แห่งเงา / แก่นแห่งเงา",
+  "approved": true
+ },
+ {
+  "en": "Shield",
+  "th": "โล่",
+  "kind": "item",
+  "note": "ทางการ Wood Shield='โล่ไม้กะหลั่วๆ' เล่นคำเกิน",
+  "approved": true
+ },
+ {
+  "en": "Shovel",
+  "th": "พลั่ว",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Slime",
+  "th": "สไลม์",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Slime Essence",
+  "th": "แก่นแท้สไลม์",
+  "kind": "item",
+  "note": "ทางการสะกดผิด 'สไลท์'",
+  "approved": true
+ },
+ {
+  "en": "Spear",
+  "th": "หอก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Spiderite",
+  "th": "สไปเดอไรต์",
+  "kind": "item",
+  "note": "ทางการ: แร่แมงมุม / หนังแมงมุม / เหล็กแมงมุม ไม่คงที่ · วัสดุแฟนตาซี → ทับศัพท์",
+  "approved": true
+ },
+ {
+  "en": "Spiderkin",
+  "th": "สไปเดอร์กิน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Spinel",
+  "th": "สปิเนล",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Staff",
+  "th": "คทา",
+  "kind": "item",
+  "note": "Aphorea ใช้ ไม้เท้า บางที่",
+  "approved": true
+ },
+ {
+  "en": "Sword",
+  "th": "ดาบ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Tablet",
+  "th": "แผ่นศิลา",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Tungsten",
+  "th": "ทังสเตน",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Unstable Gel",
+  "th": "เจลไม่เสถียร",
+  "kind": "item",
+  "note": "ตัด 'ที่' ให้สั้น (ทางการ: เจลที่ไม่เสถียร)",
+  "approved": true
+ },
+ {
+  "en": "Upgrade Shard",
+  "th": "เศษอัปเกรด",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Void",
+  "th": "ความมืด",
+  "kind": "item",
+  "note": "ชื่อไอเทมใช้ 'แห่งความมืด' ตามทางการ (~50 แถว) · Shadow=เงา",
+  "approved": true
+ },
+ {
+  "en": "Wand",
+  "th": "ไม้กายสิทธิ์",
+  "kind": "item",
+  "note": "ทางการ Emerald/Elderly Wand ใช้ คทา → แยกจาก Staff",
+  "approved": true
+ },
+ {
+  "en": "Wool",
+  "th": "ขนแกะ",
+  "kind": "item",
+  "note": "ทางการมีขีด '-ขนแกะ' หลุดมา",
+  "approved": true
+ },
+ {
+  "en": "Caveling",
+  "th": "ชาวถ้ำ",
+  "kind": "mob",
+  "note": "ทางการ: ผู้เร้นกายในถ้ำ / ผู้เร้นกาย / ชาวถ้ำ / คนถ้ำ ปนกัน → ชาวถ้ำ สั้นสุด",
+  "approved": true
+ },
+ {
+  "en": "Crone",
+  "th": "ยายเฒ่า",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Croppler",
+  "th": "เดินได้",
+  "kind": "mob",
+  "note": "รูปแบบ '<ผัก>เดินได้' ตามทางการ เช่น แครอทเดินได้",
+  "approved": true
+ },
+ {
+  "en": "Dwarf",
+  "th": "คนแคระ",
+  "kind": "mob",
+  "note": "Frozen Dwarf ทางการมี 'คนแคระหัวร้อนตัวเย็น' ปน",
+  "approved": true
+ },
+ {
+  "en": "Elder",
+  "th": "ผู้เฒ่า",
+  "kind": "mob",
+  "note": "ทางการชุด Elder=เสื้อ/หมวกคนแก่, Caveling Elder=คนถ้ำโบราณ → ใช้ ผู้เฒ่า",
+  "approved": true
+ },
+ {
+  "en": "Exotic Merchant",
+  "th": "พ่อค้าต่างแดน",
+  "kind": "mob",
+  "note": "ทางการ: พ่อค้าต่างดินแดน / นักค้าต่างแดน",
+  "approved": true
+ },
+ {
+  "en": "Fishian",
+  "th": "ชาวปลา",
+  "kind": "mob",
+  "note": "ทางการ Fishian Raider='โจรปล้นปลา', Fishian Banner='ธงตกปลา' ผิด",
+  "approved": true
+ },
+ {
+  "en": "Goblin",
+  "th": "ก็อบลิน",
+  "kind": "mob",
+  "note": "ทางการปน ก๊อบลิน / ก็อบลิน",
+  "approved": true
+ },
+ {
+  "en": "Golem",
+  "th": "โกเลม",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Gunsmith",
+  "th": "ช่างปืน",
+  "kind": "mob",
+  "note": "ทางการ: พ่อค้าปืน",
+  "approved": true
+ },
+ {
+  "en": "Hunter",
+  "th": "นักล่า",
+  "kind": "mob",
+  "note": "ทางการ mob: นักล่าสัตว์",
+  "approved": true
+ },
+ {
+  "en": "Mage",
+  "th": "นักเวท",
+  "kind": "mob",
+  "note": "ทางการสะกด นักเวทย์ (ไม่ถูก)",
+  "approved": true
+ },
+ {
+  "en": "Miner",
+  "th": "คนงานเหมือง",
+  "kind": "mob",
+  "note": "ทางการ mob 'นักขุดเหมือง' ปน 'คนงานเหมือง' (ชุด)",
+  "approved": true
+ },
+ {
+  "en": "Phantom",
+  "th": "ภูตผี",
+  "kind": "mob",
+  "note": "ทางการ 'วิญญาณ' ชนกับ Spirit",
+  "approved": true
+ },
+ {
+  "en": "Phoenix",
+  "th": "ฟีนิกซ์",
+  "kind": "mob",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Pirate",
+  "th": "โจรสลัด",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ravenlord",
+  "th": "ราชาอีกา",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Skeleton",
+  "th": "โครงกระดูก",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Spider",
+  "th": "แมงมุม",
+  "kind": "mob",
+  "note": "ทางการ mob 'Spider'='แมงมุมลายตัวนั้น' แปลเกิน",
+  "approved": true
+ },
+ {
+  "en": "Spirit",
+  "th": "วิญญาณ",
+  "kind": "mob",
+  "note": "ทางการสะกดผิดบ่อย: วิญญาน",
+  "approved": true
+ },
+ {
+  "en": "Trader",
+  "th": "พ่อค้า",
+  "kind": "mob",
+  "note": "ทางการ '<name> the Trader' ใช้ นักค้าขาย ปน",
+  "approved": true
+ },
+ {
+  "en": "Vampire",
+  "th": "แวมไพร์",
+  "kind": "mob",
+  "note": "ทางการ Vampires Gift สะกด แวมไฟร์",
+  "approved": true
+ },
+ {
+  "en": "Vulture",
+  "th": "อีแร้ง",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Witch",
+  "th": "แม่มด",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Wizard",
+  "th": "พ่อมด",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Zombie",
+  "th": "ซอมบี้",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Grit",
+  "th": "กริต",
+  "kind": "name",
+  "note": "ทางการ 'กริด' (ด = grid)",
+  "approved": true
+ },
+ {
+  "en": "Necesse",
+  "th": "Necesse",
+  "kind": "name",
+  "note": "ชื่อเกม คงเป็นอังกฤษ",
+  "approved": true
+ },
+ {
+  "en": "Sage",
+  "th": "เซจ",
+  "kind": "name",
+  "note": "ทางการ 'เธียร' ไม่ใช่การทับศัพท์",
+  "approved": true
+ },
+ {
+  "en": "The Void",
+  "th": "เดอะวอยด์",
+  "kind": "name",
+  "note": "ชื่อเฉพาะ ตามทางการ",
+  "approved": true
+ },
+ {
+  "en": "Alchemy Table",
+  "th": "โต๊ะปรุงยา",
+  "kind": "place",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Anvil",
+  "th": "ทั่ง",
+  "kind": "place",
+  "note": "Iron Anvil=ทั่งตีเหล็ก ตามทางการ",
+  "approved": true
+ },
+ {
+  "en": "Chest",
+  "th": "กล่อง",
+  "kind": "place",
+  "note": "ช่องสวมใส่ 'Chest slot' = ช่องอก",
+  "approved": true
+ },
+ {
+  "en": "Cooking Station",
+  "th": "ที่ปรุงอาหาร",
+  "kind": "place",
+  "note": "ทางการ: ฐานปรุงอาหาร / ที่ปรุงอาหาร",
+  "approved": true
+ },
+ {
+  "en": "Fallen Altar",
+  "th": "แท่นบูชาร้าง",
+  "kind": "place",
+  "note": "tooltip ทางการใช้ 'ประตูร้าง' ผิด",
+  "approved": true
+ },
+ {
+  "en": "Forge",
+  "th": "เตาหลอม",
+  "kind": "place",
+  "note": "ทางการ 'เตาเผา' — ใช้หลอมแร่เป็นแท่ง",
+  "approved": true
+ },
+ {
+  "en": "Homestone",
+  "th": "โฮมสโตน",
+  "kind": "place",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Landscaping Station",
+  "th": "โต๊ะภูมิประเทศ",
+  "kind": "place",
+  "note": "journal ทางการใช้ 'โต๊ะประดิษฐ์แผนที่' ผิด",
+  "approved": true
+ },
+ {
+  "en": "Roasting Station",
+  "th": "ที่ย่างเนื้อ",
+  "kind": "place",
+  "note": "ทางการ: ฐานย่างเนื้อ / ที่ย่างเนื้อ",
+  "approved": true
+ },
+ {
+  "en": "Runes Table",
+  "th": "โต๊ะรูน",
+  "kind": "place",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Salvage Station",
+  "th": "โต๊ะย่อยไอเทม",
+  "kind": "place",
+  "note": "ทางการ: โต๊ะแยกส่วนของเหลือใช้ (ยาว)",
+  "approved": true
+ },
+ {
+  "en": "Upgrade Station",
+  "th": "โต๊ะอัปเกรด",
+  "kind": "place",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Waystone",
+  "th": "เวย์สโตน",
+  "kind": "place",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Achievement",
+  "th": "ความสำเร็จ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Adventure Journal",
+  "th": "บันทึกการผจญภัย",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Armor",
+  "th": "เกราะ",
+  "kind": "system",
+  "note": "ค่าสถานะ=เกราะ · หมวดอุปกรณ์=ชุดเกราะ (มีคำว่า เกราะ อยู่แล้ว)",
+  "approved": true
+ },
+ {
+  "en": "Armor pen",
+  "th": "เจาะเกราะ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Attack speed",
+  "th": "ความเร็วโจมตี",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Base Rune",
+  "th": "รูนพื้นฐาน",
+  "kind": "system",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Biome",
+  "th": "ไบโอม",
+  "kind": "system",
+  "note": "ทางการ: ไบโอม / พื้นที่ชีวนิเวศ / พื้นที่",
+  "approved": true
+ },
+ {
+  "en": "Boss",
+  "th": "บอส",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Break up",
+  "th": "เลิกกัน",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Buff",
+  "th": "บัฟ",
+  "kind": "system",
+  "note": "ทางการ controls ใช้ 'ยาเพิ่มพลัง'",
+  "approved": true
+ },
+ {
+  "en": "Challenge",
+  "th": "ความท้าทาย",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Consumable",
+  "th": "ของสิ้นเปลือง",
+  "kind": "system",
+  "note": "ทางการ: ของใช้ได้ครั้งเดียว",
+  "approved": true
+ },
+ {
+  "en": "Cooldown",
+  "th": "คูลดาวน์",
+  "kind": "system",
+  "note": "ทางการสะกดผิดบ่อย: คูลดาว์น",
+  "approved": true
+ },
+ {
+  "en": "Cosmetic",
+  "th": "แฟชั่น",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Crafting",
+  "th": "ประดิษฐ์",
+  "kind": "system",
+  "note": "jobs ใช้ 'ผลิต' ปน",
+  "approved": true
+ },
+ {
+  "en": "Creative mode",
+  "th": "โหมดสร้างสรรค์",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Crit chance",
+  "th": "โอกาสคริติคอล",
+  "kind": "system",
+  "note": "ทางการมี 'อัตราคริติคอล' ปน",
+  "approved": true
+ },
+ {
+  "en": "Crit damage",
+  "th": "ความเสียหายคริติคอล",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Critical hit",
+  "th": "คริติคอล",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Critters",
+  "th": "สัตว์เล็ก",
+  "kind": "system",
+  "note": "ทางการ: สัตว์",
+  "approved": true
+ },
+ {
+  "en": "Damage",
+  "th": "ความเสียหาย",
+  "kind": "system",
+  "note": "ทางการ buffmodifiers ใช้ 'พลังโจมตี' ปน → ใช้ ความเสียหาย",
+  "approved": true
+ },
+ {
+  "en": "Dash",
+  "th": "พุ่ง",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Dating",
+  "th": "คบหา",
+  "kind": "system",
+  "note": "ตามตัวอย่างใน style guide",
+  "approved": true
+ },
+ {
+  "en": "Debuff",
+  "th": "ดีบัฟ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Difficulty",
+  "th": "ความยาก",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Drop",
+  "th": "ดรอป",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Empowered",
+  "th": "เพิ่มพลัง",
+  "kind": "system",
+  "note": "แยกจาก Enchant=เสริมพลัง · ทางการใช้ เสริมพลัง/มอบอำนาจ ปนกัน",
+  "approved": true
+ },
+ {
+  "en": "Enchant",
+  "th": "เสริมพลัง",
+  "kind": "system",
+  "note": "ทางการสม่ำเสมอ",
+  "approved": true
+ },
+ {
+  "en": "Enchantment",
+  "th": "การเสริมพลัง",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Equipment",
+  "th": "อุปกรณ์สวมใส่",
+  "kind": "system",
+  "note": "หมวด itemcategory ทางการ 'ของสวมใส่'",
+  "approved": true
+ },
+ {
+  "en": "Expedition",
+  "th": "การสำรวจ",
+  "kind": "system",
+  "note": "บทพูดทางการใช้ 'การเดินทาง' ปน",
+  "approved": true
+ },
+ {
+  "en": "Frozen",
+  "th": "แช่แข็ง",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Glyph",
+  "th": "ตรา",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Happiness",
+  "th": "ความสุข",
+  "kind": "system",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Hardcore",
+  "th": "ตายไม่ฟื้น",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Health",
+  "th": "พลังชีวิต",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Health regen",
+  "th": "ฟื้นฟูพลังชีวิต",
+  "kind": "system",
+  "note": "ดู Mana regen",
+  "approved": true
+ },
+ {
+  "en": "Hostile",
+  "th": "ไม่เป็นมิตร",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Hotbar",
+  "th": "แถบไอเทมลัด",
+  "kind": "system",
+  "note": "ทางการสะกด 'แทบ' ผิด",
+  "approved": true
+ },
+ {
+  "en": "Hunger",
+  "th": "ความหิว",
+  "kind": "system",
+  "note": "ทางการ 'Hunger enabled' แปลหยาบคาย ต้องแก้",
+  "approved": true
+ },
+ {
+  "en": "Husbandry",
+  "th": "ปศุสัตว์",
+  "kind": "system",
+  "note": "jobs ใช้ 'การเลี้ยงสัตว์' → ใช้ ปศุสัตว์ ทั้งหมด",
+  "approved": true
+ },
+ {
+  "en": "Incursion",
+  "th": "อินเคอร์ชัน",
+  "kind": "system",
+  "note": "ทางการ 'อินเคอชั่น' (ชื่อไอเทม) ปน 'การรุกราน' (journal/stats) · ทับศัพท์ตามราชบัณฑิต (ไม่มี ่) · 'รุกราน' เก็บไว้ให้ Raid",
+  "approved": true
+ },
+ {
+  "en": "Inspiration",
+  "th": "แรงบันดาลใจ",
+  "kind": "system",
+  "note": "ประเภทความเสียหายของ Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Invasion",
+  "th": "บุก",
+  "kind": "system",
+  "note": "ชื่อ perk อินเคอร์ชัน เช่น Raven Invasion → อีกาบุก (ทางการ 'รุนราน' สะกดผิด)",
+  "approved": true
+ },
+ {
+  "en": "Inventory",
+  "th": "ช่องเก็บของ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Journal",
+  "th": "บันทึก",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Knockback",
+  "th": "แรงผลัก",
+  "kind": "system",
+  "note": "ทางการ: การผลัก / ผลักศัตรู",
+  "approved": true
+ },
+ {
+  "en": "Life Essence",
+  "th": "แก่นแท้พลังชีวิต",
+  "kind": "system",
+  "note": "บัฟ · ทางการปน แก่นพลังชีวิต / แก่นแท้แห่งชีวิต (ชนกับ Bio Essence)",
+  "approved": true
+ },
+ {
+  "en": "Life Partner",
+  "th": "คู่ชีวิต",
+  "kind": "system",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Logic gate",
+  "th": "ลอจิกเกต",
+  "kind": "system",
+  "note": "ทางการทิ้งเป็นอังกฤษ",
+  "approved": true
+ },
+ {
+  "en": "Loot",
+  "th": "ของดรอป",
+  "kind": "system",
+  "note": "ทางการ: ดรอป / ค้นพบ / โอกาสดรอป",
+  "approved": true
+ },
+ {
+  "en": "Magic",
+  "th": "เวทมนตร์",
+  "kind": "system",
+  "note": "ทางการสะกดผิด: เวทมนต์ / เวทยมนต์",
+  "approved": true
+ },
+ {
+  "en": "Mana",
+  "th": "มานา",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Mana regen",
+  "th": "ฟื้นฟูมานา",
+  "kind": "system",
+  "note": "ทางการบางแถวเติม 'ขณะต่อสู้' ทั้งที่มีค่า combat/out of combat แยกกัน — ตรวจ key ก่อนใส่",
+  "approved": true
+ },
+ {
+  "en": "Max health",
+  "th": "พลังชีวิตสูงสุด",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Max summons",
+  "th": "จำนวนอัญเชิญสูงสุด",
+  "kind": "system",
+  "note": "ทางการ: จำนวนสูงสุดของยูนิตที่อัญเชิญได้ / ผู้เรียกสูงสุด (ผิดความ)",
+  "approved": true
+ },
+ {
+  "en": "Melee",
+  "th": "ระยะประชิด",
+  "kind": "system",
+  "note": "ทางการ stats ใช้ 'ระยะใกล้' → ระยะประชิด ทั้งเกม",
+  "approved": true
+ },
+ {
+  "en": "Mining",
+  "th": "ขุดแร่",
+  "kind": "system",
+  "note": "ทางการ: ขุดเหมือง / ขุดแร่",
+  "approved": true
+ },
+ {
+  "en": "Mob",
+  "th": "มอนสเตอร์",
+  "kind": "system",
+  "note": "ทางการ: สิ่งมีชีวิต / มอนส์เตอร์ / ม็อบ · หมวด 'Mobs' ใน UI ใช้ สิ่งมีชีวิต ได้ · ไม่ใส่ ์ ที่ ส",
+  "approved": true
+ },
+ {
+  "en": "Modifier Rune",
+  "th": "รูนดัดแปลง",
+  "kind": "system",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Mount",
+  "th": "พาหนะ",
+  "kind": "system",
+  "note": "ทางการ: ยานพาหนะ / พาหนะ",
+  "approved": true
+ },
+ {
+  "en": "Movement speed",
+  "th": "ความเร็วเคลื่อนที่",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Objectives",
+  "th": "เป้าหมาย",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "On fire",
+  "th": "ติดไฟ",
+  "kind": "system",
+  "note": "ทางการ buff: ไฟไหม้",
+  "approved": true
+ },
+ {
+  "en": "Passive",
+  "th": "ไม่ดุร้าย",
+  "kind": "system",
+  "note": "ทางการ: ไม่อันตราย",
+  "approved": true
+ },
+ {
+  "en": "Perk",
+  "th": "ความสามารถพิเศษ",
+  "kind": "system",
+  "note": "ทางการสม่ำเสมอ · ทางเลือกสั้น: เพิร์ก",
+  "approved": true
+ },
+ {
+  "en": "Personalities",
+  "th": "นิสัย",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Pet",
+  "th": "สัตว์เลี้ยง",
+  "kind": "system",
+  "note": "controls 'Pet' (กริยา) = ลูบหัว",
+  "approved": true
+ },
+ {
+  "en": "Portal",
+  "th": "ประตูมิติ",
+  "kind": "system",
+  "note": "ทางการ: ประตูวาร์ป / ประตูมิติ / ประตู",
+  "approved": true
+ },
+ {
+  "en": "Projectile",
+  "th": "กระสุน",
+  "kind": "system",
+  "note": "ใช้คำเดียวกับ Bullet/Ammo ตามทางการ",
+  "approved": true
+ },
+ {
+  "en": "Quality of life",
+  "th": "คุณภาพชีวิต",
+  "kind": "system",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Quest",
+  "th": "ภารกิจ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Raid",
+  "th": "การรุกราน",
+  "kind": "system",
+  "note": "ทางการสม่ำเสมอ (Raiders=ผู้รุกราน) · จึงไม่ใช้ 'รุกราน' กับ Incursion",
+  "approved": true
+ },
+ {
+  "en": "Raiders",
+  "th": "ผู้รุกราน",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Ranged",
+  "th": "ระยะไกล",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Recipe",
+  "th": "สูตร",
+  "kind": "system",
+  "note": "ทางการ 'Highlight <tech> recipes' แปลเป็น สูตรอาหาร (ผิด)",
+  "approved": true
+ },
+ {
+  "en": "Recreation",
+  "th": "ความบันเทิง",
+  "kind": "system",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Recruit",
+  "th": "ชวนเข้านิคม",
+  "kind": "system",
+  "note": "ทางการ: รับสมัคร / ชวน / จ้าง ปนกัน",
+  "approved": true
+ },
+ {
+  "en": "Relationship",
+  "th": "ความสัมพันธ์",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Resilience",
+  "th": "ความทนทาน",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Resistance",
+  "th": "ต้านทาน",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Respawn",
+  "th": "เกิดใหม่",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Rune",
+  "th": "รูน",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Runes Injector",
+  "th": "เครื่องฉีดรูน",
+  "kind": "system",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Salvage",
+  "th": "ย่อย",
+  "kind": "system",
+  "note": "ทางการ: ย่อยสลาย / แยกส่วนของเหลือใช้ — ใช้ 'ย่อย' สั้นและตรง",
+  "approved": true
+ },
+ {
+  "en": "Set bonus",
+  "th": "โบนัสเซ็ต",
+  "kind": "system",
+  "note": "ทางการ: คุณสมบัติของเซ็ตที่สวมใส่ / โบนัสชุด — สั้นกว่า · คำว่า set (ชุดเกราะ) สะกด เซ็ต ไม่ใช่ เซ็ท",
+  "approved": true
+ },
+ {
+  "en": "Settlement",
+  "th": "นิคม",
+  "kind": "system",
+  "note": "ทางการใช้ 'ถิ่นฐาน' (~85 แถว) — เป็นคำนามลอย ๆ แล้วแข็ง ('แสดงความเป็นเจ้าของถิ่นฐาน') · นิคม สั้นกว่าและตรงความ",
+  "approved": true
+ },
+ {
+  "en": "Settlement Elder",
+  "th": "ผู้เฒ่าประจำนิคม",
+  "kind": "system",
+  "note": "Elder=ผู้เฒ่า ตาม mob",
+  "approved": true
+ },
+ {
+  "en": "Settlement Flag",
+  "th": "ธงนิคม",
+  "kind": "system",
+  "note": "ทางการ: ธงตั้งถิ่นฐาน",
+  "approved": true
+ },
+ {
+  "en": "Settler",
+  "th": "ชาวนิคม",
+  "kind": "system",
+  "note": "ทางการใช้ 'ผู้อพยพ' (~100 แถว) ซึ่งแปลว่า refugee/migrant ผิดความ · achievement ใช้ 'ผู้ตั้งถิ่นฐาน' · เลือกคู่กับ Settlement=นิคม — ถ้าไม่อยากแก้เยอะให้กลับไปใช้ ผู้อพยพ",
+  "approved": true
+ },
+ {
+  "en": "Slot",
+  "th": "ช่อง",
+  "kind": "system",
+  "note": "ช่องสวมใส่ทางการใช้ 'ส่วน' (ส่วนอก) — ใช้ ช่อง",
+  "approved": true
+ },
+ {
+  "en": "Smelt",
+  "th": "หลอม",
+  "kind": "system",
+  "note": "ทางการ: ถลุง",
+  "approved": true
+ },
+ {
+  "en": "Spawn",
+  "th": "จุดเกิด",
+  "kind": "system",
+  "note": "ใช้กับจุดเกิดผู้เล่น · การเกิดของมอนสเตอร์ใช้ 'เกิด'",
+  "approved": true
+ },
+ {
+  "en": "Spelunker",
+  "th": "ส่องแร่",
+  "kind": "system",
+  "note": "บัฟ/ยา spelunker (ไฮไลต์แร่) · ทางการ: นักสำรวจ / ไฮไลต์",
+  "approved": true
+ },
+ {
+  "en": "Stack",
+  "th": "สแต็ก",
+  "kind": "system",
+  "note": "ทางการ: สแต็ค",
+  "approved": true
+ },
+ {
+  "en": "Stamina",
+  "th": "พลังกาย",
+  "kind": "system",
+  "note": "Aphorea ใช้ 'ความแข็งแกร่ง' 1 ที่",
+  "approved": true
+ },
+ {
+  "en": "Storage",
+  "th": "ที่เก็บของ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Story objectives",
+  "th": "เป้าหมายหลัก",
+  "kind": "system",
+  "note": "ทางการว่าง",
+  "approved": true
+ },
+ {
+  "en": "Summon",
+  "th": "อัญเชิญ",
+  "kind": "system",
+  "note": "ทางการใช้ อัญเชิญ ปน เรียก — ศัพท์ระบบใช้ อัญเชิญ (ในประโยคบรรยายใช้ 'เรียก' ได้)",
+  "approved": true
+ },
+ {
+  "en": "Summon damage",
+  "th": "ความเสียหายอัญเชิญ",
+  "kind": "system",
+  "note": "ทางการ: ความเสียหายยูนิตที่อัญเชิญ (ยาว)",
+  "approved": true
+ },
+ {
+  "en": "Summoner",
+  "th": "ผู้อัญเชิญ",
+  "kind": "system",
+  "note": "Aphorea ใช้ 'ผู้เรียก'",
+  "approved": true
+ },
+ {
+  "en": "Survival mode",
+  "th": "โหมดเอาชีวิตรอด",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Teleport",
+  "th": "วาร์ป",
+  "kind": "system",
+  "note": "ทางการมี 'เทเลพอร์ต' ปน",
+  "approved": true
+ },
+ {
+  "en": "Tier",
+  "th": "ระดับ",
+  "kind": "system",
+  "note": "ทางการสม่ำเสมอ",
+  "approved": true
+ },
+ {
+  "en": "Tool tier",
+  "th": "ระดับเครื่องมือ",
+  "kind": "system",
+  "note": "ทางการ: ระดับของอุปกรณ์ / ระดับเครื่องมือ",
+  "approved": true
+ },
+ {
+  "en": "Tools",
+  "th": "เครื่องมือ",
+  "kind": "system",
+  "note": "ทางการหมวด: อุปกรณ์ (ชนกับ Equipment)",
+  "approved": true
+ },
+ {
+  "en": "Trinket",
+  "th": "เครื่องประดับ",
+  "kind": "system",
+  "note": "ทางการมี 'ของประดับ' 1 ที่ → ใช้ เครื่องประดับ",
+  "approved": true
+ },
+ {
+  "en": "Upgrade",
+  "th": "อัปเกรด",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Vinyl",
+  "th": "แผ่นเสียง",
+  "kind": "system",
+  "note": "ทางการ: ไวนิล / แผ่นเสียงไวนิล",
+  "approved": true
+ },
+ {
+  "en": "Weapons",
+  "th": "อาวุธ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Workstation",
+  "th": "โต๊ะประดิษฐ์",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Zone",
+  "th": "พื้นที่",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ }
+]

@@ -1,0 +1,862 @@
+{
+ "category": "itemcategory",
+ "entries": [
+  {
+   "key": "equipment",
+   "en": "Equipment",
+   "official": "ของสวมใส่",
+   "th": "อุปกรณ์สวมใส่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tools",
+   "en": "Tools",
+   "official": "อุปกรณ์",
+   "th": "เครื่องมือ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pickaxes",
+   "en": "Pickaxes",
+   "official": "อีเต้อ",
+   "th": "อีเต้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "axes",
+   "en": "Axes",
+   "official": "ขวาน",
+   "th": "ขวาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shovels",
+   "en": "Shovels",
+   "official": "พลั่ว",
+   "th": "พลั่ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishingrods",
+   "en": "Fishing rods",
+   "official": "เบ็ดตกปลา",
+   "th": "คันเบ็ด",
+   "status": "fixed",
+   "note": "ชื่อตาม item: Fishing Rod"
+  },
+  {
+   "key": "weapons",
+   "en": "Weapons",
+   "official": "อาวุธ",
+   "th": "อาวุธ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meleeweapons",
+   "en": "Melee weapons",
+   "official": "อาวุธระยะประชิด",
+   "th": "อาวุธระยะประชิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rangedweapons",
+   "en": "Ranged weapons",
+   "official": "อาวุธระยะไกล",
+   "th": "อาวุธระยะไกล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicweapons",
+   "en": "Magic weapons",
+   "official": "อาวุธเวทยมนต์",
+   "th": "อาวุธเวทมนตร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "summonweapons",
+   "en": "Summon weapons",
+   "official": "อาวุธอัญเชิญ",
+   "th": "อาวุธอัญเชิญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "throwweapons",
+   "en": "Throw weapons",
+   "official": "อาวุธขว้าง",
+   "th": "อาวุธขว้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ammo",
+   "en": "Ammo",
+   "official": "กระสุน",
+   "th": "กระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bait",
+   "en": "Bait",
+   "official": "เหยื่อ",
+   "th": "เหยื่อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "armor",
+   "en": "Armor",
+   "official": "ชุดเกราะ",
+   "th": "ชุดเกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trinkets",
+   "en": "Trinkets",
+   "official": "เครื่องประดับ",
+   "th": "เครื่องประดับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cosmetics",
+   "en": "Cosmetics",
+   "official": "แฟชั่น",
+   "th": "แฟชั่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "consumable",
+   "en": "Consumable",
+   "official": "ของใช้ได้ครั้งเดียว",
+   "th": "ของสิ้นเปลือง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rawfood",
+   "en": "Raw food",
+   "official": "อาหารดิบ",
+   "th": "อาหารดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "commonfish",
+   "en": "Common fish",
+   "official": "ปลาธรรมดา",
+   "th": "ปลาธรรมดา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "food",
+   "en": "Food",
+   "official": "อาหาร",
+   "th": "อาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ingredient",
+   "en": "Ingredient",
+   "official": "วัตถุดิบ",
+   "th": "วัตถุดิบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potions",
+   "en": "Potions",
+   "official": "น้ำยา",
+   "th": "น้ำยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resourcepotions",
+   "en": "Healing and Mana",
+   "official": "ฟื้นฟูพลังชีวิต และมานา",
+   "th": "ฟื้นฟูพลังชีวิตและมานา",
+   "status": "fixed",
+   "note": "เว้นวรรคเกิน"
+  },
+  {
+   "key": "greaterbuffpotions",
+   "en": "Greater Combat Buffs",
+   "official": "บัฟการต่อสู้ใหญ่",
+   "th": "บัฟการต่อสู้ขั้นสูง",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "buffpotions",
+   "en": "Combat Buffs",
+   "official": "บัฟการต่อสู้",
+   "th": "บัฟการต่อสู้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "utilitypotions",
+   "en": "Utility Buffs",
+   "official": "บัฟคุณประโยชน์",
+   "th": "บัฟอเนกประสงค์",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "bossitems",
+   "en": "Boss items",
+   "official": "ไอเทมบอส",
+   "th": "ไอเทมบอส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "materials",
+   "en": "Materials",
+   "official": "วัตถุดิบ",
+   "th": "วัสดุ",
+   "status": "fixed",
+   "note": "ชนกับ Ingredient"
+  },
+  {
+   "key": "ore",
+   "en": "Ore",
+   "official": "แร่",
+   "th": "แร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minerals",
+   "en": "Minerals",
+   "official": "แร่ธาตุ",
+   "th": "แร่ธาตุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bars",
+   "en": "Bars",
+   "official": "แท่งแร่",
+   "th": "แท่งแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stone",
+   "en": "Stone",
+   "official": "หิน",
+   "th": "หิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "logs",
+   "en": "Logs",
+   "official": "ท่อนซุง",
+   "th": "ท่อนซุง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "specialfish",
+   "en": "Special fish",
+   "official": "ปลาพิเศษ",
+   "th": "ปลาพิเศษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flowers",
+   "en": "Flowers",
+   "official": "ดอกไม้",
+   "th": "ดอกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobdrops",
+   "en": "Drops",
+   "official": "ของดรอป",
+   "th": "ของดรอป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "essences",
+   "en": "Essences",
+   "official": "แก่นแท้",
+   "th": "แก่นแท้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tiles",
+   "en": "Tiles",
+   "official": "พื้น",
+   "th": "พื้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "floors",
+   "en": "Floors",
+   "official": "พื้นปู",
+   "th": "พื้นปู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "liquids",
+   "en": "Liquids",
+   "official": "น้ำ",
+   "th": "ของเหลว",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "terrain",
+   "en": "Terrain",
+   "official": "ภูมิประเทศ",
+   "th": "ภูมิประเทศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "objects",
+   "en": "Objects",
+   "official": "สิ่งของ",
+   "th": "สิ่งของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seeds",
+   "en": "Seeds",
+   "official": "เมล็ด",
+   "th": "เมล็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "saplings",
+   "en": "Trees and Saplings",
+   "official": "ต้นอ่อน",
+   "th": "ต้นไม้และต้นอ่อน",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "craftingstations",
+   "en": "Crafting Stations",
+   "official": "โต๊ะประดิษฐ์",
+   "th": "สถานีประดิษฐ์",
+   "status": "fixed",
+   "note": "Crafting Stations (ทั่วไป) = สถานีประดิษฐ์ แยกจากชื่อ object Workstation"
+  },
+  {
+   "key": "furniture",
+   "en": "Furniture",
+   "official": "เฟอร์นิเจอร์",
+   "th": "เฟอร์นิเจอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "oak",
+   "en": "Oak",
+   "official": "ไม้โอ๊ค",
+   "th": "ไม้โอ๊ค",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spruce",
+   "en": "Spruce",
+   "official": "ไม้สปรูซ",
+   "th": "ไม้สปรูซ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pine",
+   "en": "Pine",
+   "official": "ไม้สน",
+   "th": "ไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palm",
+   "en": "Palm",
+   "official": "ไม้ปาล์ม",
+   "th": "ไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maple",
+   "en": "Maple",
+   "official": "ไม้เมเปิ้ล",
+   "th": "ไม้เมเปิล",
+   "status": "fixed",
+   "note": "ทับศัพท์ไม่ใส่วรรณยุกต์"
+  },
+  {
+   "key": "birch",
+   "en": "Birch",
+   "official": "ไม้เบิร์ช",
+   "th": "ไม้เบิร์ช",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willow",
+   "en": "Willow",
+   "official": "ไม้หลิว",
+   "th": "ไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "brick",
+   "en": "Brick",
+   "official": "",
+   "th": "อิฐ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "deepstone",
+   "en": "Deep Stone",
+   "official": "",
+   "th": "หินชั้นลึก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "dungeon",
+   "en": "Dungeon",
+   "official": "ดันเจี้ยน",
+   "th": "ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bone",
+   "en": "Bone",
+   "official": "กระดูก",
+   "th": "กระดูก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryad",
+   "en": "Dryad",
+   "official": "ดรายแอด",
+   "th": "ดรายแอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboo",
+   "en": "Bamboo",
+   "official": "ไม่ไผ่",
+   "th": "ไม้ไผ่",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "deadwood",
+   "en": "Deadwood",
+   "official": "เดดวูด",
+   "th": "เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastle",
+   "en": "Spider",
+   "official": "แมงมุม",
+   "th": "แมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "decorations",
+   "en": "Decorations",
+   "official": "การตกแต่ง",
+   "th": "ของตกแต่ง",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "paintings",
+   "en": "Paintings",
+   "official": "งานจิตรกรรม",
+   "th": "ภาพวาด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "carpets",
+   "en": "Carpets",
+   "official": "พรม",
+   "th": "พรม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pots",
+   "en": "Pots",
+   "official": "กระถาง",
+   "th": "กระถาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "banners",
+   "en": "Banners",
+   "official": "ธง",
+   "th": "ธง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lighting",
+   "en": "Lighting",
+   "official": "การให้แสงสว่าง",
+   "th": "แสงสว่าง",
+   "status": "fixed",
+   "note": "ตัด การ"
+  },
+  {
+   "key": "wallsanddoors",
+   "en": "Walls and Doors",
+   "official": "กำแพงและประตู",
+   "th": "กำแพงและประตู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fencesandgates",
+   "en": "Fences and Gates",
+   "official": "รั้ว",
+   "th": "รั้วและประตูรั้ว",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "columns",
+   "en": "Columns",
+   "official": "เสาหิน",
+   "th": "เสา",
+   "status": "fixed",
+   "note": "ไม่จำกัดแค่หิน"
+  },
+  {
+   "key": "traps",
+   "en": "Traps",
+   "official": "กับดัก",
+   "th": "กับดัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "landscaping",
+   "en": "Landscaping",
+   "official": "การจัดภูมิประเทศ",
+   "th": "จัดภูมิประเทศ",
+   "status": "fixed",
+   "note": "ตัด การ"
+  },
+  {
+   "key": "rocksandores",
+   "en": "Rocks and ores",
+   "official": "หินและแร่",
+   "th": "หินและแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forestrocksandores",
+   "en": "Forest Caves",
+   "official": "ถ้ำป่า",
+   "th": "ถ้ำป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowrocksandores",
+   "en": "Snow Caves",
+   "official": "ถ้ำหิมะ",
+   "th": "ถ้ำหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainsrocksandores",
+   "en": "Plains Caves",
+   "official": "ถ้ำที่ราบ",
+   "th": "ถ้ำที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamprocksandores",
+   "en": "Swamp Caves",
+   "official": "ถ้ำหนองน้ำ",
+   "th": "ถ้ำหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertrocksandores",
+   "en": "Desert Caves",
+   "official": "ถ้ำทะเลทราย",
+   "th": "ถ้ำทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionrocksandores",
+   "en": "Incursions",
+   "official": "การรุกราน",
+   "th": "อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crystals",
+   "en": "Crystals",
+   "official": "คริสตัล",
+   "th": "คริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "masonry",
+   "en": "Masonry",
+   "official": "อิฐ",
+   "th": "งานก่ออิฐ",
+   "status": "fixed",
+   "note": "แยกจาก Brick"
+  },
+  {
+   "key": "plants",
+   "en": "Plants",
+   "official": "พืช",
+   "th": "พืช",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tabledecorations",
+   "en": "Table Decorations",
+   "official": "ตกแต่งโต๊ะ",
+   "th": "ของตกแต่งโต๊ะ",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "wiring",
+   "en": "Wiring",
+   "official": "สายไฟ",
+   "th": "สายไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "logicgates",
+   "en": "Logic gates",
+   "official": "Logic gates",
+   "th": "ลอจิกเกต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "misc",
+   "en": "Miscellaneous",
+   "official": "ของจิปาถะ",
+   "th": "ของจิปาถะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mounts",
+   "en": "Mounts",
+   "official": "พาหนะ",
+   "th": "พาหนะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pets",
+   "en": "Pets",
+   "official": "สัตว์เลี้ยง",
+   "th": "สัตว์เลี้ยง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pouches",
+   "en": "Pouches",
+   "official": "กระเป๋า",
+   "th": "ถุง",
+   "status": "fixed",
+   "note": "pouch = ถุง"
+  },
+  {
+   "key": "vinyls",
+   "en": "Vinyls",
+   "official": "แผ่นเสียงไวนิล",
+   "th": "แผ่นเสียง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "questitems",
+   "en": "Quest items",
+   "official": "ไอเทมภารกิจ",
+   "th": "ไอเทมภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unknownitems",
+   "en": "<count> unknown items",
+   "official": "<count> ไม่ทราบไอเทม",
+   "th": "ไอเทมที่ไม่รู้จัก <count> ชิ้น",
+   "status": "fixed",
+   "note": "ลำดับคำผิด"
+  },
+  {
+   "key": "incursions",
+   "en": "Incursions",
+   "official": "การรุกราน",
+   "th": "อินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "tier1essences",
+   "en": "Tier 1 Essences",
+   "official": "",
+   "th": "แก่นแท้ระดับ 1",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tier2essences",
+   "en": "Tier 2 Essences",
+   "official": "",
+   "th": "แก่นแท้ระดับ 2",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tier3essences",
+   "en": "Tier 3 Essences",
+   "official": "",
+   "th": "แก่นแท้ระดับ 3",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "dustandshards",
+   "en": "Dust and Shards",
+   "official": "",
+   "th": "ผงและเศษ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "creative",
+   "en": "Creative mode items",
+   "official": "ไอเทมโหมดสร้างสรรค์",
+   "th": "ไอเทมโหมดสร้างสรรค์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobs",
+   "en": "Mobs",
+   "official": "สิ่งมีชีวิต",
+   "th": "มอนสเตอร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "passive",
+   "en": "Passive",
+   "official": "ไม่อันตราย",
+   "th": "ไม่ดุร้าย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "critters",
+   "en": "Critters",
+   "official": "สัตว์",
+   "th": "สัตว์เล็ก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "humans",
+   "en": "Humans",
+   "official": "มนุษย์",
+   "th": "มนุษย์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "husbandry",
+   "en": "Husbandry",
+   "official": "ปศุสัตว์",
+   "th": "ปศุสัตว์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hostile",
+   "en": "Hostile",
+   "official": "ไม่เป็นมิตร",
+   "th": "ไม่เป็นมิตร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raiders",
+   "en": "Raiders",
+   "official": "ผู้รุกราน",
+   "th": "ผู้รุกราน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bosses",
+   "en": "Bosses",
+   "official": "บอส",
+   "th": "บอส",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

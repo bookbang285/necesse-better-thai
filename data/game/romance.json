@@ -1,0 +1,5958 @@
+{
+ "category": "romance",
+ "entries": [
+  {
+   "key": "datingtooltip1",
+   "en": "You and <name> just started dating",
+   "official": "",
+   "th": "คุณกับ <name> เพิ่งเริ่มคบหากัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "datingtooltip2",
+   "en": "You and <name> are getting closer",
+   "official": "",
+   "th": "คุณกับ <name> เริ่มสนิทกันมากขึ้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "datingtooltip3",
+   "en": "You and <name> are very close",
+   "official": "",
+   "th": "คุณกับ <name> สนิทกันมาก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "datingtooltip4",
+   "en": "You and <name> are falling in love",
+   "official": "",
+   "th": "คุณกับ <name> กำลังตกหลุมรักกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "datingtooltip5",
+   "en": "You and <name> are in love",
+   "official": "",
+   "th": "คุณกับ <name> รักกันแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "datingtooltip6",
+   "en": "You and <name> are in a loving relationship",
+   "official": "",
+   "th": "คุณกับ <name> กำลังรักกันอยู่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "suggestdatingbutton",
+   "en": "Would you like a <item>, <settlername>?",
+   "official": "",
+   "th": "<settlername> อยากได้ <item> ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "startdatingbutton",
+   "en": "Give <settlername> <item> to start dating them",
+   "official": "",
+   "th": "ให้ <item> แก่ <settlername> เพื่อเริ่มคบหากัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "kiss",
+   "en": "Kiss :heart:",
+   "official": "",
+   "th": "จูบ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lifepartner",
+   "en": "Life Partner",
+   "official": "",
+   "th": "คู่ชีวิต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lifepartner_desc",
+   "en": "<settler> is receiving a happiness boost from being in a loving relationship with <partner>",
+   "official": "",
+   "th": "<settler> ได้รับความสุขเพิ่มขึ้นจากการได้รักกับ <partner>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warndating1",
+   "en": "You are **Life Partners** with another settler.",
+   "official": "",
+   "th": "คุณเป็น **คู่ชีวิต** กับชาวนิคมคนอื่นอยู่แล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warndating2",
+   "en": "If you start dating <settlername>, your existing **Life Partner** will be reset.",
+   "official": "",
+   "th": "ถ้าคุณเริ่มคบหากับ <settlername> **คู่ชีวิต** คนปัจจุบันของคุณจะถูกรีเซ็ต",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmdating1",
+   "en": "You are about to start dating <settlername>.",
+   "official": "",
+   "th": "คุณกำลังจะเริ่มคบหากับ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmdating2",
+   "en": "Advancing your relationship will eventually lead to you becoming **Life Partners** with them.",
+   "official": "",
+   "th": "เมื่อความสัมพันธ์ก้าวหน้าขึ้น สุดท้ายคุณจะได้เป็น **คู่ชีวิต** กัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmdating3",
+   "en": "You can only have one **Life Partner** at a time.",
+   "official": "",
+   "th": "คุณมี **คู่ชีวิต** ได้ครั้งละคนเดียวเท่านั้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmdating4",
+   "en": "Dating several settlers at the same time, does not give you any bonuses.",
+   "official": "",
+   "th": "การคบหาชาวนิคมหลายคนพร้อมกันจะไม่ได้โบนัสอะไรเพิ่ม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmbreakup1",
+   "en": "Are you sure you want to break up with <settlername>?",
+   "official": "",
+   "th": "แน่ใจไหมว่าจะเลิกกันกับ <settlername>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmbreakup2",
+   "en": "Your relationship will be completely reset and <settlername> will no longer be your **Life Partner**.",
+   "official": "",
+   "th": "ความสัมพันธ์ของคุณจะถูกรีเซ็ตทั้งหมด และ <settlername> จะไม่ใช่ **คู่ชีวิต** ของคุณอีกต่อไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmbreakup3",
+   "en": "After breaking up with <settlername> you can start a new relationship with someone else, if you'd like.",
+   "official": "",
+   "th": "หลังจากเลิกกันกับ <settlername> แล้ว คุณจะเริ่มความสัมพันธ์ใหม่กับคนอื่นก็ได้ถ้าต้องการ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmrelationship1",
+   "en": "You are about to become **Life Partners** with <settlername>.",
+   "official": "",
+   "th": "คุณกำลังจะเป็น **คู่ชีวิต** กับ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmrelationship2",
+   "en": "If you are dating any other settlers, their dating progress will be paused.",
+   "official": "",
+   "th": "ถ้าคุณคบหากับชาวนิคมคนอื่นอยู่ ความคืบหน้าการคบหาของพวกเขาจะหยุดไว้ก่อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmrelationship3",
+   "en": "If things don't work out between you and <settlername>, it is possible to break up.",
+   "official": "",
+   "th": "ถ้าคุณกับ <settlername> ไปกันไม่รอด ก็เลิกกันได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmrelationship4",
+   "en": "But I'm sure you guys are gonna be just fine :heart:",
+   "official": "",
+   "th": "แต่เชื่อเถอะว่าพวกคุณจะไปกันได้ดีแน่นอน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmrelationshipbutton",
+   "en": "Accept",
+   "official": "",
+   "th": "ตอบรับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "declinerelationshipbutton",
+   "en": "Decline",
+   "official": "",
+   "th": "ปฏิเสธ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "diedwhilegone",
+   "en": "Your previous relationship has ended because your partner died :(",
+   "official": "",
+   "th": "ความสัมพันธ์ก่อนหน้าของคุณจบลงแล้ว เพราะคู่ของคุณเสียชีวิต :(",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "brokenupwhilegone",
+   "en": "Your previous partner has broken up with you while you were away :(",
+   "official": "",
+   "th": "คู่ของคุณขอเลิกกันระหว่างที่คุณไม่อยู่ :(",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "brokenupplayer",
+   "en": "Your partner has broken up with you :(",
+   "official": "",
+   "th": "คู่ของคุณขอเลิกกันแล้ว :(",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "givebouquet",
+   "en": "Give <item>",
+   "official": "",
+   "th": "ให้ <item>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "playerdeclined",
+   "en": "<name> has declined being in a relationship with you",
+   "official": "",
+   "th": "<name> ปฏิเสธที่จะคบกับคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "playeraccepted",
+   "en": "You are now in a relationship with <name>! :heart:",
+   "official": "",
+   "th": "ตอนนี้คุณคบกับ <name> แล้ว! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "askedplayer",
+   "en": "<name> has asked you to be their **Life Partner**.",
+   "official": "",
+   "th": "<name> ขอให้คุณเป็น **คู่ชีวิต**",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "confirmplayer",
+   "en": "You are about to become **Life Partners** with <name>.",
+   "official": "",
+   "th": "คุณกำลังจะเป็น **คู่ชีวิต** กับ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warnplayer1",
+   "en": "You are already **Life Partners** with someone else.",
+   "official": "",
+   "th": "คุณเป็น **คู่ชีวิต** กับคนอื่นอยู่แล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "warnplayer2",
+   "en": "If you accept, your other relationship will end.",
+   "official": "",
+   "th": "ถ้าคุณตอบรับ ความสัมพันธ์อีกอันจะสิ้นสุดลง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "askplayeraccept",
+   "en": "Do you want to accept?",
+   "official": "",
+   "th": "ต้องการตอบรับไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "servepapers",
+   "en": "Serve <item>",
+   "official": "",
+   "th": "ยื่น <item>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "youhavebroken",
+   "en": "You have broken up with <name>",
+   "official": "",
+   "th": "คุณเลิกกับ <name> แล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_suggestdating1",
+   "en": "Say is that a <item> for good ol' <settlername>? :heart:",
+   "official": "",
+   "th": "เอ๊ะ นั่น <item> เอามาให้ <settlername> คนนี้เหรอ? :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_suggestdating2",
+   "en": "Why that's mighty fine of you <name>. Ahh but darn it <name>, I didn't get you nothin",
+   "official": "",
+   "th": "ใจดีจริง ๆ เลยนะ <name> โธ่ แต่ <name> ฉันไม่ได้เตรียมอะไรมาให้เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_suggestdating3",
+   "en": "Thank ya though!",
+   "official": "",
+   "th": "แต่ก็ขอบใจนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinedatingbutton",
+   "en": "Sorry, keeping this!",
+   "official": "",
+   "th": "ขอโทษนะ อันนี้ขอเก็บไว้เอง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_starteddatingchat",
+   "en": "Say <name>, I reckon I might need ya help later. So drop by, will ya?",
+   "official": "",
+   "th": "นี่ <name> ท่าทางเดี๋ยวฉันคงต้องขอให้ช่วยหน่อย แวะมาหาบ้างนะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declineddatingchat",
+   "en": "But I like flowers...",
+   "official": "",
+   "th": "แต่ฉันชอบดอกไม้นะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobject1",
+   "en": "Well if it ain't <name> with the pretty flowers! :heart:",
+   "official": "",
+   "th": "โอ้ <name> มาพร้อมดอกไม้สวย ๆ นี่นา! :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น (นี่ซ้ำ)"
+  },
+  {
+   "key": "honestfarmer1_placeobject2",
+   "en": "Say... Your nifty hands with them flowers got me thinkin",
+   "official": "",
+   "th": "นี่... เห็นคุณมือคล่องกับดอกไม้แบบนี้ ฉันเลยนึกอะไรออก",
+   "status": "new",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "honestfarmer1_placeobject3",
+   "en": "You think you can help me plant some <object>?",
+   "official": "",
+   "th": "ช่วยฉันปลูก <object> หน่อยได้ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobject4",
+   "en": "Pop used to show me how it's done, but I wasn't much one for payin attention to such things",
+   "official": "",
+   "th": "พ่อเคยสอนวิธีทำให้ดูแล้ว แต่ฉันไม่ค่อยตั้งใจฟังเรื่องพวกนี้เท่าไร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_acceptplaceobjectbutton",
+   "en": "You got it <settlername>!",
+   "official": "",
+   "th": "ได้เลย <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_declineplaceobjectbutton",
+   "en": "Sorry, can't right now <settlername>",
+   "official": "",
+   "th": "ขอโทษนะ ตอนนี้ยังไม่ว่าง <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobjectacceptedchat1",
+   "en": "Alrighty <name>, first up, we need <farmland>",
+   "official": "",
+   "th": "โอเค <name> อย่างแรกเราต้องมี <farmland>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobjectacceptedchat2",
+   "en": "We can craft that at the <workstation>",
+   "official": "",
+   "th": "ประดิษฐ์ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobjectacceptedchat3",
+   "en": "And then ya gotta find some <object> somewhere",
+   "official": "",
+   "th": "แล้วก็ต้องไปหา <object> มาจากที่ไหนสักแห่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_placeobjectacceptedchat4",
+   "en": "I reckon a <farmer> might sell em, or maybe we can look in the **Caves**?",
+   "official": "",
+   "th": "ฉันว่า <farmer> น่าจะขายอยู่นะ หรือไม่ก็ลองไปหาใน**ถ้ำ**ดีไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_craftandplaceobjecttip1",
+   "en": "We need some <farmland> <name>, I think you make it at the <workstation>",
+   "official": "",
+   "th": "เราต้องมี <farmland> นะ <name> ฉันว่าทำได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_craftandplaceobjecttip2",
+   "en": "And then ya gotta find some <object> somewhere",
+   "official": "",
+   "th": "แล้วก็ต้องไปหา <object> มาจากที่ไหนสักแห่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_craftandplaceobjecttip3",
+   "en": "I think a Farmer might sell em? Or maybe we can find em in some **Caves**?",
+   "official": "",
+   "th": "ชาวนาอาจจะขายอยู่นะ? หรือไม่ก็อาจเจอใน**ถ้ำ**สักแห่ง?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_craftandplaceobjecttip4",
+   "en": "When you're ready to plant, make sure I'm in your Adventure Party so I can see how its done!",
+   "official": "",
+   "th": "ตอนจะปลูก อย่าลืมพาฉันเข้าปาร์ตี้ผจญภัยด้วยนะ ฉันจะได้ดูว่าทำยังไง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplacedchat1",
+   "en": "Wha..! You just stick it in the ground!?",
+   "official": "",
+   "th": "ห๊ะ..! แค่จิ้มลงดินเฉย ๆ เองเหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplacedchat2",
+   "en": "That's all there is to it? Well color me impressed <name>!",
+   "official": "",
+   "th": "แค่นั้นเองเหรอ? โอ้โห ทึ่งเลยนะเนี่ย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplacedoutsidesettlementchat",
+   "en": "How bout we plant the <object> in our settlement instead <name>?",
+   "official": "",
+   "th": "เราไปปลูก <object> ในนิคมของเราแทนดีไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplaced1",
+   "en": "Who's got two green thumbs and an awestruck buddy?",
+   "official": "",
+   "th": "ใครกันนะที่ปลูกต้นไม้เก่งสุด ๆ แถมมีเพื่อนที่ทึ่งจนอ้าปากค้าง?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplaced2",
+   "en": "You <name>! You got that! :heart:",
+   "official": "",
+   "th": "คุณไง <name>! คุณนั่นแหละ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplaced3",
+   "en": "Well I gotta tip my hat to you, that was some mighty fine work",
+   "official": "",
+   "th": "ต้องขอยกหมวกให้เลย ฝีมือยอดเยี่ยมจริง ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_objectplaced4",
+   "en": "Ain't a lot of people around that wanna teach me the simple stuff, so I thank ya for it <name> :heart:",
+   "official": "",
+   "th": "แถวนี้ไม่ค่อยมีใครอยากสอนเรื่องง่าย ๆ ให้ฉันหรอก ขอบใจมากนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_completeobjectplacedbutton",
+   "en": "I got ya buddy :heart:",
+   "official": "",
+   "th": "มีอะไรบอกได้เลยเพื่อน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_completeobjectplacedchat1",
+   "en": "Heh, can't believe you just stuck it right in the ground!",
+   "official": "",
+   "th": "เฮะ ไม่อยากเชื่อเลยว่าแค่จิ้มลงดินไปตรง ๆ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_completeobjectplacedchat2",
+   "en": "So that's gonna turn into bread in a couple of days huh?",
+   "official": "",
+   "th": "แล้วอีกสองสามวันมันก็จะกลายเป็นขนมปังใช่ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_placeobject1",
+   "en": "Top of the day to ya <name>! :heart:",
+   "official": "",
+   "th": "สวัสดียามเช้านะ <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_placeobject2",
+   "en": "I been wonderin if you would lend me a hand once more my friend",
+   "official": "",
+   "th": "ฉันสงสัยว่าคุณจะช่วยฉันอีกสักครั้งได้ไหมนะ เพื่อนรัก",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer2_placeobject3",
+   "en": "Growing up on the farm back home, my pop always wanted a <object>!",
+   "official": "",
+   "th": "ตอนเด็ก ๆ ที่ฟาร์มบ้านเกิด พ่อฉันอยากได้ <object> มาตลอดเลย!",
+   "status": "new",
+   "note": "ตอนโต = แปลแข็ง"
+  },
+  {
+   "key": "honestfarmer2_placeobject4",
+   "en": "What'd ya say <name>? Think we can make that ol' dream come true?",
+   "official": "",
+   "th": "ว่าไง <name>? คิดว่าเราจะทำความฝันเก่านั่นให้เป็นจริงได้ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_acceptplaceobjectbutton",
+   "en": "Let's get cracking <settlername>!",
+   "official": "",
+   "th": "ลุยกันเลย <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_declineplaceobjectbutton",
+   "en": "Ain't got time for that right now <settlername>.",
+   "official": "",
+   "th": "ตอนนี้ไม่มีเวลาทำหรอก <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_placeobjectacceptedchat1",
+   "en": "That's amazin <name>!",
+   "official": "",
+   "th": "สุดยอดไปเลย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_placeobjectacceptedchat2",
+   "en": "You can make a <object> at the <workstation>",
+   "official": "",
+   "th": "คุณทำ <object> ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_placeobjectacceptedchat3",
+   "en": "Then you just pop it down wherever! But make sure I'm there to see it!",
+   "official": "",
+   "th": "แล้วก็วางไว้ตรงไหนก็ได้เลย! แต่ต้องให้ฉันอยู่ดูด้วยนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_craftandplaceobjecttip1",
+   "en": "<name>! I believe ya can make a <object> at the <workstation>",
+   "official": "",
+   "th": "<name>! ฉันว่าคุณทำ <object> ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_craftandplaceobjecttip2",
+   "en": "Then you just pop it down wherever! But Make sure I'm there to see it!",
+   "official": "",
+   "th": "แล้วก็วางไว้ตรงไหนก็ได้เลย! แต่ต้องให้ฉันอยู่ดูด้วยนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_craftandplaceobjecttip3",
+   "en": "And remember <name>, I gotta be in your Adventure Party when you place it",
+   "official": "",
+   "th": "แล้วอย่าลืมนะ <name> ตอนวาง ฉันต้องอยู่ในปาร์ตี้ผจญภัยของคุณด้วย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectcraftedchat",
+   "en": "Now that's a good lookin <object> <name>!",
+   "official": "",
+   "th": "<object> นั่นดูดีมากเลย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplacedchat1",
+   "en": "You've done it once again <name>!",
+   "official": "",
+   "th": "คุณทำได้อีกแล้ว <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplacedchat2",
+   "en": "My pop would shed tear if he could see this :heart:",
+   "official": "",
+   "th": "ถ้าพ่อได้เห็นคงน้ำตาไหลแน่ ๆ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplacedoutsidesettlementchat",
+   "en": "We gotta place the <object> in our settlement <name>!",
+   "official": "",
+   "th": "เราต้องวาง <object> ในนิคมของเรานะ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplaced1",
+   "en": "My pop would be mighty proud of the fine work we're doing here",
+   "official": "",
+   "th": "พ่อคงภูมิใจมากที่เห็นเราทำงานดี ๆ แบบนี้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplaced2",
+   "en": "I bet ya he's real sorry he kicked me off the farm a while back. But that's family! Right <name>?",
+   "official": "",
+   "th": "พนันเลยว่าตอนนี้พ่อคงเสียใจที่ไล่ฉันออกจากฟาร์มเมื่อก่อน แต่ครอบครัวก็แบบนี้แหละ! ใช่ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_objectplaced3",
+   "en": "Heh, I reckon I just wanted to say thanks for taking me in, I really like it here at our settlement :heart:",
+   "official": "",
+   "th": "เฮะ ฉันแค่อยากขอบคุณที่รับฉันไว้ ฉันชอบนิคมของเรามากเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_completeobjectplacedbutton",
+   "en": "My home is your home <settlername> :heart:",
+   "official": "",
+   "th": "บ้านของฉันก็คือบ้านของคุณนะ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_completeobjectplacedchat1",
+   "en": "Awh... <name> :heart:",
+   "official": "",
+   "th": "แหม... <name> :heart:",
+   "status": "new",
+   "note": "Awh = ซึ้ง ไม่ใช่ตกใจ"
+  },
+  {
+   "key": "honestfarmer2_completeobjectplacedchat2",
+   "en": "Now you've gone and made me all teary eyed :heart:",
+   "official": "",
+   "th": "ดูสิ ทำฉันน้ำตาคลอเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimal1",
+   "en": "Say <name>... I've been wonderin",
+   "official": "",
+   "th": "นี่ <name>... ฉันสงสัยอะไรอยู่อย่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimal2",
+   "en": "What's the point in having a sun when you already light up my day, huh?",
+   "official": "",
+   "th": "จะมีดวงอาทิตย์ไว้ทำไม ในเมื่อคุณก็ทำให้วันของฉันสดใสอยู่แล้ว ใช่ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimal3",
+   "en": "Eh, just messin with ya, you are pretty great though... :heart:",
+   "official": "",
+   "th": "เอ๊ย แค่แซวเล่นน่ะ แต่คุณก็เจ๋งจริง ๆ นะ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimal4",
+   "en": "But enough flirtin! Time to capture a wild <mob>!",
+   "official": "",
+   "th": "เลิกหยอดกันได้แล้ว! ถึงเวลาจับ <mob> ป่าแล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_acceptcaptureanimalbutton",
+   "en": "Heh, thanks <settlername> and sure?",
+   "official": "",
+   "th": "เฮะ ขอบใจนะ <settlername> ได้สิ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinecaptureanimalbutton",
+   "en": "Don't have time for that right now",
+   "official": "",
+   "th": "ตอนนี้ไม่มีเวลาทำหรอก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalacceptedchat1",
+   "en": "Good enough! We're huntin a wild <mob>",
+   "official": "",
+   "th": "ดีเลย! เราจะไปล่า <mob> ป่ากัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalacceptedchat2",
+   "en": "I tried capturin one over at the <location>",
+   "official": "",
+   "th": "ฉันเคยลองจับตัวหนึ่งแถว <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalacceptedchat3",
+   "en": "But heh, silly me forgot to bring <rope>!",
+   "official": "",
+   "th": "แต่เฮะ ฉันมันซื่อบื้อ ลืมเอา <rope> ไปด้วย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimaltip1",
+   "en": "We're lookin for a wild <mob> at the <location> <name>",
+   "official": "",
+   "th": "เรากำลังหา <mob> ป่าแถว <location> นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimaltip2",
+   "en": "Make sure you bring some <rope>, else we won't be able to catch it!",
+   "official": "",
+   "th": "อย่าลืมเอา <rope> ไปด้วยล่ะ ไม่งั้นจับไม่ได้แน่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimaltip3",
+   "en": "And bring me with you in your Adventure Party, I clearly need a professional to see how it's done, hah!",
+   "official": "",
+   "th": "แล้วพาฉันเข้าปาร์ตี้ผจญภัยไปด้วยนะ ฉันต้องให้มืออาชีพทำให้ดูสักหน่อยแล้ว ฮ่า!",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_capturedwronganimalchat",
+   "en": "That ain't no <mob> <name>! Remember we can find a <mob> at the <location>",
+   "official": "",
+   "th": "นั่นไม่ใช่ <mob> นะ <name>! จำไว้ว่า <mob> อยู่แถว <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturedcorrectanimalchat1",
+   "en": "Well I'll be damned. You make it look easy <name>!",
+   "official": "",
+   "th": "โอ้โห ให้ตายสิ คุณทำดูง่ายไปหมดเลย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturedcorrectanimalchat2",
+   "en": "Let's bring that cutie back home to the settlement!",
+   "official": "",
+   "th": "พาเจ้าตัวน่ารักนี่กลับบ้านที่นิคมกันเถอะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_releasedanimalinsettlementchat",
+   "en": "Good job <name>! Looks like it'll fit right in :heart:",
+   "official": "",
+   "th": "เยี่ยมมาก <name>! ดูท่ามันจะเข้ากับที่นี่ได้ดีเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_releasedanimalelsewherechat",
+   "en": "Wha! We can't just leave the <mob> here <name>! We gotta bring it back to the settlement!",
+   "official": "",
+   "th": "ห๊ะ! เราจะทิ้ง <mob> ไว้ตรงนี้ไม่ได้นะ <name>! ต้องพากลับไปที่นิคม!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcomplete1",
+   "en": "You can just do it all, huh <name>?",
+   "official": "",
+   "th": "คุณทำได้ทุกอย่างเลยใช่ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcomplete2",
+   "en": "My pop would've like having you around",
+   "official": "",
+   "th": "พ่อฉันคงชอบถ้ามีคุณอยู่ด้วย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcomplete3",
+   "en": "He wasn't a big fan of me though. I didn't even know how to rope a <mob>...",
+   "official": "",
+   "th": "แต่พ่อไม่ค่อยชอบฉันเท่าไร ฉันยังคล้องเชือก <mob> ไม่เป็นเลย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcomplete4",
+   "en": "Guess that's why he sent me away huh...",
+   "official": "",
+   "th": "คงเพราะแบบนั้นพ่อถึงส่งฉันไปสินะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcompletebutton",
+   "en": "Your dad clearly made a mistake <settlername>, you're amazing! :heart:",
+   "official": "",
+   "th": "พ่อของคุณคิดผิดแล้วล่ะ <settlername> คุณสุดยอดจะตาย! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcompletechat1",
+   "en": "There you go being all sweet on me again <name> :heart:",
+   "official": "",
+   "th": "มาพูดหวาน ๆ ใส่ฉันอีกแล้วนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_captureanimalcompletechat2",
+   "en": "I'm startin to feel real lucky that I met you... :heart:",
+   "official": "",
+   "th": "ฉันเริ่มรู้สึกโชคดีจริง ๆ ที่ได้เจอคุณ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritter1",
+   "en": "My favourite person! <name>! :heart:",
+   "official": "",
+   "th": "คนโปรดของฉัน! <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritter2",
+   "en": "You know what I used to do as a kid? Catch butterflies!",
+   "official": "",
+   "th": "รู้ไหมตอนเด็ก ๆ ฉันชอบทำอะไร? จับผีเสื้อไง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritter3",
+   "en": "Sadly never caught a rare <mob>",
+   "official": "",
+   "th": "น่าเสียดายที่ไม่เคยจับ <mob> หายากได้เลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritter4",
+   "en": "But I feel like you're my lucky charm <name>, ye wanna help me out?",
+   "official": "",
+   "th": "แต่ฉันรู้สึกว่าคุณคือเครื่องรางนำโชคของฉันนะ <name> ช่วยฉันหน่อยไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_acceptcapturecritterbutton",
+   "en": "Let's do it <settlername>! I'll bring my <net>!",
+   "official": "",
+   "th": "ไปกันเลย <settlername>! เดี๋ยวเอา <net> ไปด้วย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinecapturecritterbutton",
+   "en": "Not right now",
+   "official": "",
+   "th": "ตอนนี้ยังไม่ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritteracceptedchat1",
+   "en": "It's a date <name>! :heart:",
+   "official": "",
+   "th": "นัดกันแล้วนะ <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecritteracceptedchat2",
+   "en": "I think we can find a <mob> in the <location>",
+   "official": "",
+   "th": "ฉันว่าน่าจะเจอ <mob> ได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecrittertip1",
+   "en": "The <mob> has been eluding me for too long <name>!",
+   "official": "",
+   "th": "<mob> หลบหนีฉันมานานเกินไปแล้ว <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecrittertip2",
+   "en": "I think we can find it in the <location>",
+   "official": "",
+   "th": "ฉันว่าน่าจะเจอมันได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturecrittertip3",
+   "en": "And when it least expects it, you snatch it with your <net> <name>!",
+   "official": "",
+   "th": "แล้วตอนที่มันไม่ทันระวังตัว คุณก็ตะครุบมันด้วย <net> เลยนะ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturedwrongcritterchat1",
+   "en": "That ain't the butterfly we're looking for <name>!",
+   "official": "",
+   "th": "นั่นไม่ใช่ผีเสื้อที่เราตามหานะ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturedwrongcritterchat2",
+   "en": "We want a <mob>. We can find it in the <location>",
+   "official": "",
+   "th": "เราอยากได้ <mob> ซึ่งหาได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_capturedcorrectcritterchat",
+   "en": "Eyy! You got it? Hot damn! Can I see it <name>?",
+   "official": "",
+   "th": "เฮ้! จับได้แล้วเหรอ? โอ้โห! ขอดูหน่อยได้ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcritter1",
+   "en": "Pinch me <name>! Surely this is a dream...",
+   "official": "",
+   "th": "หยิกฉันที <name>! นี่ต้องเป็นความฝันแน่ ๆ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcritter2",
+   "en": "Did you actually just catch a <mob>?",
+   "official": "",
+   "th": "นี่คุณจับ <mob> ได้จริง ๆ เหรอเนี่ย?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcritter3",
+   "en": "That's amazing <name>! You're amazing! :heart:",
+   "official": "",
+   "th": "สุดยอดเลย <name>! คุณสุดยอดมาก! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcritter4",
+   "en": "Anything seems possible with you...",
+   "official": "",
+   "th": "อยู่กับคุณแล้วรู้สึกเหมือนทุกอย่างเป็นไปได้หมด...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_completeshowcritter",
+   "en": "Awh... <settlername> :heart:",
+   "official": "",
+   "th": "แหม... <settlername> :heart:",
+   "status": "new",
+   "note": "Awh = ซึ้ง ไม่ใช่ตกใจ"
+  },
+  {
+   "key": "honestfarmer_showcrittercompletedchat1",
+   "en": "It's the truth <name>! :heart:",
+   "official": "",
+   "th": "เรื่องจริงนะ <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcrittercompletedchat2",
+   "en": "Hey... You know what <name>? I haven't thought about me pop once today",
+   "official": "",
+   "th": "นี่... รู้อะไรไหม <name>? วันนี้ฉันไม่ได้นึกถึงพ่อเลยสักครั้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_showcrittercompletedchat3",
+   "en": "Ain't that something...",
+   "official": "",
+   "th": "แปลกดีเนอะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiome1",
+   "en": "Let me bend ya ear for a second, yeah <name>?",
+   "official": "",
+   "th": "ขอคุยด้วยแป๊บนึงได้ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiome2",
+   "en": "It's always been a lifelong dream of mine to visit one of them big **Villages** out in the world",
+   "official": "",
+   "th": "ฉันฝันมาตลอดชีวิตเลยว่าอยากไปเที่ยว**หมู่บ้าน**ใหญ่ ๆ สักแห่งในโลกนี้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiome3",
+   "en": "And lately, you've been makin a lot of my dreams come true <name>... :heart:",
+   "official": "",
+   "th": "แล้วช่วงนี้คุณก็ทำให้ความฝันของฉันเป็นจริงไปหลายอย่างเลยนะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiome4",
+   "en": "So what'd ya say?",
+   "official": "",
+   "th": "ว่าไงล่ะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_acceptvisitbiomebutton",
+   "en": "Let's make that dream a reality <settlername> :heart:",
+   "official": "",
+   "th": "มาทำความฝันนั้นให้เป็นจริงกันเถอะ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinevisitbiomebutton",
+   "en": "We'll do it later, okay <settlername>?",
+   "official": "",
+   "th": "ไว้ทีหลังนะ <settlername>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomeacceptedchat1",
+   "en": "I knew I could count on ya <name> :heart:",
+   "official": "",
+   "th": "รู้อยู่แล้วว่าพึ่งคุณได้ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomeacceptedchat2",
+   "en": "Any **Village** will do!",
+   "official": "",
+   "th": "**หมู่บ้าน**ไหนก็ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomeacceptedchat3",
+   "en": "Remember you can craft a <map> at the <workstation>",
+   "official": "",
+   "th": "อย่าลืมว่าคุณประดิษฐ์ <map> ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiometip1",
+   "en": "I can't wait to see the big city <name>!",
+   "official": "",
+   "th": "อยากเห็นเมืองใหญ่จะแย่แล้ว <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiometip2",
+   "en": "In case you don't know any nearby **Villages**...",
+   "official": "",
+   "th": "ถ้าคุณไม่รู้ว่ามี**หมู่บ้าน**อยู่แถวไหน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiometip3",
+   "en": "Then you can craft a <map> at the <workstation>",
+   "official": "",
+   "th": "ก็ประดิษฐ์ <map> ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiometip4",
+   "en": "When we're at the **Village**, it'd be nice for us to sit down somewhere and talk... :heart:",
+   "official": "",
+   "th": "พอไปถึง**หมู่บ้าน**แล้ว เราหาที่นั่งคุยกันสักหน่อยก็คงดี... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomelocationfound1",
+   "en": "Woah! So this is a **Village** huh?",
+   "official": "",
+   "th": "ว้าว! นี่น่ะเหรอ**หมู่บ้าน**?",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_visitbiomelocationfound2",
+   "en": "I thought it'd be bigger. Our settlement is way cooler, huh <name>?",
+   "official": "",
+   "th": "นึกว่าจะใหญ่กว่านี้ นิคมของเราเจ๋งกว่าเยอะเลยใช่ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomelocationfound3",
+   "en": "Hey, let's sit down somewhere, I gotta talk to you bout something...",
+   "official": "",
+   "th": "นี่ หาที่นั่งกันเถอะ ฉันมีเรื่องจะคุยด้วย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomesittingdownchat1",
+   "en": "Yeah, this is nice <name> :heart:",
+   "official": "",
+   "th": "อืม ตรงนี้ดีจัง <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomesittingdownchat2",
+   "en": "So yeah... I've been meanin to tell you something...",
+   "official": "",
+   "th": "คือว่า... ฉันตั้งใจจะบอกอะไรคุณมานานแล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomesittingdownchat3",
+   "en": "So here goes...",
+   "official": "",
+   "th": "งั้นพูดเลยนะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleted1",
+   "en": "I think you're gorgeous, amazing and heckin' fine to be honest with ya <name>! :heart:",
+   "official": "",
+   "th": "พูดตรง ๆ นะ <name> ฉันว่าคุณทั้งสวยทั้งหล่อ สุดยอด แล้วก็เลิศไปหมดเลย! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleted2",
+   "en": "You're awesome at farmin, craftin and catchin rare butterflies!",
+   "official": "",
+   "th": "คุณเก่งทั้งทำฟาร์ม ประดิษฐ์ของ แล้วก็จับผีเสื้อหายาก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleted3",
+   "en": "And I think it's pretty magical that I get to spend all this time with ya... :heart:",
+   "official": "",
+   "th": "แล้วฉันก็ว่ามันมหัศจรรย์มากที่ได้ใช้เวลาทั้งหมดนี้กับคุณ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleted4",
+   "en": "Ehem... What I mean to say <name>. I love ya, alright? :heart:",
+   "official": "",
+   "th": "อะแฮ่ม... ที่ฉันจะพูดก็คือ <name> ฉันรักคุณนะ โอเคไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleted5",
+   "en": "Do ya reckon you love me too..?",
+   "official": "",
+   "th": "แล้วคุณล่ะ รักฉันเหมือนกันไหม..?",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_visitbiomecompletedacceptbutton",
+   "en": "I love ya too <settlername> :heart:",
+   "official": "",
+   "th": "ฉันก็รักคุณนะ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleteddeclinebutton",
+   "en": "<settlername>... Sorry, but I don't love ya...",
+   "official": "",
+   "th": "<settlername>... ขอโทษนะ แต่ฉันไม่ได้รักคุณ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompletedacceptedchat1",
+   "en": "WOOOOOOOOO! :heart:",
+   "official": "",
+   "th": "เย้~~~~~~~! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompletedacceptedchat2",
+   "en": "Sorry, just had to get that out <name> :heart:",
+   "official": "",
+   "th": "โทษที ต้องปล่อยออกมาหน่อยน่ะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompletedacceptedchat3",
+   "en": "I just can't believe I get to live out all my dreams with you... :heart:",
+   "official": "",
+   "th": "ไม่อยากเชื่อเลยว่าจะได้ทำทุกความฝันไปพร้อมกับคุณ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleteddeclinedchat1",
+   "en": "You... You don't..?",
+   "official": "",
+   "th": "คุณ... คุณไม่ได้รัก..?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_visitbiomecompleteddeclinedchat2",
+   "en": "Well... I hope you change you mind someday <name>...",
+   "official": "",
+   "th": "ก็... หวังว่าสักวันคุณจะเปลี่ยนใจนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_suggestbreakupbutton",
+   "en": "<settlername>... We need to talk",
+   "official": "",
+   "th": "<settlername>... เราต้องคุยกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_suggestbreakup1",
+   "en": "<name> :heart:",
+   "official": "",
+   "th": "<name> :heart:",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_suggestbreakup2",
+   "en": "What's on ya mind me love?",
+   "official": "",
+   "th": "คิดอะไรอยู่เหรอที่รัก?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinebreakupbutton",
+   "en": "Silly me, I forgot. Love ya <settlername> :heart:",
+   "official": "",
+   "th": "ฉันนี่ขี้ลืมจริง ๆ ลืมไปแล้วว่าจะพูดอะไร รักนะ <settlername> :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_acceptedbreakupchat1",
+   "en": "What ya mean it's not you? Or me?",
+   "official": "",
+   "th": "หมายความว่าไงที่ว่าไม่ใช่เพราะคุณ? หรือเพราะฉัน?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_acceptedbreakupchat2",
+   "en": "Wait a second... Are ya breakin up with me!?",
+   "official": "",
+   "th": "เดี๋ยวก่อนนะ... นี่คุณจะเลิกกับฉันเหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_acceptedbreakupchat3",
+   "en": "<name> this is gonna tear me apart!",
+   "official": "",
+   "th": "<name> แบบนี้ใจฉันแหลกสลายแน่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinedbreakupchat1",
+   "en": "Ya ain't silly me love... :heart:",
+   "official": "",
+   "th": "คุณไม่ได้ขี้ลืมหรอกที่รัก... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_declinedbreakupchat2",
+   "en": "I forget things all the time too!",
+   "official": "",
+   "th": "ฉันเองก็ลืมโน่นลืมนี่ตลอดเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_relationshipchat1",
+   "en": "Ey good lookin! :heart:",
+   "official": "",
+   "th": "เฮ้ คนหน้าตาดี! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer1_relationshipchat2",
+   "en": "What'd ya say you and I run away for a little while today huh? :heart:",
+   "official": "",
+   "th": "วันนี้เราสองคนแอบหนีไปเที่ยวกันสักพักดีไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_relationshipchat1",
+   "en": "<name>! You should've seen the Butterfly I caught today!",
+   "official": "",
+   "th": "<name>! คุณน่าจะได้เห็นผีเสื้อที่ฉันจับได้วันนี้นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer2_relationshipchat2",
+   "en": "It was truly majestic. Just like you :heart:",
+   "official": "",
+   "th": "มันสง่างามสุด ๆ เหมือนคุณเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer3_relationshipchat1",
+   "en": "22... 23... 24!",
+   "official": "",
+   "th": "22... 23... 24!",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer3_relationshipchat2",
+   "en": "24 clouds in the sky right now <name>!",
+   "official": "",
+   "th": "ตอนนี้บนฟ้ามีเมฆ 24 ก้อนแน่ะ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer3_relationshipchat3",
+   "en": "They are all mighty pretty",
+   "official": "",
+   "th": "สวยทุกก้อนเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer3_relationshipchat4",
+   "en": "They ain't got nothin on you though, my love :heart:",
+   "official": "",
+   "th": "แต่ก็สู้คุณไม่ได้หรอกนะที่รัก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_relationshipnight1",
+   "en": "Woah, looks like the sun is still out huh",
+   "official": "",
+   "th": "โอ้โห ดูเหมือนพระอาทิตย์ยังไม่ตกเลยนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_relationshipnight2",
+   "en": "Is that why you woke me up <name>? To light up my night with your smile? :heart:",
+   "official": "",
+   "th": "คุณปลุกฉันเพราะแบบนี้เหรอ <name>? จะเอารอยยิ้มมาทำให้คืนของฉันสว่างใช่ไหม? :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_relationshipnight3",
+   "en": "Come to bed and let's cuddle, will ya <name>? :heart:",
+   "official": "",
+   "th": "มานอนกอดกันเถอะนะ <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_evilsprotector1",
+   "en": "Did I hear that you gave the <mob> a beating <name>?",
+   "official": "",
+   "th": "ได้ยินว่าคุณจัดการ <mob> ซะน่วมเลยเหรอ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_evilsprotector2",
+   "en": "I reckon that'd make you the Protector of Good",
+   "official": "",
+   "th": "งั้นคุณก็เป็นผู้ปกครองความดีสินะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_evilsprotector3",
+   "en": "Goodness Protector? I dunno, but I'm mighty proud of you! :heart:",
+   "official": "",
+   "th": "ผู้ปกครองความดีงาม? ไม่รู้สิ แต่ฉันภูมิใจในตัวคุณมากเลย! :heart:",
+   "status": "new",
+   "note": "มุกต่อจากบรรทัดก่อนต้องใช้คำเดียวกัน"
+  },
+  {
+   "key": "honestfarmer_queenspider1",
+   "en": "That <mob> is scary <name>!",
+   "official": "",
+   "th": "<mob> นั่นน่ากลัวจะตาย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_queenspider2",
+   "en": "I'm glad you set her straight",
+   "official": "",
+   "th": "ดีใจที่คุณจัดการนางซะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_queenspider3",
+   "en": "Personally I don't trust anything with more than 2 legs. Or well, 4 legs",
+   "official": "",
+   "th": "ส่วนตัวฉันไม่ไว้ใจอะไรที่มีขาเกิน 2 ขา เอ่อ ไม่สิ 4 ขา",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "honestfarmer_queenspider4",
+   "en": "Cause I do trust me <cow>! Heh! :heart:",
+   "official": "",
+   "th": "เพราะฉันไว้ใจ <cow> ของฉันไง! เฮะ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ancientvulture1",
+   "en": "Giant bats, giant spiders and now giant birds!",
+   "official": "",
+   "th": "ค้างคาวยักษ์ แมงมุมยักษ์ แล้วตอนนี้ก็นกยักษ์!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ancientvulture2",
+   "en": "I gotta ask <name>. After taking down the <mob>",
+   "official": "",
+   "th": "ขอถามหน่อยนะ <name> หลังจากล้ม <mob> ได้แล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ancientvulture3",
+   "en": "Do you maybe feel like the big creatures are out to get ya? :heart:",
+   "official": "",
+   "th": "คุณรู้สึกไหมว่าพวกตัวใหญ่ ๆ ตามล่าคุณอยู่? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_pestwarden1",
+   "en": "So I hear you defeated the <mob> <name>!",
+   "official": "",
+   "th": "ได้ยินว่าคุณเอาชนะ <mob> ได้แล้วเหรอ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_pestwarden2",
+   "en": "I always thought it a strange creature...",
+   "official": "",
+   "th": "ฉันว่ามันเป็นตัวประหลาดมาตลอดเลยนะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_pestwarden3",
+   "en": "I mean... It's basically just a big green sausage!",
+   "official": "",
+   "th": "คือ... มันก็แค่ไส้กรอกเขียวตัวใหญ่ดี ๆ นี่เอง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_fallenwizard1",
+   "en": "So you're tellin me that the <mob1>...",
+   "official": "",
+   "th": "จะบอกว่า <mob1>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_fallenwizard2",
+   "en": "Came back to fight you again as the <mob2>?",
+   "official": "",
+   "th": "กลับมาสู้กับคุณอีกครั้งในร่าง <mob2> งั้นเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_fallenwizard3",
+   "en": "And you beat him... Again?",
+   "official": "",
+   "th": "แล้วคุณก็ชนะมัน... อีกแล้ว?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_fallenwizard4",
+   "en": "HAH! Sucks to be him! You rock <name> :heart:",
+   "official": "",
+   "th": "ฮ่า! สมน้ำหน้ามัน! คุณเจ๋งสุด ๆ เลย <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ascendedwizard1",
+   "en": "Wait, wait, wait... He came back to fight you, AGAIN?",
+   "official": "",
+   "th": "เดี๋ยว ๆ ๆ... มันกลับมาสู้กับคุณอีกแล้ว?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ascendedwizard2",
+   "en": "But this time he was an <mob>?",
+   "official": "",
+   "th": "แต่คราวนี้มันเป็น <mob> งั้นเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ascendedwizard3",
+   "en": "Who turned into the dark endless void?",
+   "official": "",
+   "th": "แล้วกลายร่างเป็นความมืดไร้ที่สิ้นสุดด้วย?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_ascendedwizard4",
+   "en": "And you still beat him? Man this guy can't catch a break",
+   "official": "",
+   "th": "แล้วคุณก็ยังชนะมันได้อีก? ให้ตายสิ หมอนี่ดวงซวยจริง ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_kisschat1",
+   "en": "A dream come true, ya are <name> :heart:",
+   "official": "",
+   "th": "คุณคือความฝันที่เป็นจริงของฉันเลยนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_kisschat2",
+   "en": "Mhmm! That's a good kiss! :heart:",
+   "official": "",
+   "th": "อื้มม! จูบนี้ดีมาก! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_kisschat3",
+   "en": "Love ya <name> :heart:",
+   "official": "",
+   "th": "รักนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftfood1",
+   "en": "Would ya believe it if I told you I've been spendin some time in the kitchen <name>?",
+   "official": "",
+   "th": "จะเชื่อไหมถ้าบอกว่าช่วงนี้ฉันเข้าครัวบ่อยเลยนะ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftfood2",
+   "en": "Just call me Chef <settlername> will ya love?",
+   "official": "",
+   "th": "เรียกฉันว่าเชฟ <settlername> ได้เลยนะที่รัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftfood3",
+   "en": "Today's special is <item>, enjoy! :heart:",
+   "official": "",
+   "th": "เมนูพิเศษวันนี้คือ <item> ทานให้อร่อยนะ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftfoodaccept",
+   "en": "Delicious! Thank you Chef <settlername> :heart:",
+   "official": "",
+   "th": "อร่อยมาก! ขอบคุณนะเชฟ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftpotion1",
+   "en": "Ya gotta drink ya potions <name>!",
+   "official": "",
+   "th": "คุณต้องดื่มน้ำยาด้วยนะ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftpotion2",
+   "en": "They keep ya safe, and that's mighty important to me ya know... :heart:",
+   "official": "",
+   "th": "มันช่วยให้คุณปลอดภัย ซึ่งสำคัญกับฉันมากเลยนะรู้ไหม... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftpotion3",
+   "en": "Take some extra <item> with you, okay love?",
+   "official": "",
+   "th": "เอา <item> ไปเผื่อด้วยนะที่รัก?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftpotionaccept",
+   "en": "Thank you love :heart:",
+   "official": "",
+   "th": "ขอบคุณนะที่รัก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftdecoration1",
+   "en": "The other day I went and visited one of them **Villages** again <name>",
+   "official": "",
+   "th": "เมื่อวันก่อนฉันไปเที่ยว**หมู่บ้าน**มาอีกแล้วนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftdecoration2",
+   "en": "And well, this talkative fella sold me a <item>",
+   "official": "",
+   "th": "แล้วก็มีคนช่างพูดคนหนึ่งขาย <item> ให้ฉันมา",
+   "status": "new",
+   "note": "หมอ กำกวม (อ่านเป็นแพทย์)"
+  },
+  {
+   "key": "honestfarmer_giftdecoration3",
+   "en": "I thought ya could place it somewhere nice? For all to see? :heart:",
+   "official": "",
+   "th": "ฉันว่าคุณเอาไปวางไว้ที่สวย ๆ ให้ทุกคนได้เห็นดีไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "honestfarmer_giftdecorationaccept",
+   "en": "Heh, thanks honey :heart:",
+   "official": "",
+   "th": "เฮะ ขอบใจนะที่รัก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestdating1",
+   "en": "A <item> for your favorite hero?",
+   "official": "",
+   "th": "<item> สำหรับฮีโร่คนโปรดของคุณเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestdating2",
+   "en": "Why <name>, some might think you fancy me...",
+   "official": "",
+   "th": "โอ้ <name> ใครเห็นเข้าคงคิดว่าคุณแอบปลื้มฉันแน่...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestdating3",
+   "en": "Although I wouldn't be too surprised :heart:",
+   "official": "",
+   "th": "แต่ก็ไม่แปลกใจหรอกนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinedatingbutton",
+   "en": "Yeah, no...",
+   "official": "",
+   "th": "อืม ไม่ล่ะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_starteddatingchat1",
+   "en": "I will treasure your gift always <name>!",
+   "official": "",
+   "th": "ฉันจะเก็บรักษาของขวัญนี้ไว้ตลอดไป <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_starteddatingchat2",
+   "en": "Come find me on the morrow, your services will be required",
+   "official": "",
+   "th": "พรุ่งนี้มาหาฉันนะ ฉันต้องการความช่วยเหลือจากคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declineddatingchat",
+   "en": "Your loss!",
+   "official": "",
+   "th": "คุณเสียโอกาสเองนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitem1",
+   "en": "If I may <name>... :heart:",
+   "official": "",
+   "th": "ขออนุญาตนะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitem2",
+   "en": "In all of my life, I have been naught but a handsome <settlerclass>. But in my heart, I have always dreamt of being so much more!",
+   "official": "",
+   "th": "ตลอดชีวิตนี้ ฉันเป็นเพียง<settlerclass>รูปงามคนหนึ่ง แต่ในใจแล้ว ฉันฝันมาตลอดว่าจะได้เป็นมากกว่านั้น!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitem3",
+   "en": "But before I can carve my legacy, I need you to craft me an exquisite sword to carve with",
+   "official": "",
+   "th": "แต่ก่อนที่จะจารึกตำนานของตัวเองได้ ฉันต้องให้คุณประดิษฐ์ดาบชั้นเลิศไว้จารึกซะก่อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitem4",
+   "en": "A <item> should suffice. Wouldn't you agree?",
+   "official": "",
+   "th": "<item> สักเล่มก็น่าจะพอ เห็นด้วยไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptgiveitembutton",
+   "en": "Behold! The <item>!",
+   "official": "",
+   "th": "จงยลโฉม! <item>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinegiveitembutton",
+   "en": "I'll get right on that!",
+   "official": "",
+   "th": "เดี๋ยวจัดให้เลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgivenchat",
+   "en": "Now this is some fine craftsmanship <name>!",
+   "official": "",
+   "th": "นี่แหละฝีมือชั้นยอด <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitemtip1",
+   "en": "Still don't have my sword <name>?",
+   "official": "",
+   "th": "ยังไม่ได้ดาบของฉันอีกเหรอ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitemtip2",
+   "en": "You can craft a <item> at the <workstation>. Chop chop!",
+   "official": "",
+   "th": "คุณประดิษฐ์ <item> ได้ที่ <workstation> เร็วเข้า ๆ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgiven1",
+   "en": "This <item> is bound for greatness!",
+   "official": "",
+   "th": "<item> เล่มนี้ถูกลิขิตมาเพื่อความยิ่งใหญ่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgiven2",
+   "en": "I can feel it!",
+   "official": "",
+   "th": "ฉันรู้สึกได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgiven3",
+   "en": "Say... <name>? I had just had the grandest of ideas!",
+   "official": "",
+   "th": "นี่... <name>? ฉันเพิ่งคิดไอเดียสุดยิ่งใหญ่ออก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgiven4",
+   "en": "I'm going to need a squire for my adventures! And who better than you?",
+   "official": "",
+   "th": "ฉันต้องมีผู้ติดตามในการผจญภัย! แล้วใครจะเหมาะไปกว่าคุณล่ะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_itemgiven5",
+   "en": "Squire <name> :heart:",
+   "official": "",
+   "th": "ผู้ติดตาม <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitemcompletedbutton",
+   "en": "Uhm... Sure, I guess?",
+   "official": "",
+   "th": "เอ่อ... ก็ได้มั้ง?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitemcompletedchat1",
+   "en": "Delightful Squire <name>! Adventure awaits us!",
+   "official": "",
+   "th": "วิเศษมาก ผู้ติดตาม <name>! การผจญภัยรอเราอยู่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giveitemcompletedchat2",
+   "en": "Come back in a few days, I got big plans for us!",
+   "official": "",
+   "th": "อีกสองสามวันกลับมานะ ฉันมีแผนการใหญ่สำหรับเรา!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmob1",
+   "en": "Attention my squire!",
+   "official": "",
+   "th": "ฟังทางนี้ ผู้ติดตามของฉัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmob2",
+   "en": "I have heard rumours of a horrendous <mob> residing in the depths of the <location>",
+   "official": "",
+   "th": "ฉันได้ยินข่าวลือว่ามี <mob> สุดสยองสิงอยู่ในส่วนลึกของ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmob3",
+   "en": "So naturally I thought it a job for Wrath Knight <settlername> and Squire <name>!",
+   "official": "",
+   "th": "ฉันจึงคิดว่านี่คืองานของอัศวินพิโรธ <settlername> และผู้ติดตาม <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmob4",
+   "en": "Hmm.. Does Wrath Knight sound good?",
+   "official": "",
+   "th": "อืม.. อัศวินพิโรธฟังดูดีไหมนะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_acceptkillmobbutton",
+   "en": "That <mob> ain't no match for Wrath Knight <settlername>!",
+   "official": "",
+   "th": "<mob> นั่นไม่ใช่คู่มือของอัศวินพิโรธ <settlername> หรอก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_declinekillmobbutton",
+   "en": "Sorry, I'm busy right now",
+   "official": "",
+   "th": "ขอโทษนะ ตอนนี้ไม่ว่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmobacceptedchat1",
+   "en": "Haha, yes! We're coming for you <mob>!",
+   "official": "",
+   "th": "ฮ่า ๆ ใช่แล้ว! เรากำลังไปหาแกแล้ว <mob>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmobacceptedchat2",
+   "en": "To the <location>, where glory awaits!",
+   "official": "",
+   "th": "มุ่งสู่ <location> ที่ซึ่งเกียรติยศรอเราอยู่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmobtip1",
+   "en": "Have you found it? Have you found the <mob>!?",
+   "official": "",
+   "th": "เจอหรือยัง? เจอ <mob> หรือยัง!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmobtip2",
+   "en": "Remember <name>, it's hiding in the <location>",
+   "official": "",
+   "th": "อย่าลืมนะ <name> มันซ่อนอยู่ใน <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_killmobtip3",
+   "en": "So be ready!",
+   "official": "",
+   "th": "เตรียมตัวให้พร้อมล่ะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_mobkilledchat",
+   "en": "No one can best Scourge Knight <settlername>!",
+   "official": "",
+   "th": "ไม่มีใครเอาชนะอัศวินหายนะ <settlername> ได้หรอก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_mobkilled1",
+   "en": "Hmm. Wrath Knight sounds dangerous... But Scourge Knight is more scary...",
+   "official": "",
+   "th": "อืม อัศวินพิโรธฟังดูอันตราย... แต่อัศวินหายนะน่ากลัวกว่า...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_mobkilled2",
+   "en": "Anyway. Well done Squire <name>! Our names are sure to go down in history after having defeated such a fierce foe!",
+   "official": "",
+   "th": "ช่างเถอะ ทำได้ดีมากผู้ติดตาม <name>! ชื่อของเราจะถูกจารึกในประวัติศาสตร์แน่หลังจากล้มศัตรูที่ดุร้ายขนาดนี้ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_mobkilled3",
+   "en": "We make a pretty good team you know... :heart:",
+   "official": "",
+   "th": "รู้ไหม เราเป็นทีมที่ดีทีเดียวนะ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_completekilledmobbutton",
+   "en": "It was an honor to fight by your side <settlername>",
+   "official": "",
+   "th": "เป็นเกียรติที่ได้สู้เคียงข้างคุณ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_completekilledmobchat1",
+   "en": "Likewise my honorable squire :heart:",
+   "official": "",
+   "th": "ฉันก็เช่นกัน ผู้ติดตามผู้ทรงเกียรติของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_completekilledmobchat2",
+   "en": "Drop by later <name>, then I'll give you a rundown on all the hero gossip about us!",
+   "official": "",
+   "th": "ไว้แวะมาทีหลังนะ <name> แล้วฉันจะเล่าข่าวลือเรื่องฮีโร่อย่างเราให้ฟังทั้งหมด!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobject1",
+   "en": "Squire <name>. I am outraged",
+   "official": "",
+   "th": "ผู้ติดตาม <name> ฉันโกรธมาก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobject2",
+   "en": "Not a single soul in our settlement has mentioned Scourge Knight <settlername>, Slayer of the <mob>!",
+   "official": "",
+   "th": "ไม่มีใครในนิคมพูดถึงอัศวินหายนะ <settlername> ผู้สังหาร <mob> เลยสักคน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobject3",
+   "en": "These people simply do not care for epic conquests",
+   "official": "",
+   "th": "คนพวกนี้ไม่สนใจวีรกรรมยิ่งใหญ่เลยสักนิด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobject4",
+   "en": "So change of plans my squire. It's time to craft!",
+   "official": "",
+   "th": "งั้นเปลี่ยนแผน ผู้ติดตามของฉัน ได้เวลาประดิษฐ์แล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptplaceobjectbutton",
+   "en": "I live to craft <settlername>!",
+   "official": "",
+   "th": "ฉันเกิดมาเพื่อประดิษฐ์ <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declineplaceobjectbutton",
+   "en": "Sorry, I can't do that right now",
+   "official": "",
+   "th": "ขอโทษนะ ตอนนี้ยังทำไม่ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobjectacceptedchat1",
+   "en": "Excellent my squire! For my plan to work, we'll need a <object>",
+   "official": "",
+   "th": "ยอดเยี่ยม ผู้ติดตามของฉัน! แผนนี้จะสำเร็จได้ เราต้องมี <object>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobjectacceptedchat2",
+   "en": "It's crafted at the <workstation>, you'll make short work of it, I'm sure.",
+   "official": "",
+   "th": "ประดิษฐ์ได้ที่ <workstation> คุณทำเสร็จในพริบตาแน่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_placeobjectacceptedchat3",
+   "en": "And for the plan to work, I need to be in your Adventure Party. Okay <name>?",
+   "official": "",
+   "th": "และเพื่อให้แผนสำเร็จ ฉันต้องอยู่ในปาร์ตี้ผจญภัยของคุณด้วย โอเคนะ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_craftandplaceobjecttip1",
+   "en": "The plan is simple Squire <name>!",
+   "official": "",
+   "th": "แผนง่ายมาก ผู้ติดตาม <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_craftandplaceobjecttip2",
+   "en": "Step 1, I join your adventure party",
+   "official": "",
+   "th": "ขั้นที่ 1 ฉันเข้าร่วมปาร์ตี้ผจญภัยของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_craftandplaceobjecttip3",
+   "en": "Step 2, you craft a <object> at the <workstation>",
+   "official": "",
+   "th": "ขั้นที่ 2 คุณประดิษฐ์ <object> ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_craftandplaceobjecttip4",
+   "en": "Step 3, we place the <object> in our settlement",
+   "official": "",
+   "th": "ขั้นที่ 3 เราวาง <object> ในนิคมของเรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_craftandplaceobjecttip5",
+   "en": "Step 4, I work my magic!",
+   "official": "",
+   "th": "ขั้นที่ 4 ฉันร่ายมนตร์ของฉัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectcraftedchat1",
+   "en": "That <object> will do splendid my squire!",
+   "official": "",
+   "th": "<object> นี่ใช้ได้ดีเยี่ยมเลย ผู้ติดตามของฉัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectcraftedchat2",
+   "en": "Now place it in a popular location, where everyone can see us!",
+   "official": "",
+   "th": "ทีนี้ไปวางไว้ในที่ที่คนพลุกพล่าน ให้ทุกคนได้เห็นเรา!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchat1",
+   "en": "HEAR YE, HEAR YE! I am Knight <settlername> the Benevolent!",
+   "official": "",
+   "th": "จงฟังทางนี้ จงฟังทางนี้! ข้าคืออัศวิน <settlername> ผู้เมตตา!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchat2",
+   "en": "And I come bearing gifts!",
+   "official": "",
+   "th": "และข้านำของขวัญมามอบให้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchat3",
+   "en": "Behold, a <object> for all to enjoy!",
+   "official": "",
+   "th": "จงยลโฉม <object> ให้ทุกคนได้เพลิดเพลิน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchatresponses1",
+   "en": "Eh, more like Knight <settlername> the Loud",
+   "official": "",
+   "th": "เอ่อ น่าจะเป็นอัศวิน <settlername> ผู้เสียงดังมากกว่า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchatresponses2",
+   "en": "I hate it!",
+   "official": "",
+   "th": "เกลียดเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedchatresponses3",
+   "en": "But I wanted a Music Player man...",
+   "official": "",
+   "th": "แต่อยากได้เครื่องเล่นเพลงนี่นา...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplacedoutsidesettlementchat",
+   "en": "The plan won't work, unless you place the <object> inside our settlement <name>!",
+   "official": "",
+   "th": "แผนจะไม่สำเร็จนะ ถ้าคุณไม่วาง <object> ในนิคมของเรา <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplaced1",
+   "en": "Dare I say that these people wouldn't know good craftsmanship if it smacked em across the nose!",
+   "official": "",
+   "th": "กล้าพูดเลยว่าคนพวกนี้ต่อให้ฝีมือชั้นยอดมาตบหน้าก็ยังดูไม่ออก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplaced2",
+   "en": "I was certain that a <object> would dazzle them",
+   "official": "",
+   "th": "ฉันมั่นใจเลยว่า <object> จะทำให้พวกเขาตะลึง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplaced3",
+   "en": "Thank you for helping out once again my ever attendant squire :heart:",
+   "official": "",
+   "th": "ขอบคุณที่ช่วยอีกครั้งนะ ผู้ติดตามผู้ซื่อสัตย์ของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_objectplaced4",
+   "en": "But maybe I just ain't cut out to be a knight after all...",
+   "official": "",
+   "th": "แต่บางทีฉันอาจไม่ได้เกิดมาเป็นอัศวินก็ได้...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_completeobjectplacedbutton",
+   "en": "Don't lose hope, the world needs Knight <settlername> the Benevolent!",
+   "official": "",
+   "th": "อย่าหมดหวังสิ โลกนี้ต้องการอัศวิน <settlername> ผู้เมตตานะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_completeobjectplacedchat1",
+   "en": "You still have faith in me <name>?",
+   "official": "",
+   "th": "คุณยังเชื่อในตัวฉันอยู่เหรอ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_completeobjectplacedchat2",
+   "en": "My ever stalwart squire... :heart:",
+   "official": "",
+   "th": "ผู้ติดตามผู้มั่นคงของฉัน... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_completeobjectplacedchat3",
+   "en": "Come back in a few days. I might have one more plan we could try",
+   "official": "",
+   "th": "อีกสองสามวันกลับมานะ ฉันอาจมีอีกแผนให้ลองดู",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmob1",
+   "en": "<name>, have you heard of the <mob>?",
+   "official": "",
+   "th": "<name> เคยได้ยินเรื่อง <mob> ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmob2",
+   "en": "Few have been known to come back alive from an encounter with them",
+   "official": "",
+   "th": "มีไม่กี่คนที่เจอมันแล้วรอดกลับมาได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmob3",
+   "en": "So what do you say my squire?",
+   "official": "",
+   "th": "ว่าไงล่ะ ผู้ติดตามของฉัน?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmob4",
+   "en": "One last shot at glory?",
+   "official": "",
+   "th": "ลองไขว่คว้าเกียรติยศเป็นครั้งสุดท้ายไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_acceptkillmobbutton",
+   "en": "I'm with you till the end Knight <settlername>",
+   "official": "",
+   "th": "ฉันจะอยู่กับคุณจนถึงที่สุด อัศวิน <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_declinekillmobbutton",
+   "en": "Yeah... I'm gonna have to pass on that one",
+   "official": "",
+   "th": "อืม... อันนี้ขอผ่านนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmobacceptedchat1",
+   "en": "I could ask for no better squire than you <name> :heart:",
+   "official": "",
+   "th": "ฉันคงหาผู้ติดตามที่ดีกว่าคุณไม่ได้อีกแล้ว <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmobacceptedchat2",
+   "en": "The <mob> is hiding in the <location>",
+   "official": "",
+   "th": "<mob> ซ่อนอยู่ใน <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmobacceptedchat3",
+   "en": "To stand a chance, we have to bring our best gear and potions!",
+   "official": "",
+   "th": "ถ้าอยากมีโอกาสชนะ เราต้องเอาอุปกรณ์และน้ำยาที่ดีที่สุดไป!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmobtip1",
+   "en": "The <mob> is waiting for us in the <location>",
+   "official": "",
+   "th": "<mob> รอเราอยู่ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_killmobtip2",
+   "en": "It'll be a tough fight, so make sure you bring the best gear and potions you got <name>",
+   "official": "",
+   "th": "ศึกนี้หนักแน่ เอาอุปกรณ์และน้ำยาที่ดีที่สุดที่มีไปด้วยนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobengagedchat",
+   "en": "Your tyranny ends today <mob>!",
+   "official": "",
+   "th": "ความโหดร้ายของแกจบลงวันนี้แหละ <mob>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobkilledchat",
+   "en": "We did it <name>! We actually did it!",
+   "official": "",
+   "th": "เราทำได้แล้ว <name>! เราทำได้จริง ๆ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobkilled1",
+   "en": "I thought it impossible...",
+   "official": "",
+   "th": "ฉันนึกว่ามันเป็นไปไม่ได้...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobkilled2",
+   "en": "But we actually faced off against the <mob> and returned victorious!",
+   "official": "",
+   "th": "แต่เราเผชิญหน้ากับ <mob> และกลับมาอย่างผู้ชนะจริง ๆ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobkilled3",
+   "en": "The whole settlement will be singing songs of Knight <settlername> and Squire <name>!",
+   "official": "",
+   "th": "ทั้งนิคมต้องร้องเพลงสรรเสริญอัศวิน <settlername> กับผู้ติดตาม <name> แน่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_mobkilled4",
+   "en": "I knew you'd never give up on me <name>... :heart:",
+   "official": "",
+   "th": "ฉันรู้ว่าคุณจะไม่มีวันทิ้งฉัน <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_completekilledmobbutton",
+   "en": "And I knew you always had it in you my knight :heart:",
+   "official": "",
+   "th": "และฉันก็รู้ว่าคุณมีดีอยู่ในตัวมาตลอด อัศวินของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_completekilledmobchat1",
+   "en": "I think you and I have deserved some well earned rest <name>",
+   "official": "",
+   "th": "ฉันว่าเราสองคนสมควรได้พักผ่อนแล้วล่ะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_completekilledmobchat2",
+   "en": "How about you come by and pick me up for a nice picnic tomorrow?",
+   "official": "",
+   "th": "พรุ่งนี้มารับฉันไปปิกนิกกันดีไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_completekilledmobchat3",
+   "en": "You know, just the two of us... :heart:",
+   "official": "",
+   "th": "แบบว่า... แค่เราสองคน... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiome1",
+   "en": "<name>! You're just the face I wanted to see :heart:",
+   "official": "",
+   "th": "<name>! คุณคือคนที่ฉันอยากเจอพอดีเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiome2",
+   "en": "Heroes like us should also get to relax every now and then, so how about we go for a nice picnic today?",
+   "official": "",
+   "th": "ฮีโร่อย่างเราก็ต้องพักผ่อนบ้าง วันนี้ไปปิกนิกกันไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiome3",
+   "en": "Let's go visit the <location>, and find a nice spot **near the water**",
+   "official": "",
+   "th": "ไป <location> กัน แล้วหาที่ดี ๆ **ใกล้น้ำ**",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiome4",
+   "en": "And bring something for us to sit on, a **Bench** should suffice",
+   "official": "",
+   "th": "แล้วเอาอะไรมาให้นั่งด้วยนะ **ม้านั่ง**สักตัวก็พอ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptvisitbiomebutton",
+   "en": "Relaxing with you, sounds like the perfect day <settlername>",
+   "official": "",
+   "th": "ได้พักผ่อนกับคุณ ฟังดูเป็นวันที่สมบูรณ์แบบเลย <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinevisitbiomebutton",
+   "en": "Maybe later?",
+   "official": "",
+   "th": "ไว้ทีหลังได้ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomeacceptedchat1",
+   "en": "Delightful <name>! :heart:",
+   "official": "",
+   "th": "วิเศษเลย <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomeacceptedchat2",
+   "en": "To the <location> we go!",
+   "official": "",
+   "th": "มุ่งหน้าสู่ <location>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomeacceptedchat3",
+   "en": "Remember something for us to sit on <name>, some **Chairs** or a **Bench**",
+   "official": "",
+   "th": "อย่าลืมเอาอะไรมาให้นั่งนะ <name> **เก้าอี้**หรือ**ม้านั่ง**ก็ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiometip1",
+   "en": "The beautiful <location> awaits us <name>",
+   "official": "",
+   "th": "<location> อันงดงามรอเราอยู่ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiometip2",
+   "en": "Let's find a nice spot **near the water**, where we can sit down and relax together on a bench or something",
+   "official": "",
+   "th": "ไปหาที่ดี ๆ **ใกล้น้ำ** ที่เราจะนั่งพักผ่อนด้วยกันบนม้านั่งหรืออะไรสักอย่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomelocationfound1",
+   "en": "<name>! Right here! The view, the trees, this is perfect!",
+   "official": "",
+   "th": "<name>! ตรงนี้แหละ! วิวสวย ต้นไม้ก็สวย สมบูรณ์แบบ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomelocationfound2",
+   "en": "Did you bring some chairs or a bench we can sit down and relax on? :heart:",
+   "official": "",
+   "th": "คุณเอาเก้าอี้หรือม้านั่งมาให้เรานั่งพักด้วยหรือเปล่า? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomesittingdownchat1",
+   "en": "Ah, yes... This is exactly what I needed",
+   "official": "",
+   "th": "อา ใช่เลย... นี่แหละที่ฉันต้องการ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomesittingdownchat2",
+   "en": "A break from the heroics...",
+   "official": "",
+   "th": "พักจากการเป็นฮีโร่สักหน่อย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomesittingdownchat3",
+   "en": "To kick back and spend some time with you <name>...",
+   "official": "",
+   "th": "มานั่งเอนหลังใช้เวลากับคุณ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleted1",
+   "en": "These last few weeks <name>...",
+   "official": "",
+   "th": "ช่วงสองสามสัปดาห์ที่ผ่านมานี้ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleted2",
+   "en": "Embracing my knighthood, taking on a <mob> and eventually defeating the <bossmob>!",
+   "official": "",
+   "th": "ทั้งการได้เป็นอัศวิน การสู้กับ <mob> และสุดท้ายก็เอาชนะ <bossmob> ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleted3",
+   "en": "All of this, would have been impossible without you by my side, my beautiful squire...",
+   "official": "",
+   "th": "ทั้งหมดนี้คงเป็นไปไม่ได้ถ้าไม่มีคุณอยู่ข้าง ๆ ผู้ติดตามแสนงามของฉัน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleted4",
+   "en": "What I'm trying to say is... Maybe you'd want to stay by my side... Always? :heart:",
+   "official": "",
+   "th": "ที่ฉันอยากจะบอกก็คือ... คุณอยากอยู่เคียงข้างฉัน... ตลอดไปไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompletedacceptbutton",
+   "en": "I thought you'd never ask <settlername> :heart:",
+   "official": "",
+   "th": "นึกว่าจะไม่ถามซะแล้ว <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleteddeclinebutton",
+   "en": "I'm sorry <settlername>, I don't feel that way about you...",
+   "official": "",
+   "th": "ขอโทษนะ <settlername> ฉันไม่ได้รู้สึกแบบนั้นกับคุณ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompletedacceptedchat1",
+   "en": "You and me <name>, always! :heart:",
+   "official": "",
+   "th": "คุณกับฉัน <name> ตลอดไป! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompletedacceptedchat2",
+   "en": "You can't even begin to fathom how happy this makes me! :heart:",
+   "official": "",
+   "th": "คุณนึกไม่ออกหรอกว่าฉันดีใจแค่ไหน! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompletedacceptedchat3",
+   "en": "I got you <name>, always... :heart:",
+   "official": "",
+   "th": "ฉันจะอยู่ข้างคุณเสมอนะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleteddeclinedchat1",
+   "en": "Oh... Well that's okay...",
+   "official": "",
+   "th": "โอ้... ก็ได้ ไม่เป็นไร...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_visitbiomecompleteddeclinedchat2",
+   "en": "I think I have to go now...",
+   "official": "",
+   "th": "ฉันว่าฉันต้องไปแล้วล่ะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestbreakupbutton",
+   "en": "<settlername>... We need to talk.",
+   "official": "",
+   "th": "<settlername>... เราต้องคุยกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestbreakup1",
+   "en": "My chivalrous <name>, my one and only :heart:",
+   "official": "",
+   "th": "<name> ผู้กล้าหาญของฉัน หนึ่งเดียวของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_suggestbreakup2",
+   "en": "What's with the frown? You look like someone poured raspberry juice all over your favorite pair of boots!",
+   "official": "",
+   "th": "ทำไมหน้าบึ้งล่ะ? ดูเหมือนมีใครเอาน้ำราสป์เบอร์รีราดรองเท้าคู่โปรดของคุณงั้นแหละ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinebreakupbutton",
+   "en": "Yep, sorry, just tired. Talk later!",
+   "official": "",
+   "th": "ใช่ ขอโทษนะ แค่เหนื่อยน่ะ ไว้คุยกันทีหลัง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptedbreakupchat1",
+   "en": "I'm sorry but are you... Breaking up with me?",
+   "official": "",
+   "th": "ขอโทษนะ แต่นี่คุณ... จะเลิกกับฉันเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptedbreakupchat2",
+   "en": "YOU? Breaking up. With ME?",
+   "official": "",
+   "th": "คุณ? จะเลิก กับฉัน?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_acceptedbreakupchat3",
+   "en": "I'm Knight <settlername>! How could anyone break up with a hero like me!?",
+   "official": "",
+   "th": "ฉันคืออัศวิน <settlername> นะ! ใครจะไปเลิกกับฮีโร่อย่างฉันได้!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinedbreakupchat1",
+   "en": "Well you should go for a nap then my dear :heart:",
+   "official": "",
+   "th": "งั้นไปงีบซะหน่อยนะที่รัก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_declinedbreakupchat2",
+   "en": "Even a hero as grand as you, need their bed rest!",
+   "official": "",
+   "th": "ต่อให้เป็นฮีโร่ยิ่งใหญ่แค่ไหนก็ต้องนอนพักบ้าง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_relationshipchat1",
+   "en": "Well if it ain't my trusty squire, <name>!",
+   "official": "",
+   "th": "โอ้ นี่มันผู้ติดตามคนสนิทของฉัน <name> นี่นา!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero1_relationshipchat2",
+   "en": "You look absolutely stunning today :heart:",
+   "official": "",
+   "th": "วันนี้คุณดูดีสุด ๆ เลยนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_relationshipchat1",
+   "en": "<name>! This knight is craving some adventures!",
+   "official": "",
+   "th": "<name>! อัศวินคนนี้อยากออกผจญภัยจะแย่แล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero2_relationshipchat2",
+   "en": "Promise me we'll get out there soon, okay? :heart:",
+   "official": "",
+   "th": "สัญญานะว่าเราจะออกไปผจญภัยกันเร็ว ๆ นี้? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero3_relationshipchat1",
+   "en": "Hey <name>?",
+   "official": "",
+   "th": "นี่ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero3_relationshipchat2",
+   "en": "What do you say to a Knight that's going to bed?",
+   "official": "",
+   "th": "รู้ไหมว่าต้องพูดอะไรกับอัศวินที่กำลังจะเข้านอน?",
+   "status": "new",
+   "note": "ปูมุก"
+  },
+  {
+   "key": "aspiringhero3_relationshipchat3",
+   "en": "\"Night Knight!\"",
+   "official": "",
+   "th": "\"กู๊ดไนท์ ไนท์!\"",
+   "status": "new",
+   "note": "มุก Night/Knight"
+  },
+  {
+   "key": "aspiringhero3_relationshipchat4",
+   "en": "Get it <name>? NIGHT KNIGHT? Hah, I'm hilarious :heart:",
+   "official": "",
+   "th": "เก็ตไหม <name>? ไนท์ ก็แปลว่าอัศวินไง! ฮ่า ฉันนี่ตลกจริง ๆ :heart:",
+   "status": "new",
+   "note": "อธิบายมุกให้ชัด"
+  },
+  {
+   "key": "aspiringhero_relationshipnight1",
+   "en": "Argh! I'm awake! What is it <name>? DRAGONS!?",
+   "official": "",
+   "th": "อ๊าก! ตื่นแล้ว! มีอะไร <name>? มังกรบุกเหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_relationshipnight2",
+   "en": "Oh it's nothing? You just missed your favorite knight?",
+   "official": "",
+   "th": "อ้าว ไม่มีอะไรเหรอ? แค่คิดถึงอัศวินคนโปรดเฉย ๆ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_relationshipnight3",
+   "en": "Well, how about you cozy up in bed with me then <name>? :heart:",
+   "official": "",
+   "th": "งั้นมานอนกอดกันบนเตียงดีไหม <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_voidwizard1",
+   "en": "To plunge into the depths of the **Dungeon**!",
+   "official": "",
+   "th": "บุกลงไปในส่วนลึกของ**ดันเจี้ยน**!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_voidwizard2",
+   "en": "And rid the world of the wicked <mob>!",
+   "official": "",
+   "th": "และกำจัด <mob> ผู้ชั่วร้ายไปจากโลก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_voidwizard3",
+   "en": "There may be a knight in you after all <name> :heart:",
+   "official": "",
+   "th": "ดูเหมือนในตัวคุณก็มีความเป็นอัศวินอยู่นะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_chieftain1",
+   "en": "A brawl with the <mob1> himself!",
+   "official": "",
+   "th": "ได้ปะทะกับ <mob1> ตัวจริงเลยเหรอ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_chieftain2",
+   "en": "I envy you <name>, it sounds like a glorious battle :heart:",
+   "official": "",
+   "th": "อิจฉาจัง <name> ฟังดูเป็นการต่อสู้ที่ยิ่งใหญ่มาก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_chieftain3",
+   "en": "But know this my friend, the Runebound won't forget this",
+   "official": "",
+   "th": "แต่จำไว้นะเพื่อน พวกรูนเบานด์ไม่มีวันลืมเรื่องนี้แน่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_chieftain4",
+   "en": "The <mob2> may come for you yet!",
+   "official": "",
+   "th": "<mob2> อาจยังตามมาหาคุณก็ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_piratecaptain1",
+   "en": "\"YAARGH, I lost me wooden leg! Now my walk be slantin!\"",
+   "official": "",
+   "th": "\"โยโฮ่! ขาไม้ข้าหายไปแล้ว! เดินเอียงกะเท่เร่เลย!\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_piratecaptain2",
+   "en": "I bet that's what the <mob> said when you beat him, right <name>? :heart:",
+   "official": "",
+   "th": "พนันเลยว่า <mob> พูดแบบนี้ตอนคุณชนะมัน ใช่ไหม <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_piratecaptain3",
+   "en": "By the way, did I see him around our settlement?",
+   "official": "",
+   "th": "ว่าแต่ ฉันเห็นมันเดินแถวนิคมเราหรือเปล่านะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_thecursedcrone1",
+   "en": "She was corrupting all of the **Plains Deep Caves**?",
+   "official": "",
+   "th": "นางทำให้**ถ้ำที่ราบชั้นลึก**แปดเปื้อนไปหมดเลยเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_thecursedcrone2",
+   "en": "I knew the <mob> was crazy, but this was madness...",
+   "official": "",
+   "th": "ฉันรู้ว่า <mob> บ้า แต่นี่มันวิปลาสเกินไปแล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_thecursedcrone3",
+   "en": "I'm glad you put a stop to her, <name> :heart:",
+   "official": "",
+   "th": "ดีใจที่คุณหยุดนางได้นะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_fallenwizard1",
+   "en": "Evil never rests <name>. I'd hoped the <mob1> would've learned his lesson",
+   "official": "",
+   "th": "ความชั่วร้ายไม่เคยหลับใหล <name> ฉันหวังว่า <mob1> จะได้บทเรียนแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_fallenwizard2",
+   "en": "But to return once as the <mob2>",
+   "official": "",
+   "th": "แต่มันกลับมาอีกครั้งในร่าง <mob2>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_fallenwizard3",
+   "en": "I'm glad you put a swift end to him <name> :heart:",
+   "official": "",
+   "th": "ดีใจที่คุณจัดการมันได้อย่างรวดเร็ว <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_fallenwizard4",
+   "en": "Let's just hope he's gone for good this time...",
+   "official": "",
+   "th": "หวังว่าคราวนี้มันจะหายไปตลอดกาลนะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_sunlightchampion1",
+   "en": "I've always believed that the <mob> was a myth <name>...",
+   "official": "",
+   "th": "ฉันเชื่อมาตลอดว่า <mob> เป็นแค่ตำนาน <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_sunlightchampion2",
+   "en": "But you faced the **Golden Gauntlets** and lived?",
+   "official": "",
+   "th": "แต่คุณเผชิญหน้ากับ**ถุงมือทองคำ**แล้วรอดมาได้?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_sunlightchampion3",
+   "en": "You are becoming powerful <name>, very powerful",
+   "official": "",
+   "th": "คุณแข็งแกร่งขึ้นทุกทีนะ <name> แข็งแกร่งขึ้นมากเลย",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "aspiringhero_ascendedwizard1",
+   "en": "<name>! You are truly the stuff of legends! :heart:",
+   "official": "",
+   "th": "<name>! คุณคือตำนานตัวจริงเลย! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_ascendedwizard2",
+   "en": "The <mob> falls once and for all...",
+   "official": "",
+   "th": "<mob> ล้มลงเป็นครั้งสุดท้ายแล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_ascendedwizard3",
+   "en": "And this time, I can feel it in my heart, that he won't ever return",
+   "official": "",
+   "th": "และคราวนี้ ฉันรู้สึกได้ในใจเลยว่ามันจะไม่กลับมาอีก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_ascendedwizard4",
+   "en": "And for that <name>, I am grateful. Thank you, my hero :heart:",
+   "official": "",
+   "th": "และสำหรับเรื่องนั้น <name> ฉันซาบซึ้งมาก ขอบคุณนะ ฮีโร่ของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_kisschat1",
+   "en": "Always got a kiss for you <name>! :heart:",
+   "official": "",
+   "th": "มีจูบให้คุณเสมอนะ <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_kisschat2",
+   "en": "Smoochin..! :heart:",
+   "official": "",
+   "th": "จุ๊บ..! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_kisschat3",
+   "en": "Love you <name> :heart: Be safe out there!",
+   "official": "",
+   "th": "รักนะ <name> :heart: ข้างนอกนั่นระวังตัวด้วยนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftfood1",
+   "en": "I've noticed that <item> is one of your favorites <name>",
+   "official": "",
+   "th": "ฉันสังเกตว่า <item> เป็นของโปรดอย่างหนึ่งของคุณ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftfood2",
+   "en": "So I took the liberty of cooking some up for you!",
+   "official": "",
+   "th": "เลยถือวิสาสะทำมาให้คุณซะเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftfood3",
+   "en": "After all, a proper knight should feed their squire, right? :heart:",
+   "official": "",
+   "th": "ยังไงอัศวินที่ดีก็ต้องเลี้ยงดูผู้ติดตามของตัวเอง ใช่ไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftfoodaccept",
+   "en": "Delicious! Thank you my knight :heart:",
+   "official": "",
+   "th": "อร่อยมาก! ขอบคุณนะอัศวินของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftpotion1",
+   "en": "The foes out there are fierce <name>",
+   "official": "",
+   "th": "ศัตรูข้างนอกนั่นดุร้ายนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftpotion2",
+   "en": "And while I know you can handle yourself, an extra <item> couldn't hurt",
+   "official": "",
+   "th": "ถึงฉันจะรู้ว่าคุณเอาตัวรอดได้ แต่มี <item> เพิ่มอีกสักขวดก็ไม่เสียหาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftpotion3",
+   "en": "Take it, and be safe out there my squire :heart:",
+   "official": "",
+   "th": "รับไว้เถอะ แล้วระวังตัวด้วยนะผู้ติดตามของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftpotionaccept",
+   "en": "I'll think of you, when I drink this <settlername> :heart:",
+   "official": "",
+   "th": "ตอนดื่มนี่ฉันจะคิดถึงคุณนะ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftsword1",
+   "en": "A long time ago you crafted a fine sword for me <name>",
+   "official": "",
+   "th": "เมื่อนานมาแล้ว คุณเคยประดิษฐ์ดาบชั้นดีให้ฉัน <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftsword2",
+   "en": "And I thought it high time I returned the favour",
+   "official": "",
+   "th": "ฉันว่าถึงเวลาตอบแทนบ้างแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftsword3",
+   "en": "This <item> is for you, may it keep you safe :heart:",
+   "official": "",
+   "th": "<item> นี้ให้คุณ ขอให้มันปกป้องคุณนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "aspiringhero_giftswordaccept",
+   "en": "I will treasure it always, <settlername>",
+   "official": "",
+   "th": "ฉันจะเก็บรักษามันไว้ตลอดไป <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_suggestdating1",
+   "en": "Oh. Thank you, I guess? Not really sure what I'm supposed to do with this...",
+   "official": "",
+   "th": "อ้อ ขอบคุณนะ มั้ง? ไม่แน่ใจเหมือนกันว่าต้องเอาไปทำอะไร...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_suggestdating2",
+   "en": "But I appreciate it none the less <name> :heart:",
+   "official": "",
+   "th": "แต่ก็ซาบซึ้งนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinedatingbutton",
+   "en": "Nevermind then...",
+   "official": "",
+   "th": "งั้นช่างมันเถอะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_starteddatingchat",
+   "en": "If you come by later <name>, I guess I could show you some of my favourite flowers... :heart:",
+   "official": "",
+   "th": "ถ้าแวะมาทีหลังนะ <name> ฉันอาจพาไปดูดอกไม้ที่ชอบบ้างก็ได้... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declineddatingchat",
+   "en": "Oh. Yeah okay, not like I wanted it anyway...",
+   "official": "",
+   "th": "อ้อ อืม โอเค ก็ไม่ได้อยากได้อยู่แล้วนี่...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobject1",
+   "en": "Oh, hey <name> :heart:",
+   "official": "",
+   "th": "อ้อ หวัดดี <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobject2",
+   "en": "Your flower got me thinking about placing some more flowers and plants around our settlement",
+   "official": "",
+   "th": "ดอกไม้ของคุณทำให้ฉันคิดว่าอยากปลูกดอกไม้กับต้นไม้เพิ่มรอบ ๆ นิคมของเรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobject3",
+   "en": "I like flowers, they take me back to a different time in my life where I was...",
+   "official": "",
+   "th": "ฉันชอบดอกไม้นะ มันพาฉันย้อนกลับไปช่วงหนึ่งในชีวิตที่ฉัน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobject4",
+   "en": "Hmm, anyway. Care to join me?",
+   "official": "",
+   "th": "อืม ช่างเถอะ มาช่วยกันไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_acceptplaceobjectbutton",
+   "en": "Yeah, let's plant some flowers <settlername>!",
+   "official": "",
+   "th": "ได้สิ ไปปลูกดอกไม้กัน <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_declineplaceobjectbutton",
+   "en": "Sorry, I'm busy right now",
+   "official": "",
+   "th": "ขอโทษนะ ตอนนี้ไม่ว่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobjectacceptedchat1",
+   "en": "Alrighty, let's start by crafting a <object>",
+   "official": "",
+   "th": "โอเค เริ่มจากประดิษฐ์ <object> ก่อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobjectacceptedchat2",
+   "en": "You can make it at the <workstation>",
+   "official": "",
+   "th": "ทำได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_placeobjectacceptedchat3",
+   "en": "Make sure I'm in your Adventure Party when you place it. I want to see it!",
+   "official": "",
+   "th": "ตอนวาง อย่าลืมพาฉันเข้าปาร์ตี้ผจญภัยนะ ฉันอยากดู!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_craftandplaceobjecttip1",
+   "en": "Did you craft a <object> yet <name>?",
+   "official": "",
+   "th": "ประดิษฐ์ <object> หรือยัง <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_craftandplaceobjecttip2",
+   "en": "You can craft it at the <workstation>",
+   "official": "",
+   "th": "ประดิษฐ์ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_craftandplaceobjecttip3",
+   "en": "Then we can place it in our settlement together!",
+   "official": "",
+   "th": "แล้วเราค่อยไปวางในนิคมด้วยกัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectcraftedchat",
+   "en": "Yeah, I like that <object> <name> :heart:",
+   "official": "",
+   "th": "อืม ฉันชอบ <object> นั่นนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplacedchat",
+   "en": "A little extra life to our settlement... :heart:",
+   "official": "",
+   "th": "นิคมของเรามีชีวิตชีวาขึ้นอีกนิดแล้ว... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplacedoutsidesettlementchat",
+   "en": "Maybe you could plant that <object> inside our settlement instead <name>?",
+   "official": "",
+   "th": "ลองไปปลูก <object> ในนิคมของเราแทนดีไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplaced1",
+   "en": "I like to think that each and every little flower out there has a life of its own",
+   "official": "",
+   "th": "ฉันชอบคิดว่าดอกไม้เล็ก ๆ ทุกดอกข้างนอกนั่นต่างก็มีชีวิตของตัวเอง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplaced2",
+   "en": "And everytime we plant a flower, we bring a new life into our world",
+   "official": "",
+   "th": "และทุกครั้งที่เราปลูกดอกไม้ เราก็นำชีวิตใหม่มาสู่โลกของเรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplaced3",
+   "en": "This was nice <name>. It's been a while since I've done anything like this...",
+   "official": "",
+   "th": "ดีจังเลย <name> ไม่ได้ทำอะไรแบบนี้มานานแล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_objectplaced4",
+   "en": "Thank you for doing it with me :heart:",
+   "official": "",
+   "th": "ขอบคุณที่มาทำด้วยกันนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_completeobjectplacedbutton",
+   "en": "I'd plant a whole garden for you <settlername> :heart:",
+   "official": "",
+   "th": "เพื่อคุณ ฉันปลูกได้ทั้งสวนเลย <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_completeobjectplacedchat1",
+   "en": "Heh, you're quite the charmer aren't you?",
+   "official": "",
+   "th": "เฮะ ปากหวานไม่เบาเลยนะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_completeobjectplacedchat2",
+   "en": "Talk soon :heart:",
+   "official": "",
+   "th": "ไว้คุยกันนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritter1",
+   "en": "I love the quiet evenings in the settlement, don't you <name>?",
+   "official": "",
+   "th": "ฉันชอบยามเย็นเงียบ ๆ ในนิคมนะ คุณชอบไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritter2",
+   "en": "The cool breeze, rustling leaves, and if you're lucky, pretty **Fireflies**!",
+   "official": "",
+   "th": "ลมเย็น ๆ ใบไม้ไหวกรอบแกรบ และถ้าโชคดีก็จะเห็น**หิ่งห้อย**สวย ๆ ด้วย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritter3",
+   "en": "I used to catch **Fireflies** with a friend of mine... But that was a long time ago",
+   "official": "",
+   "th": "ฉันเคยจับ**หิ่งห้อย**กับเพื่อนคนหนึ่ง... แต่นั่นก็นานมาแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritter4",
+   "en": "Perhaps we could catch some together <name>? :heart:",
+   "official": "",
+   "th": "เราไปจับด้วยกันสักหน่อยไหม <name>? :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate_acceptcapturecritterbutton",
+   "en": "I'd love to <settlername>. I'll bring my <net>!",
+   "official": "",
+   "th": "อยากไปมากเลย <settlername> เดี๋ยวเอา <net> ไปด้วย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinecapturecritterbutton",
+   "en": "Sorry, maybe later",
+   "official": "",
+   "th": "ขอโทษนะ ไว้ทีหลัง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritteracceptedchat1",
+   "en": "Yay! Could we try and catch a <mob> <name>?",
+   "official": "",
+   "th": "เย้! เราลองจับ <mob> กันดีไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecritteracceptedchat2",
+   "en": "I've never caught a <mob>. I think we can them find at the <location>",
+   "official": "",
+   "th": "ฉันไม่เคยจับ <mob> ได้เลย คิดว่าน่าจะเจอได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecrittertip1",
+   "en": "I recall seeing a <mob> at the <location>",
+   "official": "",
+   "th": "จำได้ว่าเคยเห็น <mob> ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecrittertip2",
+   "en": "But it was too quick for me to catch",
+   "official": "",
+   "th": "แต่มันเร็วเกินกว่าที่ฉันจะจับได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturecrittertip3",
+   "en": "Hopefully you can do better with your <net> <name>?",
+   "official": "",
+   "th": "หวังว่าคุณจะจับได้ด้วย <net> ของคุณนะ <name>?",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate_capturedwrongcritterchat",
+   "en": "It's a pretty Firefly <name>, but it's not a <mob>. Remember we can find a <mob> at the <location>",
+   "official": "",
+   "th": "หิ่งห้อยตัวนี้สวยนะ <name> แต่ไม่ใช่ <mob> จำไว้ว่า <mob> อยู่ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturedcorrectcritterchat1",
+   "en": "A **Firefly** lights up the night, to make our path ever so bright...",
+   "official": "",
+   "th": "**หิ่งห้อย**ส่องราตรี ให้ทางเดินเรานั้นสดใส...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_capturedcorrectcritterchat2",
+   "en": "It's a delight! To be graced by its enchanting fire-flight!",
+   "official": "",
+   "th": "ช่างชื่นใจ! ได้ยลแสงระยับยามโบยบินไกล!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcritter1",
+   "en": "Hehe, just a fun little song my friend and I used to sing when we were out catching fireflies...",
+   "official": "",
+   "th": "ฮิฮิ แค่เพลงสนุก ๆ ที่ฉันกับเพื่อนเคยร้องตอนออกไปจับหิ่งห้อยน่ะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcritter2",
+   "en": "Hanging out with you <name>. It brings back a lot of old memories",
+   "official": "",
+   "th": "การได้อยู่กับคุณ <name> ทำให้ฉันนึกถึงความทรงจำเก่า ๆ มากมาย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcritter3",
+   "en": "Memories I thought lost a long time ago",
+   "official": "",
+   "th": "ความทรงจำที่ฉันคิดว่าหายไปนานแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcritter4",
+   "en": "I'm happy you make me remember, <name>... :heart:",
+   "official": "",
+   "th": "ดีใจที่คุณทำให้ฉันนึกขึ้นได้นะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_completeshowcritter",
+   "en": "I'm happy, you're happy <settlername> :heart:",
+   "official": "",
+   "th": "คุณมีความสุข ฉันก็มีความสุข <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcrittercompletedchat1",
+   "en": "They light up the night and the endless skies!",
+   "official": "",
+   "th": "พวกมันส่องสว่างทั่วราตรีและฟ้ากว้างไกล!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_showcrittercompletedchat2",
+   "en": "Just like your eyes <name>, Catcher of the Fireflies! :heart:",
+   "official": "",
+   "th": "เหมือนดวงตาคุณ <name> นักจับหิ่งห้อยผู้ยิ่งใหญ่! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmob1",
+   "en": "No, not again, it can't be happening again!",
+   "official": "",
+   "th": "ไม่ ไม่อีกแล้ว มันจะเกิดขึ้นอีกไม่ได้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmob2",
+   "en": "I won't allow it to happen again!",
+   "official": "",
+   "th": "ฉันจะไม่ยอมให้มันเกิดขึ้นอีก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmob3",
+   "en": "<name>!",
+   "official": "",
+   "th": "<name>!",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmob4",
+   "en": "Pack you gear. We're going hunting!",
+   "official": "",
+   "th": "เก็บอุปกรณ์ซะ เราจะออกล่ากัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_acceptkillmobbutton",
+   "en": "Uhm, okay, what are we hunting <settlername>?",
+   "official": "",
+   "th": "เอ่อ โอเค เราจะล่าอะไรเหรอ <settlername>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinekillmobbutton",
+   "en": "Think I'll pass <settlername>...",
+   "official": "",
+   "th": "ขอผ่านดีกว่า <settlername>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmobacceptedchat1",
+   "en": "We're hunting the <mob>",
+   "official": "",
+   "th": "เราจะล่า <mob>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmobacceptedchat2",
+   "en": "I've faced him before, the coward is hiding in the <location>!",
+   "official": "",
+   "th": "ฉันเคยเจอมันมาก่อน เจ้าขี้ขลาดนั่นซ่อนอยู่ใน <location>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmobtip1",
+   "en": "The <mob> is hiding out in the <location>",
+   "official": "",
+   "th": "<mob> ซ่อนตัวอยู่ใน <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_killmobtip2",
+   "en": "Bring everything you got <name>, we end this today!",
+   "official": "",
+   "th": "เอาทุกอย่างที่มีไปเลย <name> เราจะจบเรื่องนี้วันนี้!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_mobkilledchat",
+   "en": "That one was for <friendname>!",
+   "official": "",
+   "th": "นั่นเพื่อ <friendname>!",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate_mobkilled1",
+   "en": "It's over...",
+   "official": "",
+   "th": "จบแล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_mobkilled2",
+   "en": "Why doesn't it feel like it's over though <name>?",
+   "official": "",
+   "th": "แต่ทำไมถึงไม่รู้สึกว่ามันจบล่ะ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_mobkilled3",
+   "en": "Why does it feel the exact same as before...",
+   "official": "",
+   "th": "ทำไมยังรู้สึกเหมือนเดิมทุกอย่าง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_mobkilled4",
+   "en": "I just... I need to get out of here",
+   "official": "",
+   "th": "ฉันแค่... ฉันต้องไปจากที่นี่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_completekilledmobbutton",
+   "en": "<settlername> you're scaring me, what's going on!?",
+   "official": "",
+   "th": "<settlername> คุณทำฉันกลัวนะ เกิดอะไรขึ้น!?",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate_completekilledmobchat1",
+   "en": "I just need some time alone <name>",
+   "official": "",
+   "th": "ฉันแค่อยากอยู่คนเดียวสักพัก <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_completekilledmobchat2",
+   "en": "I'm sorry... :heart:",
+   "official": "",
+   "th": "ขอโทษนะ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiome1",
+   "en": "<name>... I'm sorry if I scared you earlier",
+   "official": "",
+   "th": "<name>... ขอโทษนะถ้าเมื่อกี้ทำให้คุณตกใจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiome2",
+   "en": "The <mob> and me have a complicated past",
+   "official": "",
+   "th": "ฉันกับ <mob> มีเรื่องในอดีตที่ซับซ้อน",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate_visitbiome3",
+   "en": "I thought defeating him would change things...",
+   "official": "",
+   "th": "ฉันนึกว่าการเอาชนะมันได้จะทำให้อะไร ๆ เปลี่ยนไป...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiome4",
+   "en": "Perhaps we could go somewhere more private and talk?",
+   "official": "",
+   "th": "เราไปคุยกันที่ที่เป็นส่วนตัวกว่านี้ได้ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_acceptvisitbiomebutton",
+   "en": "Of course <settlername>, where to?",
+   "official": "",
+   "th": "ได้สิ <settlername> ไปไหนดี?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinevisitbiomebutton",
+   "en": "Maybe some other time <settlername>",
+   "official": "",
+   "th": "ไว้โอกาสหน้านะ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomeacceptedchat1",
+   "en": "To the <location> biome <name>",
+   "official": "",
+   "th": "ไปไบโอม<location>กันนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomeacceptedchat2",
+   "en": "Somewhere quiet, **near the water**...",
+   "official": "",
+   "th": "ที่เงียบ ๆ **ใกล้น้ำ**...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomeacceptedchat3",
+   "en": "And hey, bring something for us to sit on. A **Bench** or something :heart:",
+   "official": "",
+   "th": "แล้วก็ เอาอะไรมาให้นั่งด้วยนะ **ม้านั่ง**หรืออะไรก็ได้ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiometip1",
+   "en": "Let's go somewhere quiet in the <location> biome",
+   "official": "",
+   "th": "ไปหาที่เงียบ ๆ ในไบโอม<location>กัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiometip2",
+   "en": "**Near the water**, I'd like that <name> :heart:",
+   "official": "",
+   "th": "**ใกล้น้ำ** ฉันชอบแบบนั้นนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiometip3",
+   "en": "And it'd be great if you could bring a **Bench** or some **Chairs** for us to sit on",
+   "official": "",
+   "th": "แล้วถ้าเอา**ม้านั่ง**หรือ**เก้าอี้**มาให้นั่งด้วยก็จะดีมาก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomelocationfound1",
+   "en": "<name>, right here is good :heart:",
+   "official": "",
+   "th": "<name> ตรงนี้แหละดีเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomelocationfound2",
+   "en": "Place down something we can sit on, and I'll tell you everything",
+   "official": "",
+   "th": "วางอะไรให้เรานั่งหน่อย แล้วฉันจะเล่าให้ฟังทุกอย่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomesittingdownchat1",
+   "en": "My friend <friendname> used to love it here...",
+   "official": "",
+   "th": "<friendname> เพื่อนของฉันเคยชอบที่นี่มาก...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomesittingdownchat2",
+   "en": "The cute snow hares, heh, tossing snowballs...",
+   "official": "",
+   "th": "กระต่ายหิมะน่ารัก ๆ เฮะ ปาก้อนหิมะใส่กัน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomesittingdownchat3",
+   "en": "And the fireflies... :heart:",
+   "official": "",
+   "th": "แล้วก็หิ่งห้อย... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompleted1",
+   "en": "I'm sorry I never told you about <friendname> <name>",
+   "official": "",
+   "th": "ขอโทษที่ไม่เคยเล่าเรื่อง <friendname> ให้ฟังนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompleted2",
+   "en": "When I heard the <mob> was back, I had to do something!",
+   "official": "",
+   "th": "พอได้ยินว่า <mob> กลับมา ฉันก็ต้องทำอะไรสักอย่าง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompleted3",
+   "en": "<friendname> and I used to be close, until I lost them to the <mob> a long time ago",
+   "official": "",
+   "th": "ฉันกับ <friendname> เคยสนิทกันมาก จนกระทั่งฉันเสียเพื่อนไปให้ <mob> เมื่อนานมาแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompleted4",
+   "en": "I thought this would change things, but it still hurts...",
+   "official": "",
+   "th": "ฉันนึกว่าเรื่องนี้จะทำให้อะไร ๆ เปลี่ยนไป แต่มันก็ยังเจ็บอยู่...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompletedacceptbutton",
+   "en": "Grief takes time <settlername> :heart:",
+   "official": "",
+   "th": "ความเศร้าต้องใช้เวลานะ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompletedacceptedchat1",
+   "en": "Yeah I guess it does...",
+   "official": "",
+   "th": "อืม คงอย่างนั้น...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompletedacceptedchat2",
+   "en": "Thank you for listening <name>... :heart:",
+   "official": "",
+   "th": "ขอบคุณที่รับฟังนะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_visitbiomecompletedacceptedchat3",
+   "en": "I don't know what I'd do without you :heart:",
+   "official": "",
+   "th": "ไม่รู้เลยว่าถ้าไม่มีคุณ ฉันจะเป็นยังไง :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobject1",
+   "en": "I've been thinking <name>...",
+   "official": "",
+   "th": "ฉันคิดมาสักพักแล้วนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobject2",
+   "en": "I think I'd like to place a <object> in our settlement",
+   "official": "",
+   "th": "ฉันอยากวาง <object> ไว้ในนิคมของเรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobject3",
+   "en": "In memory of <friendname>... Their favourite color was always <color>",
+   "official": "",
+   "th": "เพื่อระลึกถึง <friendname>... สีโปรดของเพื่อนคือ<color>มาตลอด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobject4",
+   "en": "Would you help me <name>? I could really use you by my side for this :heart:",
+   "official": "",
+   "th": "ช่วยฉันหน่อยได้ไหม <name>? ฉันอยากให้คุณอยู่ข้าง ๆ ตอนทำเรื่องนี้ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_acceptplaceobjectbutton",
+   "en": "I'll be at your side always, <settlername> :heart:",
+   "official": "",
+   "th": "ฉันจะอยู่ข้างคุณเสมอ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_declineplaceobjectbutton",
+   "en": "Sorry <settlername>, don't have the time right now",
+   "official": "",
+   "th": "ขอโทษนะ <settlername> ตอนนี้ไม่มีเวลา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobjectacceptedchat1",
+   "en": "Thank you <name> :heart:",
+   "official": "",
+   "th": "ขอบคุณนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobjectacceptedchat2",
+   "en": "You can make a <object> at the <workstation>",
+   "official": "",
+   "th": "คุณทำ <object> ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_placeobjectacceptedchat3",
+   "en": "When you're ready, place it while I'm in your Adventure Party",
+   "official": "",
+   "th": "พร้อมเมื่อไร ก็วางตอนที่ฉันอยู่ในปาร์ตี้ผจญภัยของคุณนะ",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "quietcompassionate2_placeobjectacceptedchat4",
+   "en": "Then I'll say a few words...",
+   "official": "",
+   "th": "แล้วฉันจะกล่าวอะไรสักหน่อย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_craftandplaceobjecttip1",
+   "en": "You can make a <object> at the <workstation> <name>",
+   "official": "",
+   "th": "คุณทำ <object> ได้ที่ <workstation> นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_craftandplaceobjecttip2",
+   "en": "When you're ready, place it anywhere in the settlement while I'm in your Adventure Party",
+   "official": "",
+   "th": "พร้อมเมื่อไรก็วางไว้ที่ไหนก็ได้ในนิคม ตอนที่ฉันอยู่ในปาร์ตี้ผจญภัยของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_craftandplaceobjecttip3",
+   "en": "Then I'll say a few words...",
+   "official": "",
+   "th": "แล้วฉันจะกล่าวอะไรสักหน่อย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectcraftedchat",
+   "en": "<friendname> would've loved that <object>, <name> :heart:",
+   "official": "",
+   "th": "<friendname> ต้องชอบ <object> นั่นมากแน่ ๆ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplacedchat1",
+   "en": "Thank you <name>...",
+   "official": "",
+   "th": "ขอบคุณนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplacedchat2",
+   "en": "<friendname>... Wherever you are now...",
+   "official": "",
+   "th": "<friendname>... ไม่ว่าตอนนี้จะอยู่ที่ไหน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplacedchat3",
+   "en": "I'm sure you light up the sky...",
+   "official": "",
+   "th": "ฉันมั่นใจว่าคุณคงส่องแสงอยู่บนฟ้า...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplacedchat4",
+   "en": "With your enchanting... Fire-flight... :heart:",
+   "official": "",
+   "th": "ด้วยแสงระยับ... ยามโบยบิน... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplacedoutsidesettlementchat",
+   "en": "I'd like you to place the <object> inside our settlement instead <name>",
+   "official": "",
+   "th": "ฉันอยากให้คุณวาง <object> ในนิคมของเรามากกว่านะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplaced1",
+   "en": "<name>... I can't even begin to tell you how much you mean to me...",
+   "official": "",
+   "th": "<name>... ฉันไม่รู้จะบอกยังไงเลยว่าคุณมีความหมายกับฉันแค่ไหน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplaced2",
+   "en": "When I asked you to take on the <mob> with me, you didn't flinch",
+   "official": "",
+   "th": "ตอนที่ฉันขอให้คุณไปสู้กับ <mob> ด้วยกัน คุณไม่ลังเลเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplaced3",
+   "en": "When I told you about <friendname>, you listened...",
+   "official": "",
+   "th": "ตอนที่ฉันเล่าเรื่อง <friendname> คุณก็รับฟัง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_objectplaced4",
+   "en": "<name>... If you want me, I'm yours, forever... Okay? :heart:",
+   "official": "",
+   "th": "<name>... ถ้าคุณต้องการ ฉันก็เป็นของคุณตลอดไป... นะ? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplacedbutton",
+   "en": "Forever <settlername> :heart:",
+   "official": "",
+   "th": "ตลอดไป <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_declineobjectplacedbutton",
+   "en": "I'm sorry <settlername>...",
+   "official": "",
+   "th": "ขอโทษนะ <settlername>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplacedacceptedchat1",
+   "en": "Really <name>? You're not kidding right!? :heart:",
+   "official": "",
+   "th": "จริงเหรอ <name>? ไม่ได้ล้อเล่นใช่ไหม!? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplacedacceptedchat2",
+   "en": "I'll be there for you always <name> :heart:",
+   "official": "",
+   "th": "ฉันจะอยู่เคียงข้างคุณเสมอ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplacedacceptedchat3",
+   "en": "You and me <name>, forever :heart:",
+   "official": "",
+   "th": "คุณกับฉัน <name> ตลอดไป :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplaceddeclinedchat1",
+   "en": "Oh... Okay... I'm sorry for bringing it up",
+   "official": "",
+   "th": "อ้อ... โอเค... ขอโทษที่พูดเรื่องนี้ขึ้นมา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_completeobjectplaceddeclinedchat2",
+   "en": "But I'll be here <name>... If you change your mind",
+   "official": "",
+   "th": "แต่ฉันจะรออยู่ตรงนี้นะ <name>... ถ้าคุณเปลี่ยนใจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_suggestbreakupbutton",
+   "en": "<settlername>... I think we should talk",
+   "official": "",
+   "th": "<settlername>... ฉันว่าเราควรคุยกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_suggestbreakup1",
+   "en": "Of course my flower :heart:",
+   "official": "",
+   "th": "ได้สิ ดอกไม้ของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_suggestbreakup2",
+   "en": "You look sad. Did something happen? Do you want a hug?",
+   "official": "",
+   "th": "ดูเศร้าจัง มีอะไรเกิดขึ้นเหรอ? อยากให้กอดไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinebreakupbutton",
+   "en": "No, no, I'm fine... Actually yeah, I could use a hug :heart:",
+   "official": "",
+   "th": "ไม่ ๆ ไม่เป็นไร... จริง ๆ ก็อยากได้กอดสักทีนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_acceptedbreakupchat1",
+   "en": "Break up..?",
+   "official": "",
+   "th": "เลิกกัน..?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_acceptedbreakupchat2",
+   "en": "But I thought we had something special <name>.",
+   "official": "",
+   "th": "แต่ฉันนึกว่าเรามีอะไรพิเศษต่อกันนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_acceptedbreakupchat3",
+   "en": "I should've known. In the end, everyone leaves me...",
+   "official": "",
+   "th": "น่าจะรู้ตั้งแต่แรก สุดท้ายทุกคนก็ทิ้งฉันไป...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_declinedbreakupchat1",
+   "en": "A hug from one flower to another, coming up!",
+   "official": "",
+   "th": "กอดจากดอกไม้ดอกนี้ถึงดอกไม้ของฉัน มาแล้ว!",
+   "status": "new",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "quietcompassionate_declinedbreakupchat2",
+   "en": "Surely that'll turn your frown, upside down :heart:",
+   "official": "",
+   "th": "รับรองว่าหน้าบึ้งจะกลายเป็นยิ้มแน่นอน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_relationshipchat1",
+   "en": "Oh <name>...",
+   "official": "",
+   "th": "โอ้ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate1_relationshipchat2",
+   "en": "You take my breath away, you know that right? :heart:",
+   "official": "",
+   "th": "คุณทำให้ฉันใจเต้นแรงนะ รู้ใช่ไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_relationshipchat1",
+   "en": "Today is looking gorgeous <name>!",
+   "official": "",
+   "th": "วันนี้อากาศดีมากเลย <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate2_relationshipchat2",
+   "en": "How about you and I sneak away for a little while? :heart:",
+   "official": "",
+   "th": "เราสองคนแอบหนีไปสักพักดีไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate3_relationshipchat1",
+   "en": "Fireflies and snow hares!",
+   "official": "",
+   "th": "หิ่งห้อยกับกระต่ายหิมะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate3_relationshipchat2",
+   "en": "Try to catch them, if you dare!",
+   "official": "",
+   "th": "ลองจับดูสิ ถ้ากล้าพอนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate3_relationshipchat3",
+   "en": "But if you do, you got the gift!",
+   "official": "",
+   "th": "แต่ถ้าจับได้ ก็ถือว่ามีพรสวรรค์!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate3_relationshipchat4",
+   "en": "Cause both of them are mighty swift! :heart:",
+   "official": "",
+   "th": "เพราะทั้งสองวิ่งไวกันสุดขั้ว! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_relationshipnight1",
+   "en": "Hmm... Oh hey <name> :heart:",
+   "official": "",
+   "th": "อืม... อ้าว หวัดดี <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_relationshipnight2",
+   "en": "I was just having the most wonderful dream...",
+   "official": "",
+   "th": "ฉันเพิ่งฝันดีที่สุดเลย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_relationshipnight3",
+   "en": "Just you... Me... And a <item> :heart:",
+   "official": "",
+   "th": "แค่คุณ... ฉัน... แล้วก็ <item> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_evilsprotector1",
+   "en": "I'm glad you defeated with the <mob> <name>",
+   "official": "",
+   "th": "ดีใจที่คุณเอาชนะ <mob> ได้นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_evilsprotector2",
+   "en": "That mad bat has been terrorizing so many poor villages!",
+   "official": "",
+   "th": "ค้างคาวบ้านั่นสร้างความหวาดกลัวให้หมู่บ้านน่าสงสารมาตั้งเยอะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_evilsprotector3",
+   "en": "I was afraid to go out at night and look for fireflies!",
+   "official": "",
+   "th": "ฉันไม่กล้าออกไปหาหิ่งห้อยตอนกลางคืนเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_evilsprotector4",
+   "en": "But no more :heart:",
+   "official": "",
+   "th": "แต่ไม่ต้องกลัวอีกแล้ว :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_swampguardian1",
+   "en": "You defeated <mob> as well now <name>?",
+   "official": "",
+   "th": "ตอนนี้คุณเอาชนะ <mob> ได้อีกแล้วเหรอ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_swampguardian2",
+   "en": "Don't get me wrong, it's impressive! :heart:",
+   "official": "",
+   "th": "อย่าเข้าใจผิดนะ มันน่าประทับใจมาก! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_swampguardian3",
+   "en": "But sometimes I do wonder...",
+   "official": "",
+   "th": "แต่บางทีฉันก็สงสัย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_swampguardian4",
+   "en": "Was the <mob> even hurting anyone..?",
+   "official": "",
+   "th": "<mob> ทำร้ายใครด้วยเหรอ..?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_cryoqueen1",
+   "en": "She calls herself the <mob>, huh?",
+   "official": "",
+   "th": "นางเรียกตัวเองว่า <mob> งั้นเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_cryoqueen2",
+   "en": "What'd you think she'd name her kid?",
+   "official": "",
+   "th": "คุณว่านางจะตั้งชื่อลูกว่าอะไร?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_cryoqueen3",
+   "en": "The soft ice princess? :heart:",
+   "official": "",
+   "th": "เจ้าหญิงไอติมซอฟต์เสิร์ฟเหรอ? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_fallenwizard1",
+   "en": "You fought the <mob> <name>?",
+   "official": "",
+   "th": "คุณสู้กับ <mob> มาเหรอ <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_fallenwizard2",
+   "en": "And you won? You promise?",
+   "official": "",
+   "th": "แล้วก็ชนะด้วย? สัญญานะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_fallenwizard3",
+   "en": "Please <name>, promise he won't return... :heart:",
+   "official": "",
+   "th": "ได้โปรด <name> สัญญาว่ามันจะไม่กลับมาอีก... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_crystaldragon1",
+   "en": "A <mob>!?",
+   "official": "",
+   "th": "<mob> เหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_crystaldragon2",
+   "en": "Oh yeah, that sounds scary, of course!",
+   "official": "",
+   "th": "อ๋อ ใช่ ฟังดูน่ากลัวแน่นอนอยู่แล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_crystaldragon3",
+   "en": "But <name>...",
+   "official": "",
+   "th": "แต่ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_crystaldragon4",
+   "en": "It must've had so many pretty colors! :heart:",
+   "official": "",
+   "th": "มันต้องมีสีสวย ๆ เยอะแยะเลยแน่ ๆ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_ascendedwizard1",
+   "en": "<name>, you promised me the <mob1> wouldn't return!",
+   "official": "",
+   "th": "<name> คุณสัญญากับฉันแล้วนะว่า <mob1> จะไม่กลับมาอีก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_ascendedwizard2",
+   "en": "But then he came back as the <mob2>!?",
+   "official": "",
+   "th": "แต่มันก็กลับมาในร่าง <mob2>!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_ascendedwizard3",
+   "en": "But you say you exploded and vaporized him into the dark depths of the void this time?",
+   "official": "",
+   "th": "แต่คุณบอกว่าคราวนี้คุณระเบิดมันจนสลายหายไปในห้วงลึกแห่งความมืดแล้วเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_ascendedwizard4",
+   "en": "So now he definitely won't come back... Right <name>? :heart:",
+   "official": "",
+   "th": "งั้นตอนนี้มันไม่กลับมาอีกแน่นอน... ใช่ไหม <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_kisschat1",
+   "en": "Uhh... <name> :heart:",
+   "official": "",
+   "th": "อ๊ะ... <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_kisschat2",
+   "en": "Thanks <name>, I needed that :heart:",
+   "official": "",
+   "th": "ขอบคุณนะ <name> กำลังอยากได้อยู่พอดีเลย :heart:",
+   "status": "new",
+   "note": "ตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "quietcompassionate_kisschat3",
+   "en": "You and I forever <name> :heart:",
+   "official": "",
+   "th": "คุณกับฉันตลอดไปนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftfood1",
+   "en": "I've been taking up cooking lately <name> :heart:",
+   "official": "",
+   "th": "ช่วงนี้ฉันเริ่มหัดทำอาหารนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftfood2",
+   "en": "Perhaps you'd like to sample this <item> for me?",
+   "official": "",
+   "th": "ช่วยชิม <item> นี่ให้หน่อยได้ไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftfood3",
+   "en": "I hope it's as delicious as you are :heart:",
+   "official": "",
+   "th": "หวังว่ามันจะน่ากินเหมือนคุณนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftfoodaccept",
+   "en": "<settlername>... You're the best :heart:",
+   "official": "",
+   "th": "<settlername>... คุณดีที่สุดเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftpotion1",
+   "en": "I need you to be careful out there <name>... Okay?",
+   "official": "",
+   "th": "ข้างนอกนั่นระวังตัวด้วยนะ <name>... โอเคไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftpotion2",
+   "en": "I've been crafting some extra <item> for you",
+   "official": "",
+   "th": "ฉันทำ <item> เผื่อไว้ให้คุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftpotion3",
+   "en": "Don't know what I'd do if I lost you :heart:",
+   "official": "",
+   "th": "ไม่รู้ว่าจะทำยังไงถ้าต้องเสียคุณไป :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftpotionaccept",
+   "en": "Thank you <settlername>, these will keep me safe :heart:",
+   "official": "",
+   "th": "ขอบคุณนะ <settlername> ของพวกนี้จะช่วยให้ฉันปลอดภัย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftflower1",
+   "en": "You know I love flowers <name> :heart:",
+   "official": "",
+   "th": "คุณก็รู้ว่าฉันรักดอกไม้นะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftflower2",
+   "en": "And when I made this <item>, I thought of you...",
+   "official": "",
+   "th": "ตอนที่ทำ <item> นี้ ฉันนึกถึงคุณ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftflower3",
+   "en": "Perhaps you could place it somewhere nice in our settlement? :heart:",
+   "official": "",
+   "th": "ช่วยวางไว้ที่สวย ๆ ในนิคมของเราหน่อยได้ไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "quietcompassionate_giftfloweraccept",
+   "en": "Of course <settlername> :heart:",
+   "official": "",
+   "th": "ได้อยู่แล้ว <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestdating1",
+   "en": "A <item>? That's all you brought?",
+   "official": "",
+   "th": "<item> เหรอ? เอามาแค่นี้เองเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestdating2",
+   "en": "You think that's all it's going to take for me to fall for you?",
+   "official": "",
+   "th": "คิดว่าแค่นี้จะทำให้ฉันตกหลุมรักคุณได้งั้นเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestdating3",
+   "en": "ME? For you? Hah!",
+   "official": "",
+   "th": "ฉันเนี่ยนะ? รักคุณ? ฮึ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestdating4",
+   "en": "It's a start though... :heart:",
+   "official": "",
+   "th": "แต่ก็ถือว่าเป็นจุดเริ่มต้นแล้วกัน... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declinedatingbutton",
+   "en": "Forget it",
+   "official": "",
+   "th": "ช่างเถอะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_starteddatingchat",
+   "en": "Drop by later if you're SERIOUS about dating me <name>",
+   "official": "",
+   "th": "ถ้าคุณจริงจังที่จะคบกับฉันละก็ ไว้แวะมาทีหลังนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declineddatingchat",
+   "en": "Yeah, that's what I thought. Hmpf!",
+   "official": "",
+   "th": "นั่นไง ว่าแล้วเชียว ฮึ่ม!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitem1",
+   "en": "Alright <name>, let's see if you're serious about dating me",
+   "official": "",
+   "th": "เอาล่ะ <name> มาดูกันว่าคุณจริงจังที่จะคบกับฉันแค่ไหน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitem2",
+   "en": "The last time you gave me 1 measly flower...",
+   "official": "",
+   "th": "ครั้งที่แล้วคุณให้ดอกไม้กระจอก ๆ ฉันแค่ดอกเดียว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitem3",
+   "en": "For this relationship to continue, I demand <item>",
+   "official": "",
+   "th": "ถ้าจะคบกันต่อ ฉันขอ <item>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitem4",
+   "en": "Look for them on the <location>",
+   "official": "",
+   "th": "ไปหาได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitem5",
+   "en": "I'll be waiting... :heart:",
+   "official": "",
+   "th": "ฉันจะรอนะ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_acceptgiveitembutton",
+   "en": "Here you go <settlername>! <item> as promised!",
+   "official": "",
+   "th": "นี่ไง <settlername>! <item> ตามสัญญา!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_declinegiveitembutton",
+   "en": "<item>... Be right back!",
+   "official": "",
+   "th": "<item>... เดี๋ยวมานะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemtip1",
+   "en": "I'm still waiting for my <item> <name>",
+   "official": "",
+   "th": "ฉันยังรอ <item> อยู่นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemtip2",
+   "en": "Look for them on the <location>",
+   "official": "",
+   "th": "ไปหาได้ที่ <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemtip3",
+   "en": "I'll be waiting...",
+   "official": "",
+   "th": "ฉันจะรอ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_itemgivenchat",
+   "en": "<number1>... <number2>... <amount>! Very good <name>",
+   "official": "",
+   "th": "<number1>... <number2>... <amount>! ดีมาก <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_itemgiven1",
+   "en": "You pass this round <name>",
+   "official": "",
+   "th": "รอบนี้คุณผ่านนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_itemgiven2",
+   "en": "Keep it up and I might take a liking to you... :heart:",
+   "official": "",
+   "th": "ทำแบบนี้ต่อไป ฉันอาจเริ่มถูกใจคุณก็ได้... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_itemgiven3",
+   "en": "Come back in a few days for your next task",
+   "official": "",
+   "th": "อีกสองสามวันกลับมารับภารกิจต่อไปนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_itemgiven4",
+   "en": "Bye now!",
+   "official": "",
+   "th": "บ๊ายบาย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemcompletedbutton",
+   "en": "Bye <settlername>! You're amazing!",
+   "official": "",
+   "th": "บาย <settlername>! คุณสุดยอดมาก!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemcompletedchat1",
+   "en": "I am already aware of this <name>",
+   "official": "",
+   "th": "ฉันรู้ตัวดีอยู่แล้วล่ะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_giveitemcompletedchat2",
+   "en": "Still appreciated though :heart:",
+   "official": "",
+   "th": "แต่ก็ขอบใจนะ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitem1",
+   "en": "Time for round 2 <name>... :heart:",
+   "official": "",
+   "th": "ได้เวลารอบ 2 แล้ว <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitem2",
+   "en": "Now flowers are great and all, but I think it's time we move on to something a bit more... Sparkling...",
+   "official": "",
+   "th": "ดอกไม้ก็ดีอยู่หรอก แต่ฉันว่าถึงเวลาขยับไปหาอะไรที่... แวววาวกว่านี้แล้ว...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitem3",
+   "en": "I'd like you to bring me <item> this time around <name>",
+   "official": "",
+   "th": "รอบนี้ฉันอยากให้คุณเอา <item> มาให้นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitem4",
+   "en": "You can mine them in the <location>",
+   "official": "",
+   "th": "ขุดได้ใน <location>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitem5",
+   "en": "Be a darling and see to it yes? :heart:",
+   "official": "",
+   "th": "ช่วยจัดการให้หน่อยนะ ที่รัก? :heart:",
+   "status": "new",
+   "note": "เป็นเด็กดี = แปลแข็ง/ดูถูก"
+  },
+  {
+   "key": "wealthisall2_acceptgiveitembutton",
+   "en": "<item>! Do you like them <settlername>?",
+   "official": "",
+   "th": "<item>! ชอบไหม <settlername>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_declinegiveitembutton",
+   "en": "Let me grab my pickaxe!",
+   "official": "",
+   "th": "ขอไปหยิบอีเต้อก่อน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitemtip1",
+   "en": "<item> <name>...",
+   "official": "",
+   "th": "<item> ไง <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitemtip2",
+   "en": "If you don't have them, then why are you here?",
+   "official": "",
+   "th": "ถ้ายังไม่มี แล้วมาทำอะไรที่นี่?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitemtip3",
+   "en": "Go look for them in the <location>",
+   "official": "",
+   "th": "ไปหาใน <location> สิ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_itemgivenchat",
+   "en": "Uhhh! Yes, they're so shiny! :heart:",
+   "official": "",
+   "th": "อู้ว! ใช่เลย วิบวับสุด ๆ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_itemgiven1",
+   "en": "Mhmm <name>... It's hard to put in words how much I needed <item>!",
+   "official": "",
+   "th": "อืมม <name>... บอกไม่ถูกเลยว่าฉันอยากได้ <item> มากแค่ไหน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_itemgiven2",
+   "en": "Thank you for these... :heart:",
+   "official": "",
+   "th": "ขอบใจสำหรับของพวกนี้นะ... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_itemgiven3",
+   "en": "I'm starting to think you might be serious about us",
+   "official": "",
+   "th": "ฉันเริ่มคิดแล้วว่าคุณอาจจริงจังกับเรานะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_itemgiven4",
+   "en": "Come back soon!",
+   "official": "",
+   "th": "กลับมาเร็ว ๆ นะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitemcompletedbutton",
+   "en": "I already miss you <settlername>!",
+   "official": "",
+   "th": "ฉันคิดถึงคุณแล้วนะ <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_giveitemcompletedchat",
+   "en": "Join the club <name> :heart:",
+   "official": "",
+   "th": "ใคร ๆ ก็คิดถึงฉันแหละ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitem1",
+   "en": "Back for more? About time",
+   "official": "",
+   "th": "กลับมาอีกแล้วเหรอ? มาช้าจังนะ",
+   "status": "new",
+   "note": "ผิดความ (มาขอ)"
+  },
+  {
+   "key": "wealthisall3_giveitem2",
+   "en": "I want to freshen up my look to something a bit more fitting of my status",
+   "official": "",
+   "th": "ฉันอยากเปลี่ยนลุคให้สมกับฐานะของฉันหน่อย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitem3",
+   "en": "Bring me a <item>",
+   "official": "",
+   "th": "เอา <item> มาให้ฉัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitem4",
+   "en": "I believe you can craft it at the <workstation>",
+   "official": "",
+   "th": "ฉันว่าประดิษฐ์ได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitem5",
+   "en": "Don't you think it'd look pretty on me <name>? :heart:",
+   "official": "",
+   "th": "คุณว่าฉันใส่แล้วจะดูดีไหม <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_acceptgiveitembutton",
+   "en": "Please accept this <item> <settlername>!",
+   "official": "",
+   "th": "ได้โปรดรับ <item> นี้ไว้ <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_declinegiveitembutton",
+   "en": "I'll get right on that!",
+   "official": "",
+   "th": "เดี๋ยวจัดให้เลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemtip1",
+   "en": "Still waiting on my <item> <name>...",
+   "official": "",
+   "th": "ยังรอ <item> อยู่นะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemtip2",
+   "en": "You can put it together at the <workstation>",
+   "official": "",
+   "th": "คุณทำได้ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemtip3",
+   "en": "Get to it!",
+   "official": "",
+   "th": "รีบไปสิ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_itemgivenchat",
+   "en": "Mhmm! I look amazing with this! :heart:",
+   "official": "",
+   "th": "อืมม! ใส่แล้วฉันดูดีสุด ๆ! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_itemgiven1",
+   "en": "Gotta say, this <item> looks quite dashing on me! :heart:",
+   "official": "",
+   "th": "ต้องบอกเลยว่า <item> นี่ใส่แล้วฉันดูเฉียบมาก! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_itemgiven2",
+   "en": "I thought you'd be discouraged by now <name>...",
+   "official": "",
+   "th": "นึกว่าป่านนี้คุณจะถอดใจแล้วซะอีก <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_itemgiven3",
+   "en": "But you just keep bringing whatever I ask for",
+   "official": "",
+   "th": "แต่คุณก็ยังเอาทุกอย่างที่ฉันขอมาให้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_itemgiven4",
+   "en": "Surely there has to be a limit, right <name>?",
+   "official": "",
+   "th": "มันต้องมีขีดจำกัดสิ ใช่ไหม <name>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemcompletedbutton",
+   "en": "I'll get you ANYTHING <settlername>!",
+   "official": "",
+   "th": "ฉันหาให้คุณได้ทุกอย่าง <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemcompletedchat1",
+   "en": "Hmm, you would, wouldn't you?",
+   "official": "",
+   "th": "อืม คุณคงทำจริงสินะ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_giveitemcompletedchat2",
+   "en": "We'll see soon enough... :heart:",
+   "official": "",
+   "th": "เดี๋ยวก็รู้... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitem1",
+   "en": "You just can't get enough of me, huh <name>? :heart:",
+   "official": "",
+   "th": "ขาดฉันไม่ได้เลยสินะ <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitem2",
+   "en": "At this point, I'm starting to think you'd bring me anything I ask for",
+   "official": "",
+   "th": "มาถึงตอนนี้ ฉันเริ่มคิดแล้วว่าไม่ว่าจะขออะไร คุณก็คงหามาให้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitem3",
+   "en": "So let's test that",
+   "official": "",
+   "th": "งั้นมาลองดูกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitem4",
+   "en": "Bring me <item>",
+   "official": "",
+   "th": "เอา <item> มาให้ฉัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_acceptgiveitembutton",
+   "en": "<item>! For you <settlername>!",
+   "official": "",
+   "th": "<item>! ให้คุณเลย <settlername>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_declinegiveitembutton",
+   "en": "I might need to save up a bit first...",
+   "official": "",
+   "th": "อาจต้องเก็บเงินก่อนสักหน่อย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemtip1",
+   "en": "Still waiting for <item> <name>",
+   "official": "",
+   "th": "ยังรอ <item> อยู่นะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemtip2",
+   "en": "I know it's a lot of money, but that's what I'm asking for...",
+   "official": "",
+   "th": "รู้ว่ามันเงินเยอะ แต่ฉันก็ขอแบบนั้นแหละ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_itemgivenchat",
+   "en": "Wow. You really just gave me <item>!?",
+   "official": "",
+   "th": "ว้าว คุณให้ <item> ฉันจริง ๆ เหรอ!?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_itemgiven1",
+   "en": "I can't believe you actually just gave me <item> <name>!",
+   "official": "",
+   "th": "ไม่อยากเชื่อเลยว่าคุณให้ <item> ฉันจริง ๆ <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_itemgiven2",
+   "en": "I was just been messing around with you at first, but...",
+   "official": "",
+   "th": "ตอนแรกฉันแค่แกล้งคุณเล่นเฉย ๆ แต่...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_itemgiven3",
+   "en": "This is getting crazy!",
+   "official": "",
+   "th": "นี่มันเริ่มบ้าไปแล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_itemgiven4",
+   "en": "Why <name>? Why are you just giving me all this stuff!",
+   "official": "",
+   "th": "ทำไม <name>? ทำไมคุณถึงให้ของพวกนี้ฉันทั้งหมด!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemcompletedbutton",
+   "en": "Because you deserve everything <settlername>... :heart:",
+   "official": "",
+   "th": "เพราะคุณคู่ควรกับทุกสิ่ง <settlername>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemcompletedchat1",
+   "en": "Because I deserve everything...",
+   "official": "",
+   "th": "เพราะฉันคู่ควรกับทุกสิ่ง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemcompletedchat2",
+   "en": "You think I deserve...",
+   "official": "",
+   "th": "คุณคิดว่าฉันคู่ควร...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall4_giveitemcompletedchat3",
+   "en": "<name>... :heart:",
+   "official": "",
+   "th": "<name>... :heart:",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiome1",
+   "en": "Hey <name>... :heart:",
+   "official": "",
+   "th": "นี่ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiome2",
+   "en": "I'm not going to ask you to give me anything today",
+   "official": "",
+   "th": "วันนี้ฉันจะไม่ขออะไรจากคุณหรอก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiome3",
+   "en": "I'm done with that",
+   "official": "",
+   "th": "ฉันเลิกทำแบบนั้นแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiome4",
+   "en": "I thought that maybe we could go for walk together and talk for a bit...",
+   "official": "",
+   "th": "ฉันคิดว่าเราน่าจะไปเดินเล่นแล้วคุยกันสักหน่อย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiome5",
+   "en": "You up for that <name>? :heart:",
+   "official": "",
+   "th": "ไปไหม <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_acceptvisitbiomebutton",
+   "en": "Always <settlername> :heart:",
+   "official": "",
+   "th": "ได้เสมอ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declinevisitbiomebutton",
+   "en": "Can't right now <settlername>",
+   "official": "",
+   "th": "ตอนนี้ไม่ได้นะ <settlername>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomeacceptedchat1",
+   "en": "Let's go to the <location> <name>",
+   "official": "",
+   "th": "ไป <location> กันนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomeacceptedchat2",
+   "en": "Somewhere cozy, **near the water** where we won't be disturbed :heart:",
+   "official": "",
+   "th": "หาที่อบอุ่น ๆ **ใกล้น้ำ** ที่ไม่มีใครมากวน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomeacceptedchat3",
+   "en": "And maybe bring something for us to sit on. A **Bench** or some **Chairs** will do",
+   "official": "",
+   "th": "แล้วเอาอะไรมาให้นั่งด้วยนะ **ม้านั่ง**หรือ**เก้าอี้**ก็ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiometip1",
+   "en": "Let's go to the <location> <name>",
+   "official": "",
+   "th": "ไป <location> กันนะ <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiometip2",
+   "en": "Somewhere cozy, **near the water** where we won't be disturbed :heart:",
+   "official": "",
+   "th": "หาที่อบอุ่น ๆ **ใกล้น้ำ** ที่ไม่มีใครมากวน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiometip3",
+   "en": "And maybe bring something for us to sit on. A **Bench** or some **Chairs** will do",
+   "official": "",
+   "th": "แล้วเอาอะไรมาให้นั่งด้วยนะ **ม้านั่ง**หรือ**เก้าอี้**ก็ได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomelocationfound1",
+   "en": "I think it's nice here <name>, don't you?",
+   "official": "",
+   "th": "ฉันว่าตรงนี้ดีนะ <name> คุณว่าไหม?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomelocationfound2",
+   "en": "Did you bring something for us to sit on? A **Bench** or some **Chairs**?",
+   "official": "",
+   "th": "เอาอะไรมาให้นั่งหรือเปล่า? **ม้านั่ง**หรือ**เก้าอี้**?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomesittingdownchat1",
+   "en": "Alright. So here goes...",
+   "official": "",
+   "th": "โอเค งั้นพูดเลยนะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomesittingdownchat2",
+   "en": "I think I may have asked a bit too much of you these last few weeks",
+   "official": "",
+   "th": "ฉันว่าสองสามสัปดาห์ที่ผ่านมา ฉันขออะไรจากคุณมากไปหน่อย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomesittingdownchat3",
+   "en": "And I'm so sorry about that",
+   "official": "",
+   "th": "และฉันขอโทษจริง ๆ นะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomesittingdownchat4",
+   "en": "I just never had anyone care so much about me <name>... :heart:",
+   "official": "",
+   "th": "แค่ไม่เคยมีใครใส่ใจฉันมากขนาดนี้มาก่อนเลย <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleted1",
+   "en": "I hope you can forgive me <name>...",
+   "official": "",
+   "th": "หวังว่าคุณจะให้อภัยฉันนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleted2",
+   "en": "And I want you to know that I've treasured every single thing you've given me :heart:",
+   "official": "",
+   "th": "และอยากให้รู้ว่าฉันทะนุถนอมของทุกชิ้นที่คุณให้มา :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleted3",
+   "en": "But most of all, I've treasured all the love you've given me :heart:",
+   "official": "",
+   "th": "แต่ที่ทะนุถนอมที่สุดคือความรักทั้งหมดที่คุณให้ฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleted4",
+   "en": "And if you still want me after all this...",
+   "official": "",
+   "th": "และถ้าหลังจากทั้งหมดนี้ คุณยังต้องการฉันอยู่...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleted5",
+   "en": "Then please <name>, let me give you some of that love back :heart:",
+   "official": "",
+   "th": "ได้โปรดนะ <name> ให้ฉันได้มอบความรักคืนให้คุณบ้าง :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompletedacceptbutton",
+   "en": "I want your love, <settlername> :heart:",
+   "official": "",
+   "th": "ฉันต้องการความรักของคุณ <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleteddeclinebutton",
+   "en": "No <settlername>, I don't want your love",
+   "official": "",
+   "th": "ไม่ <settlername> ฉันไม่ต้องการความรักของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompletedacceptedchat1",
+   "en": "Really? Even after everything I put you through <name>? :heart:",
+   "official": "",
+   "th": "จริงเหรอ? ทั้งที่ฉันทำให้คุณลำบากขนาดนั้นเลยเหรอ <name>? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompletedacceptedchat2",
+   "en": "I promise, you won't regret this <name>! :heart:",
+   "official": "",
+   "th": "สัญญาเลยว่าคุณจะไม่เสียใจ <name>! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompletedacceptedchat3",
+   "en": "You're crazy amazing <name>, you know that right? :heart:",
+   "official": "",
+   "th": "คุณนี่สุดยอดจนบ้าไปแล้ว <name> รู้ใช่ไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleteddeclinedchat1",
+   "en": "Yeah... That makes sense",
+   "official": "",
+   "th": "อืม... ก็สมเหตุสมผลนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleteddeclinedchat2",
+   "en": "I'm sorry <name>, for everything",
+   "official": "",
+   "th": "ขอโทษนะ <name> สำหรับทุกอย่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_visitbiomecompleteddeclinedchat3",
+   "en": "If you ever change your mind about me. Let me know...",
+   "official": "",
+   "th": "ถ้าวันไหนคุณเปลี่ยนใจ บอกฉันด้วยนะ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestbreakupbutton",
+   "en": "<settlername>... I think we should talk",
+   "official": "",
+   "th": "<settlername>... ฉันว่าเราควรคุยกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestbreakup1",
+   "en": "What's up <name>? You don't look to happy",
+   "official": "",
+   "th": "มีอะไรเหรอ <name>? ดูไม่ค่อยสดใสเลย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_suggestbreakup2",
+   "en": "Did I do anything wrong?",
+   "official": "",
+   "th": "ฉันทำอะไรผิดหรือเปล่า?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declinebreakupbutton",
+   "en": "No, of course not. Just been a long day is all",
+   "official": "",
+   "th": "ไม่ ไม่ใช่หรอก แค่วันนี้มันเหนื่อยน่ะ",
+   "status": "new",
+   "note": "long day = เหนื่อย"
+  },
+  {
+   "key": "wealthisall_acceptedbreakupchat1",
+   "en": "I knew this day would come...",
+   "official": "",
+   "th": "ฉันรู้ว่าวันนี้ต้องมาถึง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_acceptedbreakupchat2",
+   "en": "But that doesn't change how sad it's making me...",
+   "official": "",
+   "th": "แต่ก็ไม่ได้ทำให้ฉันเศร้าน้อยลงเลย...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_acceptedbreakupchat3",
+   "en": "Goodbye <name>...",
+   "official": "",
+   "th": "ลาก่อนนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declinedbreakupchat1",
+   "en": "Okay <name>... :heart:",
+   "official": "",
+   "th": "โอเค <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_declinedbreakupchat2",
+   "en": "Let me know the next time you're having a long day, so I can make it feel a bit shorter, okay? :heart:",
+   "official": "",
+   "th": "คราวหน้าถ้าวันไหนเหนื่อยอีก บอกฉันนะ ฉันจะช่วยให้มันผ่านไปเร็วขึ้น โอเคไหม? :heart:",
+   "status": "new",
+   "note": "ให้ต่อกับบรรทัดก่อน"
+  },
+  {
+   "key": "wealthisall1_relationshipchat1",
+   "en": "So uhm, you got more gifts for me <name>?",
+   "official": "",
+   "th": "ว่าแต่ เอ่อ มีของขวัญมาให้ฉันอีกไหม <name>?",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "wealthisall1_relationshipchat2",
+   "en": "Kidding!",
+   "official": "",
+   "th": "ล้อเล่น!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall1_relationshipchat3",
+   "en": "You might have some coming your way though, cutie :heart:",
+   "official": "",
+   "th": "แต่เร็ว ๆ นี้คุณอาจได้ของขวัญบ้างนะ คนน่ารัก :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "wealthisall2_relationshipchat1",
+   "en": "I demand a hug from you <name>! Right now!",
+   "official": "",
+   "th": "ฉันขอกอดจากคุณ <name>! เดี๋ยวนี้เลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall2_relationshipchat2",
+   "en": "A nice big cozy bear hug... Mhmm! :heart:",
+   "official": "",
+   "th": "กอดหมีแน่น ๆ อุ่น ๆ... อืมม! :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_relationshipchat1",
+   "en": "This day is turning out alright <name>...",
+   "official": "",
+   "th": "วันนี้เริ่มดีขึ้นแล้วนะ <name>...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall3_relationshipchat2",
+   "en": "Now that you're in it :heart:",
+   "official": "",
+   "th": "เพราะมีคุณอยู่ด้วยไง :heart:",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "wealthisall_relationshipnight1",
+   "en": "Mhmm... 5 more minutes...",
+   "official": "",
+   "th": "อืมม... ขออีก 5 นาที...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_relationshipnight2",
+   "en": "Better yet <name>, 5 more hours...",
+   "official": "",
+   "th": "ไม่สิ <name> ขออีก 5 ชั่วโมง...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_relationshipnight3",
+   "en": "How about you snuggle up with me, instead of waking me up, huh? :heart:",
+   "official": "",
+   "th": "แทนที่จะปลุกฉัน มานอนกอดกันดีกว่าไหม? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_chieftain1",
+   "en": "Yeah okay, so you defeated the <mob>, big whoop...",
+   "official": "",
+   "th": "อ้อ โอเค คุณชนะ <mob> แล้ว แล้วไงล่ะ...",
+   "status": "new",
+   "note": "big whoop = ประชด"
+  },
+  {
+   "key": "wealthisall_chieftain2",
+   "en": "But did he drop any juicy loot <name>!",
+   "official": "",
+   "th": "แต่มันดรอปของดี ๆ บ้างไหม <name>!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_chieftain3",
+   "en": "Something that might look good on me? :heart:",
+   "official": "",
+   "th": "อะไรที่ฉันใส่แล้วดูดีน่ะ? :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_reaper1",
+   "en": "The <mob>, huh?",
+   "official": "",
+   "th": "<mob> เหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_reaper2",
+   "en": "After the beating you gave, I guess he's more like...",
+   "official": "",
+   "th": "หลังจากโดนคุณจัดหนักขนาดนั้น ฉันว่ามันน่าจะเป็น...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_reaper3",
+   "en": "\"**The RIP**!\"",
+   "official": "",
+   "th": "\"**ยมทูต R.I.P.**!\"",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_reaper4",
+   "en": "You know, cause you sorta killed him... :heart:",
+   "official": "",
+   "th": "ก็แบบ คุณฆ่ามันไปแล้วไง... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_sageandgrit1",
+   "en": "Oh yeah, I did hear of the legendary <mob>...",
+   "official": "",
+   "th": "อ้อ ใช่ ฉันเคยได้ยินเรื่อง <mob> ในตำนาน...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_sageandgrit2",
+   "en": "Always thought they were just a kids story",
+   "official": "",
+   "th": "นึกว่าเป็นแค่นิทานเด็กมาตลอด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_sageandgrit3",
+   "en": "But then again, I thought the same about taxes!",
+   "official": "",
+   "th": "แต่ฉันก็เคยคิดแบบเดียวกันกับเรื่องภาษีนะ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_fallenwizard1",
+   "en": "Just comes to show <name>... :heart:",
+   "official": "",
+   "th": "นี่ไงล่ะ <name>... :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_fallenwizard2",
+   "en": "When you knock them down, they get up again!",
+   "official": "",
+   "th": "ล้มมันลงเมื่อไร มันก็ลุกขึ้นมาใหม่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_fallenwizard3",
+   "en": "At least that seemed to be the case with the <mob>",
+   "official": "",
+   "th": "อย่างน้อยก็ดูเหมือนจะเป็นแบบนั้นกับ <mob>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_motherslime1",
+   "en": "I'm sorry <name>, are you telling me that...",
+   "official": "",
+   "th": "ขอโทษนะ <name> จะบอกว่า...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_motherslime2",
+   "en": "You fought a humongous blob of slime named the <mob>?",
+   "official": "",
+   "th": "คุณไปสู้กับก้อนสไลม์ยักษ์ที่ชื่อ <mob> งั้นเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_motherslime3",
+   "en": "Ewww...",
+   "official": "",
+   "th": "อี๋...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_ascendedwizard1",
+   "en": "So first he was void... Then he was fallen...",
+   "official": "",
+   "th": "ตอนแรกมันเป็นพ่อมดแห่งความมืด... แล้วก็กลายเป็นพ่อมดผู้ตกอับ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_ascendedwizard2",
+   "en": "And now you say he was an <mob>?",
+   "official": "",
+   "th": "แล้วตอนนี้คุณบอกว่ามันเป็น <mob>?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_ascendedwizard3",
+   "en": "This guy is going through a serious personality crisis if you ask me!",
+   "official": "",
+   "th": "ถ้าให้ฉันพูดนะ หมอนี่มีวิกฤตตัวตนหนักมากเลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_kisschat1",
+   "en": "You're perfect <name> :heart:",
+   "official": "",
+   "th": "คุณสมบูรณ์แบบมาก <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_kisschat2",
+   "en": "The best gift, a kiss from you :heart:",
+   "official": "",
+   "th": "ของขวัญที่ดีที่สุด คือจูบจากคุณ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_kisschat3",
+   "en": "I missed you <name> :heart:",
+   "official": "",
+   "th": "คิดถึงคุณนะ <name> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftfood1",
+   "en": "I'm no chef <name>, but you gotta try this <item> I cooked up!",
+   "official": "",
+   "th": "ฉันไม่ใช่เชฟหรอกนะ <name> แต่คุณต้องลอง <item> ที่ฉันทำนี่!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftfood2",
+   "en": "If you you love it as much as I love you...",
+   "official": "",
+   "th": "ถ้าคุณชอบมันเท่ากับที่ฉันรักคุณ...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftfood3",
+   "en": "Then you're in for quite a meal :heart:",
+   "official": "",
+   "th": "มื้อนี้คุณได้อิ่มแปล้แน่ :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftfoodaccept",
+   "en": "Can't wait <settlername> :heart:",
+   "official": "",
+   "th": "รอไม่ไหวแล้ว <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftpotion1",
+   "en": "You can never have too many potions <name>, my one and all :heart:",
+   "official": "",
+   "th": "น้ำยาไม่มีวันมีมากเกินไปหรอกนะ <name> ทุกสิ่งของฉัน :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftpotion2",
+   "en": "So please take some of these <item> with you",
+   "official": "",
+   "th": "เพราะงั้นเอา <item> พวกนี้ไปด้วยนะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftpotion3",
+   "en": "You deserve every single one :heart:",
+   "official": "",
+   "th": "คุณคู่ควรกับทุกขวดเลย :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftpotionaccept",
+   "en": "You're the best <settlername> :heart:",
+   "official": "",
+   "th": "คุณดีที่สุดเลย <settlername> :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftcoins1",
+   "en": "I know this doesn't even begin to cover all the **Coins** you gave me a while back <name>",
+   "official": "",
+   "th": "ฉันรู้ว่านี่ยังเทียบไม่ได้เลยกับ**เหรียญ**ทั้งหมดที่คุณเคยให้ฉันเมื่อก่อน <name>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftcoins2",
+   "en": "But here's <item> that I've been saving up, ever since we started dating",
+   "official": "",
+   "th": "แต่นี่คือ <item> ที่ฉันเก็บสะสมมาตั้งแต่เราเริ่มคบกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftcoins3",
+   "en": "Don't worry, I'll have more coming your way soon enough my love :heart:",
+   "official": "",
+   "th": "ไม่ต้องห่วง เดี๋ยวฉันจะมีให้อีกเร็ว ๆ นี้แน่ ที่รัก :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "wealthisall_giftcoinsaccept",
+   "en": "<settlername>... You didn't have to... :heart:",
+   "official": "",
+   "th": "<settlername>... ไม่ต้องทำขนาดนี้ก็ได้... :heart:",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,1150 @@
+{
+ "category": "buff",
+ "entries": [
+  {
+   "key": "healthpotionfatigue",
+   "en": "Health potion fatigue",
+   "official": "ความเมื่อยล้าจากยาฟื้นพลังชีวิต",
+   "th": "ความล้าจากน้ำยาฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "manapotionfatigue",
+   "en": "Mana potion fatigue",
+   "official": "ความเมื่อยล้าจากยาฟื้นมานา",
+   "th": "ความล้าจากน้ำยาฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง · ชื่อตาม item: Mana Potion"
+  },
+  {
+   "key": "manaexhaustion",
+   "en": "Mana Exhaustion",
+   "official": "มานาเหือดแห้ง",
+   "th": "มานาเหือดแห้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onfire",
+   "en": "On fire",
+   "official": "ไฟไหม้",
+   "th": "ติดไฟ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ablaze",
+   "en": "Ablaze",
+   "official": "ติดไฟ",
+   "th": "ลุกเป็นไฟ",
+   "status": "fixed",
+   "note": "แยกจาก On fire"
+  },
+  {
+   "key": "brokenarmor",
+   "en": "Broken armor",
+   "official": "เกราะแตก",
+   "th": "เกราะแตก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teleportsickness",
+   "en": "Teleport sickness",
+   "official": "เมารถ",
+   "th": "อาการเมาวาร์ป",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "voidsetcooldown",
+   "en": "Void set cooldown",
+   "official": "คูลดาว์นเซ็ทแห่งความมืด",
+   "th": "คูลดาวน์เซ็ตแห่งความมืด",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "dashcooldown",
+   "en": "Dash cooldown",
+   "official": "คูลดาวน์พุ่ง",
+   "th": "คูลดาวน์พุ่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifelinecooldown",
+   "en": "Recent lifeline",
+   "official": "คูลดาว์นเส้นตาย",
+   "th": "เพิ่งรอดตายหวุดหวิด",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "webpotionslow",
+   "en": "Web Potion Slow",
+   "official": "ติดใยแมงมุม",
+   "th": "ช้าลงจากน้ำยาใยแมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spidervenom",
+   "en": "Spider venom",
+   "official": "พิษแมงมุม",
+   "th": "พิษแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticpoison",
+   "en": "Necrotic Poison",
+   "official": "พิษเน่าเปื่อย",
+   "th": "พิษเน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "necroticslow",
+   "en": "Necrotic Slow",
+   "official": "ช้าลงจากการเน่า",
+   "th": "ช้าลงจากการเน่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "widowpoison",
+   "en": "Widow Poison",
+   "official": "พิษแมงมุมแม่ม่าย",
+   "th": "พิษแมงมุมแม่ม่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chilled",
+   "en": "Chilled",
+   "official": "หนาว",
+   "th": "หนาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowcovered",
+   "en": "You're covered in snow!",
+   "official": "ปกคลุมไปด้วยหิมะ",
+   "th": "หิมะปกคลุมตัวคุณ!",
+   "status": "fixed",
+   "note": "ตกเครื่องหมาย !"
+  },
+  {
+   "key": "freezing",
+   "en": "Freezing",
+   "official": "เยือกแข็ง",
+   "th": "เยือกแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostburn",
+   "en": "Frostburn",
+   "official": "น้ำแข็งกัด",
+   "th": "น้ำแข็งกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frostslow",
+   "en": "Frost Slow",
+   "official": "น้ำแข็งเกาะ",
+   "th": "เยือกแข็งจนช้าลง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sandknifewound",
+   "en": "Sand Knife Wound",
+   "official": "แผลจากมีดทะเลทราย",
+   "th": "แผลจากมีดทราย",
+   "status": "fixed",
+   "note": "ตรงชื่อไอเทม"
+  },
+  {
+   "key": "haunted",
+   "en": "Haunted",
+   "official": "หลอน",
+   "th": "หลอน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldpoison",
+   "en": "Emerald Poison",
+   "official": "พิษมรกต",
+   "th": "พิษมรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ivypoison",
+   "en": "Ivy Poison",
+   "official": "พิษเกสร",
+   "th": "พิษไม้เลื้อย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spidercharmpoison",
+   "en": "Spider Charm Poison",
+   "official": "พิษแมงมุมล่อลวง",
+   "th": "พิษเครื่องรางแมงมุม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "slimepoison",
+   "en": "Slime Poison",
+   "official": "พิษสไลม์",
+   "th": "พิษสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "starbarrier",
+   "en": "Star Barrier",
+   "official": "สตาร์แบร์ริเออร์",
+   "th": "ม่านป้องกันดวงดาว",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "crushingdarkness",
+   "en": "Crushing Darkness",
+   "official": "ทลายความมืดมิด",
+   "th": "ความมืดบดขยี้",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "katanadashcooldown",
+   "en": "Katana Dash cooldown",
+   "official": "คูลดาวน์การพุ่งคาตานะ",
+   "th": "คูลดาวน์การพุ่งคาตานะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "katanadashstacks",
+   "en": "Katana Dash stacks",
+   "official": "จำนวนการพุ่งคาตานะ",
+   "th": "สแต็กการพุ่งคาตานะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ninjasetbonus",
+   "en": "Ninja set bonus",
+   "official": "โบนัสชุดนินจา",
+   "th": "โบนัสเซ็ตนินจา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "summonedpet",
+   "en": "Summoned pet",
+   "official": "อัญเชิญสัตว์เลี้ยง",
+   "th": "สัตว์เลี้ยงที่อัญเชิญ",
+   "status": "fixed",
+   "note": "ทางการเป็นกริยา"
+  },
+  {
+   "key": "summonedmount",
+   "en": "Summoned mount",
+   "official": "อัญเชิญพาหนะ",
+   "th": "พาหนะที่อัญเชิญ",
+   "status": "fixed",
+   "note": "ทางการเป็นกริยา"
+  },
+  {
+   "key": "summonedmob",
+   "en": "Summoned mob",
+   "official": "อัญเชิญสิ่งมีชีวิต",
+   "th": "มอนสเตอร์ที่อัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "movespeedburst",
+   "en": "Speed burst",
+   "official": "เร่งความเร็ว",
+   "th": "เร่งความเร็ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "settlementflag",
+   "en": "Settlement flag nearby",
+   "official": "อยู่ใกล้ธงตั้งถิ่นฐาน",
+   "th": "อยู่ใกล้ธงนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "campfire",
+   "en": "Campfire nearby",
+   "official": "อยู่ใกล้แคมป์ไฟ",
+   "th": "อยู่ใกล้แคมป์ไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runichatcooldown",
+   "en": "Runic Hat cooldown",
+   "official": "คูลดาวน์ของชุดรูน",
+   "th": "คูลดาวน์หมวกรูน",
+   "status": "fixed",
+   "note": "Hat ไม่ใช่ชุด"
+  },
+  {
+   "key": "runicempowerment",
+   "en": "Runic Empowerment",
+   "official": "การเสริมพลังด้วยรูน",
+   "th": "เพิ่มพลังรูน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "guardianshellcooldown",
+   "en": "Guardian Shell cooldown",
+   "official": "คูลดาว์นเกราะป้องกัน",
+   "th": "คูลดาวน์กระดองผู้พิทักษ์",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "guardianshellactive",
+   "en": "Guardian Shell active",
+   "official": "เกราะป้องกันทำงาน",
+   "th": "กระดองผู้พิทักษ์ทำงาน",
+   "status": "fixed",
+   "note": "ตรงชื่อไอเทม"
+  },
+  {
+   "key": "necroticsoulskullcooldown",
+   "en": "Necrotic Soul Skull cooldown",
+   "official": "คูลดาวน์ของกะโหลกวิญญาณเน่าเปื่อย",
+   "th": "คูลดาวน์ของกะโหลกวิญญาณเน่าเปื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reborn",
+   "en": "Reborn",
+   "official": "",
+   "th": "เกิดใหม่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "phoenixsetcooldown",
+   "en": "Phoenix set cooldown",
+   "official": "",
+   "th": "คูลดาวน์เซ็ตฟีนิกซ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gunslingersetcooldown",
+   "en": "Gunslinger set cooldown",
+   "official": "คูลดาวน์ของชุดคาวบอย",
+   "th": "คูลดาวน์เซ็ตมือปืน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancientfossilsetcooldown",
+   "en": "Ancient Fossil set cooldown",
+   "official": "คูลดาว์นเซ็ทฟอสซิลดึกดำบรรพ์",
+   "th": "คูลดาวน์เซ็ตฟอสซิลดึกดำบรรพ์",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "ancientfossilactive",
+   "en": "Ancient Fossil set active",
+   "official": "เซ็ทฟอสซิลดึกดำบรรพ์ทำงาน",
+   "th": "เซ็ตฟอสซิลดึกดำบรรพ์ทำงาน",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "ancestorsetcooldown",
+   "en": "Ancestors set cooldown",
+   "official": "คูลดาวน์ของชุดศักดิ์สิทธิ์",
+   "th": "คูลดาวน์เซ็ตบรรพกาล",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "myceliumscarfactive",
+   "en": "Mycelium Scarf stacks",
+   "official": "สแต็คเศษไมซีเลียม",
+   "th": "สแต็กผ้าพันคอไมซีเลียม",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "slimedomeactive",
+   "en": "Slime dome active",
+   "official": "สไลม์โดมทำงาน",
+   "th": "โดมสไลม์ทำงาน",
+   "status": "fixed",
+   "note": "คำหลักขึ้นก่อน"
+  },
+  {
+   "key": "nightsteelactive",
+   "en": "Nightsteel set",
+   "official": "เซ็ทเหล็กราตรีทำงาน",
+   "th": "เซ็ตเหล็กราตรี",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "bloodplatecowlactive",
+   "en": "Health regen is doubled",
+   "official": "อัตราฟื้นฟูพลังชีวิตเพิ่มขึ้น 2 เท่า",
+   "th": "อัตราฟื้นฟูพลังชีวิตเพิ่มขึ้น 2 เท่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphireactive",
+   "en": "Resilience gain increased by 250%!",
+   "official": "อัตราการได้รับความทนทานเพิ่มขึ้น 250%!",
+   "th": "อัตราการได้รับความทนทานเพิ่มขึ้น 250%!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphiresetcooldown",
+   "en": "Sapphire set cooldown",
+   "official": "คูลดาว์นเซ็ทไพลิน",
+   "th": "คูลดาวน์เซ็ตไพลิน",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "bloodclaw",
+   "en": "Blood Claw Charges",
+   "official": "ชาร์จกรงเล็บโลหิต",
+   "th": "ประจุกรงเล็บโลหิต",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "bloodstonering",
+   "en": "Health regen increased by 4 per second",
+   "official": "ฟื้นฟูพลังชีวิตเพิ่มขึ้น 4 หน่วยต่อวินาที",
+   "th": "ฟื้นฟูพลังชีวิตเพิ่มขึ้น 4 หน่วยต่อวินาที",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodgrimoiredebuff",
+   "en": "Slowed and marked by the Blood Grimoire",
+   "official": "ลดความเร็ว และ ทำเครื่องหมายด้วยกริมัวร์โลหิต",
+   "th": "ช้าลงและถูกตีตราโดยกริมัวร์โลหิต",
+   "status": "fixed",
+   "note": "เว้นวรรคเกิน"
+  },
+  {
+   "key": "bloodgrimoirecooldown",
+   "en": "Blood Grimoire cooldown",
+   "official": "คูลดาว์นกริมัวร์โลหิต",
+   "th": "คูลดาวน์กริมัวร์โลหิต",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "thecrimsonskycooldown",
+   "en": "The Crimson Sky cooldown",
+   "official": "คูลดาวน์นภาแดงฉาน",
+   "th": "คูลดาวน์นภาแดงฉาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ravenbeakspearcooldown",
+   "en": "Ravenbeak Spear cooldown",
+   "official": "คูลดาวน์หอกปากอีกา",
+   "th": "คูลดาวน์หอกปากอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimesetcooldown",
+   "en": "Slime set cooldown",
+   "official": "คูลดาว์นชุดสไลม์",
+   "th": "คูลดาวน์เซ็ตสไลม์",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "nightsteelsetcooldown",
+   "en": "Nightsteel set cooldown",
+   "official": "คูลดาว์นชุดเหล็กราตรี",
+   "th": "คูลดาวน์เซ็ตเหล็กราตรี",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "spideritesetcooldown",
+   "en": "Spiderite set cooldown",
+   "official": "คูลดาว์นชุดแมงมุม",
+   "th": "คูลดาวน์เซ็ตสไปเดอไรต์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "flourcoveredslow",
+   "en": "All this flour is slowing you down!",
+   "official": "แป้งทั้งหมดนี้ทำให้คุณช้าลง!",
+   "th": "แป้งทั้งหมดนี้ทำให้คุณช้าลง!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stabbybushfrenzy",
+   "en": "Stabby Madness!",
+   "official": "ถูกแทงจนพรุน!",
+   "th": "ถูกแทงจนพรุน!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crystallize",
+   "en": "Crystallize",
+   "official": "ตกผลึก",
+   "th": "ตกผลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampspores",
+   "en": "Swamp Spores",
+   "official": "สปอร์หนองน้ำ",
+   "th": "สปอร์หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "foodbuff",
+   "en": "Food consumed",
+   "official": "กินอาหาร",
+   "th": "กินอาหารแล้ว",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "fooddebuff",
+   "en": "Bad food consumed",
+   "official": "กินอาหารแย่",
+   "th": "กินอาหารแย่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hungry",
+   "en": "Hungry",
+   "official": "หิว",
+   "th": "หิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "starving",
+   "en": "Starving",
+   "official": "หิวไส้กิ่ว",
+   "th": "หิวไส้กิ่ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stamina",
+   "en": "Stamina",
+   "official": "พลังกาย",
+   "th": "พลังกาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overchargedmana",
+   "en": "Overcharged Mana",
+   "official": "มานาปะทุ",
+   "th": "มานาปะทุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanichoodactive",
+   "en": "Overcharged",
+   "official": "พลังงานล้นเกิน",
+   "th": "พลังงานล้นเกิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quicksandstacks",
+   "en": "Walking on quicksand",
+   "official": "กำลังเดินบนทรายดูด",
+   "th": "กำลังเดินบนทรายดูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeessence",
+   "en": "Life Essence",
+   "official": "แก่นแท้พลังชีวิต",
+   "th": "แก่นแท้พลังชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quicktinker",
+   "en": "Quick Tinker",
+   "official": "",
+   "th": "ช่างซ่อมจอมไว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sapphireglyph",
+   "en": "Sapphire Glyph",
+   "official": "ตราไพลิน",
+   "th": "ตราไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubyglyph",
+   "en": "Ruby Glyph",
+   "official": "ตราทับทิม",
+   "th": "ตราทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystglyph",
+   "en": "Amethyst Glyph",
+   "official": "ตราอเมทิสต์",
+   "th": "ตราอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldglyph",
+   "en": "Emerald Glyph",
+   "official": "ตรามรกต",
+   "th": "ตรามรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazglyph",
+   "en": "Topaz Glyph",
+   "official": "ตราบุษราคัม",
+   "th": "ตราบุษราคัม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "summonedwillothewisp",
+   "en": "Summoned Will-o'-Wisp",
+   "official": "เรียกวิล-โอ-วิสป์",
+   "th": "อัญเชิญวิล-โอ-วิสป์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "captorsshortbowcooldown",
+   "en": "Captor's Shortbow cooldown",
+   "official": "ธนูสั้นผู้กักขังคูลดาว์น",
+   "th": "คูลดาวน์ธนูสั้นผู้กักขัง",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "netted",
+   "en": "You're stuck!",
+   "official": "คุณติด!",
+   "th": "คุณติดอยู่!",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "barkskin",
+   "en": "Barkskin",
+   "official": "เกราะเปลือกไม้",
+   "th": "เกราะเปลือกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampionprowess",
+   "en": "Aged Champion Prowess",
+   "official": "ความเชี่ยวชาญของแชมป์เปี้ยนเก่าแก่",
+   "th": "ความเก่งกาจของแชมเปียนเก่าแก่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bullseye",
+   "en": "Bullseye",
+   "official": "เข้าเป้า",
+   "th": "เข้าเป้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "parrybucklerparried",
+   "en": "Parried",
+   "official": "แพรี่",
+   "th": "ปัดป้องสำเร็จ",
+   "status": "fixed",
+   "note": "แปลความ"
+  },
+  {
+   "key": "barkbladeenhanced",
+   "en": "Bark Blade Enhanced",
+   "official": "เสริมพลังดาบร่ำร้อง",
+   "th": "ดาบเปลือกไม้เสริมพลัง",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "guardianbracelet",
+   "en": "Guardian Bracelet Boost",
+   "official": "เสริมพลังกำไลผู้พิทักษ์",
+   "th": "เสริมพลังกำไลผู้พิทักษ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadhaunted",
+   "en": "Dryad Haunted",
+   "official": "วิญญาณดรายแอด",
+   "th": "ดรายแอดหลอกหลอน",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ · ให้ตรงกับ tooltip ที่อ้างชื่อบัฟ (สแต็กดรายแอดหลอกหลอน)"
+  },
+  {
+   "key": "dryadpossessed",
+   "en": "Dryad Possessed",
+   "official": "ดรายแอดสิงสู่",
+   "th": "ดรายแอดสิงสู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spirithaunted",
+   "en": "The Spirits are slowing you down!",
+   "official": "เหล่าวิญญาณทำให้คุณช้าลง!",
+   "th": "เหล่าวิญญาณทำให้คุณช้าลง!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiritpossessed",
+   "en": "You have been Spirit Possessed!\\nYou're taking damage!",
+   "official": "คุณถูกผีสิง!\\nกำลังได้รับความเสียหาย!",
+   "th": "คุณถูกวิญญาณสิง!\\nกำลังได้รับความเสียหาย!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiritcorrupted",
+   "en": "Spirit Corrupted",
+   "official": "วิญญาณเสียหาย",
+   "th": "วิญญาณแปดเปื้อน",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "soulstormsouls",
+   "en": "Souls stored: <value>",
+   "official": "กักเก็บวิญญาณ: <value>",
+   "th": "กักเก็บวิญญาณ: <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bounceglyph",
+   "en": "You're bouncy",
+   "official": "เด้งดึ้ง",
+   "th": "ตัวคุณเด้งดึ๋ง",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "reversedamageglyph",
+   "en": "You deal and take more damage",
+   "official": "สร้างความเสียหายมากขึ้น แต่ได้รับความเสียหายมากขึ้น",
+   "th": "สร้างความเสียหายมากขึ้น แต่ได้รับความเสียหายมากขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicrage",
+   "en": "Demonic Rage",
+   "official": "โทสะปีศาจ",
+   "th": "โทสะปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "soulseedcooldown",
+   "en": "Soulseed cooldown",
+   "official": "คูลดาว์นเมล็ดวิญญาณ",
+   "th": "คูลดาวน์เมล็ดวิญญาณ",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "frozenenemy",
+   "en": "Frozen solid",
+   "official": "ถูกแช่แข็ง",
+   "th": "ถูกแช่แข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickenpolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นไก่",
+   "th": "ถูกแปลงร่างเป็นไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "duckpolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นเป็ด",
+   "th": "ถูกแปลงร่างเป็นเป็ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "squirrelpolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นกระรอก",
+   "th": "ถูกแปลงร่างเป็นกระรอก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roosterpolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นไก่",
+   "th": "ถูกแปลงร่างเป็นไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frogpolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นกบ",
+   "th": "ถูกแปลงร่างเป็นกบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "turtlepolymorph",
+   "en": "Polymorphed",
+   "official": "ถูกแปลงร่างเป็นเต่า",
+   "th": "ถูกแปลงร่างเป็นเต่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "secondbosswatching",
+   "en": "A presence is watching from the side",
+   "official": "มีบางสิ่งกำลังเฝ้ามองอยู่จากด้านข้าง",
+   "th": "มีบางสิ่งกำลังเฝ้ามองอยู่จากด้านข้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "godmode",
+   "en": "Godmode enabled",
+   "official": "เปิดโหมดพระเจ้า",
+   "th": "เปิดโหมดพระเจ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frenzy",
+   "en": "Frenzy",
+   "official": "บ้าคลั่ง",
+   "th": "บ้าคลั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thiefthrowcooldown",
+   "en": "Thief's set coin throw cooldown",
+   "official": "คูลดาว์นชุดโจร",
+   "th": "คูลดาวน์ปาเหรียญของเซ็ตโจร",
+   "status": "fixed",
+   "note": "ตกความ"
+  },
+  {
+   "key": "perfectstorm",
+   "en": "You smite enemies on hit with The Perfect Storm",
+   "official": "คุณโจมตีศัตรูด้วยการฟาดฟันพายุมหาประลัย",
+   "th": "คุณฟาดสายฟ้าใส่ศัตรูที่โจมตีโดนด้วยพายุมหาประลัย",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "perfectstormabilitycooldown",
+   "en": "The Perfect Storm cooldown",
+   "official": "คูลดาว์นพายุมหาประลัย",
+   "th": "คูลดาวน์พายุมหาประลัย",
+   "status": "fixed",
+   "note": "สะกด คูลดาวน์/เซ็ต"
+  },
+  {
+   "key": "soldierfrenzy",
+   "en": "Feel the heat of the battle!",
+   "official": "สัมผัสความเร่าร้อนของการต่อสู้!",
+   "th": "สัมผัสความเร่าร้อนของการต่อสู้!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "summonedghostlybow",
+   "en": "Summoned Ghostly Bow",
+   "official": "ธนูผีถูกอัญเชิญ",
+   "th": "ธนูผีที่อัญเชิญ",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "summonedlocust",
+   "en": "Summoned Locust",
+   "official": "ฝูงลูกสมุนถูกอัญเชิญ",
+   "th": "ตั๊กแตนที่อัญเชิญ",
+   "status": "fixed",
+   "note": "locust = ตั๊กแตน"
+  },
+  {
+   "key": "quartzsetcooldown",
+   "en": "Quartz set cooldown",
+   "official": "ชุดเซ็ทเขี้ยวหนุมาน กำลังคูลดาว์น",
+   "th": "คูลดาวน์เซ็ตควอตซ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pharaohmanaspent",
+   "en": "Mana spent",
+   "official": "มานาที่ใช้ไป",
+   "th": "มานาที่ใช้ไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryowitchcooldown",
+   "en": "Cryo Witch set ability cooldown",
+   "official": "คูลดาว์นชุดแม่มดน้ำแข็ง",
+   "th": "คูลดาวน์ความสามารถเซ็ตแม่มดไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cryoimmunity",
+   "en": "You are frozen solid and can't move, but also can't be hit",
+   "official": "คุณถูกแช่แข็งจนแข็งทื่อและขยับไม่ได้ แต่ก็ไม่สามารถถูกโจมตีได้ด้วยเช่นกัน",
+   "th": "คุณถูกแช่แข็งจนแข็งทื่อและขยับไม่ได้ แต่ก็ไม่สามารถถูกโจมตีได้ด้วยเช่นกัน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkfrenzy",
+   "en": "You are enraged by the smell of blood!",
+   "official": "คุณถูกกระตุ้นให้คลุ้มคลั่งด้วยกลิ่นคาวเลือด!",
+   "th": "กลิ่นคาวเลือดทำให้คุณคลุ้มคลั่ง!",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "bleed",
+   "en": "Bleeding",
+   "official": "เลือดไหล",
+   "th": "เลือดไหล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkarmorbleed",
+   "en": "Bleeding from shark armor",
+   "official": "เลือดไหลจากชุดเกราะฉลาม",
+   "th": "เลือดไหลจากชุดเกราะฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkbleed",
+   "en": "Bleeding from shark",
+   "official": "เลือดไหลจากฉลาม",
+   "th": "เลือดไหลจากฉลาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hydradeafened",
+   "en": "Hydra Deafened",
+   "official": "",
+   "th": "หูอื้อจากไฮดรา",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moonshrinebuff",
+   "en": "Moontouched",
+   "official": "",
+   "th": "ต้องแสงจันทร์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pyromancyfire",
+   "en": "The heat melts armor and exposes weakspots",
+   "official": "",
+   "th": "ความร้อนหลอมเกราะจนเผยจุดอ่อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ashenburial",
+   "en": "Ashen Burial",
+   "official": "",
+   "th": "ฝังในเถ้าถ่าน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "loved",
+   "en": "You feel loved",
+   "official": "",
+   "th": "คุณรู้สึกเป็นที่รัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tremorincoming",
+   "en": "Incoming Tremors",
+   "official": "อาการสั่นจากพื้นสะเทือน",
+   "th": "แผ่นดินกำลังจะไหว",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "tremorhappening",
+   "en": "Tremors! Movement speed reduced",
+   "official": "พื้นสั่น !ความเร็วในการเคลื่อนที่ลดลง",
+   "th": "แผ่นดินไหว! ความเร็วเคลื่อนที่ลดลง",
+   "status": "fixed",
+   "note": "เว้นวรรคผิด"
+  },
+  {
+   "key": "alchemicalinterference",
+   "en": "Potion buff duration reduced",
+   "official": "ระยะเวลาบัฟยาลดลง",
+   "th": "ระยะเวลาบัฟน้ำยาลดลง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "secondlifeperk",
+   "en": "More Lives Perk",
+   "official": "เพิ่มจำนวนชีวิต",
+   "th": "ความสามารถพิเศษ: ชีวิตเพิ่ม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "incursionempowermentcritchance",
+   "en": "Increased Crit Chance",
+   "official": "โอกาสคริติคอลเพิ่มขึ้น",
+   "th": "โอกาสคริติคอลเพิ่มขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionempowermentattackspeed",
+   "en": "Increased Attack Speed",
+   "official": "ความเร็วโจมตีเพิ่มขึ้น",
+   "th": "ความเร็วโจมตีเพิ่มขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incursionempowermentregen",
+   "en": "Increased Health, Mana and Resilience Regen",
+   "official": "อัตราการฟื้นฟูพลังชีวิต มานา และค่าความทนทาน",
+   "th": "ฟื้นฟูพลังชีวิต มานา และความทนทานเพิ่มขึ้น",
+   "status": "fixed",
+   "note": "ตกคำ เพิ่มขึ้น"
+  },
+  {
+   "key": "genericonfiredebuff",
+   "en": "You are on fire",
+   "official": "คุณกำลังติดไฟ",
+   "th": "คุณกำลังติดไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genericiceslowdebuff",
+   "en": "You are slowed",
+   "official": "คุณเคลื่อนไหวช้าลง",
+   "th": "คุณเคลื่อนไหวช้าลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genericpoisondebuff",
+   "en": "You are poisoned",
+   "official": "คุณติดพิษ",
+   "th": "คุณติดพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genericdamagedebuff",
+   "en": "You deal less damage",
+   "official": "คุณสร้างความเสียหายได้น้อยลง",
+   "th": "คุณสร้างความเสียหายได้น้อยลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genericweaknessdebuff",
+   "en": "You take more damage",
+   "official": "คุณได้รับความเสียหายมากขึ้น",
+   "th": "คุณได้รับความเสียหายมากขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "genericattackspeeddebuff",
+   "en": "You attack slower",
+   "official": "คุณโจมตีได้ช้าลง",
+   "th": "คุณโจมตีได้ช้าลง",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

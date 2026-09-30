@@ -1,0 +1,1390 @@
+{
+ "category": "item",
+ "entries": [
+  {
+   "key": "anybasicfoci",
+   "en": "Any Basic Foci",
+   "official": "โฟกัสพื้นฐานใดๆ",
+   "th": "โฟกัสพื้นฐานใด ๆ",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "rockygel",
+   "en": "Rocky Gel",
+   "official": "เจลหิน",
+   "th": "เจลหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegel",
+   "en": "Unstable Gel",
+   "official": "เจลที่ไม่เสถียร",
+   "th": "เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "stardust",
+   "en": "Stardust",
+   "official": "ฝุ่นดาว",
+   "th": "ฝุ่นดาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedlog",
+   "en": "Infected Log",
+   "official": "ท่อนซุงที่ติดเชื้อ",
+   "th": "ท่อนซุงติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedalloy",
+   "en": "Infected Alloy",
+   "official": "โลหะผสมที่ติดเชื้อ",
+   "th": "โลหะผสมติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spinel",
+   "en": "Spinel",
+   "official": "สปิเนล",
+   "th": "สปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablecore",
+   "en": "Unstable Core",
+   "official": "แกนที่ไม่เสถียร",
+   "th": "แกนไม่เสถียร",
+   "status": "fixed",
+   "note": "ตัด 'ที่' ให้สั้น"
+  },
+  {
+   "key": "initialrune",
+   "en": "Initial Rune",
+   "official": "รูนเริ่มต้น",
+   "th": "รูนเริ่มต้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomextract",
+   "en": "Venom Extract",
+   "official": "สารสกัดจากพิษ",
+   "th": "สารสกัดจากพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifespinel",
+   "en": "Life Spinel",
+   "official": "สปิเนลแห่งชีวิต",
+   "th": "สปิเนลแห่งชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelcure",
+   "en": "Spinel Cure",
+   "official": "",
+   "th": "ยารักษาสปิเนล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gelsword",
+   "en": "Gel Sword",
+   "official": "ดาบเจล",
+   "th": "ดาบเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelsword",
+   "en": "Unstable Gel Sword",
+   "official": "ดาบเจลที่ไม่เสถียร",
+   "th": "ดาบเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "broom",
+   "en": "Broom",
+   "official": "ไม้กวาด",
+   "th": "ไม้กวาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidhammer",
+   "en": "Void Hammer",
+   "official": "ค้อนแห่งความว่างเปล่า",
+   "th": "ค้อนแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "brokenkora",
+   "en": "Broken Kora",
+   "official": "โคร่าที่แตกหัก",
+   "th": "โคร่าที่แตกหัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thenarcissist",
+   "en": "The Narcissist",
+   "official": "ผู้หลงตัวเอง",
+   "th": "ผู้หลงตัวเอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryokatana",
+   "en": "Cryo Katana",
+   "official": "คาตานะน้ำแข็ง",
+   "th": "คาตานะไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unstablegelgreatsword",
+   "en": "Unstable Gel Greatsword",
+   "official": "ดาบใหญ่เจลที่ไม่เสถียร",
+   "th": "ดาบใหญ่เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "babylongreatsword",
+   "en": "Babylon Greatsword",
+   "official": "ดาบใหญ่แห่งบาเบล",
+   "th": "ดาบใหญ่แห่งบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "woodenrod",
+   "en": "Wooden Rod",
+   "official": "ไม้เท้าไม้",
+   "th": "ไม้เท้าไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "saber",
+   "en": "Saber",
+   "official": "ดาบโค้ง",
+   "th": "ดาบโค้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "coppersaber",
+   "en": "Copper Saber",
+   "official": "ดาบโค้งทองแดง",
+   "th": "ดาบโค้งทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironsaber",
+   "en": "Iron Saber",
+   "official": "ดาบโค้งเหล็ก",
+   "th": "ดาบโค้งเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldsaber",
+   "en": "Gold Saber",
+   "official": "ดาบโค้งทอง",
+   "th": "ดาบโค้งทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "demonicsaber",
+   "en": "Demonic Saber",
+   "official": "ดาบโค้งปีศาจ",
+   "th": "ดาบโค้งปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelsaber",
+   "en": "Unstable Gel Saber",
+   "official": "ดาบโค้งเจลที่ไม่เสถียร",
+   "th": "ดาบโค้งเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "honeysaber",
+   "en": "Honey Saber",
+   "official": "ดาบโค้งน้ำผึ้ง",
+   "th": "ดาบโค้งน้ำผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "glacialsaber",
+   "en": "Glacial Saber",
+   "official": "ดาบโค้งน้ำแข็ง",
+   "th": "ดาบโค้งเกล็ดน้ำแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "crimsonkora",
+   "en": "Crimson Kora",
+   "official": "โคร่าสีเลือดหมู",
+   "th": "โคร่าสีเลือดหมู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battleaxe",
+   "en": "Battleaxe",
+   "official": "ขวานรบ",
+   "th": "ขวานรบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelbattleaxe",
+   "en": "Unstable Gel Battleaxe",
+   "official": "ขวานรบเจลที่ไม่เสถียร",
+   "th": "ขวานรบเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "demonicbattleaxe",
+   "en": "Demonic Battleaxe",
+   "official": "ขวานรบปีศาจ",
+   "th": "ขวานรบปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dagger",
+   "en": "Dagger",
+   "official": "มีดสั้น",
+   "th": "มีดสั้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "copperdagger",
+   "en": "Copper Dagger",
+   "official": "มีดสั้นทองแดง",
+   "th": "มีดสั้นทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "irondagger",
+   "en": "Iron Dagger",
+   "official": "มีดสั้นเหล็ก",
+   "th": "มีดสั้นเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "golddagger",
+   "en": "Gold Dagger",
+   "official": "มีดสั้นทอง",
+   "th": "มีดสั้นทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "demonicdagger",
+   "en": "Demonic Dagger",
+   "official": "มีดสั้นปีศาจ",
+   "th": "มีดสั้นปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstendagger",
+   "en": "Tungsten Dagger",
+   "official": "มีดสั้นทังสเตน",
+   "th": "มีดสั้นทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lostumbrella",
+   "en": "Lost Umbrella",
+   "official": "ร่มที่หายไป",
+   "th": "ร่มที่หายไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fossilrapier",
+   "en": "Fossil Rapier",
+   "official": "ดาบปลายแหลมฟอสซิล",
+   "th": "ดาบปลายแหลมฟอสซิล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightrapier",
+   "en": "Light Rapier",
+   "official": "ดาบปลายแหลมแห่งแสง",
+   "th": "ดาบปลายแหลมแห่งแสง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelstaff",
+   "en": "Unstable Gel Staff",
+   "official": "ไม้เท้าเจลที่ไม่เสถียร",
+   "th": "คทาเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "magicalbroom",
+   "en": "Magical Broom",
+   "official": "ไม้กวาดวิเศษ",
+   "th": "ไม้กวาดวิเศษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adeptsbook",
+   "en": "Adept's Book",
+   "official": "หนังสือของผู้เชี่ยวชาญ",
+   "th": "หนังสือของผู้เชี่ยวชาญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "harpofharmony",
+   "en": "Harp of Harmony",
+   "official": "พิณแห่งความสามัคคี",
+   "th": "พิณแห่งความสามัคคี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyloncandle",
+   "en": "Babylon Candle",
+   "official": "เทียนแห่งบาเบล",
+   "th": "เทียนแห่งบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelcrossbow",
+   "en": "Spinel Crossbow",
+   "official": "หน้าไม้สปิเนล",
+   "th": "หน้าไม้สปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thespammer",
+   "en": "The Spammer",
+   "official": "สแปมเมอร์",
+   "th": "สแปมเมอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spambullet",
+   "en": "Spam Bullet",
+   "official": "กระสุนสแปม",
+   "th": "กระสุนสแปม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelgreatbow",
+   "en": "Gel Greatbow",
+   "official": "ธนูใหญ่เจล",
+   "th": "ธนูใหญ่เจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelgreatbow",
+   "en": "Unstable Gel Greatbow",
+   "official": "ธนูใหญ่เจลที่ไม่เสถียร",
+   "th": "ธนูใหญ่เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gelarrow",
+   "en": "Gel Arrow",
+   "official": "ลูกศรเจล",
+   "th": "ลูกธนูเจล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unstablegelarrow",
+   "en": "Unstable Gel Arrow",
+   "official": "ลูกศรเจลที่ไม่เสถียร",
+   "th": "ลูกธนูเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "sabergun",
+   "en": "Saber Gun",
+   "official": "ปืนดาบโค้ง",
+   "th": "ปืนดาบโค้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "shotgunsaber",
+   "en": "Shotgun Saber",
+   "official": "ปืนลูกซองดาบโค้ง",
+   "th": "ปืนลูกซองดาบโค้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sling",
+   "en": "Sling",
+   "official": "หนังสติ๊ก",
+   "th": "หนังสติ๊ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firesling",
+   "en": "Fire Sling",
+   "official": "หนังสติ๊กไฟ",
+   "th": "หนังสติ๊กไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozensling",
+   "en": "Frozen Sling",
+   "official": "หนังสติ๊กน้ำแข็ง",
+   "th": "หนังสติ๊กแช่แข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "blowgun",
+   "en": "Blow Gun",
+   "official": "ปืนเป่า",
+   "th": "ปืนเป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelball",
+   "en": "Gel Ball",
+   "official": "ลูกบอลเจล",
+   "th": "ลูกบอลเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelballgroup",
+   "en": "Grouped Gel Balls",
+   "official": "กลุ่มลูกบอลเจل",
+   "th": "กลุ่มลูกบอลเจล",
+   "status": "fixed",
+   "note": "มีอักษรอาหรับปน"
+  },
+  {
+   "key": "unstablegelveline",
+   "en": "Unstable Gelveline",
+   "official": "หอกเจลที่ไม่เสถียร",
+   "th": "หอกซัดเจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "volatilegelstaff",
+   "en": "Volatile Gel Staff",
+   "official": "ไม้เท้าเจลระเหย",
+   "th": "คทาเจลระเหย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedstaff",
+   "en": "Infected Staff",
+   "official": "ไม้เท้าที่ติดเชื้อ",
+   "th": "คทาติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "blankbanner",
+   "en": "Blank Banner",
+   "official": "ธงเปล่า",
+   "th": "ธงเปล่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healingtool",
+   "en": "Healing Tool",
+   "official": "เครื่องมือรักษา",
+   "th": "เครื่องมือรักษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicalvial",
+   "en": "Magical Vial",
+   "official": "ขวดวิเศษ",
+   "th": "ขวดวิเศษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healingstaff",
+   "en": "Healing Staff",
+   "official": "ไม้เท้ารักษา",
+   "th": "คทารักษา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "woodenwand",
+   "en": "Wooden Wand",
+   "official": "ไม้กายสิทธิ์ไม้",
+   "th": "ไม้กายสิทธิ์ไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldenwand",
+   "en": "Golden Wand",
+   "official": "ไม้กายสิทธิ์ทอง",
+   "th": "ไม้กายสิทธิ์ทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spinelstaff",
+   "en": "Spinel Staff",
+   "official": "ไม้เท้าสปิเนล",
+   "th": "คทาสปิเนล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "superiorpickaxe",
+   "en": "Superior Pickaxe",
+   "official": "พลั่วชั้นยอด",
+   "th": "อีเต้อชั้นยอด",
+   "status": "fixed",
+   "note": "pickaxe ไม่ใช่พลั่ว"
+  },
+  {
+   "key": "rockyperiapt",
+   "en": "Rocky Periapt",
+   "official": "เครื่องรางหิน",
+   "th": "เครื่องรางหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstableperiapt",
+   "en": "Unstable Periapt",
+   "official": "เครื่องรางที่ไม่เสถียร",
+   "th": "เครื่องรางไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bloodyperiapt",
+   "en": "Bloody Periapt",
+   "official": "เครื่องรางเลือด",
+   "th": "เครื่องรางโลหิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "demonicperiapt",
+   "en": "Demonic Periapt",
+   "official": "เครื่องรางปีศาจ",
+   "th": "เครื่องรางปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "abysmalperiapt",
+   "en": "Abysmal Periapt",
+   "official": "เครื่องรางจากขุมนรก",
+   "th": "เครื่องรางจากขุมนรก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "frozenperiapt",
+   "en": "Frozen Periapt",
+   "official": "เครื่องรางน้ำแข็ง",
+   "th": "เครื่องรางแช่แข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "necromancyperiapt",
+   "en": "Necromancy Periapt",
+   "official": "เครื่องรางเนโครแมนซี",
+   "th": "เครื่องรางเนโครแมนซี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "floralring",
+   "en": "Floral Ring",
+   "official": "แหวนดอกไม้",
+   "th": "แหวนดอกไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelring",
+   "en": "Gel Ring",
+   "official": "แหวนเจล",
+   "th": "แหวนเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "heartring",
+   "en": "Heart Ring",
+   "official": "แหวนหัวใจ",
+   "th": "แหวนหัวใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ringofhealth",
+   "en": "Ring of Health",
+   "official": "แหวนแห่งสุขภาพ",
+   "th": "แหวนพลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampshield",
+   "en": "Swamp Shield",
+   "official": "โล่หนองน้ำ",
+   "th": "โล่หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "witchmedallion",
+   "en": "Witch Medallion",
+   "official": "เหรียญแม่มด",
+   "th": "เหรียญตราแม่มด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "iceboots",
+   "en": "Ice Boots",
+   "official": "รองเท้าน้ำแข็ง",
+   "th": "รองเท้าน้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inspirationfoci",
+   "en": "Inspiration Foci",
+   "official": "โฟกัสแห่งแรงบันดาลใจ",
+   "th": "โฟกัสแห่งแรงบันดาลใจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cursedmedallion",
+   "en": "Cursed Medallion",
+   "official": "เหรียญต้องคำสาป",
+   "th": "เหรียญตราต้องคำสาป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ancientmedallion",
+   "en": "Ancient Medallion",
+   "official": "เหรียญโบราณ",
+   "th": "เหรียญตราโบราณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "essenceofhealing",
+   "en": "Essence of Healing",
+   "official": "แก่นแท้แห่งการรักษา",
+   "th": "แก่นแท้แห่งการรักษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ninjascarf",
+   "en": "Ninja Scarf",
+   "official": "ผ้าพันคอของนินจา",
+   "th": "ผ้าพันคอนินจา",
+   "status": "fixed",
+   "note": "ตัด 'ของ'"
+  },
+  {
+   "key": "adrenalinecharm",
+   "en": "Adrenaline Charm",
+   "official": "เครื่องรางอะดรีนาลีน",
+   "th": "เครื่องรางอะดรีนาลีน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelshield",
+   "en": "Spinel Shield",
+   "official": "โล่สปิเนล",
+   "th": "โล่สปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloomrushcharm",
+   "en": "Bloomrush Charm",
+   "official": "เครื่องรางแห่งการเบ่งบาน",
+   "th": "เครื่องรางแห่งการเบ่งบาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedperiapt",
+   "en": "Infected Periapt",
+   "official": "เครื่องรางที่ติดเชื้อ",
+   "th": "เครื่องรางติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rockyboots",
+   "en": "Rocky Boots",
+   "official": "รองเท้าหิน",
+   "th": "รองเท้าหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rockychestplate",
+   "en": "Rocky Chestplate",
+   "official": "เกราะอกหิน",
+   "th": "เกราะหิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rockyhelmet",
+   "en": "Rocky Helmet",
+   "official": "หมวกหิน",
+   "th": "หมวกหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "goldhat",
+   "en": "Gold Hat",
+   "official": "หมวกทอง",
+   "th": "หมวกทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "pinkwitchhat",
+   "en": "Pink Witch Hat",
+   "official": "หมวกแม่มดสีชมพู",
+   "th": "หมวกแม่มดสีชมพู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicalsuit",
+   "en": "Magical Suit",
+   "official": "ชุดวิเศษ",
+   "th": "ชุดวิเศษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magicalboots",
+   "en": "Magical Boots",
+   "official": "รองเท้าวิเศษ",
+   "th": "รองเท้าวิเศษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampboots",
+   "en": "Swamp Boots",
+   "official": "รองเท้าหนองน้ำ",
+   "th": "รองเท้าหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampchestplate",
+   "en": "Swamp Chestplate",
+   "official": "เกราะอกหนองน้ำ",
+   "th": "เกราะหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "swampmask",
+   "en": "Swamp Mask",
+   "official": "หน้ากากหนองน้ำ",
+   "th": "หน้ากากหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamphood",
+   "en": "Swamp Hood",
+   "official": "หมวกหนองน้ำ",
+   "th": "ฮู้ดหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedhat",
+   "en": "Infected Hat",
+   "official": "หมวกที่ติดเชื้อ",
+   "th": "หมวกติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedchestplate",
+   "en": "Infected Chestplate",
+   "official": "เกราะอกที่ติดเชื้อ",
+   "th": "เกราะติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "infectedboots",
+   "en": "Infected Boots",
+   "official": "รองเท้าที่ติดเชื้อ",
+   "th": "รองเท้าติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spinelhelmet",
+   "en": "Spinel Helmet",
+   "official": "หมวกสปิเนล",
+   "th": "หมวกสปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelhat",
+   "en": "Spinel Hat",
+   "official": "หมวกสปิเนล",
+   "th": "หมวกผ้าสปิเนล",
+   "status": "fixed",
+   "note": "ชื่อซ้ำกับ Spinel Helmet"
+  },
+  {
+   "key": "spinelchestplate",
+   "en": "Spinel Chestplate",
+   "official": "เกราะอกสปิเนล",
+   "th": "เกราะสปิเนล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spinelboots",
+   "en": "Spinel Boots",
+   "official": "รองเท้าสปิเนล",
+   "th": "รองเท้าสปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gelslimenullifier",
+   "en": "Gel Slime Nullifier",
+   "official": "เครื่องทำลายสไลม์เจล",
+   "th": "เครื่องทำลายสไลม์เจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cuberry",
+   "en": "Cuberry",
+   "official": "คิวเบอร์รี่",
+   "th": "คิวเบอร์รี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedgrassseed",
+   "en": "Infected Grass Seed",
+   "official": "เมล็ดหญ้าที่ติดเชื้อ",
+   "th": "เมล็ดหญ้าติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "basicbackpack",
+   "en": "Basic Backpack",
+   "official": "กระเป๋าเป้พื้นฐาน",
+   "th": "กระเป๋าเป้พื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphirebackpack",
+   "en": "Sapphire Backpack",
+   "official": "กระเป๋าเป้ไพลิน",
+   "th": "กระเป๋าเป้ไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystbackpack",
+   "en": "Amethyst Backpack",
+   "official": "กระเป๋าเป้อเมทิสต์",
+   "th": "กระเป๋าเป้อเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubybackpack",
+   "en": "Ruby Backpack",
+   "official": "กระเป๋าเป้ทับทิม",
+   "th": "กระเป๋าเป้ทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldbackpack",
+   "en": "Emerald Backpack",
+   "official": "กระเป๋าเป้มรกต",
+   "th": "กระเป๋าเป้มรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "diamondbackpack",
+   "en": "Diamond Backpack",
+   "official": "กระเป๋าเป้เพชร",
+   "th": "กระเป๋าเป้เพชร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runestutorialbook",
+   "en": "Runes Tutorial Book",
+   "official": "หนังสือสอนรูน",
+   "th": "หนังสือสอนรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runesinjector",
+   "en": "Runes Injector",
+   "official": "เครื่องฉีดรูน",
+   "th": "เครื่องฉีดรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rusticrunesinjector",
+   "en": "Rustic Runes Injector",
+   "official": "เครื่องฉีดรูนแบบชนบท",
+   "th": "เครื่องฉีดรูนแบบชนบท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablerunesinjector",
+   "en": "Unstable Runes Injector",
+   "official": "เครื่องฉีดรูนที่ไม่เสถียร",
+   "th": "เครื่องฉีดรูนไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "demonicrunesinjector",
+   "en": "Demonic Runes Injector",
+   "official": "เครื่องฉีดรูนปีศาจ",
+   "th": "เครื่องฉีดรูนปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenrunesinjector",
+   "en": "Tungsten Runes Injector",
+   "official": "เครื่องฉีดรูนทังสเตน",
+   "th": "เครื่องฉีดรูนทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientrunesinjector",
+   "en": "Ancient Runes Injector",
+   "official": "เครื่องฉีดรูนโบราณ",
+   "th": "เครื่องฉีดรูนโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "baserune",
+   "en": "Base Rune",
+   "official": "รูนพื้นฐาน",
+   "th": "รูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeoffury",
+   "en": "Rune of Fury",
+   "official": "รูนแห่งความโกรธ",
+   "th": "รูนแห่งความโกรธ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofspeed",
+   "en": "Rune of Speed",
+   "official": "รูนแห่งความเร็ว",
+   "th": "รูนแห่งความเร็ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofhealing",
+   "en": "Rune of Healing",
+   "official": "รูนแห่งการรักษา",
+   "th": "รูนแห่งการรักษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofresistance",
+   "en": "Rune of Resistance",
+   "official": "รูนแห่งการต้านทาน",
+   "th": "รูนแห่งการต้านทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofvalor",
+   "en": "Rune of Valor",
+   "official": "รูนแห่งความกล้าหาญ",
+   "th": "รูนแห่งความกล้าหาญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofdetonation",
+   "en": "Rune of Detonation",
+   "official": "รูนแห่งการระเบิด",
+   "th": "รูนแห่งการระเบิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofthunder",
+   "en": "Rune of Thunder",
+   "official": "รูนแห่งสายฟ้า",
+   "th": "รูนแห่งสายฟ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofwinter",
+   "en": "Rune of Winter",
+   "official": "รูนแห่งฤดูหนาว",
+   "th": "รูนแห่งฤดูหนาว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofshadows",
+   "en": "Rune of Shadows",
+   "official": "รูนแห่งเงา",
+   "th": "รูนแห่งเงา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofimmortality",
+   "en": "Rune of Immortality",
+   "official": "รูนแห่งความเป็นอมตะ",
+   "th": "รูนแห่งความเป็นอมตะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofunstablegelslime",
+   "en": "Rune of Unstable Gel Slime",
+   "official": "รูนของสไลม์เจลที่ไม่เสถียร",
+   "th": "รูนของสไลม์เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofevilsprotector",
+   "en": "Rune of Evil's Protector",
+   "official": "รูนของผู้พิทักษ์แห่งความชั่วร้าย",
+   "th": "รูนของผู้ปกครองปีศาจ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofqueenspider",
+   "en": "Rune of Queen Spider",
+   "official": "รูนของราชินีแมงมุม",
+   "th": "รูนของราชินีแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofvoidwizard",
+   "en": "Rune of Void Wizard",
+   "official": "รูนของพ่อมดแห่งความว่างเปล่า",
+   "th": "รูนของพ่อมดแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofswampguardian",
+   "en": "Rune of Swamp Guardian",
+   "official": "รูนของผู้พิทักษ์หนองน้ำ",
+   "th": "รูนของผู้พิทักษ์หนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofancientvulture",
+   "en": "Rune of Ancient Vulture",
+   "official": "รูนของอีแร้งโบราณ",
+   "th": "รูนของอีแร้งดึกดำบรรพ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofpiratecaptain",
+   "en": "Rune of Pirate Captain",
+   "official": "รูนของกัปตันโจรสลัด",
+   "th": "รูนของกัปตันโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofchieftain",
+   "en": "Rune of Chieftain",
+   "official": "รูนของหัวหน้าเผ่า",
+   "th": "รูนของหัวหน้าเผ่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofreaper",
+   "en": "Rune of Reaper",
+   "official": "รูนของยมทูต",
+   "th": "รูนของยมทูต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofcryoqueen",
+   "en": "Rune of Cryo Queen",
+   "official": "รูนของราชินีน้ำแข็ง",
+   "th": "รูนของราชินีไครโอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofpestwarden",
+   "en": "Rune of Pest Warden",
+   "official": "รูนของผู้พิทักษ์โรคระบาด",
+   "th": "รูนของผู้คุมพงไพร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofsageandgrit",
+   "en": "Rune of Sage & Grit",
+   "official": "รูนของปราชญ์และความกล้าหาญ",
+   "th": "รูนของเซจกับกริต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeoffallenwizard",
+   "en": "Rune of Fallen Wizard",
+   "official": "รูนของพ่อมดผู้ล่วงลับ",
+   "th": "รูนของพ่อมดผู้ตกอับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofbabylontower",
+   "en": "Rune of Babylon Tower",
+   "official": "รูนของหอคอยบาเบล",
+   "th": "รูนของหอคอยบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofmotherslime",
+   "en": "Rune of Mother Slime",
+   "official": "รูนของแม่สไลม์",
+   "th": "รูนของแม่สไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofnightswarm",
+   "en": "Rune of Night Swarm",
+   "official": "รูนของฝูงค้างคาวกลางคืน",
+   "th": "รูนของฝูงราตรี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofspiderempress",
+   "en": "Rune of Spider Empress",
+   "official": "รูนของจักรพรรดินีแมงมุม",
+   "th": "รูนของจักรพรรดินีแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runeofsunlightchampion",
+   "en": "Rune of Sunlight Champion",
+   "official": "รูนของแชมป์เปี้ยนแห่งแสงอาทิตย์",
+   "th": "รูนของแชมเปียนแสงตะวัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofmoonlightdancer",
+   "en": "Rune of Moonlight Dancer",
+   "official": "รูนของนักเต้นแห่งแสงจันทร์",
+   "th": "รูนของนักระบำแสงจันทร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runeofcrystaldragon",
+   "en": "Rune of Crystal Dragon",
+   "official": "รูนของมังกรคริสตัล",
+   "th": "รูนของมังกรคริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modifierrune",
+   "en": "Modifier Rune",
+   "official": "รูนดัดแปลง",
+   "th": "รูนดัดแปลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "empoweringrune",
+   "en": "Empowering Rune",
+   "official": "รูนเสริมพลัง",
+   "th": "รูนเสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "recurrentrune",
+   "en": "Recurrent Rune",
+   "official": "รูนที่เกิดซ้ำ",
+   "th": "รูนวนซ้ำ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "frenzyrune",
+   "en": "Frenzy Rune",
+   "official": "รูนแห่งความบ้าคลั่ง",
+   "th": "รูนแห่งความบ้าคลั่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vitalrune",
+   "en": "Vital Rune",
+   "official": "รูนแห่งพลังชีวิต",
+   "th": "รูนแห่งพลังชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "devastatingrune",
+   "en": "Devastating Rune",
+   "official": "รูนแห่งการทำลายล้าง",
+   "th": "รูนแห่งการทำลายล้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onyxrune",
+   "en": "Onyx Rune",
+   "official": "รูนโอนิกซ์",
+   "th": "รูนโอนิกซ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pawningrune",
+   "en": "Pawning Rune",
+   "official": "รูนจำนำ",
+   "th": "รูนจำนำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "abysmalrune",
+   "en": "Abysmal Rune",
+   "official": "รูนจากขุมนรก",
+   "th": "รูนจากขุมนรก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tidalrune",
+   "en": "Tidal Rune",
+   "official": "รูนแห่งกระแสน้ำ",
+   "th": "รูนแห่งกระแสน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendantrune",
+   "en": "Ascendant Rune",
+   "official": "รูนแห่งการขึ้นสู่สวรรค์",
+   "th": "รูนแห่งการก้าวข้าม",
+   "status": "fixed",
+   "note": "ให้ตรงกับ Ascended Wizard"
+  }
+ ],
+ "removed": []
+}

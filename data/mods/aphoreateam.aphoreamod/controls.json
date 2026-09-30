@@ -1,0 +1,14 @@
+{
+ "category": "controls",
+ "entries": [
+  {
+   "key": "runesinjectorability",
+   "en": "Runes Injector Ability",
+   "official": "ความสามารถของเครื่องฉีดรูน",
+   "th": "ความสามารถเครื่องฉีดรูน",
+   "status": "fixed",
+   "note": "กระชับ"
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,142 @@
+{
+ "category": "buff",
+ "entries": [
+  {
+   "key": "stunbuff",
+   "en": "Stun",
+   "official": "มึนงง",
+   "th": "มึนงง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenstunbuff",
+   "en": "Fallen Stun",
+   "official": "มึนงงที่ล้มลง",
+   "th": "มึนงงจากการล้ม",
+   "status": "fixed",
+   "note": "สำนวนแข็ง"
+  },
+  {
+   "key": "stickybuff",
+   "en": "Sticky",
+   "official": "เหนียว",
+   "th": "เหนียวหนึบ",
+   "status": "fixed",
+   "note": "ชัดขึ้นว่าเป็นสถานะติดตัว"
+  },
+  {
+   "key": "stopbuff",
+   "en": "Stopped",
+   "official": "หยุด",
+   "th": "หยุดนิ่ง",
+   "status": "fixed",
+   "note": "ชัดขึ้นว่าเป็นสถานะ"
+  },
+  {
+   "key": "honeyedbuff",
+   "en": "Honeyed",
+   "official": "เคลือบน้ำผึ้ง",
+   "th": "เคลือบน้ำผึ้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "venomextractbuff",
+   "en": "Venom Extract",
+   "official": "สารสกัดจากพิษ",
+   "th": "สารสกัดจากพิษ",
+   "status": "fixed",
+   "note": "กระชับ · ชื่อตาม item: Venom Extract"
+  },
+  {
+   "key": "cursedbuff",
+   "en": "Cursed",
+   "official": "ต้องคำสาป",
+   "th": "ต้องคำสาป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adrenalinebuff",
+   "en": "Adrenaline",
+   "official": "อะดรีนาลีน",
+   "th": "อะดรีนาลีน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "harmonybuff",
+   "en": "Harmony",
+   "official": "ความสามัคคี",
+   "th": "ความสามัคคี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "berserkerrushactive",
+   "en": "Berserker Rush",
+   "official": "Berserker Rush ทำงานอยู่",
+   "th": "โหมดคลั่ง",
+   "status": "fixed",
+   "note": "ไม่ทิ้งอังกฤษ · en ไม่มีคำว่า active"
+  },
+  {
+   "key": "periaptactive",
+   "en": "Periapt Ability Active",
+   "official": "ความสามารถของเครื่องรางทำงานอยู่",
+   "th": "ความสามารถเครื่องรางทำงานอยู่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runesinjectoractive",
+   "en": "Runes Injector Active",
+   "official": "เครื่องฉีดรูนทำงานอยู่",
+   "th": "เครื่องฉีดรูนทำงานอยู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "berserkerrushcooldown",
+   "en": "Berserker Rush on Cooldown",
+   "official": "Berserker Rush อยู่ในคูลดาวน์",
+   "th": "โหมดคลั่งติดคูลดาวน์",
+   "status": "fixed",
+   "note": "ไม่ทิ้งอังกฤษ"
+  },
+  {
+   "key": "periaptcooldown",
+   "en": "Periapt Ability on Cooldown",
+   "official": "ความสามารถของเครื่องรางอยู่ในคูลดาวน์",
+   "th": "ความสามารถเครื่องรางติดคูลดาวน์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "runesinjectorcooldown",
+   "en": "Runes Injector on Cooldown",
+   "official": "เครื่องฉีดรูนอยู่ในคูลดาวน์",
+   "th": "เครื่องฉีดรูนติดคูลดาวน์",
+   "status": "fixed",
+   "note": "สำนวนเกม"
+  },
+  {
+   "key": "spinattackcooldown",
+   "en": "Spin Attack on Cooldown",
+   "official": "การโจมตีแบบหมุนอยู่ในคูลดาวน์",
+   "th": "โจมตีหมุนติดคูลดาวน์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "saberdashcooldown",
+   "en": "Saber Dash on Cooldown",
+   "official": "การพุ่งของดาบโค้งอยู่ในคูลดาวน์",
+   "th": "พุ่งดาบโค้งติดคูลดาวน์",
+   "status": "fixed",
+   "note": "กระชับ"
+  }
+ ],
+ "removed": []
+}

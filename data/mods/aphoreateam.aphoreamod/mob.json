@@ -1,0 +1,222 @@
+{
+ "category": "mob",
+ "entries": [
+  {
+   "key": "gelslime",
+   "en": "Gel Slime",
+   "official": "สไลม์เจล",
+   "th": "สไลม์เจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rockygelslime",
+   "en": "Rocky Gel Slime",
+   "official": "สไลม์เจลหิน",
+   "th": "สไลม์เจลหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unstablegelslime",
+   "en": "Unstable Gel Slime",
+   "official": "สไลม์เจลที่ไม่เสถียร",
+   "th": "สไลม์เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "miniunstablegelslime",
+   "en": "Unstable Gel Slime Mini",
+   "official": "สไลม์เจลที่ไม่เสถียรขนาดเล็ก",
+   "th": "สไลม์เจลไม่เสถียรจิ๋ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + กระชับ"
+  },
+  {
+   "key": "pinkwitch",
+   "en": "Pink Witch",
+   "official": "แม่มดสีชมพู",
+   "th": "แม่มดสีชมพู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidadept",
+   "en": "Void Adept",
+   "official": "ผู้เชี่ยวชาญแห่งความว่างเปล่า",
+   "th": "ผู้ชำนาญแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Void)"
+  },
+  {
+   "key": "copperdaggergoblin",
+   "en": "Copper Dagger Goblin",
+   "official": "ก็อบลินมีดสั้นทองแดง",
+   "th": "ก็อบลินมีดสั้นทองแดง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "irondaggergoblin",
+   "en": "Iron Dagger Goblin",
+   "official": "ก็อบลินมีดสั้นเหล็ก",
+   "th": "ก็อบลินมีดสั้นเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "golddaggergoblin",
+   "en": "Gold Dagger Goblin",
+   "official": "ก็อบลินมีดสั้นทอง",
+   "th": "ก็อบลินมีดสั้นทองคำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Gold)"
+  },
+  {
+   "key": "infectedtreant",
+   "en": "Infected Treant",
+   "official": "เทรนต์ที่ติดเชื้อ",
+   "th": "เทรนต์ติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ตัด ที่)"
+  },
+  {
+   "key": "spinelgolem",
+   "en": "Spinel Golem",
+   "official": "โกเลมสปิเนล",
+   "th": "โกเลมสปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelcaveling",
+   "en": "Spinel Caveling",
+   "official": "ชาวถ้ำสปิเนล",
+   "th": "ชาวถ้ำสปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstencaveling",
+   "en": "Tungsten Caveling",
+   "official": "ชาวถ้ำทังสเตน",
+   "th": "ชาวถ้ำทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spinelmimic",
+   "en": "Spinel Mimic",
+   "official": "มิมิกสปิเนล",
+   "th": "มิมิกสปิเนล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babylontower",
+   "en": "Babylon Tower",
+   "official": "หอคอยบาเบล",
+   "th": "หอคอยบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "hearthcrystal",
+   "en": "Hearth Crystal",
+   "official": "คริสตัลเตาผิง",
+   "th": "คริสตัลเตาผิง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babylon",
+   "en": "Babylon",
+   "official": "บาเบล",
+   "th": "บาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wildphosphorslime",
+   "en": "Wild Phosphor Slime",
+   "official": "สไลม์ฟอสฟอรัสป่า",
+   "th": "สไลม์ฟอสฟอรัสป่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babyunstablegelslime",
+   "en": "Baby Unstable Gel Slime",
+   "official": "สไลม์เจลที่ไม่เสถียรทารก",
+   "th": "ลูกสไลม์เจลไม่เสถียร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เรียงคำ"
+  },
+  {
+   "key": "undeadskeleton",
+   "en": "Undead Skeleton",
+   "official": "โครงกระดูกที่ไม่ตาย",
+   "th": "โครงกระดูกคืนชีพ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "volatilegelslime",
+   "en": "Volatile Gel Slime",
+   "official": "สไลม์เจลระเหย",
+   "th": "สไลม์เจลปะทุ",
+   "status": "fixed",
+   "note": "Volatile = พร้อมระเบิด ไม่ใช่ระเหย"
+  },
+  {
+   "key": "runicunstablegelslime",
+   "en": "Runic Unstable Gel Slime",
+   "official": "สไลม์เจลที่ไม่เสถียรรูน",
+   "th": "สไลม์เจลไม่เสถียรรูน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "runicvulturehatchling",
+   "en": "Runic Vulture Hatchling",
+   "official": "ลูกอีแร้งรูน",
+   "th": "ลูกอีแร้งรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runicbat",
+   "en": "Runic Bat",
+   "official": "ค้างคาวรูน",
+   "th": "ค้างคาวรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "onyx",
+   "en": "Onyx",
+   "official": "โอนิกซ์",
+   "th": "โอนิกซ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "livingsapling",
+   "en": "Living Sabling",
+   "official": "ต้นอ่อนที่มีชีวิต",
+   "th": "ต้นกล้ามีชีวิต",
+   "status": "fixed",
+   "note": "ให้เข้าชุดต้นกล้า"
+  },
+  {
+   "key": "petphosphorslime",
+   "en": "Phosphor Slime",
+   "official": "สไลม์ฟอสฟอรัส",
+   "th": "สไลม์ฟอสฟอรัส",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

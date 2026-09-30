@@ -1,0 +1,14 @@
+{
+ "category": "mobtooltip",
+ "entries": [
+  {
+   "key": "usenet",
+   "en": "Use a Net! [item=net]",
+   "official": "ใช้ตาข่าย! [item=net]",
+   "th": "ใช้ตาข่าย! [item=net]",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

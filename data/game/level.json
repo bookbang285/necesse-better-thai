@@ -1,0 +1,38 @@
+{
+ "category": "level",
+ "entries": [
+  {
+   "key": "surface",
+   "en": "Surface",
+   "official": "พื้นผิว",
+   "th": "พื้นผิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cave",
+   "en": "Caves",
+   "official": "ถ้ำ",
+   "th": "ถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepcave",
+   "en": "Deep Caves",
+   "official": "ถ้ำลึก",
+   "th": "ถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unknown",
+   "en": "Unknown",
+   "official": "ไม่ทราบ",
+   "th": "ไม่ทราบ",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

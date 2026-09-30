@@ -1,0 +1,14 @@
+{
+ "category": "tile",
+ "entries": [
+  {
+   "key": "exampletile",
+   "en": "A Better Torch",
+   "official": "",
+   "th": "คบเพลิงที่ดีกว่า",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

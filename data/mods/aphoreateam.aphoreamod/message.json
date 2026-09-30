@@ -1,0 +1,166 @@
+{
+ "category": "message",
+ "entries": [
+  {
+   "key": "unstablegelslime_anger",
+   "en": "§6Unstable Gel Slime is getting angry... <anger>/10",
+   "official": "§6สไลม์เจลที่ไม่เสถียรกำลังโกรธ... <anger>/10",
+   "th": "§6สไลม์เจลไม่เสถียรกำลังโกรธ... <anger>/10",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unstablegelslime_fullanger",
+   "en": "§6Unstable Gel Slime got angry! <anger>/10",
+   "official": "§6สไลม์เจลที่ไม่เสถียรโกรธแล้ว! <anger>/10",
+   "th": "§6สไลม์เจลไม่เสถียรโกรธแล้ว! <anger>/10",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "unstablegelslime_night",
+   "en": "§6Unstable Gel Slime§0 vanished as night fell!",
+   "official": "§6สไลม์เจลที่ไม่เสถียร§0 หายไปเมื่อค่ำคืนมาถึง!",
+   "th": "§6สไลม์เจลไม่เสถียร§0 หายไปเมื่อค่ำคืนมาถึง!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "gelslimesnulled",
+   "en": "Gel Slimes nullified in this world. They will no longer appear",
+   "official": "สไลม์เจลในโลกนี้ถูกทำให้เป็นกลางแล้ว พวกมันจะไม่ปรากฏอีกต่อไป",
+   "th": "ปิดการเกิดของสไลม์เจลในโลกนี้แล้ว จะไม่ปรากฏอีกต่อไป",
+   "status": "fixed",
+   "note": "แปลตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "gelslimesunnulled",
+   "en": "Gel Slimes admitted in this world. They will now appear",
+   "official": "สไลม์เจลในโลกนี้ได้รับการยอมรับแล้ว พวกมันจะปรากฏตัวแล้ว",
+   "th": "เปิดการเกิดของสไลม์เจลในโลกนี้แล้ว จะเริ่มปรากฏตัว",
+   "status": "fixed",
+   "note": "แปลตามตัวอักษรเกินไป"
+  },
+  {
+   "key": "needfreeslots",
+   "en": "You need <slots> free slots in the inventory to use this",
+   "official": "คุณต้องมีช่องว่างในช่องเก็บของ <slots> ช่องเพื่อใช้สิ่งนี้",
+   "th": "คุณต้องมีช่องว่างในช่องเก็บของ <slots> ช่องเพื่อใช้สิ่งนี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cantuseatnight",
+   "en": "Cannot be used at night",
+   "official": "ไม่สามารถใช้ในเวลากลางคืนได้",
+   "th": "ไม่สามารถใช้ในเวลากลางคืนได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healthalreadyfull",
+   "en": "Health is already full",
+   "official": "พลังชีวิตเต็มแล้ว",
+   "th": "พลังชีวิตเต็มแล้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cantheal",
+   "en": "Can't heal",
+   "official": "ไม่สามารถรักษาได้",
+   "th": "ไม่สามารถรักษาได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "insuficienthealth",
+   "en": "Insufficient health to perform this action!",
+   "official": "พลังชีวิตไม่เพียงพอที่จะดำเนินการนี้!",
+   "th": "พลังชีวิตไม่เพียงพอที่จะดำเนินการนี้!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cannottrhowlockeditem",
+   "en": "You cannot throw an inventory-locked item",
+   "official": "คุณไม่สามารถทิ้งไอเท็มที่ถูกล็อคในช่องเก็บของได้",
+   "th": "ทิ้งไอเทมที่ล็อกไว้ในช่องเก็บของไม่ได้",
+   "status": "fixed",
+   "note": "สะกด ไอเทม/ล็อก"
+  },
+  {
+   "key": "initialrunetip",
+   "en": "Choose your initial rune carefully;\\nyou won't obtain the others until later in the game",
+   "official": "เลือกรูนเริ่มต้นของคุณอย่างระมัดระวัง\\nคุณจะไม่ได้รับรูนอื่นจนกว่าจะถึงช่วงท้ายเกม",
+   "th": "เลือกรูนเริ่มต้นให้ดี\\nกว่าจะได้รูนอื่นก็อีกนานในเกม",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "alreadyselectedinitialrune",
+   "en": "Already selected initial rune",
+   "official": "เลือกรูนเริ่มต้นแล้ว",
+   "th": "เลือกรูนเริ่มต้นแล้ว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cannotusetrial",
+   "en": "Cannot use in trial rooms",
+   "official": "ไม่สามารถใช้ในห้องทดลองได้",
+   "th": "ใช้ในห้องแห่งการทดสอบไม่ได้",
+   "status": "fixed",
+   "note": "ทดลอง → ทดสอบ · ชื่อตาม biome: Trial Room"
+  },
+  {
+   "key": "treantattackmessage",
+   "en": "Infected Treants ([mob=infectedtreant]) are vulnerable only to axes ([item=ironaxe])",
+   "official": "เทรนต์ที่ติดเชื้อ ([mob=infectedtreant]) จะอ่อนแอต่อขวานเท่านั้น ([item=ironaxe])",
+   "th": "เทรนต์ติดเชื้อ ([mob=infectedtreant]) รับความเสียหายจากขวานเท่านั้น ([item=ironaxe])",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "infectedfieldsday",
+   "en": "§#e05cd5Caution! §#ca25adInfected Fields §#e05cd5are highly radioactive at daytime!",
+   "official": "",
+   "th": "§#e05cd5ระวัง! §#ca25adทุ่งติดเชื้อ §#e05cd5มีกัมมันตรังสีสูงในเวลากลางวัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "babylondragonspawn",
+   "en": "Babylon, the §!Immortal§0 dragon, came to protect his territory!",
+   "official": "",
+   "th": "บาเบล มังกร§!อมตะ§0 มาปกป้องอาณาเขตของมันแล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "heartcrystalsspawn",
+   "en": "[mob=babylontower] Destroy the hearts to continue damaging the tower!",
+   "official": "",
+   "th": "[mob=babylontower] ทำลายหัวใจเพื่อโจมตีหอคอยต่อ!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "spinelcure",
+   "en": "The Infected Fields are no longer radioactive at day!",
+   "official": "",
+   "th": "ทุ่งติดเชื้อไม่มีกัมมันตรังสีในเวลากลางวันอีกต่อไปแล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "alreadycured",
+   "en": "The Infected Fields are already cured",
+   "official": "",
+   "th": "ทุ่งติดเชื้อได้รับการรักษาแล้ว",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

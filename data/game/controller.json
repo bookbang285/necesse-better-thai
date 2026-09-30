@@ -1,0 +1,206 @@
+{
+ "category": "controller",
+ "entries": [
+  {
+   "key": "layer_gameplay",
+   "en": "Game Controls",
+   "official": "การควบคุม",
+   "th": "การควบคุมในเกม",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "layer_desktop",
+   "en": "Desktop controls",
+   "official": "การควบคุมเดสก์ท็อป",
+   "th": "การควบคุมเดสก์ท็อป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "layer_menu",
+   "en": "Menu/Inventory Controls",
+   "official": "เมนู/ช่องเก็บของ",
+   "th": "เมนู/ช่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "move",
+   "en": "Movement",
+   "official": "การเคลื่อนที่",
+   "th": "การเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aim",
+   "en": "Aim",
+   "official": "การเล็ง",
+   "th": "การเล็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cursor",
+   "en": "Cursor",
+   "official": "เคอเซอร์",
+   "th": "เคอร์เซอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "desktopcursor",
+   "en": "Cursor",
+   "official": "เคอเซอร์",
+   "th": "เคอร์เซอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "toggleaim",
+   "en": "Toggle Aim and Cursor",
+   "official": "เปิด/ปิด การเล็ง",
+   "th": "สลับการเล็ง/เคอร์เซอร์",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "mainmenu",
+   "en": "Toggle main menu",
+   "official": "เปิด/ปิด เมนูหลัก",
+   "th": "เปิด/ปิด เมนูหลัก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuup",
+   "en": "Menu up",
+   "official": "เมนูขึ้น",
+   "th": "เมนูขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuright",
+   "en": "Menu right",
+   "official": "เมนูขวา",
+   "th": "เมนูขวา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menudown",
+   "en": "Menu down",
+   "official": "เมนูลง",
+   "th": "เมนูลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuleft",
+   "en": "Menu left",
+   "official": "เมนูซ้าย",
+   "th": "เมนูซ้าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuselect",
+   "en": "Menu select",
+   "official": "เลือกเมนู",
+   "th": "เลือกเมนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuback",
+   "en": "Menu back",
+   "official": "เมนูหลัง",
+   "th": "เมนูย้อนกลับ",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "menunext",
+   "en": "Menu next",
+   "official": "เมนูหน้า",
+   "th": "เมนูถัดไป",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "menuprevious",
+   "en": "Menu previous",
+   "official": "เมนูก่อนหน้า",
+   "th": "เมนูก่อนหน้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuinteractitem",
+   "en": "Menu split/equip/use item",
+   "official": "เมนูแบ่ง/สวมใส่/ใช้ไอเทม",
+   "th": "เมนูแบ่ง/สวมใส่/ใช้ไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menuitemactionsmenu",
+   "en": "Menu item actions",
+   "official": "เมนูแอคชั่นไอเทม",
+   "th": "เมนูคำสั่งไอเทม",
+   "status": "fixed",
+   "note": "เลี่ยงทับศัพท์"
+  },
+  {
+   "key": "menuquicktransfer",
+   "en": "Menu quick transfer",
+   "official": "เมนูย้ายเร่งด่วน",
+   "th": "เมนูย้ายด่วน",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "menuquicktrash",
+   "en": "Menu quick trash",
+   "official": "เมนูทิ้งเร่งด่วน",
+   "th": "เมนูทิ้งด่วน",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "menudropitem",
+   "en": "Menu drop item",
+   "official": "เมนูดรอปไอเทม",
+   "th": "เมนูดรอปไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "menulockitem",
+   "en": "Menu lock item",
+   "official": "เมนูล็อคไอเทม",
+   "th": "เมนูล็อกไอเทม",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "menumoveoneitem",
+   "en": "Menu move one item",
+   "official": "เมนูเคลื่อนย้ายไอเทม",
+   "th": "เมนูย้ายไอเทมทีละชิ้น",
+   "status": "fixed",
+   "note": "ตกคำ"
+  },
+  {
+   "key": "menugetoneitem",
+   "en": "Menu get one item",
+   "official": "เมนูหยิบไอเทมหนึ่งอัน",
+   "th": "เมนูหยิบไอเทมหนึ่งชิ้น",
+   "status": "fixed",
+   "note": "ลักษณนาม"
+  }
+ ],
+ "removed": []
+}

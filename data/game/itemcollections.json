@@ -1,0 +1,54 @@
+{
+ "category": "itemcollections",
+ "entries": [
+  {
+   "key": "frogcostume",
+   "en": "Frog Costume",
+   "official": "ชุดกบ",
+   "th": "ชุดกบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "seedgunandpouch",
+   "en": "Seed Gun and Seed Pouch",
+   "official": "ปืนยิงเมล็ดพืชและถุงใส่เมล็ดพืช",
+   "th": "ปืนยิงเมล็ดพืชและถุงใส่เมล็ดพืช",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "horsecostume",
+   "en": "Horse Costume",
+   "official": "ชุดม้า",
+   "th": "ชุดม้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chickencostume",
+   "en": "Chicken Costume",
+   "official": "ชุดไก่",
+   "th": "ชุดไก่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "aliencostume",
+   "en": "Alien Costume",
+   "official": "ชุดเอเลี่ยน",
+   "th": "ชุดเอเลี่ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sharkcostume",
+   "en": "Shark Costume",
+   "official": "ชุดฉลาม",
+   "th": "ชุดฉลาม",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,214 @@
+{
+ "category": "tech",
+ "entries": [
+  {
+   "key": "all",
+   "en": "All",
+   "official": "ทั้งหมด",
+   "th": "ทั้งหมด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "inventory",
+   "en": "Inventory",
+   "official": "ช่องเก็บของ",
+   "th": "ช่องเก็บของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "workstation",
+   "en": "Workstation",
+   "official": "โต๊ะประดิษฐ์",
+   "th": "โต๊ะประดิษฐ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cookingpot",
+   "en": "Cooking Pot",
+   "official": "หม้อทำอาหาร",
+   "th": "หม้อทำอาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roastingstation",
+   "en": "Roasting Station",
+   "official": "ที่ย่างเนื้อ",
+   "th": "ที่ย่างเนื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cookingstation",
+   "en": "Cooking Station",
+   "official": "ที่ปรุงอาหาร",
+   "th": "ที่ปรุงอาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "forge",
+   "en": "Forge",
+   "official": "เตาเผา",
+   "th": "เตาหลอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "carpenter",
+   "en": "Carpenters Bench",
+   "official": "โต๊ะงานช่างไม้",
+   "th": "โต๊ะงานช่างไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstencarpenter",
+   "en": "Tungsten Carpenters Bench",
+   "official": "โต๊ะงานช่างทังสเตน",
+   "th": "โต๊ะงานช่างไม้ทังสเตน",
+   "status": "fixed",
+   "note": "ตก ไม้"
+  },
+  {
+   "key": "fallencarpenter",
+   "en": "Fallen Carpenters Bench",
+   "official": "โต๊ะงานช่างร้าง",
+   "th": "โต๊ะงานช่างไม้ร้าง",
+   "status": "fixed",
+   "note": "ตก ไม้"
+  },
+  {
+   "key": "landscaping",
+   "en": "Landscaping Station",
+   "official": "โต๊ะภูมิประเทศ",
+   "th": "โต๊ะภูมิประเทศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenlandscaping",
+   "en": "Tungsten Landscaping Station",
+   "official": "โต๊ะภูมิประเทศทังสเตน",
+   "th": "โต๊ะภูมิประเทศทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenlandscaping",
+   "en": "Fallen Landscaping Station",
+   "official": "โต๊ะภูมิประเทศร้าง",
+   "th": "โต๊ะภูมิประเทศร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ironanvil",
+   "en": "Iron Anvil",
+   "official": "ทั่งตีเหล็ก",
+   "th": "ทั่งตีเหล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonicanvil",
+   "en": "Demonic Anvil",
+   "official": "ทั่งตีเหล็กปีศาจ",
+   "th": "ทั่งตีเหล็กปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "alchemy",
+   "en": "Alchemy Table",
+   "official": "โต๊ะปรุงยา",
+   "th": "โต๊ะปรุงยา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "demonic",
+   "en": "Demonic Workstation",
+   "official": "โต๊ะประดิษฐ์ปีศาจ",
+   "th": "โต๊ะประดิษฐ์ปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenworkstation",
+   "en": "Tungsten Workstation",
+   "official": "โต๊ะประดิษฐ์ทังสเตน",
+   "th": "โต๊ะประดิษฐ์ทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tungstenanvil",
+   "en": "Tungsten Anvil",
+   "official": "ทั่งตีเหล็กทังสเตน",
+   "th": "ทั่งตีเหล็กทังสเตน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallen",
+   "en": "Fallen Workstation",
+   "official": "โต๊ะประดิษฐ์ร้าง",
+   "th": "โต๊ะประดิษฐ์ร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fallenanvil",
+   "en": "Fallen Anvil",
+   "official": "ทั่งตีเหล็กร้าง",
+   "th": "ทั่งตีเหล็กร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidalchemy",
+   "en": "Void Alchemy Table",
+   "official": "โต๊ะปรุงยาแห่งความมืด",
+   "th": "โต๊ะปรุงยาแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "caveglowalchemy",
+   "en": "Caveglow Alchemy Table",
+   "official": "โต๊ะปรุงยาแห่งแสง",
+   "th": "โต๊ะปรุงยาพืชถ้ำ",
+   "status": "fixed",
+   "note": "Caveglow = พืชถ้ำ ตามชื่อวัตถุ"
+  },
+  {
+   "key": "fallenalchemy",
+   "en": "Fallen Alchemy Table",
+   "official": "โต๊ะปรุงยาร้าง",
+   "th": "โต๊ะปรุงยาร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "madein",
+   "en": "Made in: <tech>",
+   "official": "สร้างด้วย: <tech>",
+   "th": "สร้างที่: <tech>",
+   "status": "fixed",
+   "note": "Made in = สร้างที่โต๊ะนั้น"
+  },
+  {
+   "key": "madeinhidden",
+   "en": "Made in: <tech> (hidden)",
+   "official": "สร้างด้วย: <tech> (ลับ)",
+   "th": "สร้างที่: <tech> (ซ่อน)",
+   "status": "fixed",
+   "note": "Made in = สร้างที่โต๊ะนั้น"
+  }
+ ],
+ "removed": []
+}

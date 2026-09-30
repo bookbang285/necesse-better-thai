@@ -1,0 +1,214 @@
+{
+ "category": "disconnect",
+ "entries": [
+  {
+   "key": "chatmsg",
+   "en": "<name> disconnected: <msg>",
+   "official": "<name> ตัดการเชื่อมต่อ: <msg>",
+   "th": "<name> ตัดการเชื่อมต่อ: <msg>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unknown",
+   "en": "Unknown reason",
+   "official": "ไม่ทราบสาเหตุ",
+   "th": "ไม่ทราบสาเหตุ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "internal",
+   "en": "Internal error",
+   "official": "ข้อผิดพลาดภายใน",
+   "th": "ข้อผิดพลาดภายใน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "kicked",
+   "en": "Kicked: <reason>",
+   "official": "เตะ: <reason>",
+   "th": "ถูกเตะออก: <reason>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "noreason",
+   "en": "No reason",
+   "official": "ไม่มีเหตุผล",
+   "th": "ไม่ระบุเหตุผล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "invalidname",
+   "en": "Invalid name",
+   "official": "ชื่อไม่ถูกต้อง",
+   "th": "ชื่อไม่ถูกต้อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "clientresponding",
+   "en": "Not responding",
+   "official": "ไม่ตอบสนอง",
+   "th": "ไม่ตอบสนอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "serverstopped",
+   "en": "Server stopped",
+   "official": "เซิร์ฟเวอร์หยุดทำงาน",
+   "th": "เซิร์ฟเวอร์หยุดทำงาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "servererror",
+   "en": "Server error",
+   "official": "เซิร์ฟเวอร์ผิดพลาด",
+   "th": "ข้อผิดพลาดของเซิร์ฟเวอร์",
+   "status": "fixed",
+   "note": "สม่ำเสมอ"
+  },
+  {
+   "key": "clienterror",
+   "en": "Client error",
+   "official": "ข้อผิดพลาดจากผู้ใช้",
+   "th": "ข้อผิดพลาดของไคลเอนต์",
+   "status": "fixed",
+   "note": "แปลผิด"
+  },
+  {
+   "key": "wrongpassword",
+   "en": "Wrong password",
+   "official": "รหัสผ่านผิด",
+   "th": "รหัสผ่านผิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "missingclient",
+   "en": "Missing client",
+   "official": "Missing client",
+   "th": "ไม่พบไคลเอนต์",
+   "status": "fixed",
+   "note": "ค้างอังกฤษ"
+  },
+  {
+   "key": "banned",
+   "en": "You are banned from this server",
+   "official": "คุณถูกแบนจากเซิร์ฟเวอร์นี้",
+   "th": "คุณถูกแบนจากเซิร์ฟเวอร์นี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wrongversion",
+   "en": "Wrong client version",
+   "official": "เวอร์ชั่นไม่ตรง",
+   "th": "เวอร์ชันไคลเอนต์ไม่ตรงกัน",
+   "status": "fixed",
+   "note": "สะกดเวอร์ชัน + ครบความหมาย"
+  },
+  {
+   "key": "alreadyplaying",
+   "en": "Already playing",
+   "official": "กำลังเล่นอยู่",
+   "th": "กำลังเล่นอยู่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "serverfull",
+   "en": "Server full",
+   "official": "เซิร์ฟเวอร์เต็ม",
+   "th": "เซิร์ฟเวอร์เต็ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nomessage",
+   "en": "No message",
+   "official": "ไม่มีข้อความ",
+   "th": "ไม่มีข้อความ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "missingappearance",
+   "en": "Missing appearance",
+   "official": "Missing appearance",
+   "th": "ไม่พบข้อมูลรูปลักษณ์",
+   "status": "fixed",
+   "note": "ค้างอังกฤษ"
+  },
+  {
+   "key": "networkerror",
+   "en": "Network error",
+   "official": "ข้อผิดพลาดของเครือข่าย",
+   "th": "ข้อผิดพลาดเครือข่าย",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "networkerrormsg",
+   "en": "Network error: <msg>",
+   "official": "ข้อผิดพลาดของเครือข่าย: <msg>",
+   "th": "ข้อผิดพลาดเครือข่าย: <msg>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "statedesync",
+   "en": "Game state desync",
+   "official": "Game state desync",
+   "th": "สถานะเกมไม่ตรงกัน",
+   "status": "fixed",
+   "note": "ค้างอังกฤษ"
+  },
+  {
+   "key": "inviteonly",
+   "en": "Game is invite only",
+   "official": "ต้องได้รับคำเชิญเท่านั้น",
+   "th": "เกมนี้เข้าได้เฉพาะผู้ที่ได้รับเชิญ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "friendsonly",
+   "en": "Game is for friends only",
+   "official": "เฉพาะเพือนเท่านนั้น",
+   "th": "เกมนี้เข้าได้เฉพาะเพื่อน",
+   "status": "fixed",
+   "note": "สะกด (เพือน, นั้น)"
+  },
+  {
+   "key": "notresponding",
+   "en": "Have not received updates in <seconds> seconds",
+   "official": "ยังไม่ได้รับการปรับปรุงใน <seconds> วินาที",
+   "th": "ไม่ได้รับข้อมูลอัปเดตมา <seconds> วินาทีแล้ว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "respondingdc",
+   "en": "Server did not respond",
+   "official": "เซิร์ฟเวอร์ไม่ตอบสนอง",
+   "th": "เซิร์ฟเวอร์ไม่ตอบสนอง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modsmismatch",
+   "en": "Mods did not match",
+   "official": "มอดไม่ตรงกัน",
+   "th": "มอดไม่ตรงกัน",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

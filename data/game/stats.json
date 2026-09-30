@@ -1,0 +1,462 @@
+{
+ "category": "stats",
+ "entries": [
+  {
+   "key": "filter",
+   "en": "Filter:",
+   "official": "ตัวกรอง:",
+   "th": "ตัวกรอง:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "time_played",
+   "en": "Time played",
+   "official": "เวลาที่เล่น",
+   "th": "เวลาที่เล่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "distance_ran",
+   "en": "Distance ran",
+   "official": "ระยะทางที่เดิน",
+   "th": "ระยะทางที่วิ่ง",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "distance_ridden",
+   "en": "Distance ridden",
+   "official": "ระยะทางที่ขี่พาหนะ",
+   "th": "ระยะทางที่ขี่พาหนะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "damage_dealt",
+   "en": "Damage dealt",
+   "official": "ความเสียหายที่ทำได้",
+   "th": "ความเสียหายที่สร้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "show_types",
+   "en": "Show types",
+   "official": "แสดงประเภท",
+   "th": "แสดงประเภท",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "damage_taken",
+   "en": "Damage taken",
+   "official": "ความเสียหายที่ได้รับ",
+   "th": "ความเสียหายที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deaths",
+   "en": "Deaths",
+   "official": "เสียชีวิต",
+   "th": "จำนวนครั้งที่ตาย",
+   "status": "fixed",
+   "note": "เป็นคำนามนับได้"
+  },
+  {
+   "key": "mob_kills",
+   "en": "Mob kills",
+   "official": "ฆ่ามอนส์เตอร์",
+   "th": "มอนสเตอร์ที่ฆ่า",
+   "status": "fixed",
+   "note": "สะกด (มอนส์เตอร์)"
+  },
+  {
+   "key": "boss_kills",
+   "en": "Boss kills",
+   "official": "ฆ่าบอส",
+   "th": "บอสที่ฆ่า",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับ mob_kills"
+  },
+  {
+   "key": "show_mobs",
+   "en": "Show mobs",
+   "official": "แสดงมอนส์เตอร์",
+   "th": "แสดงมอนสเตอร์",
+   "status": "fixed",
+   "note": "สะกด (มอนส์เตอร์)"
+  },
+  {
+   "key": "biomes_visited",
+   "en": "Biomes visited",
+   "official": "พิ้นที่ที่เยี่ยมชมมาแล้ว",
+   "th": "ไบโอมที่ไปเยือน",
+   "status": "fixed",
+   "note": "สะกด (พิ้นที่) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "show_biomes",
+   "en": "Show biomes",
+   "official": "แสดงไบโอม",
+   "th": "แสดงไบโอม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "objects_mined",
+   "en": "Objects mined",
+   "official": "วัตถุที่ขุด",
+   "th": "วัตถุที่ขุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "objects_placed",
+   "en": "Objects placed",
+   "official": "วัตถุที่วาง",
+   "th": "วัตถุที่วาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tiles_mined",
+   "en": "Tiles mined",
+   "official": "พื้นที่ขุด",
+   "th": "พื้นที่ขุดออก",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "tiles_placed",
+   "en": "Tiles placed",
+   "official": "พื้นที่วาง",
+   "th": "พื้นที่ปู",
+   "status": "fixed",
+   "note": "ความหมายชัดขึ้น"
+  },
+  {
+   "key": "food_consumed",
+   "en": "Food consumed",
+   "official": "อาหารที่กิน",
+   "th": "อาหารที่กิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "show_food",
+   "en": "Show food",
+   "official": "แสดงอาหาร",
+   "th": "แสดงอาหาร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potions_consumed",
+   "en": "Potions consumed",
+   "official": "ยาที่กิน",
+   "th": "น้ำยาที่ดื่ม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Potion)"
+  },
+  {
+   "key": "show_potions",
+   "en": "Show potions",
+   "official": "แสดงยา",
+   "th": "แสดงน้ำยา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Potion)"
+  },
+  {
+   "key": "fish_caught",
+   "en": "Fish caught",
+   "official": "ปลาที่จับได้",
+   "th": "ปลาที่จับได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quests_completed",
+   "en": "Quests completed",
+   "official": "ภารกิจที่ทำสำเร็จ",
+   "th": "ภารกิจที่ทำสำเร็จ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "money_earned",
+   "en": "Money earned",
+   "official": "เงินที่ได้",
+   "th": "เงินที่หาได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "items_sold",
+   "en": "Items sold",
+   "official": "ไอเทมที่ขาย",
+   "th": "ไอเทมที่ขาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "money_spent",
+   "en": "Money spent",
+   "official": "เงินที่ใช้ไป",
+   "th": "เงินที่ใช้ไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "items_bought",
+   "en": "Items bought",
+   "official": "ไอเทมที่ซื้อ",
+   "th": "ไอเทมที่ซื้อ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "items_enchanted",
+   "en": "Items enchanted",
+   "official": "ไอเทมที่เสริมพลัง",
+   "th": "ไอเทมที่เสริมพลัง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "items_upgraded",
+   "en": "Items upgraded",
+   "official": "ไอเทมที่อัปเกรดแล้ว",
+   "th": "ไอเทมที่อัปเกรด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "items_salvaged",
+   "en": "Items salvaged",
+   "official": "ไอเทมที่ย่อย",
+   "th": "ไอเทมที่ย่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "items_obtained",
+   "en": "Unique items obtained",
+   "official": "ไอเทมที่ค้นพบ",
+   "th": "ไอเทมไม่ซ้ำที่ได้รับ",
+   "status": "fixed",
+   "note": "ครบความ (Unique)"
+  },
+  {
+   "key": "show_item_list",
+   "en": "Show item list",
+   "official": "แสดงรายการไอเทม",
+   "th": "แสดงรายการไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "show_items_all",
+   "en": "All",
+   "official": "ทั้งหมด",
+   "th": "ทั้งหมด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "show_items_obtained",
+   "en": "Obtained",
+   "official": "ได้รับ",
+   "th": "ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "show_items_not_obtained",
+   "en": "Not obtained",
+   "official": "ไม่เคยได้รับ",
+   "th": "ไม่เคยได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "have_all_items",
+   "en": "You have obtained all items!",
+   "official": "คุณได้รับไอเทมทั้งหมด!",
+   "th": "คุณได้รับไอเทมทั้งหมด!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "trinkets_worn",
+   "en": "Trinkets worn",
+   "official": "เครื่องประดับที่สวมใส่",
+   "th": "เครื่องประดับที่สวมใส่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "show_missing_trinkets",
+   "en": "Show missing trinkets",
+   "official": "แสดงเครื่องประดับที่ยังไม่ค้นพบ",
+   "th": "แสดงเครื่องประดับที่ยังไม่เคยสวม",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "missing_trinkets",
+   "en": "Missing trinkets:",
+   "official": "เครื่องประดับที่ยังไม่ค้นพบ:",
+   "th": "เครื่องประดับที่ยังไม่เคยสวม:",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "have_all_trinkets",
+   "en": "You have worn all trinkets!",
+   "official": "คุณได้สวมใส่เครื่องประดับทุกชิ้น!",
+   "th": "คุณได้สวมใส่เครื่องประดับทุกชิ้น!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "set_bonuses_worn",
+   "en": "Set bonuses worn",
+   "official": "คุณสมบัติของเซ็ตที่สวมใส่",
+   "th": "โบนัสเซ็ตที่เคยสวม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Set bonus)"
+  },
+  {
+   "key": "ladders_used",
+   "en": "Ladders used",
+   "official": "บันได้ที่ใช้",
+   "th": "บันไดที่ใช้",
+   "status": "fixed",
+   "note": "สะกด (บันได้)"
+  },
+  {
+   "key": "doors_used",
+   "en": "Doors used",
+   "official": "ประตูที่ใช้",
+   "th": "ประตูที่ใช้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plates_triggered",
+   "en": "Plates triggered",
+   "official": "พื้นเหยียบที่เกิดผล",
+   "th": "แผ่นเหยียบที่เหยียบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "levers_flicked",
+   "en": "Levers flicked",
+   "official": "คันโยกที่ดึง",
+   "th": "คันโยกที่โยก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "homestones_used",
+   "en": "Homestones used",
+   "official": "ใช้โฮมสโตน",
+   "th": "โฮมสโตนที่ใช้",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับแถวอื่น"
+  },
+  {
+   "key": "waystones_used",
+   "en": "Waystones used",
+   "official": "ใช้เวย์สโตน",
+   "th": "เวย์สโตนที่ใช้",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับแถวอื่น"
+  },
+  {
+   "key": "crafted_items",
+   "en": "Crafted items",
+   "official": "ไอเทมที่ประดิษฐ์",
+   "th": "ไอเทมที่ประดิษฐ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "crates_broken",
+   "en": "Crates broken",
+   "official": "ลังแตก",
+   "th": "ลังที่ทุบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "opened_incursions",
+   "en": "Opened incursions",
+   "official": "เปิดการรุกรานอินเคอชั่น",
+   "th": "อินเคอร์ชันที่เปิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Incursion)"
+  },
+  {
+   "key": "completed_incursions",
+   "en": "Completed incursions",
+   "official": "เสร็จสิ้นการรุกรานอินเคอชั่น",
+   "th": "อินเคอร์ชันที่สำเร็จ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Incursion)"
+  },
+  {
+   "key": "normal_damage",
+   "en": "Normal damage",
+   "official": "ความเสียหายปกติ",
+   "th": "ความเสียหายปกติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "true_damage",
+   "en": "True damage",
+   "official": "ความเสียหายจริง",
+   "th": "ความเสียหายจริง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "melee_damage",
+   "en": "Melee damage",
+   "official": "ความเสียหายระยะใกล้",
+   "th": "ความเสียหายระยะประชิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Melee)"
+  },
+  {
+   "key": "ranged_damage",
+   "en": "Ranged damage",
+   "official": "ความเสียหายระยะไกล",
+   "th": "ความเสียหายระยะไกล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "magic_damage",
+   "en": "Magic damage",
+   "official": "ความเสียหายเวทมนตร์",
+   "th": "ความเสียหายเวทมนตร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "summon_damage",
+   "en": "Summon damage",
+   "official": "ความเสียหายยูนิตที่อัญเชิญ",
+   "th": "ความเสียหายอัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Summon damage)"
+  }
+ ],
+ "removed": []
+}

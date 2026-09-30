@@ -1,0 +1,1374 @@
+{
+ "category": "misc",
+ "entries": [
+  {
+   "key": "recipecostmult",
+   "en": "Cost for <amount>:",
+   "official": "จำนวนวัตถุดิบที่ต้องการ <amount>:",
+   "th": "ต้นทุนสำหรับ <amount> ชิ้น:",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "recipecostsing",
+   "en": "Cost:",
+   "official": "จำเป็นต้องใช้:",
+   "th": "ต้นทุน:",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ingredientmusthave",
+   "en": "Must have: <ingredient>",
+   "official": "จะต้องมี: <ingredient>",
+   "th": "ต้องมี: <ingredient>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "blockingexit",
+   "en": "§aSomething is blocking the exit. Try to enter some place else",
+   "official": "§aมีบางอย่างกันทางออก. ลองหาทางออกอื่น",
+   "th": "§aมีบางอย่างขวางทางออกอยู่ ลองเข้าจากที่อื่นดู",
+   "status": "fixed",
+   "note": "ตัดจุด + ความหมาย"
+  },
+  {
+   "key": "blockingliquid",
+   "en": "§aA liquid is blocking the exit. Try to enter some place else",
+   "official": "§aAของเหลวกำลังปิดกั้นทางออกอยู่ ลองหาทางอื่น",
+   "th": "§aมีของเหลวขวางทางออกอยู่ ลองเข้าจากที่อื่นดู",
+   "status": "fixed",
+   "note": "ตัด A ที่หลุดมา"
+  },
+  {
+   "key": "recentdeath",
+   "en": "Recent death",
+   "official": "ตายล่าสุด",
+   "th": "ตายล่าสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bosssummon",
+   "en": "§b<name> has been summoned!",
+   "official": "§b<name> ได้ถูกอัญเชิญ!",
+   "th": "§b<name> ถูกอัญเชิญแล้ว!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bossawoke",
+   "en": "§b<name> has awoken!",
+   "official": "§b<name> ได้ตื่นขึ้นมาแล้ว!",
+   "th": "§b<name> ตื่นขึ้นแล้ว!",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "bossdefeat",
+   "en": "§b<name> has been defeated!",
+   "official": "§b<name> ได้ถูกกำจัด!",
+   "th": "§b<name> ถูกปราบแล้ว!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bossapproaching",
+   "en": "§bA powerful enemy is approaching...",
+   "official": "§bAn ศัตรูกำลังเข้ามาใกล้ ...",
+   "th": "§bศัตรูผู้ทรงพลังกำลังเข้ามาใกล้...",
+   "status": "fixed",
+   "note": "ตัด An ที่หลุดมา + ครบความ"
+  },
+  {
+   "key": "bossportal",
+   "en": "§bA portal has appeared at the entrance",
+   "official": "§bA ประตูปรากฏตรงทางเข้า",
+   "th": "§bประตูมิติปรากฏขึ้นที่ทางเข้า",
+   "status": "fixed",
+   "note": "ตัด A ที่หลุดมา + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "bossportalnorth",
+   "en": "§bA portal has appeared north in the incursion",
+   "official": "",
+   "th": "§bประตูมิติปรากฏขึ้นทางทิศเหนือของอินเคอร์ชัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bossattempts",
+   "en": "Attempts remaining: <number>",
+   "official": "โอกาสเหลือ: <number> ครั้ง",
+   "th": "โอกาสเหลือ: <number> ครั้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "epescape",
+   "en": "§bEvil's Protector has escaped because of the light!",
+   "official": "§bผู้ปกครองปีศาจได้หนีไปเพราะแสงอาทิตย์ยามเช้า!",
+   "th": "§bผู้ปกครองปีศาจหนีไปแล้วเพราะแสงสว่าง!",
+   "status": "fixed",
+   "note": "ความหมายตรงต้นฉบับ"
+  },
+  {
+   "key": "bossmissingitem",
+   "en": "§aMissing activate item",
+   "official": "§a ไม่พบไอเทมใช้งาน",
+   "th": "§aไม่มีไอเทมสำหรับเรียก",
+   "status": "fixed",
+   "note": "ช่องว่างหลังโค้ดสี + ลื่นขึ้น"
+  },
+  {
+   "key": "staircaseopening",
+   "en": "§iA hidden staircase is opening up...",
+   "official": "§iบันไดลับได้โผล่ออกมา.....",
+   "th": "§iบันไดลับกำลังเปิดออก...",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cannotsummonhere",
+   "en": "§aCannot summon this here",
+   "official": "§aไม่สามารถเรียกสิ่งนี้มาที่นี่ได้",
+   "th": "§aอัญเชิญสิ่งนี้ที่นี่ไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (อัญเชิญ)"
+  },
+  {
+   "key": "cannotsummoninincursion",
+   "en": "§aCannot summon in incursion",
+   "official": "§aไม่สามารถเรียกขณะการบุกรุก",
+   "th": "§aอัญเชิญในอินเคอร์ชันไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cannotsummoncomplete",
+   "en": "§aIncursion already complete",
+   "official": "§aการบุกรุกเสร็จสมบูรณ์แล้ว",
+   "th": "§aอินเคอร์ชันนี้สำเร็จแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cannotsummonnow",
+   "en": "§aCannot summon this now",
+   "official": "§aไม่สามารถเรียกสิ่งนี้ได้ในขณะนี้",
+   "th": "§aอัญเชิญสิ่งนี้ตอนนี้ไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hastobeinpiratevillage",
+   "en": "§aYou can only use this in a Pirate Village",
+   "official": "",
+   "th": "§aใช้สิ่งนี้ได้เฉพาะในหมู่บ้านโจรสลัดเท่านั้น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "settlerhungrywarning1",
+   "en": "§b<settler> will leave <settlement> if they are hungry for too long",
+   "official": "§b<settler> จะออกจาก <settlement> ถ้าพวกเขาไม่ได้กินอะไรเป็นเวลานาน",
+   "th": "§b<settler> จะออกจาก <settlement> ถ้าหิวนานเกินไป",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "settlerhungrywarning2",
+   "en": "§b<settler> will leave <settlement> soon because they are hungry",
+   "official": "§b<settler> จะออกจาก <settlement> ในไม่ช้า เพราะพวกเขาอดอยาก",
+   "th": "§b<settler> จะออกจาก <settlement> ในไม่ช้าเพราะหิว",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "settlerhungryleft",
+   "en": "§9<settler> left <settlement> because they were hungry",
+   "official": "§9<settler> ออกจาก <settlement> เพราะทนต่อความอดอยากไม่ไหว",
+   "th": "§9<settler> ออกจาก <settlement> ไปแล้วเพราะหิว",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "raiderescaping",
+   "en": "Escaping with <item>",
+   "official": "ได้หนีไปพร้อมกับ <item>",
+   "th": "กำลังหนีไปพร้อม <item>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "raiderescapedwith",
+   "en": "§9<raider> escaped <settlement> with <item>",
+   "official": "§9<raider> ได้หลบหนีไปจาก <settlement> พร้อมกับ <item>",
+   "th": "§9<raider> หนีออกจาก <settlement> ไปพร้อมกับ <item>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "raidapproaching",
+   "en": "§b<raidtype> are approaching <settlement> from the <direction>!",
+   "official": "§b<raidtype> กำลังใกล้เข้ามาที่ <settlement> จาก <direction>!",
+   "th": "§b<raidtype> กำลังบุกเข้ามาที่ <settlement> จาก <direction>!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "raidpreparing",
+   "en": "§b<raidtype> are preparing to attack <settlement>!",
+   "official": "§b<raidtype> กำลังเตรียมโจมตี <settlement>!",
+   "th": "§b<raidtype> กำลังเตรียมโจมตี <settlement>!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raidattacking",
+   "en": "§b<raidtype> are attacking <settlement>!",
+   "official": "§b<raidtype> กำลังโจมตี <settlement>!",
+   "th": "§b<raidtype> กำลังโจมตี <settlement>!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "raiddefeated",
+   "en": "§a<raidtype> have been defeated!",
+   "official": "§a<raidtype> ได้พ่ายแพ้!",
+   "th": "§a<raidtype> พ่ายแพ้แล้ว!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "raidended",
+   "en": "§a<raidtype> are leaving!",
+   "official": "§a<raidtype> กำลังหลบหนี!",
+   "th": "§a<raidtype> กำลังจากไป!",
+   "status": "fixed",
+   "note": "ความหมายผิด (หลบหนี)"
+  },
+  {
+   "key": "raidlooting",
+   "en": "§a<raidtype> are grabbing whatever they can find and leaving!",
+   "official": "§a<raidtype> กำลังคว้าสิ่งของทุกอย่างที่พบแล้วหนีไป!",
+   "th": "§a<raidtype> กำลังคว้าทุกอย่างที่หาได้แล้วถอนตัว!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "humanraidertype",
+   "en": "Raiders",
+   "official": "ผู้รุกราน",
+   "th": "ผู้รุกราน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishianraidertype",
+   "en": "Fishian raiders",
+   "official": "กองโจรปล้นปลา",
+   "th": "ผู้รุกรานชาวปลา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Fishian แปลผิด)"
+  },
+  {
+   "key": "chickenpeopleraidertype",
+   "en": "Angry Chicken People",
+   "official": "รวมพลคนไก่โกรธ",
+   "th": "เหล่ามนุษย์ไก่ขี้โมโห",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "ninjasraidertype",
+   "en": "Ninjas",
+   "official": "นินจา",
+   "th": "นินจา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roguehuntersraidertype",
+   "en": "A pack of Rogue Hunters",
+   "official": "เหล่านักล่าอันธพาล",
+   "th": "ฝูงนักล่าอันธพาล",
+   "status": "fixed",
+   "note": "ครบความ (A pack)"
+  },
+  {
+   "key": "frozendwarfraidertype",
+   "en": "The Frozen Dwarves",
+   "official": "คณะคนแคระหัวร้อนตัวเย็น",
+   "th": "เหล่าคนแคระแช่แข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ชื่อ mob)"
+  },
+  {
+   "key": "voidapprenticeraidertype",
+   "en": "A cult of Void Apprentices",
+   "official": "ลัทธิผู้ศึกษาศาสตร์มืด",
+   "th": "ลัทธิพ่อมดฝึกหัดแห่งความมืด",
+   "status": "fixed",
+   "note": "ชื่อ mob ตามคลัง"
+  },
+  {
+   "key": "vampireraidertype",
+   "en": "A horde of Vampires",
+   "official": "กองทัพแวมไพร์",
+   "th": "กองทัพแวมไพร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mummyraidertype",
+   "en": "A pack of lost Mummies",
+   "official": "ฝูงมัมมี่",
+   "th": "ฝูงมัมมี่หลงทาง",
+   "status": "fixed",
+   "note": "ครบความ (lost)"
+  },
+  {
+   "key": "pirateraidertype",
+   "en": "Pirate raiders",
+   "official": "โจรสลัด",
+   "th": "ผู้รุกรานโจรสลัด",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "ancientskeletonraidertype",
+   "en": "Ancient Skeletons",
+   "official": "โครงกระดูกโบราณกาล",
+   "th": "โครงกระดูกโบราณกาล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "themafiaraidertype",
+   "en": "The Mafia",
+   "official": "แก๊งค์มาเฟีย",
+   "th": "แก๊งมาเฟีย",
+   "status": "fixed",
+   "note": "สะกด (แก๊งค์)"
+  },
+  {
+   "key": "pvpenable",
+   "en": "<player> enabled PvP",
+   "official": "<player> ได้เปิดโหมด PvP",
+   "th": "<player> เปิด PvP",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "pvpdisable",
+   "en": "<player> disabled PvP",
+   "official": "<player> ได้ปิดโหมด PvP",
+   "th": "<player> ปิด PvP",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "teamjoin",
+   "en": "<player> joined <team>",
+   "official": "<player> เข้าร่วม <team>",
+   "th": "<player> เข้าร่วม <team>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teamleft",
+   "en": "<player> left <team>",
+   "official": "<player> ลาออกจาก <team>",
+   "th": "<player> ออกจาก <team>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "teamkick",
+   "en": "<player> was kicked from <team>",
+   "official": "<player> ถูกไล่ออกจาก <team>",
+   "th": "<player> ถูกไล่ออกจาก <team>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teaminvite",
+   "en": "You have been invited to join <team>",
+   "official": "คุณถูกเชิญให้เข้าร่วม <team>",
+   "th": "คุณถูกเชิญให้เข้าร่วม <team>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "teamrequest",
+   "en": "<name> has requested to join your team",
+   "official": "<name> ได้ขอเข้าร่วมทีมของคุณ",
+   "th": "<name> ขอเข้าร่วมทีมของคุณ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "questinvite",
+   "en": "<player> is sharing <quest> with you",
+   "official": "<player> ได้แบ่งปัน <quest> กับคุณ",
+   "th": "<player> แชร์ <quest> ให้คุณ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "questnolongervalid",
+   "en": "Quest is no longer valid",
+   "official": "ภารกิจนี้ไม่มีแล้ว",
+   "th": "ภารกิจนี้ใช้ไม่ได้แล้ว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "teamcooptip",
+   "en": "§bTip: While playing coop, remember to create a team and invite your friends! You can do so with the /invite command",
+   "official": "§bTip: ระหว่างที่เล่นหลายคน, อย่าลืมสร้างทีมและชวนเพื่อนๆไปสนุกกัน! โดยใช้คำสั่ง /invite",
+   "th": "§bเคล็ดลับ: ถ้าเล่นหลายคน อย่าลืมสร้างทีมแล้วชวนเพื่อน ๆ! ทำได้ด้วยคำสั่ง /invite",
+   "status": "fixed",
+   "note": "แปล Tip + ตัดจุลภาค"
+  },
+  {
+   "key": "cannotdroplocked",
+   "en": "Cannot drop locked items",
+   "official": "ไม่สามารถดรอปไอเทมที่ล็อคได้",
+   "th": "ดรอปไอเทมที่ล็อกไว้ไม่ได้",
+   "status": "fixed",
+   "note": "สะกด (ล็อก)"
+  },
+  {
+   "key": "screenshotsave",
+   "en": "Saved screenshot to <path>",
+   "official": "บันทึกภาพหน้าจอไปที่ <path>",
+   "th": "บันทึกภาพหน้าจอไปที่ <path>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapshotsave",
+   "en": "Saved mapshot to <path>",
+   "official": "บันทึกภาพแผนที่ไปที่ <path>",
+   "th": "บันทึกภาพแผนที่ไปที่ <path>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mapshottip",
+   "en": "Saving mapshot, this may take some time...",
+   "official": "กำลังบันทึกภาพแผนที่, อาจใช้เวลาสักครู่...",
+   "th": "กำลังบันทึกภาพแผนที่ อาจใช้เวลาสักครู่...",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "shotopen",
+   "en": "Click to open folder",
+   "official": "คลิกเพิ่อแสดง folder",
+   "th": "คลิกเพื่อเปิดโฟลเดอร์",
+   "status": "fixed",
+   "note": "สะกด + แปลคำอังกฤษ"
+  },
+  {
+   "key": "shotexplore",
+   "en": "Click to show in explorer",
+   "official": "คลิกเพิ่อแสดง in explorer",
+   "th": "คลิกเพื่อแสดงใน Explorer",
+   "status": "fixed",
+   "note": "สะกด + แปลคำอังกฤษ"
+  },
+  {
+   "key": "movesettler",
+   "en": "Move <settler>",
+   "official": "ย้าย <settler>",
+   "th": "ย้าย <settler>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "nosettler",
+   "en": "Lock no settler",
+   "official": "ปิดไม่ให้มีผู้อพยพ",
+   "th": "ล็อก ไม่ให้มีชาวนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Settler)"
+  },
+  {
+   "key": "playerconnecting",
+   "en": "<player> is connecting!",
+   "official": "<player> เชื่อมต่อแล้ว!",
+   "th": "<player> กำลังเชื่อมต่อ!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "playerjoined",
+   "en": "<player> has joined!",
+   "official": "<player> ไม่ต่อต้านแต่เข้าร่วมแล้ว!",
+   "th": "<player> เข้าร่วมแล้ว!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "laddernotsurface",
+   "en": "I can only use this on the surface",
+   "official": "สามารถใช้งานได้บนพื้นผิวโลกเท่านั้น",
+   "th": "ใช้สิ่งนี้ได้บนพื้นผิวเท่านั้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mountnotown",
+   "en": "You do not own this mount!",
+   "official": "คุณไม่ได้เป็นเจ้าของพาหนะนี้ !",
+   "th": "คุณไม่ได้เป็นเจ้าของพาหนะนี้!",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน !"
+  },
+  {
+   "key": "bedinuse",
+   "en": "Bed is already in use",
+   "official": "มีคนนอนอยู่",
+   "th": "เตียงนี้มีคนใช้อยู่แล้ว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "seattaken",
+   "en": "This seat is taken",
+   "official": "มีคนนั่งอยู่",
+   "th": "ที่นั่งนี้มีคนนั่งแล้ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sleepprevented",
+   "en": "You cannot sleep right now",
+   "official": "ไม่สามารถนอนได้ในตอนนี้",
+   "th": "ตอนนี้นอนไม่ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spawndungeon",
+   "en": "Cannot set spawn inside dungeon",
+   "official": "ไม่สามารถบันทึกจุดเกิดในดันเจี้ยนได้",
+   "th": "ตั้งจุดเกิดในดันเจี้ยนไม่ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spawnincursion",
+   "en": "Cannot set spawn inside incursion",
+   "official": "ไม่สามารถบันทึกจุดเกิดภายในการบุกรุกได้",
+   "th": "ตั้งจุดเกิดในอินเคอร์ชันไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spawnhouse",
+   "en": "Cannot set spawn outside",
+   "official": "ไม่สามารถบันทึกจุดเกิดนอกอาคารได้",
+   "th": "ตั้งจุดเกิดนอกอาคารไม่ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spawnset",
+   "en": "Spawn point set!",
+   "official": "จุดเกิดถูกบันทึกแล้ว!",
+   "th": "ตั้งจุดเกิดแล้ว!",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spawnremoved",
+   "en": "Spawn point removed!",
+   "official": "จุดเกิดถูกนำออกแล้ว!",
+   "th": "ลบจุดเกิดแล้ว!",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spawninvalid",
+   "en": "Previous spawn point is invalid",
+   "official": "จุดเกิดก่อนหน้าไม่อยู่แล้ว",
+   "th": "จุดเกิดก่อนหน้าใช้ไม่ได้แล้ว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "boatplacetip",
+   "en": "To pick up the boat again, hit it with a weapon!",
+   "official": "วิธีเก็บเรือขึ้นมา , ทุบเรือด้วยอาวุธ!",
+   "th": "ถ้าจะเก็บเรือคืน ให้ใช้อาวุธตีเรือ!",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "hungrythought",
+   "en": "I'm getting hungry",
+   "official": "หิวแล้วง่ะ",
+   "th": "เริ่มหิวแล้วสิ",
+   "status": "fixed",
+   "note": "ภาษาไม่เหมาะ"
+  },
+  {
+   "key": "starvingthought",
+   "en": "I'm starving",
+   "official": "ตูหิว",
+   "th": "หิวจะตายอยู่แล้ว",
+   "status": "fixed",
+   "note": "ภาษาไม่เหมาะ"
+  },
+  {
+   "key": "dpscount",
+   "en": "DPS: <dps>",
+   "official": "DPS: <dps>",
+   "th": "DPS: <dps>",
+   "status": "same",
+   "note": "คงตามต้นฉบับ"
+  },
+  {
+   "key": "permuser",
+   "en": "User",
+   "official": "ผู้เล่น",
+   "th": "ผู้เล่น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "permcreativesettings",
+   "en": "Creative Settings",
+   "official": "การตั้งค่าโหมดสร้างสรรค์",
+   "th": "การตั้งค่าโหมดสร้างสรรค์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "permmod",
+   "en": "Moderator",
+   "official": "ผู้ดำเนินการ",
+   "th": "ผู้ควบคุม",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "permadmin",
+   "en": "Admin",
+   "official": "ผู้ดูแล",
+   "th": "ผู้ดูแล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "permowner",
+   "en": "Owner",
+   "official": "เจ้าของ",
+   "th": "เจ้าของ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "permserver",
+   "en": "Server",
+   "official": "เซิฟเวอร์",
+   "th": "เซิร์ฟเวอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "permchange",
+   "en": "Permissions set to: <perm>",
+   "official": "เปลี่ยนการอนุญาติเป็น : <perm>",
+   "th": "ตั้งสิทธิ์เป็น: <perm>",
+   "status": "fixed",
+   "note": "สะกด (อนุญาติ) + เว้นวรรคก่อน :"
+  },
+  {
+   "key": "allowcheats",
+   "en": "Allow cheats to do that",
+   "official": "อนุญาตสูตรโกง",
+   "th": "ต้องอนุญาตสูตรโกงจึงจะทำได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "smartminingon",
+   "en": "Smart mining ON",
+   "official": "การขุดอย่างชาญฉลาด เปิด",
+   "th": "ขุดแร่อัจฉริยะ: เปิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "smartminingoff",
+   "en": "Smart mining OFF",
+   "official": "การขุดอย่างชาญฉลาด ปิด",
+   "th": "ขุดแร่อัจฉริยะ: ปิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "cannotusemounthere",
+   "en": "Cannot use <mount> here",
+   "official": "ไม่สามารถใช้ <mount> ได้ที่นี่",
+   "th": "ไม่สามารถใช้ <mount> ได้ที่นี่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cannotusethiefsarmor",
+   "en": "I need coins to toss!",
+   "official": "ฉันต้องการเหรียญสำหรับโยน!",
+   "th": "ฉันต้องมีเหรียญไว้โยน!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "witchbroomdismount",
+   "en": "Cannot dismount flying so high",
+   "official": "ไม่สามารถลงจอดได้ เพราะบินสูงเกินไป",
+   "th": "ลงจากไม้กวาดไม่ได้ขณะบินสูงขนาดนี้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "tooclosesettlement",
+   "en": "§9Flag is too close to another settlement",
+   "official": "§9ธงอยู่ใกล้กับถิ่นฐานอื่นมากเกินไป",
+   "th": "§9ธงอยู่ใกล้นิคมอื่นเกินไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (นิคม)"
+  },
+  {
+   "key": "tooclosevillage",
+   "en": "§9Flag is too close to another NPC village",
+   "official": "§9ธงอยู่ใกล้กับหมู่บ้านอื่นมากเกินไป",
+   "th": "§9ธงอยู่ใกล้หมู่บ้าน NPC อื่นเกินไป",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "multisettlementstip",
+   "en": "§9Note: Having many settlements can cause performance issues",
+   "official": "§9Note: การตั้งถิ่นฐานหลายที่อาจมีบัค",
+   "th": "§9หมายเหตุ: การมีนิคมหลายแห่งอาจทำให้เกมทำงานช้าลง",
+   "status": "fixed",
+   "note": "แปล Note + ความหมายผิด"
+  },
+  {
+   "key": "maxsettlementsreached",
+   "en": "§6Maximum <count> settlements per player allowed",
+   "official": "§6จำนวนสูงสุด <count>ถิ่นฐานต่อผู้เล่น",
+   "th": "§6ผู้เล่นหนึ่งคนมีนิคมได้สูงสุด <count> แห่ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ลื่นขึ้น"
+  },
+  {
+   "key": "settlementnoaccess",
+   "en": "You do not have permissions to access this settlement",
+   "official": "คุณไม่มีสิทธิ์ในการเข้าถึงถิ่นฐานนี้",
+   "th": "คุณไม่มีสิทธิ์เข้าถึงนิคมนี้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "joindiscord",
+   "en": "Join the official Discord server",
+   "official": "เข้าร่วมเซิฟเวอร์ Discord ทางการ",
+   "th": "เข้าร่วมเซิร์ฟเวอร์ Discord ทางการ",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "followsteamnews",
+   "en": "Follow the Steam news",
+   "official": "ติดตาม ข่าวสาร Steam",
+   "th": "ติดตามข่าวสารบน Steam",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "followtwitter",
+   "en": "Follow the Twitter",
+   "official": "ติดตาม Twitter",
+   "th": "ติดตามบน Twitter",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "followx",
+   "en": "Follow on X",
+   "official": "ติดตาม X",
+   "th": "ติดตามบน X",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "followxfull",
+   "en": "Follow @NecesseGame on X",
+   "official": "ติมตาม @NecesseGame ที่ X",
+   "th": "ติดตาม @NecesseGame บน X",
+   "status": "fixed",
+   "note": "สะกด (ติมตาม)"
+  },
+  {
+   "key": "subscribeyoutube",
+   "en": "Subscribe on Youtube",
+   "official": "สับตะไคร้ Youtube",
+   "th": "กดติดตามบน Youtube",
+   "status": "fixed",
+   "note": "ภาษาไม่เหมาะ (สับตะไคร้)"
+  },
+  {
+   "key": "subscribeyoutubefull",
+   "en": "Subscribe to @necesse on Youtube",
+   "official": "สับตะไคร้  @necesse ที่ Youtube",
+   "th": "กดติดตาม @necesse บน Youtube",
+   "status": "fixed",
+   "note": "ภาษาไม่เหมาะ + ช่องว่างซ้ำ"
+  },
+  {
+   "key": "joinreddit",
+   "en": "Join Reddit",
+   "official": "เข้าร่วม Reddit",
+   "th": "เข้าร่วม Reddit",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "joinredditfull",
+   "en": "Join r/Necesse on Reddit",
+   "official": "ข้าร่วม r/Necesse ที่ Reddit",
+   "th": "เข้าร่วม r/Necesse บน Reddit",
+   "status": "fixed",
+   "note": "สะกด (ข้าร่วม)"
+  },
+  {
+   "key": "patchnotes",
+   "en": "See patch notes",
+   "official": "ดู patch notes",
+   "th": "ดูบันทึกแพตช์",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "animaltame",
+   "en": "Tame",
+   "official": "เชื่อง",
+   "th": "เชื่อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "animaltameness",
+   "en": "<percent>% tame",
+   "official": "ความเชื่อง<percent>% ",
+   "th": "เชื่อง <percent>%",
+   "status": "fixed",
+   "note": "ช่องว่างท้าย"
+  },
+  {
+   "key": "animalwild",
+   "en": "Wild",
+   "official": "สัตว์ป่า",
+   "th": "ป่า",
+   "status": "fixed",
+   "note": "ป้ายสถานะ (Wild คู่กับ Tame)"
+  },
+  {
+   "key": "animalhungry",
+   "en": "Hungry",
+   "official": "หิว",
+   "th": "หิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "openurl",
+   "en": "Open url <url>",
+   "official": "เปิด url <url>",
+   "th": "เปิดลิงก์ <url>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "converteaworld1",
+   "en": "IMPORTANT:",
+   "official": "สำคัญ:",
+   "th": "สำคัญ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "converteaworld2",
+   "en": "The world you're trying to load is from the early access version of Necesse.",
+   "official": "โลกที่คุณพยายามโหลดนั้นมาจากเวอร์ชัน Early Access ของ Necesse",
+   "th": "โลกที่คุณกำลังโหลดมาจาก Necesse รุ่น Early Access",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "converteaworld3",
+   "en": "The world needs to be migrated to the new continuous procedural generation system.",
+   "official": "โลกจำเป็นต้องย้ายไปสู่ระบบการผลิตตามขั้นตอนต่อเนื่องแบบใหม่",
+   "th": "ต้องย้ายโลกนี้ไปใช้ระบบสร้างโลกแบบต่อเนื่องใหม่",
+   "status": "fixed",
+   "note": "ความหมายผิด (ระบบการผลิต)"
+  },
+  {
+   "key": "converteaworld4",
+   "en": "We highly recommend starting a new world to experience all the new features and terrain generation.",
+   "official": "เราขอแนะนำให้เริ่มโลกใหม่เพื่อสัมผัสกับฟีเจอร์ใหม่และการสร้างภูมิประเทศทั้งหมด",
+   "th": "เราแนะนำอย่างยิ่งให้เริ่มโลกใหม่ เพื่อสัมผัสฟีเจอร์และการสร้างภูมิประเทศใหม่ทั้งหมด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "converteaworld5",
+   "en": "Migrating will place the generated islands from your old world in the new world so you can walk between them. This means any newly generated terrain will have jarring borders between the old islands and the new terrain.",
+   "official": "การย้ายถิ่นฐานจะวางเกาะที่สร้างขึ้นจากโลกเก่าของคุณลงในโลกใหม่เพื่อให้คุณเดินไปมาระหว่างเกาะเหล่านั้นได้. ซึ่งหมายความว่าภูมิประเทศที่สร้างขึ้นใหม่จะมีขอบเขตที่ไม่สอดคล้องกันระหว่างเกาะเก่าและภูมิประเทศใหม่",
+   "th": "การย้ายจะนำเกาะที่สร้างไว้ในโลกเก่าของคุณมาวางในโลกใหม่ เพื่อให้คุณเดินไปมาระหว่างเกาะได้ ซึ่งหมายความว่าภูมิประเทศที่สร้างใหม่จะมีรอยต่อที่ดูขัดตาระหว่างเกาะเก่ากับภูมิประเทศใหม่",
+   "status": "fixed",
+   "note": "ตัดจุด + ความหมาย"
+  },
+  {
+   "key": "converteaworld6",
+   "en": "Depending on how many islands you have explored and how fast your computer is, this may take a while.",
+   "official": "อาจต้องใช้เวลาสักพัก ขึ้นอยู่กับว่าคุณสำรวจเกาะไปแล้วกี่เกาะ และคอมพิวเตอร์ของคุณเร็วแค่ไหน",
+   "th": "อาจต้องใช้เวลาสักพัก ขึ้นอยู่กับว่าคุณสำรวจเกาะไปแล้วกี่เกาะ และคอมพิวเตอร์ของคุณเร็วแค่ไหน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "converteaworld7",
+   "en": "Do you want to migrate this world now? A backup will be created automatically.",
+   "official": "คุณต้องการจะย้ายโลกนี้ตอนนี้เลยไหม? ระบบจะสร้างข้อมูลสำรองให้โดยอัตโนมัติ",
+   "th": "ต้องการย้ายโลกนี้ตอนนี้เลยไหม? ระบบจะสำรองข้อมูลให้อัตโนมัติ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "converteaworldreadmore",
+   "en": "Read more",
+   "official": "อ่านเพิ่มเติม",
+   "th": "อ่านเพิ่มเติม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "converteaworldaccept",
+   "en": "Migrate world",
+   "official": "ย้ายโลก",
+   "th": "ย้ายโลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "differentlastplayer",
+   "en": "Looks like you're loading a world which was last played by a different account\\n\\nDo you want to inherit their character \"<name>\"?",
+   "official": "ดูเหมือนว่าคุณกำลังโหลดโลกที่เล่นล่าสุดโดยบัญชีอื่น\\n\\nคุณต้องการสืบทอดตัวละคร เป็นตัวละครของบัญชีนั้นหรือไม่ \"<name>\"?",
+   "th": "ดูเหมือนว่าคุณกำลังโหลดโลกที่เล่นล่าสุดโดยบัญชีอื่น\\n\\nต้องการรับช่วงตัวละคร \"<name>\" ของบัญชีนั้นไหม?",
+   "status": "fixed",
+   "note": "ลำดับคำ"
+  },
+  {
+   "key": "differentlastplayers",
+   "en": "Looks like you're loading a world with characters from different accounts\\n\\nClick on the character you want to inherit or start a fresh character",
+   "official": "ดูเหมือนว่าคุณกำลังโหลดโลกที่มีตัวละครจากหลายบัญชี\\n\\nคลิกที่ตัวละครที่คุณต้องการสืบทอดตัวละคร หรือเริ่มสร้างตัวละครใหม่",
+   "th": "ดูเหมือนว่าคุณกำลังโหลดโลกที่มีตัวละครจากหลายบัญชี\\n\\nคลิกตัวละครที่ต้องการรับช่วง หรือเริ่มตัวละครใหม่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "inheritplayeryes",
+   "en": "Inherit character",
+   "official": "สืบทอดตัวละคร",
+   "th": "รับช่วงตัวละคร",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "inheritplayerno",
+   "en": "Start fresh character",
+   "official": "เริ่มตัวละครใหม่",
+   "th": "เริ่มตัวละครใหม่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "eanotice",
+   "en": "Notice:\\nThis is an early access build.\\n\\nYou might encounter bugs, missing, incomplete or unpolished features.\\n\\nThank you for playing!",
+   "official": "Notice:\\nThis is an early access build.\\n\\nYou might encounter bugs, missing, incomplete or unpolished features.\\n\\nThank you for playing!",
+   "th": "ประกาศ:\\nนี่คือเวอร์ชัน Early Access\\n\\nคุณอาจพบบั๊ก ฟีเจอร์ที่ขาดหาย ยังไม่สมบูรณ์ หรือยังไม่ขัดเกลา\\n\\nขอบคุณที่เล่น!",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "fullreleasenotice1",
+   "en": "Necesse has finally reached version 1.0!",
+   "official": "Necesse ในที่สุดก็มาถึงเวอร์ชั่น 1.0!",
+   "th": "ในที่สุด Necesse ก็มาถึงเวอร์ชัน 1.0 แล้ว!",
+   "status": "fixed",
+   "note": "ลำดับคำ + สะกด"
+  },
+  {
+   "key": "fullreleasenotice2",
+   "en": "Thank you to everyone who has played, given feedback, reported bugs and shared the game during Early Access.",
+   "official": "ขอขอบคุณทุกคนที่สนับสนุนเกมในช่วง Early Access ให้ข้อเสนอแนะ และรายงานจุดบกพร่อง",
+   "th": "ขอบคุณทุกคนที่ได้เล่น ให้คำติชม รายงานบั๊ก และแชร์เกมนี้ในช่วง Early Access",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "fullreleasenotice3",
+   "en": "Launching as a solo passion project, the game literally wouldn't exist without you.",
+   "official": "เกมนี้เปิดตัวในฐานะโปรเจ็กต์เดี่ยวที่ผู้สร้างทำด้วยความตั้งใจ ดังนั้นเกมนี้คงไม่สามารถดำรงอยู่ได้หากไม่มีคุณ",
+   "th": "เกมนี้เริ่มต้นจากโปรเจกต์ส่วนตัวที่ทำด้วยใจรัก ถ้าไม่มีพวกคุณ เกมนี้คงไม่มีอยู่จริง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fullreleasenotice4",
+   "en": "The 1.0 update brings some significant changes to the game. We highly recommend starting a new save to experience the new features and world generation.",
+   "official": "การอัปเดต 1.0 นำการเปลี่ยนแปลงที่สำคัญบางอย่างมาสู่เกม, ดังนั้นเราขอแนะนำให้เริ่มการสร้างโลกใหม่เพื่อสัมผัสประสบการณ์โลกยุคใหม่",
+   "th": "อัปเดต 1.0 มาพร้อมการเปลี่ยนแปลงครั้งใหญ่ เราแนะนำอย่างยิ่งให้เริ่มเซฟใหม่เพื่อสัมผัสฟีเจอร์และการสร้างโลกแบบใหม่",
+   "status": "fixed",
+   "note": "ตัดจุลภาค + ลื่นขึ้น"
+  },
+  {
+   "key": "fullreleasenotice5",
+   "en": "In the coming weeks we will be fixing bugs and tweaking balance. After that, we will be working on even more additional content and features.",
+   "official": "ในสัปดาห์ต่อๆ ไป เราจะแก้ไขจุดบกพร่องและปรับสมดุล หลังจากนั้นเราจะทำงานเกี่ยวกับเนื้อหาและคุณสมบัติเพิ่มเติมอีกมากมาย",
+   "th": "ในอีกไม่กี่สัปดาห์ข้างหน้า เราจะแก้บั๊กและปรับสมดุล หลังจากนั้นจะเริ่มทำเนื้อหาและฟีเจอร์เพิ่มเติมอีกมากมาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fullreleasenotice6",
+   "en": "We hope you enjoy the full release!",
+   "official": "เราหวังว่าคุณจะสนุกกับเวอร์ชันเต็มของ Necesse!",
+   "th": "หวังว่าคุณจะสนุกกับเวอร์ชันเต็มนะ!",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "fullreleasenotice7",
+   "en": "Thank you for playing, from the small and passionate team behind Necesse.",
+   "official": "ขอบคุณที่มาเล่นเกมของเรา - จากทีมงานเล็กๆ ที่เปี่ยมด้วยความมุ่งมั่นเบื้องหลัง Necesse",
+   "th": "ขอบคุณที่เล่น จากทีมเล็ก ๆ ที่ทุ่มเทเบื้องหลัง Necesse",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "steamdeckcursornotice",
+   "en": "Notice:\\nDue to a bug in newer versions of SteamOS, the game will render the cursor manually instead of using the system cursor.\\n\\nIf you experience double cursors, you can turn this off in the interface settings.",
+   "official": "Notice:\\nDue to a bug in newer versions of SteamOS, the game will render the cursor manually instead of using the system cursor.\\n\\nIf you experience double cursors, you can turn this off in the interface settings.",
+   "th": "ประกาศ:\\nเนื่องจากบั๊กใน SteamOS รุ่นใหม่ เกมจะวาดเคอร์เซอร์เองแทนการใช้เคอร์เซอร์ของระบบ\\n\\nถ้าเห็นเคอร์เซอร์ซ้อนกันสองอัน ปิดตัวเลือกนี้ได้ในการตั้งค่าอินเทอร์เฟซ",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "steamfailed",
+   "en": "Could not initialize Steam\\nMake sure Steam is running",
+   "official": "Could not initialize Steam\\nMake sure Steam is running",
+   "th": "เริ่มการทำงานของ Steam ไม่ได้\\nตรวจสอบว่าเปิด Steam อยู่",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "openglfailed",
+   "en": "Looks like your system does not support OpenGL.\\nYou can try to update your graphics drivers, or use another system.",
+   "official": "Looks like your system does not support OpenGL.\\nYou can try to update your graphics drivers, or use another system.",
+   "th": "ดูเหมือนระบบของคุณไม่รองรับ OpenGL\\nลองอัปเดตไดรเวอร์การ์ดจอ หรือใช้เครื่องอื่น",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "outofmemory",
+   "en": "Looks like your system ran out of memory :(\\n\\nTry to close some of your running programs, or do a full computer restart.\\nIf the problem still happens, check to see if you meet the minimum requirements.",
+   "official": "Looks like your system ran out of memory :(\\n\\nTry to close some of your running programs, or do a full computer restart.\\nIf the problem still happens, check to see if you meet the minimum requirements.",
+   "th": "ดูเหมือนหน่วยความจำของระบบจะหมด :(\\n\\nลองปิดโปรแกรมที่เปิดอยู่บางตัว หรือรีสตาร์ตคอมพิวเตอร์\\nถ้ายังเกิดปัญหาอยู่ ให้ตรวจสอบว่าเครื่องผ่านสเปกขั้นต่ำหรือไม่",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "datacorrupted",
+   "en": "Looks like the game data file has been corrupted :(\\n\\nTry to validate the game files in Steam.\\nIf the problem still happens, please report it in the official Discord or on the Steam Discussions board.",
+   "official": "Looks like the game data file has been corrupted :(\\n\\nTry to validate the game files in Steam.\\nIf the problem still happens, please report it in the official Discord or on the Steam Discussions board.",
+   "th": "ดูเหมือนไฟล์ข้อมูลเกมจะเสียหาย :(\\n\\nลองตรวจสอบความสมบูรณ์ของไฟล์เกมใน Steam\\nถ้ายังเกิดปัญหาอยู่ โปรดรายงานใน Discord ทางการหรือบอร์ด Steam Discussions",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "nomonitor",
+   "en": "Could not find a monitor to run the game on.\\n\\nTry to restart your computer and update drivers.",
+   "official": "Could not find a monitor to run the game on.\\n\\nTry to restart your computer and update drivers.",
+   "th": "หาจอภาพสำหรับรันเกมไม่พบ\\n\\nลองรีสตาร์ตคอมพิวเตอร์และอัปเดตไดรเวอร์",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "savefailed1",
+   "en": "Failed trying to save the world:",
+   "official": "การบันทึกไฟล์ล้มเหลว:",
+   "th": "บันทึกโลกไม่สำเร็จ:",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "savefailed2",
+   "en": "To make sure the game saves, try to exit and reload the world.",
+   "official": "เพื่อให้แน่ใจว่าเกมถูกบันทึก,ลองออกแล้วรีโหลดโลกอีกครั้ง.",
+   "th": "เพื่อให้แน่ใจว่าเกมถูกบันทึก ลองออกแล้วโหลดโลกใหม่อีกครั้ง",
+   "status": "fixed",
+   "note": "ตัดจุลภาคและจุด"
+  },
+  {
+   "key": "savecompressfailed",
+   "en": "This is usually caused by an antivirus blocking compressed saves.\\n\\nDo you want to save future files uncompressed?",
+   "official": "This is usually caused by an anti-virus blocking compressed saves.\\n\\nDo you want to save future files uncompressed?",
+   "th": "ปัญหานี้มักเกิดจากโปรแกรมแอนติไวรัสบล็อกเซฟแบบบีบอัด\\n\\nต้องการบันทึกไฟล์ครั้งต่อไปแบบไม่บีบอัดไหม?",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "saveiscompressed",
+   "en": "This save is compressed and may not work properly when saving",
+   "official": "This save is compressed and may not work properly when saving",
+   "th": "เซฟนี้ถูกบีบอัดไว้ และอาจทำงานไม่ถูกต้องตอนบันทึก",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "createworldfailed",
+   "en": "Error creating world",
+   "official": "Error สร้างโลก",
+   "th": "สร้างโลกไม่สำเร็จ",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "loadworldfailed",
+   "en": "Error loading world",
+   "official": "Error โหลดโลก",
+   "th": "โหลดโลกไม่สำเร็จ",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "backupworldfailed",
+   "en": "Error backing up world",
+   "official": "Error สำรองข้อมูลโลก",
+   "th": "สำรองข้อมูลโลกไม่สำเร็จ",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "renamefailed",
+   "en": "Could not rename world",
+   "official": "Could not rename save",
+   "th": "เปลี่ยนชื่อโลกไม่ได้",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "savenotclosed",
+   "en": "Could not properly save this world previously. This is usually caused by another process, like an antivirus preventing the save.\\nA restart might fix this.",
+   "official": "Could not properly save this world previously. This is usually caused by another process, like an antivirus preventing the save.\\nA restart might fix this.",
+   "th": "ครั้งก่อนบันทึกโลกนี้ได้ไม่สมบูรณ์ มักเกิดจากโปรเซสอื่น เช่น แอนติไวรัสขัดขวางการบันทึก\\nการรีสตาร์ตอาจช่วยแก้ปัญหาได้",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "invalidworldname",
+   "en": "Invalid world name",
+   "official": "ชื่อโลกไม่ถูกต้อง",
+   "th": "ชื่อโลกไม่ถูกต้อง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "restorebackup",
+   "en": "Backups are created periodically. You can find and restore them inside the load world menu.",
+   "official": "Backups are created periodically. You can find and restore them inside the load world menu.",
+   "th": "ระบบจะสร้างข้อมูลสำรองเป็นระยะ คุณหาและกู้คืนได้ในเมนูโหลดโลก",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "statssaveeerror",
+   "en": "Error creating folder to save stats. Stats may not be saved.",
+   "official": "Error creating folder to save stats. Stats may not be saved.",
+   "th": "สร้างโฟลเดอร์สำหรับบันทึกสถิติไม่ได้ สถิติอาจไม่ถูกบันทึก",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "workinprogress",
+   "en": "Work in progress",
+   "official": "กำลังพัฒนา",
+   "th": "กำลังพัฒนา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "workinprogresstip",
+   "en": "This will come in a future update",
+   "official": "อัปเดทในอนาคต",
+   "th": "จะมาในอัปเดตถัดไป",
+   "status": "fixed",
+   "note": "สะกด (อัปเดท) + ครบความ"
+  },
+  {
+   "key": "upgradestationwiptip",
+   "en": "Upgraded gear may not be balanced correctly and larger changes to upgrade system will likely happen in future updates",
+   "official": "Upgraded gear may not be balanced correctly and larger changes to upgrade system will likely happen in future updates",
+   "th": "อุปกรณ์ที่อัปเกรดแล้วอาจยังไม่สมดุล และระบบอัปเกรดน่าจะมีการเปลี่ยนแปลงครั้งใหญ่ในอัปเดตถัดไป",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "justupdated",
+   "en": "JUST UPDATED!",
+   "official": "เพิ่งอัปเดท!",
+   "th": "เพิ่งอัปเดต!",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "coloryellow",
+   "en": "Yellow",
+   "official": "",
+   "th": "เหลือง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "colorgreen",
+   "en": "Green",
+   "official": "",
+   "th": "เขียว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "colorblue",
+   "en": "Blue",
+   "official": "",
+   "th": "น้ำเงิน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "yourmailhere",
+   "en": "Your email address",
+   "official": "",
+   "th": "อีเมลของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "subscribebutton",
+   "en": "Subscribe",
+   "official": "",
+   "th": "สมัครรับข่าวสาร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thankyouforsigningup",
+   "en": "Thank you for signing up!",
+   "official": "",
+   "th": "ขอบคุณที่สมัคร!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletter1",
+   "en": "Hi! I'm Fair. The Creator of Necesse.",
+   "official": "",
+   "th": "สวัสดี! ฉันชื่อ Fair ผู้สร้าง Necesse",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletter2",
+   "en": "If you sign up to our Newsletter you'll receive news, giveaways, exclusive behind the scenes content and a chance to try out new updates before anyone else!",
+   "official": "",
+   "th": "ถ้าสมัครรับจดหมายข่าวของเรา คุณจะได้รับข่าวสาร กิจกรรมแจกของ เนื้อหาเบื้องหลังสุดพิเศษ และโอกาสได้ลองอัปเดตใหม่ก่อนใคร!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletter3",
+   "en": "Thank you for playing and supporting Necesse :heart:",
+   "official": "",
+   "th": "ขอบคุณที่เล่นและสนับสนุน Necesse :heart:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletterprivacypolicy1",
+   "en": "By subscribing you accept Fair Games can send you email marketing that contains updates, giveaways and alike.",
+   "official": "",
+   "th": "เมื่อสมัคร คุณยอมรับให้ Fair Games ส่งอีเมลการตลาดที่มีข่าวอัปเดต กิจกรรมแจกของ และอื่น ๆ ถึงคุณได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletterprivacypolicy2",
+   "en": "You accept our Privacy Policy when you subscribe. You can unsubscribe at any time.",
+   "official": "",
+   "th": "เมื่อสมัคร คุณยอมรับนโยบายความเป็นส่วนตัวของเรา และยกเลิกการสมัครได้ทุกเมื่อ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletterprivacypolicylink",
+   "en": "Open Privacy Policy",
+   "official": "",
+   "th": "เปิดนโยบายความเป็นส่วนตัว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "invalidemail",
+   "en": "Please put in a valid email address",
+   "official": "",
+   "th": "โปรดใส่อีเมลที่ถูกต้อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newsletterunknownerror",
+   "en": "Unknown error signing up",
+   "official": "",
+   "th": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุระหว่างสมัคร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newslettersignupfail",
+   "en": "Could not sign up, please try again!",
+   "official": "",
+   "th": "สมัครไม่สำเร็จ โปรดลองอีกครั้ง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "newslettercodeerror",
+   "en": "Error signing up: <code>",
+   "official": "",
+   "th": "สมัครไม่สำเร็จ: <code>",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

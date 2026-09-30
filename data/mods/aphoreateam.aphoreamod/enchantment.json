@@ -1,0 +1,126 @@
+{
+ "category": "enchantment",
+ "entries": [
+  {
+   "key": "godly",
+   "en": "Godly",
+   "official": "ศักดิ์สิทธิ์",
+   "th": "ดั่งเทพ",
+   "status": "fixed",
+   "note": "แยกจาก Ascended=ศักดิ์สิทธิ์"
+  },
+  {
+   "key": "absent",
+   "en": "Absent",
+   "official": "ขาด",
+   "th": "ขาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "auxiliary",
+   "en": "Auxiliary",
+   "official": "เสริม",
+   "th": "เสริม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "vain",
+   "en": "Vain",
+   "official": "ไร้ประโยชน์",
+   "th": "ไร้ประโยชน์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "gentle",
+   "en": "Gentle",
+   "official": "อ่อนโยน",
+   "th": "อ่อนโยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "selfish",
+   "en": "Selfish",
+   "official": "เห็นแก่ตัว",
+   "th": "เห็นแก่ตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "friendly",
+   "en": "Friendly",
+   "official": "เป็นมิตร",
+   "th": "เป็นมิตร",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "graceful",
+   "en": "Graceful",
+   "official": "สง่างาม",
+   "th": "สง่างาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "wonderful",
+   "en": "Wonderful",
+   "official": "ยอดเยี่ยม",
+   "th": "ยอดเยี่ยม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ecologic",
+   "en": "Ecologic",
+   "official": "เชิงนิเวศ",
+   "th": "เชิงนิเวศ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "exalted",
+   "en": "Exalted",
+   "official": "สูงส่ง",
+   "th": "สูงส่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cursed",
+   "en": "Cursed",
+   "official": "ต้องคำสาป",
+   "th": "ต้องคำสาป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "booming",
+   "en": "Booming",
+   "official": "เฟื่องฟู",
+   "th": "เฟื่องฟู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dimmed",
+   "en": "Dimmed",
+   "official": "สลัว",
+   "th": "สลัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "loyal",
+   "en": "Loyal",
+   "official": "ภักดี",
+   "th": "ภักดี",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

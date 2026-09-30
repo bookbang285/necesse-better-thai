@@ -1,0 +1,702 @@
+{
+ "category": "settlement",
+ "entries": [
+  {
+   "key": "notsettler",
+   "en": "Could not find settler",
+   "official": "ไม่เจอถิ่นฐาน",
+   "th": "ไม่พบชาวนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thoughts",
+   "en": "Thoughts:",
+   "official": "คิดว่า:",
+   "th": "ความคิด:",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "sizebaby",
+   "en": "Baby",
+   "official": "เล็กเท่ารูหนู",
+   "th": "เล็กจิ๋ว",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "sizetiny",
+   "en": "Tiny",
+   "official": "เล็ก",
+   "th": "เล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sizesmall",
+   "en": "Small",
+   "official": "ค่อนข้างเล็ก",
+   "th": "ค่อนข้างเล็ก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sizemediocre",
+   "en": "Mediocre",
+   "official": "กลางๆ",
+   "th": "กลาง ๆ",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "sizedecent",
+   "en": "Decent",
+   "official": "กำลังดี",
+   "th": "กำลังดี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sizelarge",
+   "en": "Large",
+   "official": "ใหญ่",
+   "th": "ใหญ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sizehuge",
+   "en": "Huge",
+   "official": "ใหญ่มาก",
+   "th": "ใหญ่มาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sizeenormous",
+   "en": "Enormous",
+   "official": "ใหญ่สุดๆ",
+   "th": "ใหญ่สุด ๆ",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "sizemood",
+   "en": "I live in a <size> sized room",
+   "official": "ฉันอาศัยอยู่ในห้องขนาด <size>",
+   "th": "ฉันอาศัยอยู่ในห้องขนาด <size>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomplain",
+   "en": "Plain",
+   "official": "ธรรมดาเกิน",
+   "th": "ธรรมดาเกิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomdull",
+   "en": "Dull",
+   "official": "น่าเบื่อไปหน่อย",
+   "th": "น่าเบื่อไปหน่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomsimple",
+   "en": "Simple",
+   "official": "เรียบง่ายดี",
+   "th": "เรียบง่ายดี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomnormal",
+   "en": "Normal",
+   "official": "เฉยๆอะ",
+   "th": "เฉย ๆ",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "roomgood",
+   "en": "Good",
+   "official": "ค่อนข้างเจ๋งเลย",
+   "th": "ค่อนข้างเจ๋งเลย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomimpressive",
+   "en": "Impressive",
+   "official": "เจ๋งมากเลย",
+   "th": "เจ๋งมากเลย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roomwonderful",
+   "en": "Wonderful",
+   "official": "ยอดเยี่ยมจริงๆ",
+   "th": "ยอดเยี่ยมจริง ๆ",
+   "status": "fixed",
+   "note": "เว้นวรรคไม้ยมก"
+  },
+  {
+   "key": "roomunrivaled",
+   "en": "Unrivaled",
+   "official": "สุดยอดจนหาที่เปรียบไม่ได้เลยจริงๆ",
+   "th": "ไร้เทียมทาน",
+   "status": "fixed",
+   "note": "ยาวเกิน"
+  },
+  {
+   "key": "roommood",
+   "en": "My rooms furniture selection is <quality>",
+   "official": "การเลือกเฟอร์นิเจอร์ในห้องของฉันมัน <quality>",
+   "th": "เฟอร์นิเจอร์ในห้องของฉัน <quality>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "roommissingfloor",
+   "en": "My room does not have a complete floor",
+   "official": "ห้องฉันยังปูพื้นไม่เสร็จ",
+   "th": "ห้องฉันยังปูพื้นไม่เสร็จ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "roommissinglights",
+   "en": "My room is completely dark",
+   "official": "ห้องฉันมันโคตรมืดเลย",
+   "th": "ห้องฉันมืดสนิทเลย",
+   "status": "fixed",
+   "note": "เลี่ยงคำหยาบ"
+  },
+  {
+   "key": "tinysettlement",
+   "en": "This is a tiny settlement",
+   "official": "ถิ่นฐานที่นี่เล็กไปหน่อย",
+   "th": "นิคมนี้เล็กมาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "smallsettlement",
+   "en": "This is a small settlement",
+   "official": "ถิ่นฐานที่นี่ค่อนข้างเล็ก ",
+   "th": "นิคมนี้ค่อนข้างเล็ก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "averagesettlement",
+   "en": "This is an average sized settlement",
+   "official": "ถิ่นฐานที่นี่ขนาดกำลังพอดี",
+   "th": "นิคมนี้ขนาดกำลังพอดี",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "largesettlement",
+   "en": "This is a large settlement",
+   "official": "ถิ่นฐานที่นี่ค่อนข้างใหญ่",
+   "th": "นิคมนี้ค่อนข้างใหญ่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "hugesettlement",
+   "en": "This is a huge settlement",
+   "official": "ถิ่นฐานที่นี่ใหญ่มาก",
+   "th": "นิคมนี้ใหญ่มาก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "nobed",
+   "en": "I have no bed",
+   "official": "ฉันไม่มีที่นอนอะ",
+   "th": "ฉันไม่มีเตียงนอน",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "bedoutside",
+   "en": "My bed is outside",
+   "official": "ที่นอนฉันอยู่ข้างนอกอะ",
+   "th": "เตียงของฉันอยู่ข้างนอก",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "foodsimple",
+   "en": "Simple",
+   "official": "เรียบง่าย",
+   "th": "เรียบง่าย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "foodfine",
+   "en": "Fine",
+   "official": "ดีๆ",
+   "th": "ดี",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "foodgourmet",
+   "en": "Gourmet",
+   "official": "โคตรอร่อย",
+   "th": "ชั้นเลิศ",
+   "status": "fixed",
+   "note": "เลี่ยงคำหยาบ"
+  },
+  {
+   "key": "foodmood",
+   "en": "I ate a <quality> meal",
+   "official": "ฉันได้กินอาหาร <quality> ละ",
+   "th": "ฉันได้กินอาหารระดับ <quality>",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "nofoodmood",
+   "en": "I have not eaten recently",
+   "official": "ฉันยังไม่ได้กินอะไรเลย",
+   "th": "ช่วงนี้ฉันยังไม่ได้กินอะไรเลย",
+   "status": "fixed",
+   "note": "ตกคำ recently"
+  },
+  {
+   "key": "dietsame",
+   "en": "My diet has not been varied at all",
+   "official": "อาหารของฉันไม่หลากหลายเลย",
+   "th": "อาหารของฉันไม่หลากหลายเลย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dietslightly",
+   "en": "My diet has been slightly varied",
+   "official": "อาหารของฉันมีความหลากหลายเล็กน้อย",
+   "th": "อาหารของฉันมีความหลากหลายเล็กน้อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dietsomewhat",
+   "en": "My diet has been somewhat varied",
+   "official": "อาหารของฉันค่อนข้างหลากหลาย",
+   "th": "อาหารของฉันค่อนข้างหลากหลาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dietnicely",
+   "en": "My diet has been nicely varied",
+   "official": "อาหารของฉันมีความหลากหลายมาก",
+   "th": "อาหารของฉันมีความหลากหลายมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dietextremely",
+   "en": "My diet has been extremely varied",
+   "official": "อาหารของฉันมีความหลากหลายมากจนไม่รู้จะกินอะไรดี",
+   "th": "อาหารของฉันหลากหลายสุด ๆ",
+   "status": "fixed",
+   "note": "เติมความเกิน"
+  },
+  {
+   "key": "recreationdeprived",
+   "en": "I am deprived of recreation",
+   "official": "",
+   "th": "ฉันขาดความบันเทิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "recreationsatisfied",
+   "en": "My recreation need is satisfied",
+   "official": "",
+   "th": "ความบันเทิงของฉันเพียงพอแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "recreationfulfilled",
+   "en": "My recreation is completely fulfilled",
+   "official": "",
+   "th": "ฉันได้รับความบันเทิงเต็มที่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sharingroom",
+   "en": "I am sharing my room with other settlers",
+   "official": "ฉันไม่อยากร่วมห้องกับคนอื่น",
+   "th": "ฉันต้องอยู่ห้องเดียวกับชาวนิคมคนอื่น",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "recentlyrecruited",
+   "en": "I have recently been recruited",
+   "official": "",
+   "th": "ฉันเพิ่งย้ายเข้านิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "happinessobject",
+   "en": "I really like my <object>",
+   "official": "",
+   "th": "ฉันชอบ <object> ของฉันมาก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lifepartner",
+   "en": "I am in a loving relationship",
+   "official": "",
+   "th": "ฉันกำลังมีความรัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualitylow",
+   "en": "Low",
+   "official": "",
+   "th": "ต่ำ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualitymediocre",
+   "en": "Mediocre",
+   "official": "",
+   "th": "ปานกลาง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualitydecent",
+   "en": "Decent",
+   "official": "",
+   "th": "พอใช้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualitygood",
+   "en": "Good",
+   "official": "",
+   "th": "ดี",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualityimpressive",
+   "en": "Impressive",
+   "official": "",
+   "th": "น่าประทับใจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualitywonderful",
+   "en": "Wonderful",
+   "official": "",
+   "th": "ยอดเยี่ยม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qualityunrivaled",
+   "en": "Unrivaled",
+   "official": "",
+   "th": "ไร้เทียมทาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolcomposition",
+   "en": "<adjective> quality of life",
+   "official": "",
+   "th": "คุณภาพชีวิต <adjective>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolmessage",
+   "en": "I have <qualityoflife>",
+   "official": "",
+   "th": "ฉันมี <qualityoflife>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qoldecrease",
+   "en": "<name>'s quality of life will decrease over time",
+   "official": "",
+   "th": "คุณภาพชีวิตของ <name> จะลดลงเรื่อย ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolstay",
+   "en": "<name>'s quality of life will stay the same over time",
+   "official": "",
+   "th": "คุณภาพชีวิตของ <name> จะคงที่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolincrease",
+   "en": "<name>'s quality of life will increase over time",
+   "official": "",
+   "th": "คุณภาพชีวิตของ <name> จะเพิ่มขึ้นเรื่อย ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qoltip1",
+   "en": "Quality of life is determined by the sum of all their thoughts. Increasing their quality of life will give them bonuses, both with their personalities and their work speed. Go talk to the settler to see what they're thinking.",
+   "official": "",
+   "th": "คุณภาพชีวิตวัดจากผลรวมของความคิดทั้งหมด ยิ่งคุณภาพชีวิตสูง ยิ่งได้โบนัสทั้งจากนิสัยและความเร็วในการทำงาน ลองไปคุยกับชาวนิคมเพื่อดูว่ากำลังคิดอะไรอยู่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qoltip2",
+   "en": "Each quality of life level gives:",
+   "official": "",
+   "th": "คุณภาพชีวิตแต่ละระดับให้:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qoltip3",
+   "en": "Current bonus:",
+   "official": "",
+   "th": "โบนัสตอนนี้:",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolchangetip1",
+   "en": "Quality of life level will decrease when happiness is below <value>",
+   "official": "",
+   "th": "ระดับคุณภาพชีวิตจะลดลงเมื่อความสุขต่ำกว่า <value>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolchangetip2",
+   "en": "Quality of life level will increase when happiness is above <value>",
+   "official": "",
+   "th": "ระดับคุณภาพชีวิตจะเพิ่มขึ้นเมื่อความสุขสูงกว่า <value>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "qolchangetip3",
+   "en": "Each quality of life level decreases total happiness by <value>",
+   "official": "",
+   "th": "คุณภาพชีวิตแต่ละระดับลดความสุขรวมลง <value>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moodveryunhappy",
+   "en": "Very unhappy",
+   "official": "ไม่มีความสุขซักนิด",
+   "th": "ไม่มีความสุขเลยสักนิด",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "moodunhappy",
+   "en": "Unhappy",
+   "official": "ไม่มีความสุขเลย",
+   "th": "ไม่มีความสุข",
+   "status": "fixed",
+   "note": "แยกระดับจาก Very unhappy"
+  },
+  {
+   "key": "moodcontent",
+   "en": "Content",
+   "official": "",
+   "th": "พอใจ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moodveryhappy",
+   "en": "Very happy",
+   "official": "มีความสุขมาก",
+   "th": "มีความสุขมาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moodhappiness",
+   "en": "I feel <happiness>",
+   "official": "ฉันรู้สึก <happiness>",
+   "th": "ฉันรู้สึก <happiness>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moodqolmessage",
+   "en": "I feel <happiness> and I have a <qualityoflife>",
+   "official": "",
+   "th": "ฉันรู้สึก <happiness> และมี <qualityoflife>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "movecloser",
+   "en": "Move closer to settler for more info",
+   "official": "",
+   "th": "เข้าไปใกล้ชาวนิคมเพื่อดูข้อมูลเพิ่มเติม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "moodtalkto",
+   "en": "Talk to the settler for more info",
+   "official": "คุยกับผู้อพยพเพื่อดูข้อมูลเพิ่มเติม",
+   "th": "คุยกับชาวนิคมเพื่อดูข้อมูลเพิ่มเติม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "onstrike",
+   "en": "I am on strike because I am unhappy",
+   "official": "ปฏิรูป ปฏิรูป !!",
+   "th": "ฉันประท้วงเพราะไม่มีความสุข",
+   "status": "fixed",
+   "note": "ทางการไม่ตรงความ"
+  },
+  {
+   "key": "onstrikehungry",
+   "en": "I am on strike because I am hungry",
+   "official": "ฉันประท้วง เพราะฉันหิว",
+   "th": "ฉันประท้วงเพราะหิว",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "onstrikerecreation",
+   "en": "I am on strike because of low recreation",
+   "official": "",
+   "th": "ฉันประท้วงเพราะขาดความบันเทิง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "tradertip",
+   "en": "Complete Plains cave journal challenge to recruit",
+   "official": "เสร็จสิ้นความท้าทายในที่ราบเพื่อจ้าง",
+   "th": "ทำความท้าทายในบันทึกของถ้ำที่ราบให้สำเร็จเพื่อชวนเข้านิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "animalkeepertip",
+   "en": "Kill the Void Wizard to recruit",
+   "official": "เอาชนะพ่อมดแห่งความมืด เพื่อชวน",
+   "th": "เอาชนะพ่อมดแห่งความมืดเพื่อชวนเข้านิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "foundinvillagetip",
+   "en": "Found in villages",
+   "official": "ค้บพบหมู่บ้าน",
+   "th": "พบในหมู่บ้าน",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "huntertip",
+   "en": "Found hunting on non village islands",
+   "official": "พบตามการล่าสัตว์บนเกาะนอกหมู่บ้าน",
+   "th": "พบขณะล่าสัตว์บนเกาะที่ไม่มีหมู่บ้าน",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "magetip",
+   "en": "Found in villages or in the dungeon",
+   "official": "พบตามหมู่บ้านหรือในดันเจี้ยน",
+   "th": "พบตามหมู่บ้านหรือในดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "piratetip",
+   "en": "Kill the Pirate Captain",
+   "official": "เอาชนะกัปตันโจรสลัด",
+   "th": "เอาชนะกัปตันโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stylisttip",
+   "en": "Found in villages or pirate island",
+   "official": "พบได้ตามหมู่บ้านหรือเกาะโจรสลัด",
+   "th": "พบได้ตามหมู่บ้านหรือเกาะโจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explorertip",
+   "en": "Found in desert caves after Void Wizard",
+   "official": "พบในถ้ำทะเลทรายหลังจากเอาชนะพ่อมดแห่งความมืด",
+   "th": "พบในถ้ำทะเลทรายหลังจากเอาชนะพ่อมดแห่งความมืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "minertip",
+   "en": "Found in caves after Evil's Protector",
+   "official": "พบได้ในถ้ำหลังเอาชนะผู้ปกครองปีศาจ",
+   "th": "พบได้ในถ้ำหลังเอาชนะผู้ปกครองปีศาจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "travelingarrive",
+   "en": "§a<mob> is arriving at <settlement>",
+   "official": "§a<mob> ได้เดินทางมาเยี่ยม <settlement>",
+   "th": "§a<mob> กำลังเดินทางมาที่ <settlement>",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "travelingleave",
+   "en": "§a<mob> is leaving <settlement>",
+   "official": "§a<mob> ได้จาก <settlement> ไปแล้ว",
+   "th": "§a<mob> กำลังออกจาก <settlement>",
+   "status": "fixed",
+   "note": "ปรับถ้อยคำ"
+  },
+  {
+   "key": "defname",
+   "en": "<biome> settlement",
+   "official": "<biome> ถิ่นฐาน",
+   "th": "นิคม <biome>",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,558 @@
+{
+ "category": "objectives",
+ "entries": [
+  {
+   "key": "gettingstartedtitle",
+   "en": "Getting started",
+   "official": "",
+   "th": "เริ่มต้นเล่น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "choptree",
+   "en": "Chop down a <treeicon> Tree using a <woodaxe>",
+   "official": "",
+   "th": "ใช้ <woodaxe> โค่น <treeicon> ต้นไม้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "hittree",
+   "en": "Walk close and hit a <treeicon> Tree with an <axeicon> Axe by pressing <key>",
+   "official": "",
+   "th": "เดินเข้าไปใกล้แล้วฟัน <treeicon> ต้นไม้ด้วย <axeicon> ขวาน โดยกด <key>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "findtree",
+   "en": "Find a <treeicon> Tree to chop down",
+   "official": "",
+   "th": "หา <treeicon> ต้นไม้เพื่อโค่น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "invcrafttorch",
+   "en": "Open your inventory and craft a <torch>",
+   "official": "",
+   "th": "เปิดช่องเก็บของแล้วประดิษฐ์ <torch>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "openinv",
+   "en": "Press <key> to open inventory",
+   "official": "",
+   "th": "กด <key> เพื่อเปิดช่องเก็บของ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "crafttorch",
+   "en": "Craft a <torch> in the crafting menu",
+   "official": "",
+   "th": "ประดิษฐ์ <torch> ในเมนูประดิษฐ์",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "elderclaimreward",
+   "en": "Go to the <elder> to claim your reward!",
+   "official": "",
+   "th": "ไปหา <elder> เพื่อรับรางวัล!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "elderwalk",
+   "en": "Walk close and talk to the <elder> with <key>",
+   "official": "",
+   "th": "เดินเข้าไปใกล้แล้วคุยกับ <elder> ด้วย <key>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "equippingtrinkettitle",
+   "en": "Equip a trinket",
+   "official": "",
+   "th": "สวมเครื่องประดับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "obtaintrinket",
+   "en": "Obtain <trinket> from the <workstation> or the <elder>",
+   "official": "",
+   "th": "รับ <trinket> จาก <workstation> หรือจาก <elder>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "equiptrinket",
+   "en": "Equip <trinket> by moving the trinket to your Trinket Ability Slot",
+   "official": "",
+   "th": "สวม <trinket> โดยย้ายไปไว้ในช่องความสามารถของเครื่องประดับ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "equiptrinkethere",
+   "en": "Equip your trinket here",
+   "official": "",
+   "th": "สวมเครื่องประดับที่นี่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "usetrinket",
+   "en": "Use <trinket> to sprint, by holding down <key> and moving",
+   "official": "",
+   "th": "ใช้ <trinket> เพื่อวิ่งเร็ว โดยกด <key> ค้างไว้ขณะเคลื่อนที่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "craftingpicktitle",
+   "en": "Crafting a <pickaxe>",
+   "official": "",
+   "th": "ประดิษฐ์ <pickaxe>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "obtainlogs",
+   "en": "Obtain <count> Logs",
+   "official": "",
+   "th": "หาท่อนซุง <count> ท่อน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "interactworkstation",
+   "en": "Craft a <workstation> from your inventory, place it down with <key1> and interact with it using <key2>",
+   "official": "",
+   "th": "ประดิษฐ์ <workstation> จากช่องเก็บของ วางลงด้วย <key1> แล้วใช้งานด้วย <key2>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "craftpickaxe",
+   "en": "Craft a <pickaxe> in the <workstation> (requires <logs>)",
+   "official": "",
+   "th": "ประดิษฐ์ <pickaxe> ที่ <workstation> (ต้องใช้ <logs>)",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "gominingtitle",
+   "en": "Time to go mining",
+   "official": "",
+   "th": "ได้เวลาไปขุดแร่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "craftanduseladder",
+   "en": "Craft a <caveladder> in your inventory, place it and use it to go underground",
+   "official": "",
+   "th": "ประดิษฐ์ <caveladder> ในช่องเก็บของ วางลงแล้วใช้เพื่อลงไปใต้ดิน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mineoreobj",
+   "en": "Find and mine <count> <oreicon> Ore. You can place <torchicon> Torches with <key> to light up the area",
+   "official": "",
+   "th": "หาและขุด <oreicon> แร่ <count> ก้อน วาง <torchicon> คบเพลิงด้วย <key> เพื่อให้แสงสว่างได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mineoremarker",
+   "en": "Mine <oreicon> Ore by pressing <key> with your <pickaxeicon> Pickaxe selected",
+   "official": "",
+   "th": "ขุด <oreicon> แร่ โดยกด <key> ขณะถือ <pickaxeicon> อีเต้อ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "minestone",
+   "en": "Mine <count> <stone> total for a <forge>",
+   "official": "",
+   "th": "ขุด <stone> ให้ครบ <count> ก้อน เพื่อทำ <forge>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "craftforge",
+   "en": "Craft a <forge> in the <workstation>. Place it down and use it to smelt <oreicon> Ores into <baricon> Bars",
+   "official": "",
+   "th": "ประดิษฐ์ <forge> ที่ <workstation> วางลงแล้วใช้หลอม <oreicon> แร่ให้เป็น <baricon> แท่ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "waitforge",
+   "en": "Smelt your <oreicon> Ores in the <forge> and collect the <baricon> Bars when it's done",
+   "official": "",
+   "th": "หลอม <oreicon> แร่ใน <forge> แล้วเก็บ <baricon> แท่งเมื่อหลอมเสร็จ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "forgenote",
+   "en": "Forges require fuel. Place <logicon> Logs into the <forge> as fuel on the left side when interacting with it",
+   "official": "",
+   "th": "เตาหลอมต้องใช้เชื้อเพลิง ใส่ <logicon> ท่อนซุงลงใน <forge> ที่ช่องเชื้อเพลิงด้านซ้ายขณะเปิดใช้งาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "startsettlementttile",
+   "en": "Starting a Settlement",
+   "official": "",
+   "th": "ตั้งนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "findflag",
+   "en": "Find a <settlementflag> in the <storagebox> inside the <eldericon> Elders house and place it down, or craft one in the <workstation>",
+   "official": "",
+   "th": "หา <settlementflag> ใน <storagebox> ในบ้านของ <eldericon> ผู้เฒ่าแล้ววางลง หรือประดิษฐ์ที่ <workstation>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "opensettlement",
+   "en": "Open the settlement menu by interacting with the <settlementflag> or pressing <key> while in a settlement",
+   "official": "",
+   "th": "เปิดเมนูนิคมโดยใช้งาน <settlementflag> หรือกด <key> ขณะอยู่ในนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "takeflag",
+   "en": "Take <settlementflag> from the <storagebox>",
+   "official": "",
+   "th": "หยิบ <settlementflag> จาก <storagebox>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "useflag",
+   "en": "Press <key> to use <settlementflag>",
+   "official": "",
+   "th": "กด <key> เพื่อใช้ <settlementflag>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "settlementtip1",
+   "en": "The settlement menu is where you can manage your settlers.",
+   "official": "",
+   "th": "เมนูนิคมเป็นที่สำหรับจัดการชาวนิคมของคุณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "settlementtip2",
+   "en": "Settlers help you gather resources and can join you on adventures.",
+   "official": "",
+   "th": "ชาวนิคมช่วยเก็บทรัพยากร และออกผจญภัยไปกับคุณได้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "settlementtip3",
+   "en": "When you're done looking around, press <key> to close the settlement menu again.",
+   "official": "",
+   "th": "ดูรอบ ๆ เสร็จแล้ว กด <key> เพื่อปิดเมนูนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "exploringtitle",
+   "en": "Exploring Necesse",
+   "official": "",
+   "th": "สำรวจ Necesse",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "openjournalobj",
+   "en": "Open your Adventure Journal to see what you've discovered so far",
+   "official": "",
+   "th": "เปิดบันทึกการผจญภัยเพื่อดูสิ่งที่คุณค้นพบแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "openjournal",
+   "en": "Click here to open the adventure journal",
+   "official": "",
+   "th": "คลิกที่นี่เพื่อเปิดบันทึกการผจญภัย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "completechallenge",
+   "en": "Complete any of the challenges in the journal's Forest Cave entry",
+   "official": "",
+   "th": "ทำความท้าทายข้อไหนก็ได้ในหัวข้อถ้ำป่าในบันทึก",
+   "status": "new",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "majorobjective",
+   "en": "Major Objective",
+   "official": "",
+   "th": "เป้าหมายสำคัญ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "startcompleted1",
+   "en": "Congratulations, you've completed the first tutorial objectives in Necesse!",
+   "official": "",
+   "th": "ยินดีด้วย! คุณทำเป้าหมายบทสอนแรกใน Necesse สำเร็จแล้ว!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "startcompleted2",
+   "en": "Next up is a major objective, which will often take time to prepare for and complete.",
+   "official": "",
+   "th": "ต่อไปคือเป้าหมายสำคัญ ซึ่งมักต้องใช้เวลาเตรียมตัวและทำให้สำเร็จ",
+   "status": "new",
+   "note": "ใช้เวลา ซ้ำ"
+  },
+  {
+   "key": "startcompleted3",
+   "en": "Feel free to discover the world of Necesse at your own pace!",
+   "official": "",
+   "th": "ออกสำรวจโลกของ Necesse ตามจังหวะของคุณเองได้เลย!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "recruitsettlertitle",
+   "en": "Recruiting settlers",
+   "official": "",
+   "th": "ชวนคนเข้านิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "recruitsettler",
+   "en": "Recruit a <settlericon> Settler visiting your settlement or recruit one from a village",
+   "official": "",
+   "th": "ชวน <settlericon> ชาวนิคมที่แวะมาเยือนเข้านิคม หรือชวนจากหมู่บ้าน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "nearbysettler",
+   "en": "Recruit a <settlericon> Settler",
+   "official": "",
+   "th": "ชวน <settlericon> ชาวนิคมเข้านิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "assignbedtosettler",
+   "en": "Assign a <bedicon> Bed to your new <settlericon> Settler",
+   "official": "",
+   "th": "กำหนด <bedicon> เตียงให้ <settlericon> ชาวนิคมคนใหม่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "opensettlementmenu",
+   "en": "Press <key> to open the settlement menu",
+   "official": "",
+   "th": "กด <key> เพื่อเปิดเมนูนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "clickonsettlersbutton",
+   "en": "Click on the Settlers button",
+   "official": "",
+   "th": "คลิกปุ่มชาวนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "assigntobed",
+   "en": "Press Assign settler to bed",
+   "official": "",
+   "th": "กดปุ่มกำหนดเตียงให้ชาวนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "addchesttosettlementstorage",
+   "en": "Add a <chesticons> Chest to settlement storage",
+   "official": "",
+   "th": "เพิ่ม <chesticons> กล่องเป็นที่เก็บของของนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "selectachest",
+   "en": "Interact with a <chesticons> Chest",
+   "official": "",
+   "th": "ใช้งาน <chesticons> กล่อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "addtosettlementstorage",
+   "en": "Add <chesticons> Chest to settlement storage",
+   "official": "",
+   "th": "เพิ่ม <chesticons> กล่องเป็นที่เก็บของของนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "putfoodinsettlementstorage",
+   "en": "Put <foodicons> Food in a settlement storage Chest",
+   "official": "",
+   "th": "ใส่ <foodicons> อาหารลงในกล่องที่เก็บของของนิคม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "defeatmob",
+   "en": "Defeat <mob>",
+   "official": "",
+   "th": "ปราบ <mob>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "evilsprotectortip",
+   "en": "Summoned at night by using a <mysteriousportal>",
+   "official": "",
+   "th": "อัญเชิญตอนกลางคืนโดยใช้ <mysteriousportal>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "queenspidertip",
+   "en": "Summoned in Snow Caves by destroying or using a <royalegg>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำหิมะโดยทำลายหรือใช้ <royalegg>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "voidwizardtip",
+   "en": "Fought on the second floor of the Void Dungeon. You can find a Dungeon by crafting a <dungeonmap>",
+   "official": "",
+   "th": "สู้ที่ชั้นสองของดันเจี้ยนแห่งความมืด หาดันเจี้ยนได้โดยประดิษฐ์ <dungeonmap>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "chieftaintip",
+   "en": "Fought in the Plains Caves by using <boneoffering> on the <chieftainspedestal>",
+   "official": "",
+   "th": "สู้ในถ้ำที่ราบโดยใช้ <boneoffering> ที่ <chieftainspedestal>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "swampguardiantip",
+   "en": "Summoned in Swamp Caves by using a <spikedfossil>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำหนองน้ำโดยใช้ <spikedfossil>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ancientvulturetip",
+   "en": "Summoned in Desert Caves by destroying or using an <ancientstatue>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำทะเลทรายโดยทำลายหรือใช้ <ancientstatue>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "piratecaptaintip",
+   "en": "Found in Pirate Villages. You can find a Pirate Village by crafting a <piratemap>",
+   "official": "",
+   "th": "พบในหมู่บ้านโจรสลัด หาหมู่บ้านโจรสลัดได้โดยประดิษฐ์ <piratemap>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "reapertip",
+   "en": "Summoned in Deep Forest Caves by using a <shadowgate>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำป่าชั้นลึกโดยใช้ <shadowgate>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cryoqueentip",
+   "en": "Summoned in Deep Snow Caves by using an <icecrown>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำหิมะชั้นลึกโดยใช้ <icecrown>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thecursedcronetip",
+   "en": "Fought in the Deep Plains Caves Game Arena",
+   "official": "",
+   "th": "สู้ที่สนามเกมในถ้ำที่ราบชั้นลึก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "pestwardentip",
+   "en": "Summoned in Deep Swamp Caves by using <decayingleaf>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำหนองน้ำชั้นลึกโดยใช้ <decayingleaf>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "sageandgrittip",
+   "en": "Summoned in Deep Desert Caves by using <dragonsouls> on the <templepedestal>",
+   "official": "",
+   "th": "อัญเชิญในถ้ำทะเลทรายชั้นลึกโดยใช้ <dragonsouls> ที่ <templepedestal>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fallenwizardtip",
+   "en": "Fought on the second floor of the Deep Desert Temple",
+   "official": "",
+   "th": "สู้ที่ชั้นสองของวิหารทะเลทรายชั้นลึก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "incursionsfallenaltartip",
+   "en": "Craft a <fallenaltar> Fallen Altar and insert a <gatewaytablet> to access Incursions",
+   "official": "",
+   "th": "ประดิษฐ์ <fallenaltar> แท่นบูชาร้าง แล้วใส่ <gatewaytablet> เพื่อเข้าสู่อินเคอร์ชัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ascendedwizardtip",
+   "en": "Obtain <ascendedshard> via the Incursion Perk Tree to craft the Ascended Incursion Tablet at the <fallenworkstation>",
+   "official": "",
+   "th": "รับ <ascendedshard> จากแผนผังความสามารถพิเศษของอินเคอร์ชัน เพื่อประดิษฐ์แผ่นศิลาอินเคอร์ชันศักดิ์สิทธิ์ที่ <fallenworkstation>",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

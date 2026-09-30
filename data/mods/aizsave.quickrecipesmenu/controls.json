@@ -1,0 +1,22 @@
+{
+ "category": "controls",
+ "entries": [
+  {
+   "key": "openrecipesmenu",
+   "en": "Open Recipes Menu",
+   "official": "",
+   "th": "เปิดเมนูสูตร",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "openitemsmenu",
+   "en": "Open Items Menu",
+   "official": "",
+   "th": "เปิดเมนูไอเทม",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,142 @@
+{
+ "category": "quests",
+ "entries": [
+  {
+   "key": "complete",
+   "en": "Complete",
+   "official": "เสร็จสิ้น",
+   "th": "เสร็จสิ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incomplete",
+   "en": "Incomplete",
+   "official": "ยังไม่เสร็จ",
+   "th": "ยังไม่เสร็จ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "track",
+   "en": "Track quest",
+   "official": "ติดตามภารกิจ",
+   "th": "ติดตามภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "actions",
+   "en": "Actions",
+   "official": "การกระทำ",
+   "th": "ตัวเลือก",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น (เมนูคำสั่ง)"
+  },
+  {
+   "key": "share",
+   "en": "Share",
+   "official": "แบ่งปัน",
+   "th": "แชร์",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "shareteamneeded",
+   "en": "Join a team to share quests",
+   "official": "เข้าร่วมทีมเพื่อแบ่งปันภารกิจ",
+   "th": "เข้าร่วมทีมเพื่อแชร์ภารกิจ",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับ แชร์"
+  },
+  {
+   "key": "shareresultsingle",
+   "en": "Shared <quest> with <count> person",
+   "official": "แบ่งปัน <quest> กับ <count> คน",
+   "th": "แชร์ <quest> ให้ <count> คนแล้ว",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับ แชร์"
+  },
+  {
+   "key": "shareresultplural",
+   "en": "Shared <quest> with <count> people",
+   "official": "แบ่งปัน <quest> กับอีก <count> คน",
+   "th": "แชร์ <quest> ให้ <count> คนแล้ว",
+   "status": "fixed",
+   "note": "ตัด อีก ที่เกินมา"
+  },
+  {
+   "key": "abandon",
+   "en": "Abandon",
+   "official": "ล้มเลิก",
+   "th": "ละทิ้ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "abandonconfirm",
+   "en": "Abandon quest?",
+   "official": "ล้มเลิกภารกิจหรือไม่ ?",
+   "th": "ละทิ้งภารกิจไหม?",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน ?"
+  },
+  {
+   "key": "genericquest",
+   "en": "Quest",
+   "official": "ภารกิจ",
+   "th": "ภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "claimrewardelder",
+   "en": "Talk to a settlement Elder to claim your reward!",
+   "official": "",
+   "th": "คุยกับผู้เฒ่าประจำนิคมเพื่อรับรางวัล!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "reward",
+   "en": "Reward: <reward>",
+   "official": "รางวัล: <reward>",
+   "th": "รางวัล: <reward>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "killmob",
+   "en": "Kill <mob>",
+   "official": "ฆ่า <mob>",
+   "th": "ฆ่า <mob>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "defeatmobnew",
+   "en": "Defeat <mobicon> <mob>",
+   "official": "",
+   "th": "ปราบ <mobicon> <mob>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "completeincursiontier",
+   "en": "Complete a Tier <tier> Incursion or higher",
+   "official": "สำเร็จอินเคอชันระดับ <tier> หรือสูงกว่า",
+   "th": "ผ่านอินเคอร์ชันระดับ <tier> ขึ้นไป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Incursion)"
+  },
+  {
+   "key": "deliveritem",
+   "en": "Deliver <item>",
+   "official": "ส่งมอบ <item>",
+   "th": "ส่งมอบ <item>",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,14 @@
+{
+ "category": "dlc",
+ "entries": [
+  {
+   "key": "supporterpack",
+   "en": "Supporter Pack",
+   "official": "แพ็คผู้สนับสนุน",
+   "th": "แพ็กผู้สนับสนุน",
+   "status": "fixed",
+   "note": "สะกดทับศัพท์ (แพ็ก)"
+  }
+ ],
+ "removed": []
+}

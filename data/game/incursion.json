@@ -1,0 +1,1110 @@
+{
+ "category": "incursion",
+ "entries": [
+  {
+   "key": "duskarmorloot",
+   "en": "Dusk Equipment",
+   "official": "อุปกรณ์พลบค่ำ",
+   "th": "อุปกรณ์พลบค่ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnarmorloot",
+   "en": "Dawn Equipment",
+   "official": "อุปกรณ์รุ่งอรุณ",
+   "th": "อุปกรณ์รุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bloodthemedloot",
+   "en": "Blood Item",
+   "official": "ไอเทมโลหิต",
+   "th": "ไอเทมโลหิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobsdropaltardust",
+   "en": "More Dust!",
+   "official": "ผงเพิ่มขึ้น!",
+   "th": "ผงมาแล้ว!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "mobsdropmorealtardust",
+   "en": "Even MORE Dust!",
+   "official": "ผงมากยิ่งขึ้น!",
+   "th": "ผงมากขึ้นอีก!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "flamelingscandie",
+   "en": "Revenge time!",
+   "official": "ได้เวลาเอาคืน!",
+   "th": "ได้เวลาเอาคืน!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobsdropalchemyshards",
+   "en": "Alchemylicious!",
+   "official": "ปรุงแต่งวิชาแปรธาตุ!",
+   "th": "แปรธาตุสุดแซ่บ!",
+   "status": "fixed",
+   "note": "ผิดอารมณ์ (มุก -licious)"
+  },
+  {
+   "key": "mobsdropupgradeshards",
+   "en": "Time for an upgrade!",
+   "official": "ได้เวลาอัปเกรด!",
+   "th": "ได้เวลาอัปเกรด!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "morehunts",
+   "en": "The Hunter",
+   "official": "นักล่า",
+   "th": "นักล่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moreextractions",
+   "en": "The Extractor",
+   "official": "ผู้สกัดแร่",
+   "th": "นักสกัดแร่",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "raveninvaders",
+   "en": "Raven Invasion",
+   "official": "อีการุนราน",
+   "th": "อีกาบุก",
+   "status": "fixed",
+   "note": "สะกด + ศัพท์ตามคลัง Invasion"
+  },
+  {
+   "key": "arcanicinvaders",
+   "en": "Arcane Invasion",
+   "official": "เวทยมนต์รุนราก",
+   "th": "เวทมนตร์บุก",
+   "status": "fixed",
+   "note": "สะกดผิด 2 จุด + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "chefinvader",
+   "en": "Chef Invasion?",
+   "official": "พ่อครัวบุก?",
+   "th": "พ่อครัวบุก?",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "megaupgradeshardveinperk",
+   "en": "It's HUUUGE!",
+   "official": "เบิ้มๆคือลือ!",
+   "th": "มันใหญ่มากกกก!",
+   "status": "fixed",
+   "note": "สแลงอ่านยาก"
+  },
+  {
+   "key": "moremeleeweaponsreward",
+   "en": "SMASH!",
+   "official": "สแมช!",
+   "th": "ทุบ!",
+   "status": "fixed",
+   "note": "แปลแทนทับศัพท์"
+  },
+  {
+   "key": "morerangedweaponsreward",
+   "en": "Fire with precision!",
+   "official": "ยิงอย่างแม่นยำ!",
+   "th": "ยิงอย่างแม่นยำ!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moremagicweaponsreward",
+   "en": "Control the elements!",
+   "official": "ควมคุมธาตุ!",
+   "th": "ควบคุมธาตุ!",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "moresummonweaponsreward",
+   "en": "Conjure armies!",
+   "official": "สร้างกองทัพ!",
+   "th": "เรียกกองทัพ!",
+   "status": "fixed",
+   "note": "Conjure = เรียก"
+  },
+  {
+   "key": "cosmeticarmorreward",
+   "en": "Get your priorities straight",
+   "official": "จัดลำดับความสำคัญ",
+   "th": "รู้ว่าอะไรสำคัญกว่า",
+   "status": "fixed",
+   "note": "สำนวน (มุกแต่งตัวสำคัญสุด)"
+  },
+  {
+   "key": "slimecavetabletcandrop",
+   "en": "Mother comes...",
+   "official": "โอ้ แม่เจ้า...",
+   "th": "แม่มาแล้ว...",
+   "status": "fixed",
+   "note": "ผิดความ (แม่สไลม์)"
+  },
+  {
+   "key": "graveyardtabletcandrop",
+   "en": "Fear the Endless Night!",
+   "official": "ค่ำคืนไร้ที่สิ้นสุด!",
+   "th": "จงกลัวรัตติกาลไร้สิ้นสุด!",
+   "status": "fixed",
+   "note": "ตกคำ Fear"
+  },
+  {
+   "key": "spidercastletabletcandrop",
+   "en": "The Empress awaits...",
+   "official": "จักรพรรดินีเฝ้ารอ...",
+   "th": "จักรพรรดินีเฝ้ารอ...",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sunarenatabletcandrop",
+   "en": "Dawn arises!",
+   "official": "มุงสู่รุ่งอรุณ!",
+   "th": "รุ่งอรุณมาเยือน!",
+   "status": "fixed",
+   "note": "สะกด + ความหมาย"
+  },
+  {
+   "key": "moonarenatabletcandrop",
+   "en": "Darkness falls...",
+   "official": "ดำดิ่งสู่ความมืด...",
+   "th": "ความมืดคืบคลานมา...",
+   "status": "fixed",
+   "note": "ตรงความ"
+  },
+  {
+   "key": "crystalhollowtabletcandrop",
+   "en": "Crystalline beauty...",
+   "official": "เป็นประกายราวผลึก...",
+   "th": "ความงามแห่งผลึก...",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "scrapyardtabletcandrop",
+   "en": "Feed the Machine...",
+   "official": "",
+   "th": "ป้อนอาหารให้เครื่องจักร...",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cavelingscanspawn",
+   "en": "Caveling Invasion",
+   "official": "ผู้เร้นกายรุกราน",
+   "th": "ชาวถ้ำบุก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingportalcanspawn",
+   "en": "Interdimensional Cavelings!",
+   "official": "ผู้เร้นกายข้ามมิติ!",
+   "th": "ชาวถ้ำข้ามมิติ!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingsbetterloot",
+   "en": "Juicy Cavelings!",
+   "official": "ผู้เร้นกายหอมหวาน!",
+   "th": "ชาวถ้ำตัวอวบ!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "ascendedshardsdrop",
+   "en": "The Beginning of the End",
+   "official": "จุดเริ่มต้นของตอนจบ",
+   "th": "จุดเริ่มต้นของตอนจบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "petsreward",
+   "en": "Fluffy friends!",
+   "official": "สหายนุ่มฟู!",
+   "th": "สหายนุ่มฟู!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "morecoinsreward",
+   "en": "Stonks!",
+   "official": "กำไร!",
+   "th": "รวยเละ!",
+   "status": "fixed",
+   "note": "มุก Stonks"
+  },
+  {
+   "key": "enchantsreward",
+   "en": "More Scrolls!",
+   "official": "คัมภีร์มากกว่าเดิม!",
+   "th": "คัมภีร์เพิ่มอีก!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "doubletabletchancedrop",
+   "en": "Two is better than one!",
+   "official": "สองหัวดีกว่าหัวเดียว!",
+   "th": "สองหัวดีกว่าหัวเดียว!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chancetominefullcluster",
+   "en": "One good smack!",
+   "official": "ขอทีเดียว!",
+   "th": "ทุบทีเดียวจบ!",
+   "status": "fixed",
+   "note": "ตรงความ"
+  },
+  {
+   "key": "alchemyshardsdroppotions",
+   "en": "Waiter? There's a potion in my ore!",
+   "official": "เด็กเสิร์ฟ? มีน้ำยาในแร่ของฉัน!",
+   "th": "บริกร? มีน้ำยาอยู่ในแร่ของฉัน!",
+   "status": "fixed",
+   "note": "มุกบริกร"
+  },
+  {
+   "key": "fivetimesmorecoinschance",
+   "en": "Let's go lucky number 5!",
+   "official": "ขอเลข 5 นำโชค!",
+   "th": "มาเลย เลข 5 นำโชค!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "rescuesettlerreward",
+   "en": "A Second Chance",
+   "official": "อย่าให้มีครั้งที่ 2",
+   "th": "โอกาสที่สอง",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "rescuedsettlermorepersonalities",
+   "en": "Feeling Hopeful",
+   "official": "",
+   "th": "เปี่ยมความหวัง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bossbringsinvaders",
+   "en": "Unlikely allies",
+   "official": "ไม่น่าจะเป็นไปได้",
+   "th": "พันธมิตรที่ไม่คาดคิด",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "doublebosschance",
+   "en": "One Becomes TWO!",
+   "official": "งอกมาเป็นสอง!",
+   "th": "หนึ่งกลายเป็นสอง!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "modifiersaffectenemiesperk",
+   "en": "A taste of your own medicine!",
+   "official": "กรรมตามสนอง!",
+   "th": "กรรมตามสนอง!",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "improvedtiersone",
+   "en": "Oh cool, an upgrade!",
+   "official": "เจ๋งเลย, การอัปเกรด",
+   "th": "โอ้ เจ๋ง อัปเกรดนี่นา!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "improvedtierstwo",
+   "en": "Oh, even more upgrades? Very cool!",
+   "official": "โอ๋, อัปเกรดเพิ่ม โคตรเจ๋ง!",
+   "th": "โอ้ อัปเกรดเพิ่มอีก? เจ๋งมาก!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "improvedtiersthree",
+   "en": "Oh wow, such upgrade, much wow!",
+   "official": "โอ๋ ว้าว, ยิ่งอัปเกรด, ยิ่งเจ๋ง!",
+   "th": "โอ้ว้าว อัปเกรดสุดยอด ว้าวมาก!",
+   "status": "fixed",
+   "note": "มุก doge"
+  },
+  {
+   "key": "incursionlevelgearreward",
+   "en": "Next Level Gear",
+   "official": "อุปกรณ์ระดับถัดไป",
+   "th": "อุปกรณ์ระดับถัดไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "empowermentbuffs",
+   "en": "Empowerment Time!",
+   "official": "ถึงเวลาเสริมสร้างพลังอำนาจ!",
+   "th": "ได้เวลาเพิ่มพลัง!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Empowered"
+  },
+  {
+   "key": "improvedempowermentbuffs",
+   "en": "Empowered Empowerment Time?",
+   "official": "เวลาของการมอบอำนาจที่เหนือกว่า?",
+   "th": "ได้เวลาเพิ่มพลังแบบเพิ่มพลัง?",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + มุกซ้ำคำ"
+  },
+  {
+   "key": "secondlifebuff",
+   "en": "A Second Chance",
+   "official": "อย่าให้มีครั้งที่ 3",
+   "th": "โอกาสที่สอง",
+   "status": "fixed",
+   "note": "ผิดความ"
+  },
+  {
+   "key": "thirdlifebuff",
+   "en": "A Third Chance?",
+   "official": "แล้วถ้ามีครั้งที่ 3?",
+   "th": "โอกาสที่สาม?",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "increasedbossloot",
+   "en": "We're Rich!",
+   "official": "ผมรวย!",
+   "th": "เรารวยแล้ว!",
+   "status": "fixed",
+   "note": "ห้ามคำตามเพศ + ตกความ"
+  },
+  {
+   "key": "enablebannerofwar",
+   "en": "War Never Changes",
+   "official": "สงครามไม่เปลี่ยนอะไร",
+   "th": "สงครามไม่เคยเปลี่ยนแปลง",
+   "status": "fixed",
+   "note": "ผิดความ (มุก Fallout)"
+  },
+  {
+   "key": "cratesdropaltardust",
+   "en": "There's room for a little more...",
+   "official": "ยังมีที่ว่างเหลืออีกนิดหน่อย...",
+   "th": "ยังมีที่ว่างเหลืออีกนิดหน่อย...",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobsexplodeupgradeshards",
+   "en": "I guess it... Ate the shards?",
+   "official": "ฉันเดาว่ามันคง... กินเศษพวกนี้เข้าไปล่ะมั้ง?",
+   "th": "สงสัยมันจะ... กินเศษเข้าไป?",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "essenceveinscanspawn",
+   "en": "IT'S IN THE WALLS!",
+   "official": "พวกมันอยู่ในกำแพง!",
+   "th": "มันอยู่ในกำแพง!",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "biggerarena",
+   "en": "Are you not entertained?",
+   "official": "",
+   "th": "ยังไม่สนุกอีกเหรอ?",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "allbannerbuffs",
+   "en": "All the buffs!",
+   "official": "",
+   "th": "บัฟครบทุกอย่าง!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mobsdropaltardustdesc",
+   "en": "Enemies killed in Incursions have a chance to drop Altar Dust",
+   "official": "ศัตรูที่ถูกสังหารใน อินเคอชั่น มีโอกาสที่จะดรอปผงแท่นบูชา",
+   "th": "ศัตรูที่ถูกสังหารในอินเคอร์ชันมีโอกาสดรอปผงแท่นบูชา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mobsdropmorealtardustdesc",
+   "en": "Enemies killed in Incursions have a chance to drop EVEN MORE Altar Dust!",
+   "official": "ศัตรูที่ถูกสังหารใน อินเคอชั่น มีโอกาสที่จะดรอปผงแท่นบูชาที่เพิ่มมากขึ้นไปอีก!",
+   "th": "ศัตรูที่ถูกสังหารในอินเคอร์ชันมีโอกาสดรอปผงแท่นบูชามากขึ้นไปอีก!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "flamelingscandiedesc",
+   "en": "Flamelings in your Incursions can now be killed",
+   "official": "เปลวไฟใน อินเคอชั่น สามารถถูกฆ่าได้เเล้ว",
+   "th": "ภูตเปลวไฟในอินเคอร์ชันของคุณถูกฆ่าได้แล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด เเ"
+  },
+  {
+   "key": "mobsdropalchemyshardsdesc",
+   "en": "Enemies killed in Incursions have a chance to drop Alchemy Shards",
+   "official": "ศัตรูที่ถูกสังหารใน อินเคอชั่น มีโอกาสที่จะดรอปเศษการเล่นแร่แปรธาตุ",
+   "th": "ศัตรูที่ถูกสังหารในอินเคอร์ชันมีโอกาสดรอปเศษแปรธาตุ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "mobsdropupgradeshardsdesc",
+   "en": "Enemies killed in Incursions have a chance to drop Upgrade Shards",
+   "official": "ศัตรูที่ถูกสังหารใน อินเคอชั่น มีโอกาสที่จะดรอปเศษอัปเกรด",
+   "th": "ศัตรูที่ถูกสังหารในอินเคอร์ชันมีโอกาสดรอปเศษอัปเกรด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "morehuntsdesc",
+   "en": "Tablets dropped in Incursions are now more likely to be Hunts",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น มีแนวโน้มที่จะเป็นแผ่นคำสั่งล่ามากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันมีแนวโน้มเป็นประเภทการล่ามากขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "moreextractionsdesc",
+   "en": "Tablets dropped in Incursions are now more likely to be Extractions",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น มีแนวโน้มที่จะเป็นแผ่นคำสั่งสกัดมากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันมีแนวโน้มเป็นประเภทสกัดแร่มากขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "raveninvadersdesc",
+   "en": "Incursions now have a chance to be invaded by the Ravenlord's Emissaries",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสถูกรุกรานโดยเจ้าแห่งอีกา",
+   "th": "อินเคอร์ชันมีโอกาสถูกบุกโดยทูตของราชาอีกา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ตกคำ Emissaries"
+  },
+  {
+   "key": "arcanicinvadersdesc",
+   "en": "Incursions now have a chance to be invaded by Arcanic Constructions",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสถูกรุกรานโดยเสาหินอาร์เคน",
+   "th": "อินเคอร์ชันมีโอกาสถูกบุกโดยสิ่งก่อสร้างอาร์เคน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "chefinvaderdesc",
+   "en": "Incursions now have a chance to be invaded by a Battle Chef. Bon appetit!",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสถูกรุกรานโดยพ่อครัวนักสู้",
+   "th": "อินเคอร์ชันมีโอกาสถูกบุกโดยพ่อครัวนักสู้ ขอให้อร่อยนะ!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ตกประโยค"
+  },
+  {
+   "key": "invadersdroplootdesc",
+   "en": "Invaders drop unique and juicy loot!",
+   "official": "ผู้บุกรุกดรอปของรางวัลที่หายากและคุ้มค่า!",
+   "th": "ผู้บุกดรอปของดรอปพิเศษสุดคุ้ม!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง Loot"
+  },
+  {
+   "key": "megaupgradeshardveinperkdesc",
+   "en": "Incursions now have a chance to spawn a MEGA Upgrade Shard vein",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสเกิดสายแร่เศษอัปเกรด",
+   "th": "อินเคอร์ชันมีโอกาสเกิดสายแร่เศษอัปเกรดขนาดเมกะ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ตกคำ MEGA"
+  },
+  {
+   "key": "moremeleeweaponsrewarddesc",
+   "en": "Tablets dropped in your Incursions are now more likely to have higher tier Melee Weapons as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธระยะประชิดระดับสูงขึ้น มากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธระยะประชิดระดับสูงขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "morerangedweaponsrewarddesc",
+   "en": "Tablets dropped in your Incursions are now more likely to have higher tier Ranged Weapons as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธระยะไกลระดับสูงขึ้น มากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธระยะไกลระดับสูงขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "moremagicweaponsrewarddesc",
+   "en": "Tablets dropped in your Incursions are now more likely to have higher tier Magic Weapons as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธเวทยมนต์ระดับสูงขึ้น มากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธเวทมนตร์ระดับสูงขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด"
+  },
+  {
+   "key": "moresummonweaponsrewarddesc",
+   "en": "Tablets dropped in your Incursions are now more likely to have higher tier Summon Weapons as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธอัญเชิญระดับสูงขึ้น มากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธอัญเชิญระดับสูงขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "cosmeticarmorrewarddesc",
+   "en": "Tablets dropped in your Incursions now have a chance to have Cosmetic Armor as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นเกราะระดับสูงขึ้น มากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นชุดเกราะแฟชั่น",
+   "status": "fixed",
+   "note": "ผิดความ (Cosmetic)"
+  },
+  {
+   "key": "slimecavetabletcandropdesc",
+   "en": "Slime Cave Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา ถ้ำสไลม์ ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาถ้ำสไลม์ดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "graveyardtabletcandropdesc",
+   "en": "Graveyard Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา สุสาน ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาสุสานดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "spidercastletabletcandropdesc",
+   "en": "Spider Castle Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา ปราสาทแมงมุม ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาปราสาทแมงมุมดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "sunarenatabletcandropdesc",
+   "en": "Sun Arena Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา อารีน่าแสงตะวัน ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาอารีนาแสงตะวันดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "moonarenatabletcandropdesc",
+   "en": "Moon Arena Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา อารีน่าแสงจันทร์ ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาอารีนาแสงจันทร์ดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "crystalhollowtabletcandropdesc",
+   "en": "Crystal Hollow Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "แผ่นศิลา ถ้ำคริสตัล ในตอนนี้สามารถดรอปได้ใน อินเคอชั่น ระดับ <tier> หรือสูงกว่า",
+   "th": "แผ่นศิลาโพรงคริสตัลดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "scrapyardtabletcandropdesc",
+   "en": "Scrapyard Tablets can now drop in Tier <tier> Incursions or higher",
+   "official": "",
+   "th": "แผ่นศิลาลานเศษเหล็กดรอปได้ในอินเคอร์ชันระดับ <tier> ขึ้นไปแล้ว",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cavelingscanspawndesc",
+   "en": "Incursions now have a chance to spawn Cavelings carrying Altar Dust, Upgrade Shards or Alchemy Shards",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสเกิดผู้เร้นกายที่ถือผงแท่นบูชา , เศษอัปเกรด หรือเศษการเล่นแร่แปรธาตุ",
+   "th": "อินเคอร์ชันมีโอกาสเกิดชาวถ้ำที่พกผงแท่นบูชา เศษอัปเกรด หรือเศษแปรธาตุ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เว้นวรรค"
+  },
+  {
+   "key": "cavelingportalcanspawndesc",
+   "en": "Incursions now have a chance to spawn a Caveling Portal from another dimension",
+   "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสเกิดประตูมิติผู้เร้นกายจากต่างมิติ",
+   "th": "อินเคอร์ชันมีโอกาสเกิดประตูมิติชาวถ้ำจากต่างมิติ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "cavelingsbetterlootdesc",
+   "en": "Cavelings in your Incursions now also have a chance to drop random Essences",
+   "official": "ผู้เร้นกายจากอินเคอชั่นต่อไปนี้จะมีโอกาสดรอปแก่นแบบสุ่ม",
+   "th": "ชาวถ้ำในอินเคอร์ชันของคุณมีโอกาสดรอปแก่นแท้แบบสุ่มด้วย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "ascendedshardsdropdesc",
+   "en": "Tier 8 or higher Incursion bosses now drop Ascended Shards",
+   "official": "บอสอินเคอชั่นระดับ 8 หรือสูงกว่าจะมีโอกาสดรอปเศษศักดิ์สิทธิ์",
+   "th": "บอสอินเคอร์ชันระดับ 8 ขึ้นไปจะดรอปเศษศักดิ์สิทธิ์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ดรอปแน่ไม่ใช่โอกาส"
+  },
+  {
+   "key": "petsrewarddesc1",
+   "en": "Tablets dropped in your Incursion now have a chance to have Pets as their Tablet Reward",
+   "official": "",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นสัตว์เลี้ยง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "petsrewarddesc2",
+   "en": "Including some new and exclusive Incursion pets!",
+   "official": "",
+   "th": "รวมถึงสัตว์เลี้ยงใหม่ที่มีเฉพาะในอินเคอร์ชัน!",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "morecoinsrewarddesc",
+   "en": "Tablets dropped in your Incursions are now more likely to have Coins as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ในตอนนี้มีแนวโน้มที่จะมีเหรียญเป็นรางวัลจากแผ่นศิลา",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นเหรียญมากขึ้น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "enchantsrewarddesc",
+   "en": "Tablets dropped in your Incursion now have a chance to have Enchanting Scrolls as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ตอนนี้มีโอกาสที่จะมีม้วนคัมภีร์เสริมพลังเป็นรางวัลจากแผ่นศิลา",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นคัมภีร์เสริมพลัง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "doubletabletchancedropdesc",
+   "en": "Tablets dropped in your Incursion now have a chance to drop an additional Tablet",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ตอนนี้มีโอกาสที่จะดรอปแผ่นศิลา เพิ่มขึ้นอีกหนึ่งอัน",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสดรอปแผ่นศิลาเพิ่มอีกหนึ่งแผ่น",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "chancetominefullclusterdesc",
+   "en": "You now have a chance when mining Alchemy and Upgrade Shards to clear out the whole cluster in one hit",
+   "official": "ตอนนี้คุณมีโอกาสที่เมื่อทำการขุดเศษการเล่นแร่แปรธาตุ และเศษอัปเกรดจะสามารถ ทำลายสายแร่ทั้งหมดได้ในการโจมตีเพียงครั้งเดียว",
+   "th": "เมื่อขุดเศษแปรธาตุหรือเศษอัปเกรด คุณมีโอกาสทำลายทั้งกลุ่มได้ในทีเดียว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + กระชับ"
+  },
+  {
+   "key": "alchemyshardsdroppotionsdesc",
+   "en": "Mining Alchemy Shards has a chance to drop a random greater potion",
+   "official": "การขุด เศษการเล่นแร่แปรธาตุ มีโอกาสที่จะดรอปน้ำยา แบบสุ่ม",
+   "th": "การขุดเศษแปรธาตุมีโอกาสดรอปน้ำยาขั้นสูงแบบสุ่ม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ตกคำ greater"
+  },
+  {
+   "key": "fivetimesmorecoinschancedesc",
+   "en": "Tablets with Coins as their Tablet Reward has a low chance to drop 5 times as many coins",
+   "official": "แผ่นศิลา ที่มีเหรียญเป็นรางวัลจากแผ่นศิลา มีโอกาสที่จะดรอปเหรียญเพิ่มขึ้น 5 เท่า",
+   "th": "แผ่นศิลาที่ให้รางวัลเป็นเหรียญมีโอกาสเล็กน้อยที่จะดรอปเหรียญเพิ่มเป็น 5 เท่า",
+   "status": "fixed",
+   "note": "ตกคำ low"
+  },
+  {
+   "key": "rescuesettlerrewarddesc",
+   "en": "Tablets dropped in your Incursions now have a chance to have a Settler as their Tablet Reward",
+   "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ตอนนี้มีโอกาสที่จะมีผู้อพยพเป็นรางวัลจากแผ่นศิลา",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นชาวนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "rescuedsettlermorepersonalitiesdesc",
+   "en": "Settlers from Tablet Rewards have more Personalities than regular Settlers",
+   "official": "",
+   "th": "ชาวนิคมจากรางวัลแผ่นศิลามีนิสัยมากกว่าชาวนิคมทั่วไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bossbringsinvadersdesc",
+   "en": "Incursion Bosses are now accompanied by random invaders",
+   "official": "บอสในอินเคอชั่นจะมาพร้อมกับผู้รุกรานแบบสุ่มแล้ว",
+   "th": "บอสอินเคอร์ชันจะมาพร้อมกับผู้บุกแบบสุ่ม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "doublebosschancedesc",
+   "en": "Incursion Bosses now a have a chance to summon another Incursion Boss to aid them when reaching low health",
+   "official": "บอสอินเคอชั่นตอนนี้มีโอกาสที่จะเรียกบอสอินเคอชั่นตัวอื่นมาช่วยเมื่อพลังชีวิตลดลงต่ำ",
+   "th": "บอสอินเคอร์ชันมีโอกาสอัญเชิญบอสอินเคอร์ชันอีกตัวมาช่วยเมื่อพลังชีวิตเหลือน้อย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "modifiersaffectenemiesperkdesc",
+   "en": "Incursion Modifiers now affect enemies as well",
+   "official": "คุณสมบัติปรับแต่งของอินเคอชั่นจะส่งผลต่อศัตรูด้วยแล้วในตอนนี้",
+   "th": "ตัวปรับแต่งอินเคอร์ชันส่งผลต่อศัตรูด้วยแล้ว",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "improvedtiersonedesc",
+   "en": "Equipment from Tablet Rewards, now has a chance to be upgraded up to tier 5",
+   "official": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 5 แล้ว",
+   "th": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 5",
+   "status": "fixed",
+   "note": "ตัด แล้ว ซ้ำ"
+  },
+  {
+   "key": "improvedtierstwodesc",
+   "en": "Equipment from Tablet Rewards, now has a chance to be upgraded up to tier 8",
+   "official": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 8 แล้ว",
+   "th": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 8",
+   "status": "fixed",
+   "note": "ตัด แล้ว ซ้ำ"
+  },
+  {
+   "key": "improvedtiersthreedesc",
+   "en": "Equipment from Tablet Rewards, now has a chance to be upgraded up to tier 10",
+   "official": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 10 แล้ว",
+   "th": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสถูกอัปเกรดได้สูงสุดถึงระดับ 10",
+   "status": "fixed",
+   "note": "ตัด แล้ว ซ้ำ"
+  },
+  {
+   "key": "incursionlevelgearrewarddesc",
+   "en": "Equipment from Tablet Rewards now has a chance to be Incursion only equipment",
+   "official": "อุปกรณ์จากรางวัลแผ่นศิลาตอนนี้อาจเป็นอุปกรณ์เฉพาะของอินเคอชั่นได้",
+   "th": "อุปกรณ์จากรางวัลแผ่นศิลามีโอกาสเป็นอุปกรณ์ที่มีเฉพาะในอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "empowermentbuffsdesc",
+   "en": "Random Empowerment buffs will now spawn in your Incursions that can be picked up by players",
+   "official": "บัฟเสริมพลังแบบสุ่มจะปรากฏในอินเคอชั่นของคุณ และสามารถเก็บได้โดยผู้เล่น",
+   "th": "บัฟเพิ่มพลังแบบสุ่มจะปรากฏในอินเคอร์ชันของคุณให้ผู้เล่นเก็บได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "improvedempowermentbuffsdesc",
+   "en": "Doubles the duration of Empowerment buffs granted by the \"Empowerment time!\" perk",
+   "official": "เพิ่มระยะเวลาของบัฟเพิ่มพลังที่ได้รับจากความสามารถพิเศษ 'เวลาของการให้อำนาจที่เหนือกว่า?' เป็นสองเท่า",
+   "th": "เพิ่มระยะเวลาของบัฟเพิ่มพลังจากความสามารถพิเศษ \"ได้เวลาเพิ่มพลัง!\" เป็นสองเท่า",
+   "status": "fixed",
+   "note": "อ้างชื่อ perk ผิดตัว"
+  },
+  {
+   "key": "secondlifebuffdesc",
+   "en": "Grants you a buff when entering a new Incursion, that will restore 25% health when taking fatal damage. This buff can only be consumed once per Incursion",
+   "official": "มอบบัฟให้คุณเมื่อเข้าสู่อินเคอชั่นใหม่ ซึ่งจะฟื้นฟูพลังชีวิต 25% เมื่อได้รับความเสียหายถึงขั้นตาย บัฟนี้สามารถใช้ได้เพียงครั้งเดียวต่ออินเคอชั่นเท่านั้น",
+   "th": "มอบบัฟให้เมื่อเข้าอินเคอร์ชันใหม่ ซึ่งจะฟื้นฟูพลังชีวิต 25% เมื่อได้รับความเสียหายถึงตาย บัฟนี้ใช้ได้เพียงครั้งเดียวต่ออินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thirdlifebuffdesc",
+   "en": "The buff granted from the \"A second chance\" perk, can now be consumed twice per Incursion",
+   "official": "มอบบัฟให้คุณเมื่อเข้าสู่อินเคอชั่นใหม่ ซึ่งจะฟื้นฟูพลังชีวิต 25% เมื่อได้รับความเสียหายถึงขั้นตาย บัฟนี้สามารถใช้ได้เพียงสองครั้งต่ออินเคอชั่นเท่านั้น",
+   "th": "บัฟจากความสามารถพิเศษ \"โอกาสที่สอง\" ใช้ได้สองครั้งต่ออินเคอร์ชันแล้ว",
+   "status": "fixed",
+   "note": "ผิดความ (คัดลอกคำอธิบายผิดแถว)"
+  },
+  {
+   "key": "increasedbosslootdesc",
+   "en": "Tablet Rewards are dropped twice at the end of your Incursion",
+   "official": "รางวัลจากแผ่นศิลาในตอนสิ้นสุดอินเคอชั่นจะดรอปสองเท่า",
+   "th": "รางวัลแผ่นศิลาจะดรอปสองชุดเมื่อจบอินเคอร์ชัน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "enablebannerofwardesc",
+   "en": "Banners of War can now be placed down inside Incursions. If you know... You KNOW...",
+   "official": "ธงประกาศสงครามสามารถวางลงในอินเคอชั่นได้แล้ว ถ้าคุณรู้ว่าเราต้องการจะสื่ออะไรนะ...",
+   "th": "วางธงประกาศสงครามในอินเคอร์ชันได้แล้ว ถ้าคุณรู้... คุณก็รู้...",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + มุกต้นฉบับ"
+  },
+  {
+   "key": "cratesdropaltardustdesc",
+   "en": "Crates found in Incursion now have a chance to drop Altar Dust",
+   "official": "กล่องไม้ที่พบใน อินเคอชัน ตอนนี้มีโอกาสที่จะดรอป ผงแท่นบูชา",
+   "th": "ลังที่พบในอินเคอร์ชันมีโอกาสดรอปผงแท่นบูชา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + เว้นวรรค"
+  },
+  {
+   "key": "mobsexplodeupgradeshardsdesc",
+   "en": "Enemies killed in Incursions have a chance to EXPLODE on death, dropping a lot of Upgrade Shards!",
+   "official": "ศัตรูที่ถูกฆ่าใน อินเคอชัน มีโอกาสที่จะระเบิดเมื่อตาย, และจะดรอปเศษอัปเกรดจำนวนมาก!",
+   "th": "ศัตรูที่ถูกสังหารในอินเคอร์ชันมีโอกาสระเบิดเมื่อตาย และดรอปเศษอัปเกรดจำนวนมาก!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + จุลภาค"
+  },
+  {
+   "key": "essenceveinscanspawnnewdesc",
+   "en": "Incursions now also contain Essence veins that can be mined and drop Essences from the Incursion you are in",
+   "official": "",
+   "th": "อินเคอร์ชันมีสายแร่แก่นแท้ที่ขุดได้ และดรอปแก่นแท้ของอินเคอร์ชันที่คุณอยู่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "biggerarenadesc",
+   "en": "Increases the size of the initial arena in Incursions and lights it up with torches",
+   "official": "",
+   "th": "ขยายลานเริ่มต้นในอินเคอร์ชันให้ใหญ่ขึ้นและจุดคบเพลิงให้สว่าง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "allbannerbuffsdesc",
+   "en": "Players in Incursions are now always buffed by Banner of Damage, Speed, Defense and Summon Speed",
+   "official": "",
+   "th": "ผู้เล่นในอินเคอร์ชันจะได้บัฟจากธงแห่งความเสียหาย ธงแห่งความเร็ว ธงแห่งการป้องกัน และธงแห่งความเร็วอัญเชิญเสมอ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "perkcost",
+   "en": "Cost:",
+   "official": "ค่าใช้จ่าย:",
+   "th": "ราคา:",
+   "status": "fixed",
+   "note": "สั้นกว่า"
+  },
+  {
+   "key": "buyperk",
+   "en": "Buy this perk",
+   "official": "ซื้อความสามารถพิเศษ",
+   "th": "ซื้อความสามารถพิเศษนี้",
+   "status": "fixed",
+   "note": "ตกคำ this"
+  },
+  {
+   "key": "removeperk",
+   "en": "Remove perk cost:",
+   "official": "ค่าใช้จ่ายนำความสามารถพิเศษออก:",
+   "th": "ราคาถอดความสามารถพิเศษ:",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "respecperk",
+   "en": "Remove perk and get back <value> Altar Dust",
+   "official": "นำความสามารถพิเศษออก และได้รับ <value> ผงแท่นบูชาคืน",
+   "th": "ถอดความสามารถพิเศษและได้ผงแท่นบูชาคืน <value>",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "removefullperktreecost",
+   "en": "Remove all perks cost:",
+   "official": "ค่าใช้จ่ายนำความสามารถพิเศษออกทั้งหมด:",
+   "th": "ราคาถอดความสามารถพิเศษทั้งหมด:",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "respecperktree",
+   "en": "Remove all perks and get back all Altar Dust spent",
+   "official": "นำความสามารถพิเศษออก และได้รับผงแท่นบูชาคืนทั้งหมด",
+   "th": "ถอดความสามารถพิเศษทั้งหมดและได้ผงแท่นบูชาที่ใช้ไปคืนทั้งหมด",
+   "status": "fixed",
+   "note": "ตกคำ all"
+  },
+  {
+   "key": "confirmrespecperktree1",
+   "en": "Are you sure you want to remove all perks from your Incursion Perk Tree?",
+   "official": "คุณแน่ใจหรือว่าต้องการลบความสามารถพิเศษทั้งหมดออกจากต้นไม้ความสามารถพิเศษอินเคอชั่นของคุณ?",
+   "th": "แน่ใจไหมว่าจะถอดความสามารถพิเศษทั้งหมดออกจากแผนผังความสามารถพิเศษอินเคอร์ชัน?",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สำนวน"
+  },
+  {
+   "key": "confirmrespecperktree2",
+   "en": "It will cost you:",
+   "official": "ค่าใช้จ่ายทั้งหมด:",
+   "th": "ราคา:",
+   "status": "fixed",
+   "note": "สำนวน"
+  },
+  {
+   "key": "confirmrespecperktree3",
+   "en": "All Altar Dust spent will be returned:",
+   "official": "ผงแท่นบูชาที่ได้รับคืน:",
+   "th": "ผงแท่นบูชาที่ใช้ไปทั้งหมดจะได้คืน:",
+   "status": "fixed",
+   "note": "ตรงความ"
+  },
+  {
+   "key": "perkrequireshighertier",
+   "en": "Your Altar needs to be Tier <tier> or higher to unlock this perk",
+   "official": "แท่นบูชาของคุณต้องมีระดับ <tier> หรือสูงกว่าเพื่อปลดล็อกความสามารถพิเศษนี้",
+   "th": "แท่นบูชาของคุณต้องมีระดับ <tier> หรือสูงกว่าเพื่อปลดล็อกความสามารถพิเศษนี้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "perkislocked",
+   "en": "Locked by Perk:",
+   "official": "ถูกล็อกโดยความสามารถพิเศษ:",
+   "th": "ถูกล็อกโดยความสามารถพิเศษ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "requireprerequisiteperk",
+   "en": "Requires prerequisite Perk:",
+   "official": "ต้องการความสามารถพิเศษเบื้องต้น:",
+   "th": "ต้องการความสามารถพิเศษเบื้องต้น:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "requireprerequisiteperks",
+   "en": "Requires one of prerequisite Perks:",
+   "official": "ต้องการความสามารถพิเศษเบื้องต้นอย่างใดอย่างหนึ่ง:",
+   "th": "ต้องการความสามารถพิเศษเบื้องต้นอย่างใดอย่างหนึ่ง:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "requiretabletperk",
+   "en": "Requires Perk:",
+   "official": "ต้องการความสามารถพิเศษ:",
+   "th": "ต้องการความสามารถพิเศษ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "requires",
+   "en": "Requires:",
+   "official": "ต้องการ:",
+   "th": "ต้องการ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "completespecificincursionatspecifictier",
+   "en": "Completing a Tier <tier> <incursion> or higher",
+   "official": "ทำการบุกอินเคอชั่น <incursion> นระดับ<tier> หรือสูงกว่าให้สำเร็จ",
+   "th": "ผ่าน <incursion> ระดับ <tier> ขึ้นไป",
+   "status": "fixed",
+   "note": "สะกด + ตกเว้นวรรค"
+  },
+  {
+   "key": "completeamountofincursionsatspecifictierplural",
+   "en": "Completing <amount> more Incursions at Tier <tier> or higher",
+   "official": "ทำการบุกอินเคอชั่นระดับ <tier> หรือสูงกว่าให้สำเร็จ <amount> ครั้ง",
+   "th": "ผ่านอินเคอร์ชันระดับ <tier> ขึ้นไปอีก <amount> ครั้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ตกคำ more"
+  },
+  {
+   "key": "completeamountofincursionsatspecifictiersingular",
+   "en": "Completing 1 more Incursion at Tier <tier> or higher",
+   "official": "ทำการบุกอินเคอชั่นระดับ <tier> หรือสูงกว่าให้สำเร็จ อีก 1 ครั้ง",
+   "th": "ผ่านอินเคอร์ชันระดับ <tier> ขึ้นไปอีก 1 ครั้ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "thisperklocksotherperk",
+   "en": "Buying this prevents picking other perks:",
+   "official": "การซื้ออันนี้จะทำให้ไม่สามารถเลือกความสามารถพิเศษอื่นได้:",
+   "th": "ถ้าซื้ออันนี้จะเลือกความสามารถพิเศษเหล่านี้ไม่ได้:",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "altartierlevel",
+   "en": "Tier <value>",
+   "official": "ระดับ <value>",
+   "th": "ระดับ <value>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "upgradeyouraltar",
+   "en": "Upgrade the Fallen Altar",
+   "official": "อัปเกรดแท่นบูชาร้าง",
+   "th": "อัปเกรดแท่นบูชาร้าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "unknownperk",
+   "en": "???",
+   "official": "???",
+   "th": "???",
+   "status": "same",
+   "note": ""
+  },
+  {
+   "key": "cantplaceinincursions",
+   "en": "Cannot be placed in Incursions",
+   "official": "ไม่สามารถวางในอินเคอชั่นได้",
+   "th": "วางในอินเคอร์ชันไม่ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "containsthefollowingperks",
+   "en": "Contains the following perks:",
+   "official": "ประกอบด้วยความสามารถพิเศษต่อไปนี้:",
+   "th": "มีความสามารถพิเศษต่อไปนี้:",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "incursionperkdropstablet",
+   "en": "When unlocking this perk for the first time, you are rewarded with a Tier <tier> <biome> Tablet",
+   "official": "เมื่อปลดล็อกความสามารถพิเศษนี้เป็นครั้งแรก, คุณจะได้รับรางวัลเป็นแผ่นศิลาระดับ  <tier> <biome>",
+   "th": "เมื่อปลดล็อกความสามารถพิเศษนี้ครั้งแรก คุณจะได้รับแผ่นศิลา<biome>ระดับ <tier>",
+   "status": "fixed",
+   "note": "เว้นวรรคซ้อน + จุลภาค"
+  }
+ ],
+ "removed": []
+}

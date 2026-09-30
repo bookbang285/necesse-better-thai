@@ -1,0 +1,54 @@
+{
+ "category": "itemcategory",
+ "entries": [
+  {
+   "key": "healing",
+   "en": "Healing",
+   "official": "การรักษา",
+   "th": "การรักษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "healingtools",
+   "en": "Healing",
+   "official": "เครื่องมือรักษา",
+   "th": "เครื่องมือรักษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runes",
+   "en": "Runes",
+   "official": "รูน",
+   "th": "รูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runesinjectors",
+   "en": "Runes Injectors",
+   "official": "เครื่องฉีดรูน",
+   "th": "เครื่องฉีดรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "baserunes",
+   "en": "Base Runes",
+   "official": "รูนพื้นฐาน",
+   "th": "รูนพื้นฐาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "modifierrunes",
+   "en": "Modifier Runes",
+   "official": "รูนดัดแปลง",
+   "th": "รูนดัดแปลง",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

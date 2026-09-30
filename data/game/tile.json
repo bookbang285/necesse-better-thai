@@ -1,0 +1,846 @@
+{
+ "category": "tile",
+ "entries": [
+  {
+   "key": "unknowntile",
+   "en": "Unknown",
+   "official": "ไม่ทราบ",
+   "th": "ไม่ทราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "watertile",
+   "en": "Water",
+   "official": "น้ำ",
+   "th": "น้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiritwatertile",
+   "en": "Spirit Water",
+   "official": "น้ำศักดิ์สิทธิ์",
+   "th": "น้ำวิญญาณ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Spirit)"
+  },
+  {
+   "key": "liquidoozetile",
+   "en": "Ooze",
+   "official": "",
+   "th": "น้ำเมือก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "emptytile",
+   "en": "Empty",
+   "official": "ว่าง",
+   "th": "ว่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grasstile",
+   "en": "Grass",
+   "official": "หญ้า",
+   "th": "หญ้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrowngrasstile",
+   "en": "Overgrown Grass",
+   "official": "หญ้ารก",
+   "th": "หญ้ารก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandtile",
+   "en": "Sand",
+   "official": "ทราย",
+   "th": "ทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampgrasstile",
+   "en": "Swamp Grass",
+   "official": "หญ้าหนองน้ำ",
+   "th": "หญ้าหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownswampgrasstile",
+   "en": "Overgrown Swamp Grass",
+   "official": "หญ้ารกหนองน้ำ",
+   "th": "หญ้ารกหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainsgrasstile",
+   "en": "Plains Grass",
+   "official": "หญ้าที่ราบ",
+   "th": "หญ้าที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "overgrownplainsgrasstile",
+   "en": "Overgrown Plains Grass",
+   "official": "หญ้ารก",
+   "th": "หญ้ารกที่ราบ",
+   "status": "fixed",
+   "note": "คำหาย (ที่ราบ)"
+  },
+  {
+   "key": "mudtile",
+   "en": "Mud",
+   "official": "โคลน",
+   "th": "โคลน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dirttile",
+   "en": "Dirt",
+   "official": "ดิน",
+   "th": "ดิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rocktile",
+   "en": "Rock",
+   "official": "หิน",
+   "th": "หิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeonfloor",
+   "en": "Dungeon Floor",
+   "official": "ชั้น ดันเจี้ยน",
+   "th": "พื้นดันเจี้ยน",
+   "status": "fixed",
+   "note": "แปลผิด (ชั้น) + เว้นวรรคเกิน"
+  },
+  {
+   "key": "farmland",
+   "en": "Farmland",
+   "official": "พิ้นที่เพาะปลูก",
+   "th": "พื้นที่เพาะปลูก",
+   "status": "fixed",
+   "note": "สะกดผิด"
+  },
+  {
+   "key": "woodfloor",
+   "en": "Wood Floor",
+   "official": "พื้นไม้",
+   "th": "พื้นไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pinefloor",
+   "en": "Pine Floor",
+   "official": "พื้นไม้สน",
+   "th": "พื้นไม้สน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "palmfloor",
+   "en": "Palm Floor",
+   "official": "พื้นไม้ปาล์ม",
+   "th": "พื้นไม้ปาล์ม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "willowfloor",
+   "en": "Willow Floor",
+   "official": "พื้นไม้หลิว",
+   "th": "พื้นไม้หลิว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dryadfloor",
+   "en": "Dryad Floor",
+   "official": "พื้นหญ้าแห้ง",
+   "th": "พื้นไม้ดรายแอด",
+   "status": "fixed",
+   "note": "Dryad ไม่ใช่หญ้าแห้ง (คลังศัพท์)"
+  },
+  {
+   "key": "dryadpath",
+   "en": "Dryad Path",
+   "official": "ทางเดินพื้นหญ้าแห้ง",
+   "th": "ทางเดินไม้ดรายแอด",
+   "status": "fixed",
+   "note": "Dryad ไม่ใช่หญ้าแห้ง (คลังศัพท์)"
+  },
+  {
+   "key": "woodpathtile",
+   "en": "Wood Path",
+   "official": "ทางเดินพื้นไม้",
+   "th": "ทางเดินพื้นไม้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bamboofloor",
+   "en": "Bamboo Floor",
+   "official": "พื้นไม้ไผ่",
+   "th": "พื้นไม้ไผ่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deadwoodfloor",
+   "en": "Deadwood Floor",
+   "official": "พื้นไม้เดดวูด",
+   "th": "พื้นไม้เดดวูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonefloor",
+   "en": "Stone Floor",
+   "official": "พื้นหิน",
+   "th": "พื้นหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "stonebrickfloor",
+   "en": "Stone Brick Floor",
+   "official": "พื้นหินอิฐ",
+   "th": "พื้นอิฐหิน",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "stonetiledfloor",
+   "en": "Stone Tiled Floor",
+   "official": "พื้นหินกระเบื้อง",
+   "th": "พื้นกระเบื้องหิน",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "stonepathtile",
+   "en": "Stone Path",
+   "official": "ทางเดินพื้นหิน",
+   "th": "ทางเดินพื้นหิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonetile",
+   "en": "Sandstone",
+   "official": "หินทราย",
+   "th": "หินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonefloor",
+   "en": "Sandstone Floor",
+   "official": "พื้นหินทราย",
+   "th": "พื้นหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandstonebrickfloor",
+   "en": "Sandstone Brick Floor",
+   "official": "พื้นทรายอิฐ",
+   "th": "พื้นอิฐหินทราย",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "sandstonepathtile",
+   "en": "Sandstone Path",
+   "official": "ทางเดินพื้นหินทราย",
+   "th": "ทางเดินพื้นหินทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swamprocktile",
+   "en": "Swamp Rock",
+   "official": "หินหนองน้ำ",
+   "th": "หินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampstonefloor",
+   "en": "Swamp Stone Floor",
+   "official": "พื้นหินหนองน้ำ",
+   "th": "พื้นหินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampstonebrickfloor",
+   "en": "Swamp Stone Brick Floor",
+   "official": "พื้นหินอิฐหนองน้ำ",
+   "th": "พื้นอิฐหินหนองน้ำ",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "swampstonepathtile",
+   "en": "Swamp Stone Path",
+   "official": "ทางเดินพื้นหินหนองน้ำ",
+   "th": "ทางเดินพื้นหินหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowrocktile",
+   "en": "Snow Rock",
+   "official": "หินหิมะ",
+   "th": "หินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "graniterocktile",
+   "en": "Granite Rock",
+   "official": "หินแกรนิต",
+   "th": "หินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lavatile",
+   "en": "Lava",
+   "official": "ลาวา",
+   "th": "ลาวา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "quicksandtile",
+   "en": "Quicksand",
+   "official": "ทรายดูด",
+   "th": "ทรายดูด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowtile",
+   "en": "Snow",
+   "official": "หิมะ",
+   "th": "หิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "icetile",
+   "en": "Ice",
+   "official": "น้ำแข็ง",
+   "th": "น้ำแข็ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonefloor",
+   "en": "Snow Stone Floor",
+   "official": "พื้นหินหิมะ",
+   "th": "พื้นหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowstonebrickfloor",
+   "en": "Snow Stone Brick Floor",
+   "official": "พื้นหินอิฐหิมะ",
+   "th": "พื้นอิฐหินหิมะ",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "snowstonepathtile",
+   "en": "Snow Stone Path",
+   "official": "ทางเดินพื้นหินหิมะ",
+   "th": "ทางเดินพื้นหินหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "graveltile",
+   "en": "Gravel",
+   "official": "กรวด",
+   "th": "กรวด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandbrick",
+   "en": "Sand Brick",
+   "official": "ทรายอิฐ",
+   "th": "อิฐทราย",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "granitefloor",
+   "en": "Granite Floor",
+   "official": "พื้นหินแกรนิต",
+   "th": "พื้นหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "granitebrickfloor",
+   "en": "Granite Brick Floor",
+   "official": "พื้นหินอิฐแกรนิต",
+   "th": "พื้นอิฐหินแกรนิต",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "granitepathtile",
+   "en": "Granite Path",
+   "official": "ทางเดินพื้นหินแกรนิต",
+   "th": "ทางเดินพื้นหินแกรนิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deeprocktile",
+   "en": "Deep Rock",
+   "official": "หินชั้นลึก",
+   "th": "หินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonefloor",
+   "en": "Deep Stone Floor",
+   "official": "พื้นหินชั้นลึก",
+   "th": "พื้นหินชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepstonebrickfloor",
+   "en": "Deep Stone Brick Floor",
+   "official": "พื้นหินอิฐชั้นลึก",
+   "th": "พื้นอิฐหินชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "deepstonetiledfloor",
+   "en": "Deep Stone Tiled Floor",
+   "official": "พื้นหินกระเบื้องชั้นลึก",
+   "th": "พื้นกระเบื้องหินชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "deepsnowrocktile",
+   "en": "Deep Snow Rock",
+   "official": "หินหิมะชั้นลึก",
+   "th": "หินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstonefloor",
+   "en": "Deep Snow Stone Floor",
+   "official": "พื้นหินหิมะชั้นลึก",
+   "th": "พื้นหินหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepsnowstonebrickfloor",
+   "en": "Deep Snow Stone Brick Floor",
+   "official": "พื้นหินอิฐหิมะชั้นลึก",
+   "th": "พื้นอิฐหินหิมะชั้นลึก",
+   "status": "fixed",
+   "note": "เรียงคำตามไทย"
+  },
+  {
+   "key": "basaltrocktile",
+   "en": "Basalt Rock",
+   "official": "หินบะซอลต์",
+   "th": "หินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltfloor",
+   "en": "Basalt Floor",
+   "official": "พื้นหินบะซอลต์",
+   "th": "พื้นหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "basaltpathtile",
+   "en": "Basalt Path",
+   "official": "ทางเดินพื้นหินบะซอลต์",
+   "th": "ทางเดินพื้นหินบะซอลต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswamprocktile",
+   "en": "Deep Swamp Rock",
+   "official": "หินหนองน้ำชั้นลึก",
+   "th": "หินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonefloor",
+   "en": "Deep Swamp Stone Floor",
+   "official": "พื้นหินหนองน้ำชั้นลึก",
+   "th": "พื้นหินหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampstonebrickfloor",
+   "en": "Deep Swamp Stone Brick Floor",
+   "official": "พื้นหินกระเบื้องหนองน้ำชั้นลึก",
+   "th": "พื้นอิฐหินหนองน้ำชั้นลึก",
+   "status": "fixed",
+   "note": "แปลผิด (กระเบื้อง) + เรียงคำ"
+  },
+  {
+   "key": "deepicetile",
+   "en": "Deep Ice",
+   "official": "น้ำแข็งชั้นลึก",
+   "th": "น้ำแข็งชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sandgraveltile",
+   "en": "Sand Gravel",
+   "official": "ทรายกรวด",
+   "th": "ทรายกรวด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidernesttile",
+   "en": "Spider Nest",
+   "official": "รังแมงมุม",
+   "th": "รังแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptash",
+   "en": "Crypt Ash",
+   "official": "ขี้เถ้าใต้ดิน",
+   "th": "ขี้เถ้าสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "deepsandstonetile",
+   "en": "Deep Sandstone",
+   "official": "หินทรายชั้นลึก",
+   "th": "หินทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "strawtile",
+   "en": "Straw Tile",
+   "official": "พื้นฟาง",
+   "th": "พื้นฟาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "liquidslimetile",
+   "en": "Liquid Slime",
+   "official": "เมือกสไลม์",
+   "th": "เมือกสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slimerocktile",
+   "en": "Slime Rock",
+   "official": "หินสไลม์",
+   "th": "หินสไลม์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cryptpath",
+   "en": "Crypt Path",
+   "official": "ทางใต้ดิน",
+   "th": "ทางเดินสุสานใต้ดิน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Crypt)"
+  },
+  {
+   "key": "spidercobbletile",
+   "en": "Spider Cobble",
+   "official": "แมงมุมหิน",
+   "th": "พื้นหินแมงมุม",
+   "status": "fixed",
+   "note": "แปลผิด (แมงมุมหิน)"
+  },
+  {
+   "key": "spidercastlefloor",
+   "en": "Spider Castle Floor",
+   "official": "พื้นปราสาทแมงมุม",
+   "th": "พื้นปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spidercastlecarpet",
+   "en": "Spider Castle Carpet",
+   "official": "พรมปราสาทแมงมุม",
+   "th": "พรมปราสาทแมงมุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dawnpath",
+   "en": "Dawn Path",
+   "official": "เส้นทางรุ่งอรุณ",
+   "th": "เส้นทางรุ่งอรุณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lavapath",
+   "en": "Lava Path",
+   "official": "เส้นทางลาวา",
+   "th": "เส้นทางลาวา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "moonpath",
+   "en": "Moon Path",
+   "official": "เส้นทางพระจันทร์",
+   "th": "เส้นทางพระจันทร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "darkmoonpath",
+   "en": "Dark Moon Path",
+   "official": "เส้นทางพระจันทร์มืด",
+   "th": "เส้นทางพระจันทร์มืด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "darkfullmoonpath",
+   "en": "Dark Full Moon Path",
+   "official": "เส้นทางพระจันทร์เต็มดวงอันมืดมิด",
+   "th": "เส้นทางพระจันทร์เต็มดวงมืด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "crystaltile",
+   "en": "Crystal",
+   "official": "คริสตัล",
+   "th": "คริสตัล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "amethystgravel",
+   "en": "Amethyst Gravel",
+   "official": "กรวดอเมทิสต์",
+   "th": "กรวดอเมทิสต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sapphiregravel",
+   "en": "Sapphire Gravel",
+   "official": "กรวดไพลิน",
+   "th": "กรวดไพลิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emeraldgravel",
+   "en": "Emerald Gravel",
+   "official": "กรวดมรกต",
+   "th": "กรวดมรกต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rubygravel",
+   "en": "Ruby Gravel",
+   "official": "กรวดทับทิม",
+   "th": "กรวดทับทิม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "topazgravel",
+   "en": "Topaz Gravel",
+   "official": "กรวดบุษราคัม",
+   "th": "กรวดบุษราคัม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ancientruinfloor",
+   "en": "Ancient Ruin Floor",
+   "official": "พื้นซากปรักหักพังโบราณ",
+   "th": "พื้นซากปรักหักพังโบราณ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "rustgravel",
+   "en": "Rust Gravel",
+   "official": "",
+   "th": "กรวดสนิม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapfloor",
+   "en": "Scrap Floor",
+   "official": "",
+   "th": "พื้นเศษเหล็ก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "junkfloor",
+   "en": "Junk Floor",
+   "official": "",
+   "th": "พื้นขยะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "factoryfloor",
+   "en": "Factory Floor",
+   "official": "",
+   "th": "พื้นโรงงาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ravenfloor",
+   "en": "Raven Floor",
+   "official": "พื้นอีกา",
+   "th": "พื้นอีกา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicfloor",
+   "en": "Arcanic Floor",
+   "official": "พื้นลึกลับ",
+   "th": "พื้นลึกลับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arcanicpath",
+   "en": "Arcanic Path",
+   "official": "ทางเดิมลึกลับ",
+   "th": "ทางเดินลึกลับ",
+   "status": "fixed",
+   "note": "สะกดผิด (เดิม)"
+  },
+  {
+   "key": "puddlecobble",
+   "en": "Puddle Cobble",
+   "official": "ก้อนหินแอ่งน้ำ",
+   "th": "พื้นหินแอ่งน้ำ",
+   "status": "fixed",
+   "note": "เป็นพื้น ไม่ใช่ก้อนหิน"
+  },
+  {
+   "key": "ascendedcorruption",
+   "en": "Ascended Corruption",
+   "official": "เน่าเปื่อยยิ่งขึ้น",
+   "th": "พื้นเน่าเปื่อยศักดิ์สิทธิ์",
+   "status": "fixed",
+   "note": "แปลผิดความ + ศัพท์ตามคลัง (Ascended)"
+  },
+  {
+   "key": "ascendedgrowth",
+   "en": "Ascended Growth",
+   "official": "เติบโตยิ่งขึ้น",
+   "th": "พื้นงอกงามศักดิ์สิทธิ์",
+   "status": "fixed",
+   "note": "แปลผิดความ + ศัพท์ตามคลัง (Ascended)"
+  },
+  {
+   "key": "ascendedvoid",
+   "en": "Ascended Void",
+   "official": "ดำมืดยิ่งขึ้น",
+   "th": "ความมืดศักดิ์สิทธิ์",
+   "status": "fixed",
+   "note": "แปลผิดความ + ศัพท์ตามคลัง (Ascended/Void)"
+  },
+  {
+   "key": "ascendedvoidtip",
+   "en": "You can now walk on the manifestation of void and space, enjoy!",
+   "official": "ตอนนี้คุณสามารถเดินบนความว่างเปล่าและอวกาศ สนุกได้เลย!",
+   "th": "ตอนนี้คุณเดินบนความมืดและห้วงอวกาศที่ปรากฏเป็นรูปร่างได้แล้ว ขอให้สนุก!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + ความหมายครบ"
+  },
+  {
+   "key": "basaltarenapath",
+   "en": "Basalt Arena Path",
+   "official": "ทางเดินพื้นหินอารีน่าบะซอลต์",
+   "th": "ทางเดินอารีนาหินบะซอลต์",
+   "status": "fixed",
+   "note": "เรียงคำ + สะกด อารีนา ตามคลัง"
+  },
+  {
+   "key": "ancientrootstile",
+   "en": "Ancient Roots Tile",
+   "official": "",
+   "th": "พื้นรากโบราณ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "ashtile",
+   "en": "Ash",
+   "official": "",
+   "th": "ขี้เถ้า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "chromakeytile",
+   "en": "Chroma Key Tile - <color>",
+   "official": "กระเบื้องโครมาคีย์  - <color>",
+   "th": "กระเบื้องโครมาคีย์ - <color>",
+   "status": "fixed",
+   "note": "ช่องว่างซ้ำ"
+  }
+ ],
+ "removed": []
+}

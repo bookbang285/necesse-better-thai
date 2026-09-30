@@ -1,0 +1,190 @@
+{
+ "category": "object",
+ "entries": [
+  {
+   "key": "goldwitchstatue",
+   "en": "Witch Statue",
+   "official": "รูปปั้นแม่มด",
+   "th": "รูปปั้นแม่มด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runestable",
+   "en": "Runes Table",
+   "official": "โต๊ะรูน",
+   "th": "โต๊ะรูน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedsapling",
+   "en": "Infected Sapling",
+   "official": "ต้นอ่อนที่ติดเชื้อ",
+   "th": "ต้นกล้าติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spinelcluster",
+   "en": "Spinel Cluster",
+   "official": "กลุ่มสปิเนล",
+   "th": "กระจุกสปิเนล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spinelcluster_small",
+   "en": "Small Spinel Cluster",
+   "official": "กลุ่มสปิเนลขนาดเล็ก",
+   "th": "กระจุกสปิเนลขนาดเล็ก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "gelrock",
+   "en": "Gel Rock",
+   "official": "หินเจล",
+   "th": "หินเจล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedtree",
+   "en": "Infected Tree",
+   "official": "ต้นไม้ที่ติดเชื้อ",
+   "th": "ต้นไม้ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedgrass",
+   "en": "Infected Grass",
+   "official": "หญ้าที่ติดเชื้อ",
+   "th": "หญ้าติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spinelchest",
+   "en": "Spinel Chest",
+   "official": "หีบสปิเนล",
+   "th": "กล่องสปิเนล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "fakespinelchest",
+   "en": "Fake Spinel Chest",
+   "official": "หีบสปิเนลปลอม",
+   "th": "กล่องสปิเนลปลอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "babylontower",
+   "en": "Babylon Tower",
+   "official": "หอคอยบาเบล",
+   "th": "หอคอยบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babylonentrance",
+   "en": "Babylon Entrance",
+   "official": "ทางเข้าบาเบล",
+   "th": "ทางเข้าบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "babylonexit",
+   "en": "Babylon Exit",
+   "official": "ทางออกบาเบล",
+   "th": "ทางออกบาเบล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "infectedtrialentrance",
+   "en": "Infected Trial Entrance",
+   "official": "ทางเข้าการทดลองที่ติดเชื้อ",
+   "th": "ทางเข้าการทดสอบติดเชื้อ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Trial)"
+  },
+  {
+   "key": "infectedchair",
+   "en": "Infected Chair",
+   "official": "เก้าอี้ที่ติดเชื้อ",
+   "th": "เก้าอี้ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infecteddinnertable",
+   "en": "Infected Dinner Table",
+   "official": "โต๊ะอาหารเย็นที่ติดเชื้อ",
+   "th": "โต๊ะอาหารติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedbookshelf",
+   "en": "Infected Bookshelf",
+   "official": "ชั้นหนังสือที่ติดเชื้อ",
+   "th": "ชั้นหนังสือติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedcabinet",
+   "en": "Infected Cabinet",
+   "official": "ตู้ที่ติดเชื้อ",
+   "th": "ตู้ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedbed",
+   "en": "Infected Bed",
+   "official": "เตียงที่ติดเชื้อ",
+   "th": "เตียงติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infecteddoublebed",
+   "en": "Infected Double Bed",
+   "official": "เตียงคู่ที่ติดเชื้อ",
+   "th": "เตียงคู่ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedcandelabra",
+   "en": "Infected Candelabra",
+   "official": "เชิงเทียนที่ติดเชื้อ",
+   "th": "เชิงเทียนติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "infectedwoodwall",
+   "en": "Infected Wood Wall",
+   "official": "ผนังไม้ที่ติดเชื้อ",
+   "th": "กำแพงไม้ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ + สม่ำเสมอกับเกมหลัก"
+  },
+  {
+   "key": "infectedwooddoor",
+   "en": "Infected Wood Door",
+   "official": "ประตูไม้ที่ติดเชื้อ",
+   "th": "ประตูไม้ติดเชื้อ",
+   "status": "fixed",
+   "note": "กระชับ"
+  }
+ ],
+ "removed": []
+}

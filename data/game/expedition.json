@@ -1,0 +1,118 @@
+{
+ "category": "expedition",
+ "entries": [
+  {
+   "key": "completestory",
+   "en": "Complete more story objectives",
+   "official": "",
+   "th": "ทำเป้าหมายหลักให้สำเร็จเพิ่มเติม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "cave",
+   "en": "Cave",
+   "official": "ถ้ำ",
+   "th": "ถ้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "commonfishtrip",
+   "en": "Common Fish",
+   "official": "ปลาธรรมดา",
+   "th": "ปลาธรรมดา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "swampcave",
+   "en": "Swamp Cave",
+   "official": "ถ้ำหนองน้ำ",
+   "th": "ถ้ำหนองน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "snowcave",
+   "en": "Snow Cave",
+   "official": "ถ้ำหิมะ",
+   "th": "ถ้ำหิมะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dungeon",
+   "en": "Dungeon",
+   "official": "ดันเจี้ยน",
+   "th": "ดันเจี้ยน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "plainscave",
+   "en": "Plains Cave",
+   "official": "ถ้ำที่ราบ",
+   "th": "ถ้ำที่ราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "desertcave",
+   "en": "Desert Cave",
+   "official": "ถ้ำทะเลทราย",
+   "th": "ถ้ำทะเลทราย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "pirate",
+   "en": "Pirate",
+   "official": "โจรสลัด",
+   "th": "โจรสลัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepcave",
+   "en": "Deep Cave",
+   "official": "ถ้ำลึก",
+   "th": "ถ้ำชั้นลึก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
+  },
+  {
+   "key": "deepsnowcave",
+   "en": "Deep Snow Cave",
+   "official": "ถ้ำหิมะชั้นลึก",
+   "th": "ถ้ำหิมะชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepplainscave",
+   "en": "Deep Plains Cave",
+   "official": "ถ้ำที่ราบชั้นลึก",
+   "th": "ถ้ำที่ราบชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepswampcave",
+   "en": "Deep Swamp Cave",
+   "official": "ถ้ำหนองน้ำชั้นลึก",
+   "th": "ถ้ำหนองน้ำชั้นลึก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deepdesertcave",
+   "en": "Deep Desert Cave",
+   "official": "ถ้ำทะเลทรายชั้นลึก",
+   "th": "ถ้ำทะเลทรายชั้นลึก",
+   "status": "kept",
+   "note": ""
+  }
+ ],
+ "removed": []
+}

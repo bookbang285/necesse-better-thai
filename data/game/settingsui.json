@@ -1,0 +1,774 @@
+{
+ "category": "settingsui",
+ "entries": [
+  {
+   "key": "front",
+   "en": "Settings",
+   "official": "ตั้งค่า",
+   "th": "ตั้งค่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "world",
+   "en": "World",
+   "official": "โลก",
+   "th": "โลก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "general",
+   "en": "General",
+   "official": "ทั่วไป",
+   "th": "ทั่วไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "language",
+   "en": "Language",
+   "official": "ภาษา",
+   "th": "ภาษา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "controls",
+   "en": "Controls",
+   "official": "ควบคุม",
+   "th": "ควบคุม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "interface",
+   "en": "Interface",
+   "official": "การแสดงผล",
+   "th": "อินเทอร์เฟซ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น + ใช้คำเดียวกับแถวอื่น"
+  },
+  {
+   "key": "graphics",
+   "en": "Graphics",
+   "official": "กราฟฟิค",
+   "th": "กราฟิก",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "saveconfirm",
+   "en": "Save settings?",
+   "official": "บันทึกการตั้งค่าหรือไม่ ?",
+   "th": "บันทึกการตั้งค่าไหม?",
+   "status": "fixed",
+   "note": "เว้นวรรคก่อน ?"
+  },
+  {
+   "key": "displaymode",
+   "en": "Display mode:",
+   "official": "โหมดจอภาพ:",
+   "th": "โหมดจอภาพ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "displaywindowed",
+   "en": "Windowed",
+   "official": "หน้าต่าง",
+   "th": "หน้าต่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "displayborderless",
+   "en": "Borderless windowed",
+   "official": "หน้าต่างไร้ขอบ",
+   "th": "หน้าต่างไร้ขอบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "displayfullscreen",
+   "en": "Fullscreen",
+   "official": "เต็มจอ",
+   "th": "เต็มจอ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "displayres",
+   "en": "Game resolution:",
+   "official": "ความคมชัดของตัวเกม:",
+   "th": "ความละเอียดของเกม:",
+   "status": "fixed",
+   "note": "ความหมายผิด (ความคมชัด)"
+  },
+  {
+   "key": "monitor",
+   "en": "Monitor:",
+   "official": "จอภาพ:",
+   "th": "จอภาพ:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxfps",
+   "en": "FPS cap:",
+   "official": "FPS สูงสุด:",
+   "th": "FPS สูงสุด:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fpsnocap",
+   "en": "No cap",
+   "official": "ไม่จำกัด",
+   "th": "ไม่จำกัด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "reduceuiframerate",
+   "en": "Reduce UI framerate",
+   "official": "ลด UI เฟรมเรต",
+   "th": "ลดเฟรมเรตของ UI",
+   "status": "fixed",
+   "note": "ลำดับคำ"
+  },
+  {
+   "key": "particles",
+   "en": "Particles:",
+   "official": "Particles:",
+   "th": "อนุภาค:",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "particlesmin",
+   "en": "Minimal",
+   "official": "ต่ำสุด",
+   "th": "ต่ำสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "particlesdec",
+   "en": "Decreased",
+   "official": "ลดลง",
+   "th": "ลดลง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "particlesmax",
+   "en": "Maximum",
+   "official": "สูงสุด",
+   "th": "สูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "colormode",
+   "en": "Color mode:",
+   "official": "โหมดสี:",
+   "th": "โหมดสี:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "colornormal",
+   "en": "Normal",
+   "official": "ปกติ",
+   "th": "ปกติ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "colorvibrant",
+   "en": "Vibrant",
+   "official": "มีชีวิตชีวา",
+   "th": "สดใส",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "brightness",
+   "en": "Brightness",
+   "official": "ความสว่าง",
+   "th": "ความสว่าง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightmode",
+   "en": "Light mode:",
+   "official": "โหมดแสง:",
+   "th": "โหมดแสง:",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightscolor",
+   "en": "Color",
+   "official": "สี",
+   "th": "สี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lightswhite",
+   "en": "White",
+   "official": "สีขาว",
+   "th": "ขาว",
+   "status": "fixed",
+   "note": "ให้เข้าชุดกับ สี"
+  },
+  {
+   "key": "cursorcolor",
+   "en": "Cursor color",
+   "official": "สีเคอเซอร์เมาส์",
+   "th": "สีเคอร์เซอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "sound",
+   "en": "Sound",
+   "official": "เสียง",
+   "th": "เสียง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "confirm",
+   "en": "Confirm?",
+   "official": "ยืนยัน?",
+   "th": "ยืนยัน?",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "zoomlevel",
+   "en": "Zoom level",
+   "official": "ระดับการซูม",
+   "th": "ระดับการซูม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adjustzoom",
+   "en": "Adjust zoom level on high screen resolutions",
+   "official": "ปรับระดับการซูมบนความละเอียดหน้าจอสูง",
+   "th": "ปรับระดับการซูมบนความละเอียดหน้าจอสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adjustzoomtip",
+   "en": "Will adjust zoom level to match full HD when playing on higher resolutions",
+   "official": "จะปรับระดับการซูมให้ตรงกับความละเอียดระดับ Full HD เมื่อเล่นในความละเอียดสูงกว่า",
+   "th": "จะปรับระดับการซูมให้ตรงกับความละเอียดระดับ Full HD เมื่อเล่นในความละเอียดสูงกว่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "limitcamera",
+   "en": "Keep camera within level bounds",
+   "official": "ให้กล้องอยู่ในระดับขอบเขต",
+   "th": "จำกัดกล้องให้อยู่ในขอบเขตแผนที่",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "pausefocus",
+   "en": "Pause on focus loss",
+   "official": "หยุดเมื่อสูญเสียโฟกัส",
+   "th": "หยุดเกมเมื่อหน้าต่างไม่ได้โฟกัส",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "skiptutorial",
+   "en": "Always skip tutorial",
+   "official": "ข้ามการสอน",
+   "th": "ข้ามบทสอนเสมอ",
+   "status": "fixed",
+   "note": "ครบความ (Always)"
+  },
+  {
+   "key": "showsettlerheadarmor",
+   "en": "Show settlers head armor",
+   "official": "แสดงชุดผู้อพยพ",
+   "th": "แสดงหมวกเกราะของชาวนิคม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ความหมายตรงขึ้น"
+  },
+  {
+   "key": "pixelfont",
+   "en": "Pixel font",
+   "official": "ตัวหนังสือพิกเซล",
+   "th": "ฟอนต์พิกเซล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "showdebug",
+   "en": "Show debug info",
+   "official": "แสดงข้อมูล debug",
+   "th": "แสดงข้อมูลดีบัก",
+   "status": "fixed",
+   "note": "แปลคำอังกฤษ"
+  },
+  {
+   "key": "showquest",
+   "en": "Show quest markers",
+   "official": "แสดงจุดภารกิจ",
+   "th": "แสดงจุดภารกิจ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showteammates",
+   "en": "Show teammate markers",
+   "official": "แสดงจุดเพื่อนร่วมทีม",
+   "th": "แสดงจุดเพื่อนร่วมทีม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showpickup",
+   "en": "Show pickup text",
+   "official": "แสดงข้อความเก็บไอเทม",
+   "th": "แสดงข้อความเก็บไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showdamage",
+   "en": "Show damage text",
+   "official": "แสดงตัวเลขความเสียหาย",
+   "th": "แสดงตัวเลขความเสียหาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showdot",
+   "en": "Show damage over time text",
+   "official": "แสดงข้อความความเสียหายต่อวินาที",
+   "th": "แสดงข้อความความเสียหายต่อเนื่อง",
+   "status": "fixed",
+   "note": "ความหมายผิด (ต่อวินาที)"
+  },
+  {
+   "key": "showmobhealthbars",
+   "en": "Show mob health bars",
+   "official": "แสดงหลอดพลังชีวิตของมอนสเตอร์",
+   "th": "แสดงหลอดพลังชีวิตของมอนสเตอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showbosshealthbars",
+   "en": "Show boss health bars",
+   "official": "แสดงหลอดพลังชีวิตของบอส",
+   "th": "แสดงหลอดพลังชีวิตของบอส",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "showitemtooltipsbackground",
+   "en": "Show item tooltip backgrounds",
+   "official": "แสดงเคล็ดลับไอเทมในพื้นหลัง",
+   "th": "แสดงพื้นหลังคำอธิบายไอเทม",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "showbasictooltipsbackground",
+   "en": "Show basic tooltip backgrounds",
+   "official": "แสดงเคล็ดลับพื้นฐานในพื้นหลัง",
+   "th": "แสดงพื้นหลังคำอธิบายทั่วไป",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "bigtooltiptext",
+   "en": "Big tooltip text",
+   "official": "ข้อความเคล็ดลับตัวเบิ้มๆ",
+   "th": "ตัวอักษรคำอธิบายขนาดใหญ่",
+   "status": "fixed",
+   "note": "ภาษาไม่เป็นทางการ"
+  },
+  {
+   "key": "showingredientsavailable",
+   "en": "Show available ingredients in recipes",
+   "official": "แสดงวัตถุดิบที่มีในส่วนผสม",
+   "th": "แสดงวัตถุดิบที่มีอยู่ในสูตร",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Recipe=สูตร)"
+  },
+  {
+   "key": "showcontroltips",
+   "en": "Show control tips",
+   "official": "แสดงเคล็ดลับควบคุม",
+   "th": "แสดงคำแนะนำปุ่มควบคุม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "showlogicgate",
+   "en": "Show logic gate tooltips",
+   "official": "แสดง logic gate tooltips",
+   "th": "แสดงคำอธิบายลอจิกเกต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + แปลคำอังกฤษ"
+  },
+  {
+   "key": "alwaysshowquickbar",
+   "en": "Always show quickbar",
+   "official": "แสดงช่องไอเทมลัดเสมอ",
+   "th": "แสดงแถบไอเทมลัดเสมอ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Hotbar)"
+  },
+  {
+   "key": "manuallydrawcursor",
+   "en": "Draw cursor manually",
+   "official": "วาดเคอร์เซอร์ด้วยตนเอง",
+   "th": "วาดเคอร์เซอร์เอง",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "manuallydrawcursorinfo",
+   "en": "Newer versions of SteamOS have a bug with the cursor being hidden. Turn this on if you don't see your cursor or off if you see double cursors.",
+   "official": "Newer versions of SteamOS have a bug with the cursor being hidden. Turn this on if you don't see your cursor or off if you see double cursors.",
+   "th": "SteamOS รุ่นใหม่มีบั๊กที่ทำให้เคอร์เซอร์หายไป เปิดตัวเลือกนี้ถ้ามองไม่เห็นเคอร์เซอร์ หรือปิดถ้าเห็นเคอร์เซอร์ซ้อนสองอัน",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  },
+  {
+   "key": "interfacesize",
+   "en": "Size",
+   "official": "ขนาด",
+   "th": "ขนาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adjustinterfacesize",
+   "en": "Adjust interface size on high screen resolutions",
+   "official": "ปรับขนาดอินเทอร์เฟซบนความละเอียดหน้าจอสูง",
+   "th": "ปรับขนาดอินเทอร์เฟซบนความละเอียดหน้าจอสูง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "adjustinterfacesizetip",
+   "en": "Will adjust interface size to match full HD when playing on higher resolutions",
+   "official": "จะปรับขนาดอินเทอร์เฟซให้ตรงกับความละเอียดระดับ Full HD เมื่อเล่นในความละเอียดสูงกว่า",
+   "th": "จะปรับขนาดอินเทอร์เฟซให้ตรงกับความละเอียดระดับ Full HD เมื่อเล่นในความละเอียดสูงกว่า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "interfacestyle",
+   "en": "Interface Style",
+   "official": "รูปแบบธีม",
+   "th": "รูปแบบอินเทอร์เฟซ",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ"
+  },
+  {
+   "key": "legacyui",
+   "en": "Legacy",
+   "official": "เทา",
+   "th": "ดั้งเดิม",
+   "status": "fixed",
+   "note": "ความหมายผิด (เทา)"
+  },
+  {
+   "key": "primalui",
+   "en": "Primal",
+   "official": "เบื้องต้น",
+   "th": "ดึกดำบรรพ์",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น (ชื่อธีม)"
+  },
+  {
+   "key": "ghostui",
+   "en": "Ghost",
+   "official": "หลอน",
+   "th": "ผี",
+   "status": "fixed",
+   "note": "ลื่นขึ้น (ชื่อธีม)"
+  },
+  {
+   "key": "languageselect",
+   "en": "Language: <language>",
+   "official": "ภาษา: <language>",
+   "th": "ภาษา: <language>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "opensaves",
+   "en": "Open saves folder",
+   "official": "เปิดเซฟโฟลเดอร์",
+   "th": "เปิดโฟลเดอร์เซฟ",
+   "status": "fixed",
+   "note": "ลำดับคำ"
+  },
+  {
+   "key": "resetcache",
+   "en": "Clear client cache folder",
+   "official": "ล้างโฟลเดอร์แคชไคลเอนต์",
+   "th": "ล้างโฟลเดอร์แคชไคลเอนต์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "cacheconfirm",
+   "en": "Are you sure you want to clear client cache folder?",
+   "official": "คุณแน่ใจหรือไม่ว่าต้องการล้างโฟลเดอร์แคชไคลเอ็นต์?",
+   "th": "แน่ใจไหมว่าต้องการล้างโฟลเดอร์แคชไคลเอนต์?",
+   "status": "fixed",
+   "note": "สะกดให้ตรงกับแถวบน + กระชับ"
+  },
+  {
+   "key": "onlyinmenu",
+   "en": "Cannot be done in-game",
+   "official": "ไม่สามารถทำได้ในเกม",
+   "th": "ทำระหว่างเล่นเกมไม่ได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "vsync",
+   "en": "Enable VSync",
+   "official": "เปิดใช้ VSync",
+   "th": "เปิดใช้ VSync",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "smoothlight",
+   "en": "Smooth lighting",
+   "official": "แสงแบบราบรื่น",
+   "th": "แสงแบบนุ่มนวล",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "perffocus",
+   "en": "Save performance on focus loss",
+   "official": "บันทึกความคืบหน้าเมื่อศูนย์เสียโฟกัส ",
+   "th": "ประหยัดทรัพยากรเมื่อหน้าต่างไม่ได้โฟกัส",
+   "status": "fixed",
+   "note": "ความหมายผิด + สะกด + ช่องว่างท้าย"
+  },
+  {
+   "key": "wavygrass",
+   "en": "Wavy grass",
+   "official": "รอยหยักหญ้า",
+   "th": "หญ้าพลิ้วไหว",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "densegrass",
+   "en": "Dense grass",
+   "official": "หญ้าทึบ",
+   "th": "หญ้าทึบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "windeffects",
+   "en": "Wind effects",
+   "official": "เอฟเฟ็คลมพัด",
+   "th": "เอฟเฟกต์ลม",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "camerashake",
+   "en": "Camera shake",
+   "official": "จอสั่น",
+   "th": "กล้องสั่น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "cursorsize",
+   "en": "Size",
+   "official": "ขนาด",
+   "th": "ขนาด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mutefocus",
+   "en": "Mute on focus loss",
+   "official": "ปิดเสียงเมื่อสูญเสียโฟกัส",
+   "th": "ปิดเสียงเมื่อหน้าต่างไม่ได้โฟกัส",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "outputdevice",
+   "en": "Output device:",
+   "official": "อุปกรณ์ส่งออก:",
+   "th": "อุปกรณ์เสียงขาออก:",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "outputdevicenone",
+   "en": "No devices found",
+   "official": "ไม่พบอุปกรณ์",
+   "th": "ไม่พบอุปกรณ์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "outputdevicedefault",
+   "en": "Default",
+   "official": "ค่าพื้นฐาน",
+   "th": "ค่าเริ่มต้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mastervolume",
+   "en": "Master volume",
+   "official": "เสียงหลัก",
+   "th": "ระดับเสียงหลัก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "effectsvolume",
+   "en": "Effects volume",
+   "official": "เสียงเอฟเฟกต์",
+   "th": "ระดับเสียงเอฟเฟกต์",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "weathervolume",
+   "en": "Weather volume",
+   "official": "เสียงสภาพอากาศ",
+   "th": "ระดับเสียงสภาพอากาศ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "uivolume",
+   "en": "UI volume",
+   "official": "UI เสียง",
+   "th": "ระดับเสียง UI",
+   "status": "fixed",
+   "note": "ลำดับคำ"
+  },
+  {
+   "key": "musicvolume",
+   "en": "Music volume",
+   "official": "ระดับเสียง",
+   "th": "ระดับเสียงเพลง",
+   "status": "fixed",
+   "note": "แปลตกคำ Music"
+  },
+  {
+   "key": "nopermission",
+   "en": "No server permission",
+   "official": "ไม่มีสิทธิ์เซิร์ฟเวอร์",
+   "th": "ไม่มีสิทธิ์บนเซิร์ฟเวอร์",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "modsonlyinmain",
+   "en": "Mods can only be configured from the main menu",
+   "official": "ม็อดสามารถตั้งค่าได้จากเมนูหลักเท่านั้น",
+   "th": "ตั้งค่ามอดได้จากเมนูหลักเท่านั้น",
+   "status": "fixed",
+   "note": "สะกด (ม็อด)"
+  },
+  {
+   "key": "communitytranslations",
+   "en": "Community translations",
+   "official": "การแปลของคอมมูนิตี้",
+   "th": "คำแปลจากชุมชน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "translationcoverage",
+   "en": "<percent> coverage",
+   "official": "ครอบคลุม<percent>",
+   "th": "ครอบคลุม <percent>",
+   "status": "fixed",
+   "note": "เว้นวรรค"
+  },
+  {
+   "key": "helptranslate",
+   "en": "Help translate Necesse",
+   "official": "ช่วย Necesse แปลภาษา",
+   "th": "ช่วยแปล Necesse",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "controller",
+   "en": "Controller",
+   "official": "คอนโทรเลอร์",
+   "th": "คอนโทรลเลอร์",
+   "status": "fixed",
+   "note": "สะกด"
+  },
+  {
+   "key": "mouseandkeyboard",
+   "en": "Mouse and keyboard",
+   "official": "เมาส์และคีย์บอร์ด",
+   "th": "เมาส์และคีย์บอร์ด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "restoredefaultbind",
+   "en": "Restore default bind: <bind>",
+   "official": "คืนการตั้งค่า: <bind>",
+   "th": "คืนค่าปุ่มเริ่มต้น: <bind>",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "restoredefaultbindall",
+   "en": "Restore all to default",
+   "official": "คืนการตั้งค่าทั้งหมด",
+   "th": "คืนค่าเริ่มต้นทั้งหมด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "restoredefaultbindalltooltip",
+   "en": "Restores all bindings to their default value.",
+   "official": "กู้คืนการตั้งค่าทั้งหมดเป็นค่าดั้งเดิม.",
+   "th": "คืนการตั้งปุ่มทั้งหมดเป็นค่าเริ่มต้น",
+   "status": "fixed",
+   "note": "ตัดจุด + ลื่นขึ้น"
+  },
+  {
+   "key": "hdrhackwarning",
+   "en": "Detected usage of HDR enabled monitor. Due to a bug with OpenGL on Windows, borderless will behave as normal fullscreen.",
+   "official": "Detected usage of HDR enabled monitor. Due to a bug with OpenGL on Windows, borderless will behave as normal fullscreen.",
+   "th": "ตรวจพบจอที่เปิด HDR อยู่ เนื่องจากบั๊กของ OpenGL บน Windows โหมดไร้ขอบจะทำงานเหมือนโหมดเต็มจอปกติ",
+   "status": "fixed",
+   "note": "ทางการเป็นอังกฤษ"
+  }
+ ],
+ "removed": []
+}

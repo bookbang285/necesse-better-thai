@@ -1,0 +1,1102 @@
+{
+ "category": "buffmodifiers",
+ "entries": [
+  {
+   "key": "currentmodifiers",
+   "en": "Current modifiers:",
+   "official": "การดัดแปลงในตอนนี้:",
+   "th": "ค่าปรับปัจจุบัน:",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น (modifier ไม่ใช่การดัดแปลง)"
+  },
+  {
+   "key": "nomodifiers",
+   "en": "No active modifiers",
+   "official": "ไม่มีการดัดแปลง",
+   "th": "ไม่มีค่าปรับที่มีผลอยู่",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "limitmax",
+   "en": "Max <modifier>",
+   "official": "<modifier> สูงสุด",
+   "th": "<modifier> สูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "limitmin",
+   "en": "Min <modifier>",
+   "official": "<modifier> ต่ำสุด",
+   "th": "<modifier> ต่ำสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "limitboolnever",
+   "en": "Never: <modifier>",
+   "official": "ไม่เคย: <modifier>",
+   "th": "ไม่มีทาง: <modifier>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "limitboolalways",
+   "en": "Always: <modifier>",
+   "official": "ตลอดเวลา: <modifier>",
+   "th": "ตลอดเวลา: <modifier>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "damage",
+   "en": "<mod>% damage",
+   "official": "<mod>% พลังโจมตี",
+   "th": "<mod>% ความเสียหาย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "meleedamage",
+   "en": "<mod>% melee damage",
+   "official": "<mod>% พลังโจมตีระยะประชิด",
+   "th": "<mod>% ความเสียหายระยะประชิด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "rangeddamage",
+   "en": "<mod>% ranged damage",
+   "official": "<mod>% พลังโจมตีระยะไกล",
+   "th": "<mod>% ความเสียหายระยะไกล",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "magicdamage",
+   "en": "<mod>% magic damage",
+   "official": "<mod>% พลังโจมตีเวทย์",
+   "th": "<mod>% ความเสียหายเวทมนตร์",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + สะกด (เวทย์)"
+  },
+  {
+   "key": "summondamage",
+   "en": "<mod>% summon damage",
+   "official": "<mod>% พลังโจมตียูนิตที่อัญเชิญ",
+   "th": "<mod>% ความเสียหายอัญเชิญ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Summon damage)"
+  },
+  {
+   "key": "tooldamage",
+   "en": "<mod>% tool damage",
+   "official": "<mod>% ประสิทธิภาพเครื่องมือ",
+   "th": "<mod>% ความเสียหายเครื่องมือ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "tooldamageflat",
+   "en": "<mod> tool damage",
+   "official": "<mod> ประสิทธิภาพเครื่องมือ",
+   "th": "<mod> ความเสียหายเครื่องมือ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "critchance",
+   "en": "<mod>% crit chance",
+   "official": "<mod>% โอกาสคริติคอล",
+   "th": "<mod>% โอกาสคริติคอล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meleecritchance",
+   "en": "<mod>% melee crit chance",
+   "official": "<mod>% โอกาสคริติคอลของโจมตีระยะประชิด",
+   "th": "<mod>% โอกาสคริติคอลระยะประชิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "rangedcritchance",
+   "en": "<mod>% ranged crit chance",
+   "official": "<mod>% โอกาสคริติคอลของโจมตีระยะไกล",
+   "th": "<mod>% โอกาสคริติคอลระยะไกล",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "magiccritchance",
+   "en": "<mod>% magic crit chance",
+   "official": "<mod>% โอกาสคริติคอลของโจมตีเวทย์",
+   "th": "<mod>% โอกาสคริติคอลเวทมนตร์",
+   "status": "fixed",
+   "note": "กระชับ + สะกด (เวทย์)"
+  },
+  {
+   "key": "summoncritchance",
+   "en": "<mod>% summon crit chance",
+   "official": "<mod>% โอกาสคริติคอลของยูนิตที่อัญเชิญ",
+   "th": "<mod>% โอกาสคริติคอลอัญเชิญ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "critdamage",
+   "en": "<mod>% crit damage",
+   "official": "<mod>% ความเสียหายคริติคอล",
+   "th": "<mod>% ความเสียหายคริติคอล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meleecritdamage",
+   "en": "<mod>% melee crit damage",
+   "official": "<mod>% ความเสียหายคริติคอลของโจมตีระยะประชิด",
+   "th": "<mod>% ความเสียหายคริติคอลระยะประชิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "rangedcritdamage",
+   "en": "<mod>% ranged crit damage",
+   "official": "<mod>% ความเสียหายคริติคอลของโจมตีระยะไกล",
+   "th": "<mod>% ความเสียหายคริติคอลระยะไกล",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "magiccritdamage",
+   "en": "<mod>% magic crit damage",
+   "official": "<mod>% ความเสียหายคริติคอลของโจมตีเวทย์",
+   "th": "<mod>% ความเสียหายคริติคอลเวทมนตร์",
+   "status": "fixed",
+   "note": "กระชับ + สะกด (เวทย์)"
+  },
+  {
+   "key": "summoncritdamage",
+   "en": "<mod>% summon crit damage",
+   "official": "<mod>% ความเสียหายคริติคอลของยูนิตที่อัญเชิญ",
+   "th": "<mod>% ความเสียหายคริติคอลอัญเชิญ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "armorpen",
+   "en": "<mod>% armor penetration",
+   "official": "<mod>% เจาะเกราะ",
+   "th": "<mod>% เจาะเกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "armorpenflat",
+   "en": "<mod> armor penetration",
+   "official": "<mod> เจาะเกราะ",
+   "th": "<mod> เจาะเกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "knockbackout",
+   "en": "<mod>% knockback",
+   "official": "<mod>% การผลัก",
+   "th": "<mod>% แรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Knockback)"
+  },
+  {
+   "key": "speed",
+   "en": "<mod>% movement speed",
+   "official": "<mod>% ความเร็วเคลื่อนที่",
+   "th": "<mod>% ความเร็วเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "speedflat",
+   "en": "<mod> movement speed",
+   "official": "<mod> ความเร็วเคลื่อนที่",
+   "th": "<mod> ความเร็วเคลื่อนที่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "slow",
+   "en": "<mod>% movement slow",
+   "official": "<mod>% เคลื่อนที่ช้าลง",
+   "th": "<mod>% ความช้าในการเคลื่อนที่",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "slowimun",
+   "en": "Slow immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันความช้า",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "swimspeed",
+   "en": "<mod>% swim speed",
+   "official": "<mod>% ความเร็วว่ายน้ำ",
+   "th": "<mod>% ความเร็วว่ายน้ำ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "friction",
+   "en": "<mod>% friction",
+   "official": "<mod>% แรงเสียดทาน",
+   "th": "<mod>% แรงเสียดทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "acceleration",
+   "en": "<mod>% acceleration",
+   "official": "<mod>% ความเร่ง",
+   "th": "<mod>% ความเร่ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "deceleration",
+   "en": "<mod>% deceleration",
+   "official": "<mod>% การชะลอตัว",
+   "th": "<mod>% การชะลอตัว",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "armor",
+   "en": "<mod>% armor",
+   "official": "<mod>% เกราะ",
+   "th": "<mod>% เกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "armorflat",
+   "en": "<mod> armor",
+   "official": "<mod> เกราะ",
+   "th": "<mod> เกราะ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "incdamage",
+   "en": "<mod>% damage taken",
+   "official": "<mod>% ความเสียหายที่ได้รับ",
+   "th": "<mod>% ความเสียหายที่ได้รับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxhealth",
+   "en": "<mod>% max health",
+   "official": "<mod>% พลังชีวิตสูงสุด",
+   "th": "<mod>% พลังชีวิตสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxhealthflat",
+   "en": "<mod> max health",
+   "official": "<mod> พลังชีวิตสูงสุด",
+   "th": "<mod> พลังชีวิตสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxresilience",
+   "en": "<mod>% max resilience",
+   "official": "<mod>% ความทนทานสูงสุด",
+   "th": "<mod>% ความทนทานสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxresilienceflat",
+   "en": "<mod> max resilience",
+   "official": "<mod> ความทนทานสูงสุด",
+   "th": "<mod> ความทนทานสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resiliencegain",
+   "en": "<mod>% resilience gain",
+   "official": "<mod>% อัตราการเพิ่มความทนทาน",
+   "th": "<mod>% อัตราการเพิ่มความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resiliencedecay",
+   "en": "<mod>% resilience decay",
+   "official": "<mod>% อัตราการลดความทนทาน",
+   "th": "<mod>% อัตราการลดความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resiliencedecayflat",
+   "en": "<mod> resilience decay",
+   "official": "<mod> อัตราการลดความทนทาน",
+   "th": "<mod> อัตราการลดความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resilienceregen",
+   "en": "<mod>% resilience regen",
+   "official": "<mod>% อัตราฟื้นฟูความทนทาน",
+   "th": "<mod>% อัตราฟื้นฟูความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "resilienceregenflat",
+   "en": "<mod> resilience regen",
+   "official": "<mod> อัตราฟื้นฟูความทนทาน",
+   "th": "<mod> อัตราฟื้นฟูความทนทาน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxmana",
+   "en": "<mod>% max mana",
+   "official": "<mod>% มานาสูงสุด",
+   "th": "<mod>% มานาสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxmanaflat",
+   "en": "<mod> max mana",
+   "official": "<mod> มานาสูงสุด",
+   "th": "<mod> มานาสูงสุด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lifeessencegain",
+   "en": "<mod>% life essence gain chance",
+   "official": "<mod>% อัตราได้แก่นพลังชีวิต",
+   "th": "<mod>% โอกาสได้แก่นแท้พลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "lifeessenceduration",
+   "en": "<mod>% life essence duration",
+   "official": "<mod>% ระยะเวลาแก่นพลังชีวิต",
+   "th": "<mod>% ระยะเวลาแก่นแท้พลังชีวิต",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Life Essence)"
+  },
+  {
+   "key": "basehealthregen",
+   "en": "<mod>% out of combat health regen",
+   "official": "<mod>% ฟื้นฟูพลังชีวิตเมื่อไม่ได้สู้",
+   "th": "<mod>% ฟื้นฟูพลังชีวิตนอกการต่อสู้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "basehealthregenflat",
+   "en": "<mod> out of combat health regen",
+   "official": "<mod> ฟื้นฟูพลังชีวิตเมื่อไม่ได้สู้",
+   "th": "<mod> ฟื้นฟูพลังชีวิตนอกการต่อสู้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "combathealthregen",
+   "en": "<mod>% health regen",
+   "official": "<mod>% ฟื้นฟูพลังชีวิตขณะต่อสู้",
+   "th": "<mod>% ฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ (ค่านี้มีผลตลอด ไม่ใช่เฉพาะตอนสู้)"
+  },
+  {
+   "key": "combathealthregenflat",
+   "en": "<mod> health regen",
+   "official": "<mod> ฟื้นฟูพลังชีวิตขณะต่อสู้",
+   "th": "<mod> ฟื้นฟูพลังชีวิต",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ (ค่านี้มีผลตลอด ไม่ใช่เฉพาะตอนสู้)"
+  },
+  {
+   "key": "basemanaregen",
+   "en": "<mod>% out of combat mana regen",
+   "official": "<mod>% ฟื้นฟูมานาเมื่อไม่ได้สู้",
+   "th": "<mod>% ฟื้นฟูมานานอกการต่อสู้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "basemanaregenflat",
+   "en": "<mod> out of combat mana regen",
+   "official": "<mod> ฟื้นฟูมานาเมื่อไม่ได้สู้",
+   "th": "<mod> ฟื้นฟูมานานอกการต่อสู้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "combatmanaregen",
+   "en": "<mod>% mana regen",
+   "official": "<mod>% ฟื้นฟูมานาขณะต่อสู้",
+   "th": "<mod>% ฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ (ค่านี้มีผลตลอด ไม่ใช่เฉพาะตอนสู้)"
+  },
+  {
+   "key": "combatmanaregenflat",
+   "en": "<mod> mana regen",
+   "official": "<mod> ฟื้นฟูมานาขณะต่อสู้",
+   "th": "<mod> ฟื้นฟูมานา",
+   "status": "fixed",
+   "note": "ตรงต้นฉบับ (ค่านี้มีผลตลอด ไม่ใช่เฉพาะตอนสู้)"
+  },
+  {
+   "key": "poisondamage",
+   "en": "<mod>% poison damage",
+   "official": "<mod>% ความเสียหายพิษ",
+   "th": "<mod>% ความเสียหายพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "poisondamageimun",
+   "en": "Poison damage immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันความเสียหายพิษ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "poisondamageflat",
+   "en": "<mod> poison damage",
+   "official": "<mod> ความเสียหายพิษ",
+   "th": "<mod> ความเสียหายพิษ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "firedamage",
+   "en": "<mod>% fire damage",
+   "official": "<mod>% ความเสียหายเผาไหม้",
+   "th": "<mod>% ความเสียหายไฟ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "firedamageimun",
+   "en": "Fire damage immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันความเสียหายไฟ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "firedamageflat",
+   "en": "<mod> fire damage",
+   "official": "<mod> ความเสียหายเผาไหม้",
+   "th": "<mod> ความเสียหายไฟ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "frostdamage",
+   "en": "<mod>% frost damage",
+   "official": "<mod>% ความเสียหายน้ำแข็งกัด",
+   "th": "<mod>% ความเสียหายเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost)"
+  },
+  {
+   "key": "frostdamageimun",
+   "en": "Frost damage immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันความเสียหายเยือกแข็ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "frostdamageflat",
+   "en": "<mod> frost damage",
+   "official": "<mod> ความเสียหายน้ำแข็งกัด",
+   "th": "<mod> ความเสียหายเยือกแข็ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Frost)"
+  },
+  {
+   "key": "bleeddamage",
+   "en": "<mod>% bleed damage",
+   "official": "<mod>% ความเสียหายเลือดไหล",
+   "th": "<mod>% ความเสียหายเลือดไหล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bleeddamageimun",
+   "en": "Bleed damage immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันความเสียหายเลือดไหล",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bleeddamageflat",
+   "en": "<mod> bleed damage",
+   "official": "<mod> ความเสียหายเลือดไหล",
+   "th": "<mod> ความเสียหายเลือดไหล",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobspawnrate",
+   "en": "<mod>% mob spawn rate",
+   "official": "<mod>% อัตราการเกิดมอนสเตอร์",
+   "th": "<mod>% อัตราการเกิดมอนสเตอร์",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mobspawncap",
+   "en": "<mod>% mob spawn cap",
+   "official": "<mod>% เกิดมอนสเตอร์สูงสุด",
+   "th": "<mod>% จำนวนมอนสเตอร์เกิดสูงสุด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mobspawnlightthreshold",
+   "en": "<mod> mob spawn light threshold",
+   "official": "<mod> เกณฑ์แสงของอัตราการเกิดมอนสเตอร์",
+   "th": "<mod> เกณฑ์แสงที่มอนสเตอร์เกิดได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "attackspeed",
+   "en": "<mod>% attack speed",
+   "official": "<mod>% ความเร็วโจมตี",
+   "th": "<mod>% ความเร็วโจมตี",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "meleeattackspeed",
+   "en": "<mod>% melee attack speed",
+   "official": "<mod>% ความเร็วโจมตีของโจมตีระยะประชิด",
+   "th": "<mod>% ความเร็วโจมตีระยะประชิด",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "rangedattackspeed",
+   "en": "<mod>% ranged attack speed",
+   "official": "<mod>% ความเร็วโจมตีของโจมตีระยะไกล",
+   "th": "<mod>% ความเร็วโจมตีระยะไกล",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "magicattackspeed",
+   "en": "<mod>% magic attack speed",
+   "official": "<mod>% ความเร็วโจมตีของโจมตีเวทย์",
+   "th": "<mod>% ความเร็วโจมตีเวทมนตร์",
+   "status": "fixed",
+   "note": "กระชับ + สะกด (เวทย์)"
+  },
+  {
+   "key": "summonattackspeed",
+   "en": "<mod>% summon attack speed",
+   "official": "<mod>% ความเร็วโจมตีของยูนิตที่อัญเชิญ",
+   "th": "<mod>% ความเร็วโจมตีอัญเชิญ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "miningspeed",
+   "en": "<mod>% mining speed",
+   "official": "<mod>% ความเร็วการขุดแร่",
+   "th": "<mod>% ความเร็วขุดแร่",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "buildingspeed",
+   "en": "<mod>% building speed",
+   "official": "<mod>% ความเร็วการสร้าง",
+   "th": "<mod>% ความเร็วก่อสร้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "tooltier",
+   "en": "<mod> tool tier",
+   "official": "<mod> ระดับเครื่องมือ",
+   "th": "<mod> ระดับเครื่องมือ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "miningrange",
+   "en": "<mod> mining range",
+   "official": "<mod> ระยะขุดแร่",
+   "th": "<mod> ระยะขุดแร่",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "buildingrange",
+   "en": "<mod> building range",
+   "official": "<mod> ระยะการสร้าง",
+   "th": "<mod> ระยะก่อสร้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "itempickuprange",
+   "en": "<mod> item pickup range",
+   "official": "<mod> ระยะเก็บไอเทม",
+   "th": "<mod> ระยะเก็บไอเทม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "arrowusage",
+   "en": "<mod>% arrow usage",
+   "official": "<mod>% การใช้ลูกธนู",
+   "th": "<mod>% การใช้ลูกธนู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bulletusage",
+   "en": "<mod>% bullet usage",
+   "official": "<mod>% การใช้กระสุนปืน",
+   "th": "<mod>% การใช้กระสุนปืน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "manausage",
+   "en": "<mod>% mana usage",
+   "official": "<mod>% การใช้มานา",
+   "th": "<mod>% การใช้มานา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "maxsummons",
+   "en": "<mod> max summons",
+   "official": "<mod> จำนวนสูงสุดของยูนิตที่อัญเชิญได้",
+   "th": "<mod> จำนวนอัญเชิญสูงสุด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Max summons)"
+  },
+  {
+   "key": "summonsspeed",
+   "en": "<mod>% summons speed",
+   "official": "<mod>% ความเร็วเคลื่อนที่ของยูนิตที่อัญเชิญ",
+   "th": "<mod>% ความเร็วของสิ่งที่อัญเชิญ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "summonstargetrange",
+   "en": "<mod>% summons target range",
+   "official": "<mod>% ระยะเข้าปะทะของยูนิตที่อัญเชิญ",
+   "th": "<mod>% ระยะหาเป้าหมายของสิ่งที่อัญเชิญ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "attackmovement",
+   "en": "<mod>% attack movement penalty",
+   "official": "<mod>% บทลงโทษการเคลื่อนไหวพร้อมการโจมตี",
+   "th": "<mod>% ค่าปรับความเร็วขณะโจมตี",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น (บทลงโทษ)"
+  },
+  {
+   "key": "projectilevel",
+   "en": "<mod>% projectile velocity",
+   "official": "<mod>% ความเร็วกระสุน",
+   "th": "<mod>% ความเร็วกระสุน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "throwingvel",
+   "en": "<mod>% throwing velocity",
+   "official": "<mod>% ความเร็วอาวุธขว้าง",
+   "th": "<mod>% ความเร็วการขว้าง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "projectilebounce",
+   "en": "<mod> projectile bounces",
+   "official": "<mod> กระสุนเด้ง",
+   "th": "<mod> จำนวนกระดอนของกระสุน",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "projectilepierce",
+   "en": "<mod> projectile pierces",
+   "official": "",
+   "th": "<mod> จำนวนทะลุของกระสุน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "blindness",
+   "en": "<mod>% blindness",
+   "official": "<mod>% ตาบอด",
+   "th": "<mod>% ตาบอด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "dashstacks",
+   "en": "<mod> dash stacks",
+   "official": "<mod> จำนวนครั้งการพุ่ง",
+   "th": "<mod> สแต็กการพุ่ง",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Stack)"
+  },
+  {
+   "key": "dashcooldown",
+   "en": "<mod>% dash cooldown",
+   "official": "<mod>% คูลดาว์นพุ่ง",
+   "th": "<mod>% คูลดาวน์การพุ่ง",
+   "status": "fixed",
+   "note": "สะกด (คูลดาว์น)"
+  },
+  {
+   "key": "dashcooldownflat",
+   "en": "<mod>s dash cooldown",
+   "official": "<mod>s คูลดาว์นพุ่ง",
+   "th": "<mod>s คูลดาวน์การพุ่ง",
+   "status": "fixed",
+   "note": "สะกด (คูลดาว์น)"
+  },
+  {
+   "key": "staminacap",
+   "en": "<mod>% stamina capacity",
+   "official": "<mod>% พลังกายสูงสุด",
+   "th": "<mod>% ความจุพลังกาย",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "staminausage",
+   "en": "<mod>% stamina usage",
+   "official": "<mod>% ใช้พลังกาย",
+   "th": "<mod>% การใช้พลังกาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "staminaregen",
+   "en": "<mod>% stamina regen",
+   "official": "<mod>% ฟื้นฟูพลังกาย",
+   "th": "<mod>% ฟื้นฟูพลังกาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "potionduration",
+   "en": "<mod>% potion duration",
+   "official": "<mod>% ระยะเวลายา",
+   "th": "<mod>% ระยะเวลาน้ำยา",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Potion)"
+  },
+  {
+   "key": "traveldistance",
+   "en": "<mod> travel distance",
+   "official": "<mod> ระยะเดินทาง",
+   "th": "<mod> ระยะเดินทาง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "biomeviewdistance",
+   "en": "<mod> biome view distance",
+   "official": "<mod> ระยะการมองเห็นภูมิประเทศ",
+   "th": "<mod> ระยะมองเห็นไบโอม",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Biome)"
+  },
+  {
+   "key": "knockbackin",
+   "en": "<mod>% incoming knockback",
+   "official": "<mod>% การถูกผลัก",
+   "th": "<mod>% แรงผลักที่ได้รับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Knockback)"
+  },
+  {
+   "key": "knockbackimun",
+   "en": "Knockback immunity",
+   "official": "",
+   "th": "ภูมิคุ้มกันแรงผลัก",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "fishingpower",
+   "en": "<mod>% fishing power",
+   "official": "<mod>% ประสิทธิภาพการตกปลา",
+   "th": "<mod>% พลังตกปลา",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fishinglines",
+   "en": "<mod> fishing lines",
+   "official": "<mod> ระยะตกปลา",
+   "th": "<mod> จำนวนสายเบ็ด",
+   "status": "fixed",
+   "note": "ความหมายผิด (ระยะ)"
+  },
+  {
+   "key": "waterwalking",
+   "en": "Allows water walking",
+   "official": "เดินบนน้ำได้",
+   "th": "เดินบนน้ำได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "emitslight",
+   "en": "Emits light",
+   "official": "เปล่งแสง",
+   "th": "เปล่งแสง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "invisibility",
+   "en": "Enables invisibility",
+   "official": "เปิดใช้งานการล่องหน",
+   "th": "ล่องหนได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "spelunker",
+   "en": "Enables spelunker",
+   "official": "เปิดใช้งานไฮไลต์",
+   "th": "เปิดใช้ส่องแร่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Spelunker)"
+  },
+  {
+   "key": "treasurehunter",
+   "en": "Enables treasure hunter",
+   "official": "เปิดใช้งานนักล่าสมบัติ",
+   "th": "เปิดใช้นักล่าสมบัติ",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "enemytracker",
+   "en": "Enables enemy tracker",
+   "official": "",
+   "th": "เปิดใช้ตัวติดตามศัตรู",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bouncy",
+   "en": "Bouncy",
+   "official": "เด้ง",
+   "th": "เด้งดึ๋ง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "paralyzed",
+   "en": "Paralyzed",
+   "official": "ชา",
+   "th": "ชา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "untargetable",
+   "en": "Untargetable",
+   "official": "ไม่ตกเป็นเป้าหมาย",
+   "th": "ตกเป็นเป้าหมายไม่ได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "intimidated",
+   "en": "Intimidated",
+   "official": "ถูกข่มขวัญ",
+   "th": "ถูกข่มขวัญ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "confused",
+   "en": "Confused",
+   "official": "",
+   "th": "สับสน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "manaexhausted",
+   "en": "Mana exhausted",
+   "official": "มานาเหือดแห้ง",
+   "th": "มานาเหือดแห้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grounded",
+   "en": "Grounded",
+   "official": "ติดดิน",
+   "th": "ติดดิน",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "extendedmapdiscovery",
+   "en": "Extended map discovery",
+   "official": "การเปิดเผยแผนที่ที่กว้างขึ้น",
+   "th": "เปิดเผยแผนที่ได้กว้างขึ้น",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "targetrange",
+   "en": "<mod>% target range",
+   "official": "<mod>% ระยะเป้าหมาย",
+   "th": "<mod>% ระยะเป้าหมาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "chaserrange",
+   "en": "<mod>% chaser range",
+   "official": "<mod>% ระยะตามล่า",
+   "th": "<mod>% ระยะไล่ตาม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "canbreakobjects",
+   "en": "Can break objects",
+   "official": "สามารถทำลายได้",
+   "th": "ทำลายวัตถุได้",
+   "status": "fixed",
+   "note": "แปลตกคำ objects"
+  },
+  {
+   "key": "workspeed",
+   "en": "<mod>% work speed",
+   "official": "",
+   "th": "<mod>% ความเร็วทำงาน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "loot",
+   "en": "<mod>% loot",
+   "official": "<mod>% โอกาสดรอป",
+   "th": "<mod>% ของดรอป",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Loot)"
+  },
+  {
+   "key": "enemydamage",
+   "en": "<mod>% enemy damage",
+   "official": "<mod>% พลังโจมตีศัตรู",
+   "th": "<mod>% ความเสียหายของศัตรู",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (Damage)"
+  },
+  {
+   "key": "enemyspeed",
+   "en": "<mod>% enemy speed",
+   "official": "<mod>% ความเร็วศัตรู",
+   "th": "<mod>% ความเร็วศัตรู",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "enemymaxhealth",
+   "en": "<mod>% enemy max health",
+   "official": "<mod>% พลังชีวิตศัตรู",
+   "th": "<mod>% พลังชีวิตสูงสุดของศัตรู",
+   "status": "fixed",
+   "note": "ครบความ (max)"
+  },
+  {
+   "key": "enemiesretreating",
+   "en": "Enemies retreating",
+   "official": "ศัตรูกำลังล่าถอย",
+   "th": "ศัตรูกำลังล่าถอย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bannerofwardisabled",
+   "en": "Banner of War disabled",
+   "official": "ธงสงครามถูกปิด",
+   "th": "ปิดธงประกาศสงครามอยู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น · ชื่อตาม object: Banner of War"
+  },
+  {
+   "key": "modifiersaffectenemies",
+   "en": "Modifiers affect enemies",
+   "official": "ตัวปรับแต่งส่งผลต่อศัตรู",
+   "th": "ค่าปรับมีผลกับศัตรู",
+   "status": "fixed",
+   "note": "ใช้คำเดียวกับ modifiers"
+  },
+  {
+   "key": "toolknockback",
+   "en": "<mod>% knockback",
+   "official": "ผลักศัตรู <mod>%",
+   "th": "<mod>% แรงผลัก",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง + ลำดับตามต้นฉบับ"
+  },
+  {
+   "key": "toolrange",
+   "en": "<mod>% range",
+   "official": "ระยะไกล <mod>%",
+   "th": "<mod>% ระยะ",
+   "status": "fixed",
+   "note": "ความหมายผิด (ระยะไกล = ranged)"
+  },
+  {
+   "key": "maxfoodbuffs",
+   "en": "<mod> max food buffs",
+   "official": "<mod> บัพอาหารสูงสุด",
+   "th": "<mod> จำนวนบัฟอาหารสูงสุด",
+   "status": "fixed",
+   "note": "สะกด (บัพ)"
+  }
+ ],
+ "removed": []
+}

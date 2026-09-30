@@ -1,0 +1,16 @@
+{
+ "modid": "thaicommunity.thailanguage",
+ "name": "Thai Language",
+ "jarName": "ThaiLanguage",
+ "version": "1.0.0",
+ "gameVersion": "1.3.3",
+ "author": "Thai community",
+ "description": "ภาษาไทยครบทั้งเกม + มอดยอดนิยม และฟอนต์ไทยที่อ่านง่าย",
+ "font": "Prompt-Medium.ttf",
+ "fontScale": 1.08,
+ "highCap": 0.93,
+ "appendEnglish": [
+  "item",
+  "mob"
+ ]
+}

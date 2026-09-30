@@ -1,0 +1,1422 @@
+{
+ "category": "deaths",
+ "entries": [
+  {
+   "key": "default",
+   "en": "<victim> died",
+   "official": "<victim> เสียชีวิต",
+   "th": "<victim> เสียชีวิต",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "settlerfrom",
+   "en": "<victim> from <settlement>",
+   "official": "<victim> ได้จาก <settlement> ไปตลอดกาล",
+   "th": "<victim> จาก <settlement>",
+   "status": "fixed",
+   "note": "ความหมายผิด (ต่อท้ายชื่อ ไม่ใช่ประโยค)"
+  },
+  {
+   "key": "settlerdowned",
+   "en": "<settler> was knocked down",
+   "official": "<settler> ถูกทำให้ล้มลงหมดสติ",
+   "th": "<settler> ถูกล้มลงจนหมดสติ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "unknownatt",
+   "en": "Unknown",
+   "official": "ไม่ทราบ",
+   "th": "ไม่ทราบ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "toobuffed",
+   "en": "<victim> was too buffed",
+   "official": "<victim> ถูกขัดจนสะอาดเกินไป",
+   "th": "<victim> บัฟตัวเองมากเกินไป",
+   "status": "fixed",
+   "note": "ความหมายผิด + ศัพท์ตามคลัง (บัฟ)"
+  },
+  {
+   "key": "generic1",
+   "en": "<victim> was slain by <attacker>",
+   "official": "<victim> ถูกสังหารโดย <attacker>",
+   "th": "<victim> ถูกสังหารโดย <attacker>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "generic2",
+   "en": "<victim> got ripped to pieces by <attacker>",
+   "official": "<victim> ถูกฉีกเป็นชิ้นๆโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "generic3",
+   "en": "<victim> got humiliated by <attacker>",
+   "official": "<victim> ถูก <attacker> เซ็ทหย่อ",
+   "th": "<victim> ถูก <attacker> เล่นงานจนขายหน้า",
+   "status": "fixed",
+   "note": "สะกด (เซ็ทหย่อ) + ความหมาย"
+  },
+  {
+   "key": "generic4",
+   "en": "<victim> could not handle <attacker>",
+   "official": "ดูเหมือน <victim> จะไม่สามารถรับไอนั่นของ <attacker> ไหว",
+   "th": "<victim> รับมือ <attacker> ไม่ไหว",
+   "status": "fixed",
+   "note": "ตัดมุกสองแง่"
+  },
+  {
+   "key": "generic5",
+   "en": "<attacker> overcame <victim>",
+   "official": "<attacker> ได้เอาชนะ <victim>",
+   "th": "<attacker> เอาชนะ <victim> ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "generic6",
+   "en": "<attacker> was too fast for <victim>",
+   "official": "<attacker> เร็วเกินไปสำหรับ <victim>",
+   "th": "<attacker> เร็วเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "generic7",
+   "en": "<attacker> humiliated <victim>",
+   "official": "<attacker> ทำให้ <victim> ขายหน้า",
+   "th": "<attacker> ทำให้ <victim> ขายหน้า",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "generic8",
+   "en": "<victim> could not handle <attacker>",
+   "official": "<victim> ไม่สามารถรับมือ <attacker> ได้",
+   "th": "<victim> รับมือ <attacker> ไม่ได้",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "projectile1",
+   "en": "<victim> got headshot by <attacker>",
+   "official": "<victim> ถูกเจาะกบาลโดย <attacker>",
+   "th": "<victim> โดน <attacker> ยิงเข้ากลางหัว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "projectile2",
+   "en": "<attacker> landed a fatal shot on <victim>",
+   "official": "<attacker> ได้สร้างบาดแผลถึงตายให้แก่ <victim>",
+   "th": "<attacker> ยิงนัดสังหารใส่ <victim>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "projectile3",
+   "en": "<victim> was hunted down by <attacker>",
+   "official": "<victim> ได้ถูกฆ่าโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ไล่ล่าจนตาย",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "evilsproj1",
+   "en": "<victim> got cleaned up by <attacker>",
+   "official": "<victim> ถูกชำระล้างโดย <attacker>",
+   "th": "<victim> ถูก <attacker> เก็บกวาด",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "evilsproj2",
+   "en": "<attacker> finished off <victim>",
+   "official": "<attacker> ได้สิ้นสุดตำนานของ <victim>",
+   "th": "<attacker> ปลิดชีพ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "evilsproj3",
+   "en": "<victim> could not handle <attacker>",
+   "official": "<victim> ไม่สามารถต่อกรกับ <attacker> ได้",
+   "th": "<victim> ไม่สามารถต่อกรกับ <attacker> ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "portalmin1",
+   "en": "<victim> got scared of by <attacker>",
+   "official": "<victim> ถูก <attacker>ทำให้กลัวจนตาย",
+   "th": "<victim> ถูก <attacker> หลอกจนขวัญหนีดีฝ่อ",
+   "status": "fixed",
+   "note": "เว้นวรรครอบตัวแปร"
+  },
+  {
+   "key": "portalmin2",
+   "en": "<victim> could not handle the horror of <attacker>",
+   "official": "<victim> ไม่สามารถต่อต้านความกลัวที่มีต่อ <attacker>ได้",
+   "th": "<victim> ทนความสยองของ <attacker> ไม่ไหว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรค"
+  },
+  {
+   "key": "portalmin3",
+   "en": "<attacker> scared <victim> to death",
+   "official": "<attacker> ทำให้ <victim> กลัวจนตาย",
+   "th": "<attacker> ทำให้ <victim> กลัวจนตาย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "tntname",
+   "en": "TNT",
+   "official": "ระเบิดTNT",
+   "th": "TNT",
+   "status": "same",
+   "note": "คงตามต้นฉบับ"
+  },
+  {
+   "key": "explosionname",
+   "en": "Explosion",
+   "official": "ระเบิด",
+   "th": "ระเบิด",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "explosion1",
+   "en": "<victim> got split to pieces by <attacker>",
+   "official": "<victim> กลายเป็นผุยผงเนื่องจากถูก <attacker>",
+   "th": "<victim> ถูก <attacker> ระเบิดจนแหลกเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "explosion2",
+   "en": "<attacker> exploded all over <victim>",
+   "official": "<attacker> ได้ทำลาย <victim> เป็นชิ้นๆ",
+   "th": "<attacker> ระเบิดใส่ <victim> จนเละ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "explosion3",
+   "en": "<attacker> made <victim> rest in pieces",
+   "official": "<attacker> ทำให้ <victim> ไปสู่สุขติ",
+   "th": "<attacker> ส่ง <victim> ไปสู่สุคติเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "สะกด (สุขติ)"
+  },
+  {
+   "key": "firename",
+   "en": "Fire",
+   "official": "ไฟ",
+   "th": "ไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "lavaname",
+   "en": "Lava",
+   "official": "ลาวา",
+   "th": "ลาวา",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fire1",
+   "en": "<victim> did not have any protection against <attacker>",
+   "official": "ไม่มีอะไรปกป้อง<victim> จาก <attacker>",
+   "th": "<victim> ไม่มีอะไรป้องกัน <attacker> เลย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น + เว้นวรรค"
+  },
+  {
+   "key": "fire2",
+   "en": "<attacker> was too hot for <victim>",
+   "official": "<attacker> ร้อนแรงเกินไปสำหรับ <victim>",
+   "th": "<attacker> ร้อนแรงเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fire3",
+   "en": "<victim> was burned alive by <attacker>",
+   "official": "<victim> ถูกเผาทั้งเป็น <attacker>",
+   "th": "<victim> ถูก <attacker> เผาทั้งเป็น",
+   "status": "fixed",
+   "note": "แปลตกคำ โดย"
+  },
+  {
+   "key": "life1",
+   "en": "<victim> spent too much life using <attacker>",
+   "official": "<victim> ใช้พลังมากเกินไปกับ <attacker>",
+   "th": "<victim> เสียพลังชีวิตไปกับ <attacker> มากเกินไป",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "life2",
+   "en": "<victim> had a bit too much fun with <attacker>",
+   "official": "<victim> ใช้ <attacker> จนเพลินเกินไป",
+   "th": "<victim> ใช้ <attacker> จนเพลินเกินไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "life3",
+   "en": "<attacker> beat up <victim>",
+   "official": "<attacker> เอาชนะ  <victim>",
+   "th": "<attacker> เล่นงาน <victim> จนน่วม",
+   "status": "fixed",
+   "note": "ช่องว่างซ้ำ + ความหมาย"
+  },
+  {
+   "key": "starvationname",
+   "en": "Starvation",
+   "official": "ความอดอยาก",
+   "th": "ความอดอยาก",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "starvation1",
+   "en": "<victim> died from <attacker>",
+   "official": "<victim> ตายจาก <attacker>",
+   "th": "<victim> ตายเพราะ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "starvation2",
+   "en": "<victim> could not find any food",
+   "official": "<victim> ไม่สามารถหาแหล่งอาหารได้",
+   "th": "<victim> หาอาหารไม่ได้เลย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "thorns1",
+   "en": "<victim> got shredded by <attacker>",
+   "official": "<victim> ถูกทำลายโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกจนเละ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "thorns2",
+   "en": "<attacker> pricked <victim> to death",
+   "official": "<attacker> ตำ <victim> จนตาย",
+   "th": "<attacker> ทิ่ม <victim> จนตาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "arrowtrapname",
+   "en": "Arrow trap",
+   "official": "กับดักธนู",
+   "th": "กับดักลูกธนู",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ลูกธนู)"
+  },
+  {
+   "key": "flametrapname",
+   "en": "Flame trap",
+   "official": "กับดักไฟ",
+   "th": "กับดักไฟ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "flametrap1",
+   "en": "<victim> got roasted by <attacker>",
+   "official": "<victim> ถูกทำให้สุกโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ย่างจนสุก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "flametrap2",
+   "en": "<attacker> grilled <victim>",
+   "official": "<attacker> ย่าง <victim> ทั้งเป็น",
+   "th": "<attacker> ย่าง <victim> ทั้งเป็น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidtraipname",
+   "en": "Void trap",
+   "official": "กับดักความมืด",
+   "th": "กับดักแห่งความมืด",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง (ชื่อไอเทมใช้ แห่งความมืด)"
+  },
+  {
+   "key": "voidtrap1",
+   "en": "<victim> forgot to put a mirror in front of <attacker>",
+   "official": "<victim> ลืมเอากระจกไว้ด้านหน้า <attacker>",
+   "th": "<victim> ลืมเอากระจกไปวางไว้หน้า <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidtrap2",
+   "en": "<victim> got lit up by <attacker>",
+   "official": "<victim> ถูกโจมตีอย่างหนักโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ยิงสว่างวาบ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "voidtrap3",
+   "en": "<attacker> incinerated <victim> into magic dust",
+   "official": "<attacker> ได้เผา <victim> จนกลายเป็นผุยผง",
+   "th": "<attacker> เผา <victim> จนกลายเป็นผงเวทมนตร์",
+   "status": "fixed",
+   "note": "ครบความ (magic dust) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "spiketrapname",
+   "en": "Spike trap",
+   "official": "กับดักหนาม",
+   "th": "กับดักหนาม",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "spiketrap1",
+   "en": "<victim> got impaled by <attacker>",
+   "official": "<victim> ถูกทิ่มแทงโดย <attacker>",
+   "th": "<victim> ถูก <attacker> เสียบทะลุ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "spiketrap2",
+   "en": "<attacker> skewered <victim>",
+   "official": "<attacker> แทง <victim> จนตาย",
+   "th": "<attacker> เสียบ <victim> เป็นไม้เสียบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "sawtrapname",
+   "en": "Saw trap",
+   "official": "กับดักใบเลื่อย",
+   "th": "กับดักใบเลื่อย",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "sawtrap1",
+   "en": "<victim> was cut in half by <attacker>",
+   "official": "<victim> ตัด <attacker> เป็นสองท่อน",
+   "th": "<victim> ถูก <attacker> ตัดเป็นสองท่อน",
+   "status": "fixed",
+   "note": "ความหมายกลับด้าน"
+  },
+  {
+   "key": "sawtrap2",
+   "en": "<attacker> sliced up <victim>",
+   "official": "<attacker> ได้ผ่าร่างของ <victim>",
+   "th": "<attacker> หั่น <victim> เป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "explosivebarrelname",
+   "en": "Explosive Barrel",
+   "official": "",
+   "th": "ถังระเบิด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "explosivebarrel1",
+   "en": "<victim> needs to stay away from the <attacker>",
+   "official": "",
+   "th": "<victim> ควรอยู่ห่าง ๆ <attacker> ไว้",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "explosivebarrel2",
+   "en": "<victim> was blown away by an <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> ระเบิดกระเด็น",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "lightning1",
+   "en": "<victim> got electrocuted to pieces by <attacker>'s lightning",
+   "official": "<victim> ถูกไฟดูดตายโดย <attacker>",
+   "th": "<victim> ถูกสายฟ้าของ <attacker> ช็อตจนแหลก",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "lightning2",
+   "en": "<attacker> toasted <victim> with lightning",
+   "official": "<attacker> ถูกทำให้สุกด้วยไฟฟ้าโดย  <victim>",
+   "th": "<attacker> ปิ้ง <victim> ด้วยสายฟ้า",
+   "status": "fixed",
+   "note": "ความหมายกลับด้าน"
+  },
+  {
+   "key": "zombie1",
+   "en": "<victim> got ripped to pieces by <attacker>",
+   "official": "<victim> ถูกฉีกเป็นชิ้นเล็กๆโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "zombie2",
+   "en": "<victim> got humiliated by <attacker>",
+   "official": "<victim> ถูกทำให้จิตใจแตกสลายโดย <attacker>",
+   "th": "<victim> ถูก <attacker> เล่นงานจนขายหน้า",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "zombie3",
+   "en": "<attacker> ate <victim>'s entire body",
+   "official": "<attacker> กิน <victim> ทั้งเป็น",
+   "th": "<attacker> กิน <victim> จนหมดทั้งตัว",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "stabbybush1",
+   "en": "<attacker> stabbed <victim> repeatedly, until no more stabs were needed.",
+   "official": "<attacker> แทง <victim> หลายครั้ง, จนไม่เหลือที่ให้แทงอีกต่อไป.",
+   "th": "<attacker> แทง <victim> ซ้ำแล้วซ้ำเล่า จนไม่จำเป็นต้องแทงอีกแล้ว",
+   "status": "fixed",
+   "note": "เครื่องหมายวรรคตอน"
+  },
+  {
+   "key": "stabbybush2",
+   "en": "<victim> just got stabbed A LOT by <attacker>",
+   "official": "<victim> ถูกทิ่มแทงหลายครั้งด้วย <attacker>",
+   "th": "<victim> เพิ่งโดน <attacker> แทงเข้าไปเยอะมาก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "stabbybush3",
+   "en": "Bet you didn't see that <attacker> coming, huh <victim>?",
+   "official": "ไม่รู้หรอว่าจะโดน <attacker> โจมตีนะ, หืม <victim>?",
+   "th": "ไม่ทันเห็น <attacker> มาเลยใช่ไหม <victim>?",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bashybush1",
+   "en": "<attacker> BONKED <victim>",
+   "official": "<attacker> BONKED หัว <victim> จนตาย",
+   "th": "<attacker> โป๊ก <victim>",
+   "status": "fixed",
+   "note": "ทิ้งอังกฤษ"
+  },
+  {
+   "key": "bashybush2",
+   "en": "<victim> got a bashing by <attacker>",
+   "official": "<victim> ถูกทุบจนหัวแบะโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ทุบจนน่วม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bashybush3",
+   "en": "<attacker> went BASH BASH BASH, <victim> went DEAD DEAD DEAD",
+   "official": "<attacker> ได้ ทุบ ทุบ และ ทุบ, <victim> จน ตาย ตุย และตุยเย่",
+   "th": "<attacker> ทุบ ทุบ ทุบ! <victim> ตาย ตาย ตาย!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mummy1",
+   "en": "<victim> got wrapped around by <attacker>",
+   "official": "<victim> ถูกพันโดย <attacker>",
+   "th": "<victim> ถูก <attacker> พันจนมิด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mummy2",
+   "en": "<attacker> was too scary for <victim>",
+   "official": "<attacker> น่ากลัวเกินไปสำหรับ <victim>",
+   "th": "<attacker> น่ากลัวเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "mummy3",
+   "en": "<attacker> was sadly too good for <victim>",
+   "official": "<attacker> ทำให้ <victim> ไม่อยากมีชีวิตอยู่อีกต่อไป",
+   "th": "น่าเสียดาย <attacker> เก่งเกินไปสำหรับ <victim>",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "skeleton1",
+   "en": "<victim> got ripped to pieces by <attacker>",
+   "official": "<victim> ถูกฉีกเป็นชิ้นๆโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "skeleton2",
+   "en": "<attacker> was too scary for <victim>",
+   "official": "<attacker> น่ากลัวเกินไปสำหรับ <victim>",
+   "th": "<attacker> น่ากลัวเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "skeleton3",
+   "en": "<attacker> was too hard for <victim>",
+   "official": "ไอนั่นของ<attacker> แข็งเกินไปสำหรับ <victim>",
+   "th": "<attacker> แข็งแกร่งเกินไปสำหรับ <victim>",
+   "status": "fixed",
+   "note": "ตัดมุกสองแง่"
+  },
+  {
+   "key": "polar1",
+   "en": "<victim> got mauled by <attacker>",
+   "official": "<victim> ถูกขย้ำโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ขย้ำ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "polar2",
+   "en": "<attacker> was too fast for <victim>",
+   "official": "<attacker> รวดเร็วเกินไปสำหรับ <victim>",
+   "th": "<attacker> รวดเร็วเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "polar3",
+   "en": "<victim> got slaughtered by <attacker>",
+   "official": "<victim> ถูกสังหารโดย <attacker>",
+   "th": "<victim> ถูก <attacker> สังหารหมู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "grizzly1",
+   "en": "<victim> got mauled by <attacker>",
+   "official": "<victim> โดนขย้ำด้วย <attacker>",
+   "th": "<victim> ถูก <attacker> ขย้ำ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "grizzly2",
+   "en": "<attacker> was too fast for <victim>",
+   "official": "<attacker> รวดเร็วเกินไปสำหรับ <victim>",
+   "th": "<attacker> รวดเร็วเกินไปสำหรับ <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "grizzly3",
+   "en": "<victim> got slaughtered by <attacker>",
+   "official": "<victim> ถูกสังหารโดย <attacker>",
+   "th": "<victim> ถูก <attacker> สังหารหมู่",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "crocodile1",
+   "en": "<victim> was a delicious treat for <attacker>",
+   "official": "<victim> กลายเป็นขนมแสนอร่อยสำหรับ <attacker>",
+   "th": "<victim> กลายเป็นของว่างแสนอร่อยของ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "crocodile2",
+   "en": "<victim> got mutilated by <attacker>",
+   "official": "<victim> ถูกฉีกเป็นชิ้นๆ โดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกร่างจนเละ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "crocodile3",
+   "en": "<attacker>s kill streak just increased",
+   "official": "<attacker>s ได้เพิ่มจำนวนเหยื่อแล้ว",
+   "th": "สถิติการฆ่าของ <attacker> เพิ่มขึ้นอีกแล้ว",
+   "status": "fixed",
+   "note": "ตัด s ที่หลุดมา"
+  },
+  {
+   "key": "thrumbo1",
+   "en": "<victim> got trampled by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> เหยียบจนแบน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thrumbo2",
+   "en": "<attacker>'s horn was too sharp for <victim>",
+   "official": "",
+   "th": "เขาของ <attacker> แหลมเกินไปสำหรับ <victim>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "thrumbo3",
+   "en": "<victim> was powerless against <attacker>",
+   "official": "",
+   "th": "<victim> ไร้ทางสู้ต่อหน้า <attacker>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "vamp1",
+   "en": "<attacker> out juked <victim>",
+   "official": "<attacker> ดูดเลือด <victim> จนหมดตัว",
+   "th": "<attacker> หลอกล่อ <victim> จนเสียท่า",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "vamp2",
+   "en": "<attacker> took <victim> to his lair",
+   "official": "<attacker> ได้เอาชีวิตของ <victim> ไป",
+   "th": "<attacker> พา <victim> กลับไปยังรังของมัน",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "vamp3",
+   "en": "<victim> forgot the counter for <attacker>",
+   "official": "<victim> ลืมที่จะสวนการโจมตีของ <attacker>",
+   "th": "<victim> ลืมวิธีรับมือ <attacker>",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "voidwiz1",
+   "en": "<attacker> turned <victim> to magic dust",
+   "official": "<attacker> เปลี่ยน <victim> ให้กลายเป็นผุยผง",
+   "th": "<attacker> เปลี่ยน <victim> ให้กลายเป็นผงเวทมนตร์",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "voidwiz2",
+   "en": "<attacker> defended his territory against <victim>",
+   "official": "<attacker> ปกป้องดินแดนของเขาจาก <victim> ไว้ได้",
+   "th": "<attacker> ปกป้องดินแดนของตนจาก <victim> ได้สำเร็จ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidwiz3",
+   "en": "<victim> got hit by too many spells from <attacker>",
+   "official": "<victim> โดนคาถาจาก <attacker>มากเกินไป",
+   "th": "<victim> โดนคาถาของ <attacker> มากเกินไป",
+   "status": "fixed",
+   "note": "เว้นวรรครอบตัวแปร"
+  },
+  {
+   "key": "voidwiz4",
+   "en": "<attacker>'s magic was too powerful for <victim>",
+   "official": "พลังเวทย์ของ <attacker> รุนแรงเกินกว่า <victim> จะรับไหว",
+   "th": "เวทมนตร์ของ <attacker> รุนแรงเกินกว่าที่ <victim> จะรับไหว",
+   "status": "fixed",
+   "note": "สะกด (เวทย์) + ศัพท์ตามคลัง"
+  },
+  {
+   "key": "evilwitch1",
+   "en": "<victim> was disintegrated by <attacker>",
+   "official": "<victim> ถูกทำให้สลายไปโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ทำให้สลายหายไป",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "evilwitch2",
+   "en": "<attacker> forced <victim> to pass peacefully",
+   "official": "<victim> ถูกยัดเยียดความตายให้โดย <attacker> เพื่อให้จากไปอย่างสงบ",
+   "th": "<attacker> บังคับให้ <victim> จากไปอย่างสงบ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "evilwitch3",
+   "en": "<attacker>'s power was superior to <victim>'s survival skills",
+   "official": "<attacker> นั้นเหนือชั้นกว่าความสามารถในการเอาตัวรอดของ <victim>",
+   "th": "พลังของ <attacker> เหนือกว่าทักษะเอาตัวรอดของ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidapp1",
+   "en": "<attacker> blasted <victim> with color",
+   "official": "<attacker> ระเบิด <victim> ด้วยสีสัน",
+   "th": "<attacker> ระเบิดสีสันใส่ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "voidapp2",
+   "en": "<victim> got a taste of <attacker>'s staff",
+   "official": "<victim> ได้ลิ้มรสคทาของ <attacker>",
+   "th": "<victim> ได้ลิ้มรสคทาของ <attacker>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "voidapp3",
+   "en": "<attacker> was too fast for <victim>",
+   "official": "ยังเร็วเกินไปที่ <victim> จะเอาชนะ <attacker>",
+   "th": "<attacker> เร็วเกินไปสำหรับ <victim>",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "piratecap1",
+   "en": "<victim> got swarmed by <attacker>",
+   "official": "<victim> ถูกรุมโดย <attacker>",
+   "th": "<victim> ถูก <attacker> รุมจนตาย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "piratecap2",
+   "en": "<attacker> exploded <victim>'s face",
+   "official": "<attacker> แตกใส่หน้าของ <victim>",
+   "th": "<attacker> ระเบิดใส่หน้า <victim>",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "piratecap3",
+   "en": "<attacker> kept his treasure from <victim>",
+   "official": "<attacker> รักษาสมบัติของเขาจาก <victim> ไว้ได้",
+   "th": "<attacker> ปกป้องสมบัติของตนจาก <victim> ไว้ได้",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "piratecap4",
+   "en": "<victim> could not handle <attacker>'s cannon",
+   "official": "<victim> ไม่สามารถมทนรับลูกปืนใหญ่ของ <attacker> ได้",
+   "th": "<victim> ทนลูกปืนใหญ่ของ <attacker> ไม่ไหว",
+   "status": "fixed",
+   "note": "สะกด (มทน)"
+  },
+  {
+   "key": "cavespider1",
+   "en": "<victim> got torn up by <attacker>",
+   "official": "<victim> ถูกทำลายโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฉีกเป็นชิ้น ๆ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "cavespider2",
+   "en": "<attacker>'s fangs were too big for <victim>",
+   "official": "ไอนั่นของ <attacker> ใหญ่เกินไปสำหรับ <victim>",
+   "th": "เขี้ยวของ <attacker> ใหญ่เกินไปสำหรับ <victim>",
+   "status": "fixed",
+   "note": "ตัดมุกสองแง่"
+  },
+  {
+   "key": "cavespider3",
+   "en": "<attacker> ate <victim> alive",
+   "official": "<attacker> กิน <victim> ทั้งเป็น",
+   "th": "<attacker> กิน <victim> ทั้งเป็น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishian1",
+   "en": "<attacker> was the bigger fish compared to <victim>",
+   "official": "<attacker> เป็นปลาที่มีขนาดใหญ่กว่าเมื่อเทียบกับ <victim>",
+   "th": "<attacker> เป็นปลาใหญ่กว่า <victim>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "fishian2",
+   "en": "<attacker> baited <victim>",
+   "official": "<attacker> ใช้เหยื่อล่อ <victim> จนติดกับ",
+   "th": "<attacker> ใช้เหยื่อล่อ <victim> จนติดกับ",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "fishian3",
+   "en": "<attacker> shot <victim> like fish in a barrel",
+   "official": "<attacker> ยิง <victim> เหมือนกับปลาในถัง",
+   "th": "<attacker> ยิง <victim> ง่ายเหมือนยิงปลาในถัง",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fishian4",
+   "en": "<victim> was like a fish out of water against <attacker>",
+   "official": "<victim> ก็เหมือนปลาที่ออกจากน้ำสำหรับ <attacker>",
+   "th": "<victim> เป็นเหมือนปลาที่ถูกจับขึ้นบกเมื่อเจอ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mosquito1",
+   "en": "<victim> was swarmed to death by <attacker>",
+   "official": "<victim> ถูกรุมกัดจมตายโดย <attacker>",
+   "th": "<victim> ถูก <attacker> รุมกัดจนตาย",
+   "status": "fixed",
+   "note": "สะกด (จม)"
+  },
+  {
+   "key": "mosquito2",
+   "en": "<victim> forgot to use <attacker> repellent",
+   "official": "<victim> ลืมใช้ยากัน <attacker>",
+   "th": "<victim> ลืมทายากันยุงกัน <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "mosquito3",
+   "en": "<attacker> sucked <victim> dry",
+   "official": "<attacker> ดูด <victim> จนแห้ง",
+   "th": "<attacker> ดูด <victim> จนแห้ง",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "bonewalker1",
+   "en": "<victim> got boned by <attacker>",
+   "official": "<victim> ถูกทำให้เป็นกระดูกโดย <attacker>",
+   "th": "<victim> ถูก <attacker> เล่นงานจนเหลือแต่กระดูก",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "bonewalker2",
+   "en": "<victim> got rattled by <attacker>",
+   "official": "<victim> โดนด่าจนตายโดย <attacker>",
+   "th": "<victim> ถูก <attacker> เขย่ากระดูกจนสั่นคลอน",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "bonewalker3",
+   "en": "<victim> was no match for <attacker>'s bone-crushing power",
+   "official": "<victim> ยังมีฝีมือไม่มากพอที่จะสู้กับ <attacker>",
+   "th": "<victim> สู้พลังบดกระดูกของ <attacker> ไม่ได้",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "runebound1",
+   "en": "<attacker> knew, that this was Runebound to happen to <victim>",
+   "official": "<attacker> รู้ได้ทันที, ว่านี่คือสิ่งที่จะเกิดกับ <victim>",
+   "th": "<attacker> รู้อยู่แล้วว่า <victim> ต้องเจอแบบนี้ตามชะตารูนเบานด์",
+   "status": "fixed",
+   "note": "เล่นคำ Runebound + วรรคตอน"
+  },
+  {
+   "key": "runebound2",
+   "en": "This is the last time <victim> messed with <attacker>",
+   "official": "นี่จะเป็นครั้งสุดท้ายที่ <victim> ไปยั่วโมโห <attacker>",
+   "th": "นี่จะเป็นครั้งสุดท้ายที่ <victim> ไปยั่วโมโห <attacker>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "runebound3",
+   "en": "<attacker>'s ancestors are honored by the death of <victim>",
+   "official": "<attacker> เอาเขาแหลมทิ่ม <victim> จนตาย",
+   "th": "บรรพบุรุษของ <attacker> ได้รับเกียรติจากความตายของ <victim>",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "forestspector1",
+   "en": "<victim> soul has been claimed by <attacker>",
+   "official": "น่าเศร้า<victim> วิญญาณของเขาได้ถูกเอาไปโดย <attacker>",
+   "th": "วิญญาณของ <victim> ถูก <attacker> ช่วงชิงไปแล้ว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "forestspector2",
+   "en": "<victim>'s soul has been forfeit, to <attacker>",
+   "official": "<victim> วิญญาณของเขาได้ถูกทอดทิ้งโดย <attacker>",
+   "th": "วิญญาณของ <victim> ตกเป็นของ <attacker> แล้ว",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "forestspector3",
+   "en": "Another soul claimed by <attacker>, thanks <victim>",
+   "official": "ได้วิญญาณมาอีกด้วยแล้วสำหรับ <attacker>, ขอบคุณเจ้ามาก <victim>",
+   "th": "<attacker> ได้วิญญาณมาอีกดวงแล้ว ขอบใจนะ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadsentinel1",
+   "en": "<victim> never had a chance against <attacker>",
+   "official": "<victim> ไม่มีโอกาสตอบโต้ <attacker> เลย",
+   "th": "<victim> ไม่มีโอกาสสู้ <attacker> ได้เลย",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadsentinel2",
+   "en": "<victim> got barked right in the head by <attacker>",
+   "official": "<victim> ถูกแสกกลางที่หน้าโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ฟาดเข้ากลางหัว",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "dryadsentinel3",
+   "en": "Don't worry <victim>, <attacker> will be waiting in the dark when you return..",
+   "official": "ไม่ต้องห่วง <victim>, <attacker> จะรอคอยเจ้าในความมืด เมื่อเจ้ากลับมา..",
+   "th": "ไม่ต้องห่วงนะ <victim> <attacker> จะรออยู่ในความมืดตอนเจ้ากลับมา..",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "fallingiciclename",
+   "en": "Falling Icicle",
+   "official": "น้ำแข็งย้อย",
+   "th": "แท่งน้ำแข็งร่วง",
+   "status": "fixed",
+   "note": "ครบความ (Falling)"
+  },
+  {
+   "key": "fallingicicle1",
+   "en": "<victim> was speared by a sharp <attacker>",
+   "official": "<victim> ได้ทดสอบความคมของ <attacker>",
+   "th": "<victim> ถูก <attacker> อันแหลมคมเสียบ",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "fallingicicle2",
+   "en": "<attacker> made a soft landing in <victim>'s head",
+   "official": "<attacker> ได้หล่นลงเบาๆบนหัวของ <victim>",
+   "th": "<attacker> ลงจอดนุ่ม ๆ บนหัวของ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "fallingicicle3",
+   "en": "<victim> got severe brain freeze from a <attacker>",
+   "official": "<victim> กลายเป็นคนหัวเย็น ด้วยผลจาก <attacker>",
+   "th": "<victim> สมองแข็งเพราะ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "flamelingshooter1",
+   "en": "<victim> failed to play catch with <attacker>",
+   "official": "<victim> ล้มเหลวในการเล่นรับ-ส่ง กับ <attacker>",
+   "th": "<victim> เล่นรับลูกกับ <attacker> พลาด",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "flamelingshooter2",
+   "en": "<victim> didn't like the <attacker>'s surprise",
+   "official": "<victim> ดูจะไม่ค่อยชอบเซอร์ไพรส์ของ <attacker> นะ",
+   "th": "<victim> ไม่ชอบเซอร์ไพรส์ของ <attacker>",
+   "status": "fixed",
+   "note": "กระชับ"
+  },
+  {
+   "key": "flamelingshooter3",
+   "en": "<attacker> shot <victim> with a red hot fire ball",
+   "official": "<attacker> ยิง <victim> ด้วยบอลแดงสุดร้อนแรง",
+   "th": "<attacker> ยิงลูกไฟร้อนแดงใส่ <victim>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "agedchampion1",
+   "en": "<victim> was felled by the mighty <attacker>",
+   "official": "<victim> ถูกล้มลงด้วยพลังอันยิ่งใหญ่ของ <attacker>",
+   "th": "<victim> ถูก <attacker> ผู้ทรงพลังโค่นล้ม",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "agedchampion2",
+   "en": "<victim> paled in comparison to <attacker>'s experience",
+   "official": "<victim> อ่อนด้อยกว่าอย่างเห็นได้ชัดเมื่อเปรียบกับ <attacker>",
+   "th": "<victim> ยังอ่อนประสบการณ์นักเมื่อเทียบกับ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "agedchampion3",
+   "en": "<attacker> proved to still be in their prime against <victim>",
+   "official": "<attacker> พิสูจน์แล้วว่าพวกเขายังคงอยู่ในจุดสูงสุด เมื่อต้องเผชิญหน้ากับ <victim>",
+   "th": "<attacker> พิสูจน์ให้ <victim> เห็นว่ายังไม่หมดไฟ",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "agedchampion4",
+   "en": "<attacker> patiently waits for <victim> to grow as a warrior",
+   "official": "<attacker> เฝ้ารอวันที่ <victim> จะเติบโตเป็นนักรบที่ดีขึ้น",
+   "th": "<attacker> เฝ้ารอวันที่ <victim> จะเติบโตเป็นนักรบที่ดีขึ้น",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "agedchampion5",
+   "en": "<attacker> grew bored of <victim>'s attempts to defeat them",
+   "official": "<attacker> เริ่มเบื่อหนายกับ <victim> ที่พยายามจะเอาชนะเขา",
+   "th": "<attacker> เริ่มเบื่อที่ <victim> พยายามเอาชนะอยู่ได้",
+   "status": "fixed",
+   "note": "สะกด (เบื่อหนาย)"
+  },
+  {
+   "key": "syndicatethug1",
+   "en": "<victim> ended up working for <attacker>",
+   "official": "",
+   "th": "<victim> ต้องไปทำงานรับใช้ <attacker> ในที่สุด",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "syndicatethug2",
+   "en": "<victim> got thugged up by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> ซ้อมจนน่วม",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "syndicatethug3",
+   "en": "<attacker> did not think <victim> as their pal",
+   "official": "",
+   "th": "<attacker> ไม่ได้มองว่า <victim> เป็นพวกเดียวกัน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "syndicatethug4",
+   "en": "<attacker> had enough of <victim>'s bullying",
+   "official": "",
+   "th": "<attacker> ทนการกลั่นแกล้งของ <victim> ไม่ไหวอีกต่อไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzbolt1",
+   "en": "<victim> stuck a fork too close to <attacker>",
+   "official": "",
+   "th": "<victim> เอาส้อมจิ้มใกล้ <attacker> เกินไป",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzbolt2",
+   "en": "<attacker> was too shocking for <victim>",
+   "official": "",
+   "th": "<attacker> ช็อตเกินไปสำหรับ <victim>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "grizzbolt3",
+   "en": "<victim> got fried by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> ทอดจนกรอบ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "crazedraven1",
+   "en": "<victim> got beaked up by <attacker>!",
+   "official": "<victim> โดนจิกตายโดย <attacker>!",
+   "th": "<victim> ถูก <attacker> จิกตาย!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "crazedraven2",
+   "en": "CAAAW! Said <attacker>, but <victim> didn't hear, cause <victim> was dead",
+   "official": "ก๊าาาาาา! <attacker> ส่งเสียงร้องอย่างดัง, แต่ <victim> ไม่ได้ยิน, เพราะ <victim> ได้ตายไปแล้ว",
+   "th": "ก๊าาาา! <attacker> ร้อง แต่ <victim> ไม่ได้ยิน เพราะ <victim> ตายไปแล้ว",
+   "status": "fixed",
+   "note": "ตัดจุลภาค"
+  },
+  {
+   "key": "crazedraven3",
+   "en": "<victim> just got flapped in the face by <attacker>",
+   "official": "<victim> โดนตบเข้าที่หน้าโดย <attacker>",
+   "th": "<victim> โดน <attacker> กระพือปีกใส่หน้า",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "arcanicpylon1",
+   "en": "<victim> just got zapped by <attacker>!",
+   "official": "<victim> โดนไฟดูดโดย <attacker>!",
+   "th": "<victim> โดน <attacker> ช็อต!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "arcanicpylon2",
+   "en": "<victim> just got electrified by <attacker>!",
+   "official": "<victim> โดนกระแสไฟฟ้าตายจาก <attacker>!",
+   "th": "<victim> โดน <attacker> ปล่อยกระแสไฟฟ้าใส่!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "arcanicpylon3",
+   "en": "<attacker> neutralized <victim>",
+   "official": "<attacker> กำจัด <victim>",
+   "th": "<attacker> กำจัด <victim>",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "battlechef1",
+   "en": "<victim> just got cooked by <attacker>!",
+   "official": "<victim> โดนทำเป็นซอยจุ๊โดย <attacker>!",
+   "th": "<victim> โดน <attacker> ทำเป็นอาหาร!",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "battlechef2",
+   "en": "<attacker> just invented a new dish! It's called dead-fried <victim> a la créme",
+   "official": "<attacker> ได้นำเสนอเมนูใหม่! มันเรียกว่า <victim> ย่างเกลือ นึ่งมะนาว",
+   "th": "<attacker> เพิ่งคิดค้นเมนูใหม่! ชื่อว่า <victim> ทอดสิ้นใจ อะลาครีม",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "battlechef3",
+   "en": "<attacker>'s recipe for success is to stay alive. You should try it <victim>!",
+   "official": "<attacker> ได้สร้างอาหารจานใหม่สดๆร้อนๆ . เชิญลองชิม ต้มยำ <victim> น้ำข้น!",
+   "th": "สูตรแห่งความสำเร็จของ <attacker> คือการมีชีวิตรอด ลองดูบ้างสิ <victim>!",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "ascendedwizard1",
+   "en": "<victim> could not find the exit from <attacker>",
+   "official": "<victim> ไม่สามารถหาทางออกจาก <attacker> ได้",
+   "th": "<victim> ไม่สามารถหาทางออกจาก <attacker> ได้",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "ascendedwizard2",
+   "en": "<attacker> incinerated <victim> into magic dust",
+   "official": "<attacker> ได้เผา <victim> จนกลายเป็นผงเวทยมนต์",
+   "th": "<attacker> เผา <victim> จนกลายเป็นผงเวทมนตร์",
+   "status": "fixed",
+   "note": "สะกด (เวทยมนต์)"
+  },
+  {
+   "key": "ascendedwizard3",
+   "en": "<victim> forgot how to dodge <attacker>'s spells",
+   "official": "<victim> ลืมหลบเวทยมนต์ของ <attacker>",
+   "th": "<victim> ลืมวิธีหลบคาถาของ <attacker>",
+   "status": "fixed",
+   "note": "สะกด + ความหมายตรงขึ้น"
+  },
+  {
+   "key": "ascendedwizard4",
+   "en": "<attacker> went too crazy on <victim>",
+   "official": "<attacker> ทำได้เกินไปกับ <victim>",
+   "th": "<attacker> คลั่งใส่ <victim> หนักเกินไป",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "ascendedwizard5",
+   "en": "<victim> got cooked by <attacker>",
+   "official": "<victim> โดนกำจัดโดย <attacker>",
+   "th": "<victim> ถูก <attacker> ย่างจนสุก",
+   "status": "fixed",
+   "note": "ความหมายตรงขึ้น"
+  },
+  {
+   "key": "thevoid1",
+   "en": "<victim> did not reach orbit around <attacker>",
+   "official": "<victim> ไม่สามารถขึ้นไปถึงวงโคจรรอบของ <attacker> ได้",
+   "th": "<victim> ไปไม่ถึงวงโคจรรอบ <attacker>",
+   "status": "fixed",
+   "note": "ลื่นขึ้น"
+  },
+  {
+   "key": "thevoid2",
+   "en": "<attacker> crushed <victim> with its gravity",
+   "official": "<attacker> ได้บดขยี้ <victim> จนจมดิน",
+   "th": "<attacker> บดขยี้ <victim> ด้วยแรงโน้มถ่วง",
+   "status": "fixed",
+   "note": "ครบความ"
+  },
+  {
+   "key": "thevoid3",
+   "en": "<victim> finished the fight a bit too early against <attacker>",
+   "official": "ดูเหมือน <victim> จะจบการต่อสู้กับ <attacker> เร็วเกินไป",
+   "th": "ดูเหมือน <victim> จะจบการต่อสู้กับ <attacker> เร็วเกินไป",
+   "status": "kept",
+   "note": ""
+  },
+  {
+   "key": "thevoid4",
+   "en": "<attacker> was too hard to see for <victim>",
+   "official": "<attacker> ดูเก่งเกินไปสำหรับ <victim>",
+   "th": "<victim> มองเห็น <attacker> ได้ยากเกินไป",
+   "status": "fixed",
+   "note": "ความหมายผิด"
+  },
+  {
+   "key": "thevoid5",
+   "en": "<victim> found <attacker>'s attacks too shiny",
+   "official": "<victim> ได้พบว่าการโจมตีของ <attacker> นั้นมันจ้าซะเหลือเกิน แหม้แสงไฟมันแทงเข้าไปในตา ขืนส่องนานนานตาจะบอด",
+   "th": "<victim> รู้สึกว่าการโจมตีของ <attacker> แสบตาเกินไป",
+   "status": "fixed",
+   "note": "ตัดส่วนที่เติมเกิน"
+  },
+  {
+   "key": "mime1",
+   "en": "<victim> fell to <attacker>, but we keep going",
+   "official": "",
+   "th": "<victim> พ่ายแพ้ต่อ <attacker> แต่เราต้องไปต่อ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mime2",
+   "en": "<attacker> erased <victim>",
+   "official": "",
+   "th": "<attacker> ลบ <victim> ทิ้ง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mime3",
+   "en": "<victim> should have used an imaginary shield when fighting <attacker>",
+   "official": "",
+   "th": "<victim> น่าจะใช้โล่ในจินตนาการตอนสู้กับ <attacker>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimic1",
+   "en": "<victim> saw treasure, but it was just <attacker>",
+   "official": "",
+   "th": "<victim> เห็นสมบัติ แต่มันก็แค่ <attacker>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimic2",
+   "en": "<attacker>'s acting skills were too good for <victim>",
+   "official": "",
+   "th": "ฝีมือการแสดงของ <attacker> แนบเนียนเกินไปสำหรับ <victim>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "mimic3",
+   "en": "<attacker>'s diet of greedy adventurers is going well, starting with <victim>",
+   "official": "",
+   "th": "การกินนักผจญภัยจอมโลภของ <attacker> เป็นไปได้ด้วยดี เริ่มจาก <victim>",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyard1",
+   "en": "<victim> was dismantled by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> ถอดชิ้นส่วน",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyard2",
+   "en": "<attacker> has recycled <victim>",
+   "official": "",
+   "th": "<attacker> รีไซเคิล <victim> เรียบร้อย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyard3",
+   "en": "<attacker> has scrapped <victim> for parts",
+   "official": "",
+   "th": "<attacker> แยก <victim> เป็นอะไหล่",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyard4",
+   "en": "<attacker> crushed <victim> like a tin can",
+   "official": "",
+   "th": "<attacker> บี้ <victim> แบนเหมือนกระป๋อง",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "scrapyard5",
+   "en": "<attacker> trashed <victim>",
+   "official": "",
+   "th": "<attacker> ทิ้ง <victim> ลงถังขยะ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bee1",
+   "en": "<victim> got stung by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> ต่อย",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bee2",
+   "en": "<victim> was BEEtrayed by <attacker>",
+   "official": "",
+   "th": "<victim> ถูก <attacker> หักหลังแบบผึ้ง ๆ",
+   "status": "new",
+   "note": ""
+  },
+  {
+   "key": "bee3",
+   "en": "<victim> wasn't BUZZED about their encounter with <attacker>",
+   "official": "",
+   "th": "<victim> ไม่ได้หึ่งไปกับการเจอ <attacker> เลย",
+   "status": "new",
+   "note": ""
+  }
+ ],
+ "removed": []
+}
