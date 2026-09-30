@@ -5501,9 +5501,9 @@
    "key": "sensorhostile",
    "en": "Hostile mobs",
    "official": "Hostile mobs",
-   "th": "มอนสเตอร์ไม่เป็นมิตร",
+   "th": "มอนสเตอร์ที่ไม่เป็นมิตร",
    "status": "fixed",
-   "note": "ภาษาอังกฤษค้าง"
+   "note": "ภาษาอังกฤษค้าง · ศัพท์ตามคลัง"
   },
   {
    "key": "sensorpassive",
@@ -8277,9 +8277,9 @@
    "key": "incursionmodifierflamelingsinfo",
    "en": "A pesky flameling will occasionally spawn, wreaking havoc!",
    "official": "เปลวไฟที่น่ารำคาญจะปรากฏเป็นครั้งคราว สร้างความหายนะ!",
-   "th": "ภูตเปลวไฟจอมกวนจะโผล่มาเป็นครั้งคราวและสร้างความวุ่นวาย!",
+   "th": "ภูตเปลวไฟจอมกวนจะเกิดขึ้นเป็นครั้งคราวและสร้างความวุ่นวาย!",
    "status": "fixed",
-   "note": "ตามชื่อมอนสเตอร์"
+   "note": "ตามชื่อมอนสเตอร์ · ศัพท์ตามคลัง"
   },
   {
    "key": "incursionmodifierstorming",
@@ -8493,7 +8493,7 @@
    "key": "creativehostilespawnsetting",
    "en": "Spawn hostile mobs",
    "official": "อนุญาตให้สิ่งมีชีวิตที่ไม่เป็นมิตรเกิด",
-   "th": "ให้มอนสเตอร์ไม่เป็นมิตรเกิด",
+   "th": "ให้มอนสเตอร์ที่ไม่เป็นมิตรเกิด",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },
@@ -8525,7 +8525,7 @@
    "key": "creativehostilemobspawningmsg",
    "en": "§i<player> <action> hostile mob spawning",
    "official": "§i<player> <action> สิ่งมีชีวิตที่ไม่เป็นมิตรเกิด",
-   "th": "§i<player> <action> การเกิดของมอนสเตอร์ไม่เป็นมิตร",
+   "th": "§i<player> <action> การเกิดของมอนสเตอร์ที่ไม่เป็นมิตร",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },

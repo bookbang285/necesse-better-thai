@@ -93,9 +93,9 @@
    "key": "equiptrinket",
    "en": "Equip <trinket> by moving the trinket to your Trinket Ability Slot",
    "official": "",
-   "th": "สวม <trinket> โดยย้ายไปไว้ในช่องความสามารถของเครื่องประดับ",
+   "th": "สวม <trinket> โดยย้ายไปไว้ในช่องความสามารถเครื่องประดับ",
    "status": "new",
-   "note": ""
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "equiptrinkethere",

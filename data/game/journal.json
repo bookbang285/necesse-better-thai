@@ -133,9 +133,9 @@
    "key": "forestsurface",
    "en": "Forest Surface",
    "official": "ป่า",
-   "th": "ป่า",
-   "status": "kept",
-   "note": ""
+   "th": "พื้นผิวป่า",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "forestsurfacelore",
@@ -173,9 +173,9 @@
    "key": "plainssurface",
    "en": "Plains Surface",
    "official": "ที่ราบ",
-   "th": "ที่ราบ",
-   "status": "kept",
-   "note": ""
+   "th": "พื้นผิวที่ราบ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "plainscave",
@@ -197,9 +197,9 @@
    "key": "snowsurface",
    "en": "Snow Surface",
    "official": "พิ้นที่หิมะ",
-   "th": "หิมะ",
+   "th": "พื้นผิวหิมะ",
    "status": "fixed",
-   "note": "สะกด + ให้เข้าชุดกับ ป่า/ที่ราบ"
+   "note": "สะกด + ให้เข้าชุดกับ ป่า/ที่ราบ · ศัพท์ตามคลัง"
   },
   {
    "key": "snowcave",
@@ -229,9 +229,9 @@
    "key": "swampsurface",
    "en": "Swamp Surface",
    "official": "หนองน้ำ",
-   "th": "หนองน้ำ",
-   "status": "kept",
-   "note": ""
+   "th": "พื้นผิวหนองน้ำ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "swampcave",
@@ -253,9 +253,9 @@
    "key": "desertsurface",
    "en": "Desert Surface",
    "official": "ทะเลทราย",
-   "th": "ทะเลทราย",
-   "status": "kept",
-   "note": ""
+   "th": "พื้นผิวทะเลทราย",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "desertcave",

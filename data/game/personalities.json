@@ -477,25 +477,25 @@
    "key": "maker_desc",
    "en": "<name> is always tinkering with something. They get a happiness bonus when they have many different crafting stations in their room",
    "official": "",
-   "th": "<name> ชอบซ่อมนั่นทำนี่อยู่เสมอ จะได้รับโบนัสความสุขเมื่อมีโต๊ะประดิษฐ์หลายแบบในห้อง",
+   "th": "<name> ชอบซ่อมนั่นทำนี่อยู่เสมอ จะได้รับโบนัสความสุขเมื่อมีสถานีประดิษฐ์หลายแบบในห้อง",
    "status": "new",
-   "note": ""
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "nomakerstations",
    "en": "My room does not have any crafting stations",
    "official": "",
-   "th": "ในห้องไม่มีโต๊ะประดิษฐ์เลย",
+   "th": "ในห้องไม่มีสถานีประดิษฐ์เลย",
    "status": "new",
-   "note": ""
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "somemakerstations",
    "en": "My room has some crafting stations",
    "official": "",
-   "th": "ในห้องมีโต๊ะประดิษฐ์อยู่บ้าง",
+   "th": "ในห้องมีสถานีประดิษฐ์อยู่บ้าง",
    "status": "new",
-   "note": ""
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "beachlover",

@@ -357,9 +357,9 @@
    "key": "saplings",
    "en": "Trees and Saplings",
    "official": "ต้นอ่อน",
-   "th": "ต้นไม้และต้นอ่อน",
+   "th": "ต้นไม้และต้นกล้า",
    "status": "fixed",
-   "note": "ตกคำ"
+   "note": "ตกคำ · ศัพท์ตามคลัง"
   },
   {
    "key": "craftingstations",

@@ -421,9 +421,9 @@
    "key": "sapphireactive",
    "en": "Resilience gain increased by 250%!",
    "official": "อัตราการได้รับความทนทานเพิ่มขึ้น 250%!",
-   "th": "อัตราการได้รับความทนทานเพิ่มขึ้น 250%!",
-   "status": "kept",
-   "note": ""
+   "th": "อัตราได้รับความทนทานเพิ่มขึ้น 250%!",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "sapphiresetcooldown",

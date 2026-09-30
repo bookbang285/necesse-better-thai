@@ -143,7 +143,7 @@
   "en": "Surface",
   "th": "พื้นผิว",
   "kind": "biome",
-  "note": "ทางการ: พื้นผิว / พื้นผิวโลก / ตัดทิ้ง",
+  "note": "รูปแบบ พื้นผิว<ไบโอม> เช่น Forest Surface=พื้นผิวป่า · ทางการ: พื้นผิว / พื้นผิวโลก / ตัดทิ้ง",
   "approved": true
  },
  {
@@ -378,6 +378,13 @@
   "approved": true
  },
  {
+  "en": "Arcanic",
+  "th": "ลึกลับ",
+  "kind": "item",
+  "note": "ทางการใช้ ลึกลับ เป็นส่วนใหญ่ (กำแพง/ประตู/พื้น/ลัง) → ใช้ทั้งหมด ไม่ใช้ อาร์คานิค/อาร์เคน",
+  "approved": true
+ },
+ {
   "en": "Arrow",
   "th": "ลูกธนู",
   "kind": "item",
@@ -462,6 +469,13 @@
   "approved": true
  },
  {
+  "en": "Caveglow",
+  "th": "พืชถ้ำ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Charm",
   "th": "เครื่องราง",
   "kind": "item",
@@ -480,6 +494,13 @@
   "th": "รัดเกล้า",
   "kind": "item",
   "note": "ทางการใช้ มงกุฎ (ชนกับ Crown)",
+  "approved": true
+ },
+ {
+  "en": "Cloak",
+  "th": "เสื้อคลุม",
+  "kind": "item",
+  "note": "ใช้คำเดียวกับ Robe (ชื่อไม่ซ้ำกัน)",
   "approved": true
  },
  {
@@ -574,10 +595,24 @@
   "approved": true
  },
  {
+  "en": "Elixir",
+  "th": "น้ำอมฤต",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Essence",
   "th": "แก่นแท้",
   "kind": "item",
   "note": "ทางการปน แก่นแท้/แก่น · รูปแบบ 'แก่นแท้<ชื่อ>' ไม่ต้องมี แห่ง",
+  "approved": true
+ },
+ {
+  "en": "Eye of the Void",
+  "th": "ดวงตาแห่งความมืด",
+  "kind": "item",
+  "note": "",
   "approved": true
  },
  {
@@ -665,6 +700,13 @@
   "approved": true
  },
  {
+  "en": "Hedge",
+  "th": "รั้วพุ่มไม้",
+  "kind": "item",
+  "note": "Hedge Gate=ประตูรั้วพุ่มไม้",
+  "approved": true
+ },
+ {
   "en": "Helmet",
   "th": "หมวก",
   "kind": "item",
@@ -721,6 +763,27 @@
   "approved": true
  },
  {
+  "en": "Living Sapling",
+  "th": "ต้นกล้ามีชีวิต",
+  "kind": "item",
+  "note": "Aphorea · ให้เข้าชุดกับ Sapling=ต้นกล้า",
+  "approved": true
+ },
+ {
+  "en": "Locket",
+  "th": "ล็อกเกต",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Makeshift",
+  "th": "ประกอบเอง",
+  "kind": "item",
+  "note": "ชุด Makeshift",
+  "approved": true
+ },
+ {
   "en": "Mask",
   "th": "หน้ากาก",
   "kind": "item",
@@ -770,10 +833,24 @@
   "approved": true
  },
  {
+  "en": "Pearlescent",
+  "th": "ประกายมุก",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Pearlescent Diamond",
   "th": "เพชรประกายมุก",
   "kind": "item",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Pedestal",
+  "th": "แท่น",
+  "kind": "item",
+  "note": "Candle Pedestal=เชิงเทียน (ชุดตรวจจะเตือน ตั้งใจ)",
   "approved": true
  },
  {
@@ -805,6 +882,13 @@
   "approved": true
  },
  {
+  "en": "Pressure Plate",
+  "th": "แท่นเหยียบ",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Primordial Essence",
   "th": "แก่นแท้ปฐมกาล",
   "kind": "item",
@@ -816,6 +900,13 @@
   "th": "ควอตซ์",
   "kind": "item",
   "note": "ทางการ 'เขี้ยวหนุมาน' (ถูกแต่ชื่ออาวุธฟังตลก: ขวานเขี้ยวหนุมาน) ปน 'ควอตซ์' (Life Quartz)",
+  "approved": true
+ },
+ {
+  "en": "Regen Potion",
+  "th": "น้ำยาเร่งฟื้นฟู",
+  "kind": "item",
+  "note": "รูปแบบ น้ำยาเร่งฟื้นฟู<ค่า> เช่น Health Regen Potion=น้ำยาเร่งฟื้นฟูพลังชีวิต",
   "approved": true
  },
  {
@@ -854,6 +945,13 @@
   "approved": true
  },
  {
+  "en": "Sapling",
+  "th": "ต้นกล้า",
+  "kind": "item",
+  "note": "รูปแบบ ต้นกล้า<ต้นไม้> · Living Sapling=ต้นกล้ามีชีวิต",
+  "approved": true
+ },
+ {
   "en": "Scepter",
   "th": "คทา",
   "kind": "item",
@@ -861,8 +959,29 @@
   "approved": true
  },
  {
+  "en": "Scrap",
+  "th": "เศษเหล็ก",
+  "kind": "item",
+  "note": "วัสดุ · Scrapyard=ลานเศษเหล็ก · Cloth Scraps=เศษผ้า (ชุดตรวจจะเตือน ตั้งใจ)",
+  "approved": true
+ },
+ {
   "en": "Scroll",
   "th": "คัมภีร์",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Scrying",
+  "th": "พยากรณ์",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Seed Gun",
+  "th": "ปืนยิงเมล็ด",
   "kind": "item",
   "note": "",
   "approved": true
@@ -945,6 +1064,13 @@
   "approved": true
  },
  {
+  "en": "Stealth Basket",
+  "th": "ตะกร้าพรางตัว",
+  "kind": "item",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Sword",
   "th": "ดาบ",
   "kind": "item",
@@ -1001,6 +1127,13 @@
   "approved": true
  },
  {
+  "en": "Aged Champion",
+  "th": "แชมเปียนเก่าแก่",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Caveling",
   "th": "ชาวถ้ำ",
   "kind": "mob",
@@ -1043,10 +1176,31 @@
   "approved": true
  },
  {
+  "en": "Fallen Dragon",
+  "th": "มังกรร่วงโรย",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Firefly",
+  "th": "หิ่งห้อย",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Fishian",
   "th": "ชาวปลา",
   "kind": "mob",
   "note": "ทางการ Fishian Raider='โจรปล้นปลา', Fishian Banner='ธงตกปลา' ผิด",
+  "approved": true
+ },
+ {
+  "en": "Flameling",
+  "th": "ภูตเปลวไฟ",
+  "kind": "mob",
+  "note": "",
   "approved": true
  },
  {
@@ -1064,10 +1218,24 @@
   "approved": true
  },
  {
+  "en": "Gunslinger",
+  "th": "มือปืน",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Gunsmith",
   "th": "ช่างปืน",
   "kind": "mob",
   "note": "ทางการ: พ่อค้าปืน",
+  "approved": true
+ },
+ {
+  "en": "Hatchling",
+  "th": "ลูก",
+  "kind": "mob",
+  "note": "รูปแบบ ลูก<สัตว์> เช่น Spider Hatchling=ลูกแมงมุม",
   "approved": true
  },
  {
@@ -1078,6 +1246,13 @@
   "approved": true
  },
  {
+  "en": "Locust",
+  "th": "ตั๊กแตน",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Mage",
   "th": "นักเวท",
   "kind": "mob",
@@ -1085,10 +1260,24 @@
   "approved": true
  },
  {
+  "en": "Mimic",
+  "th": "มิมิก",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Miner",
   "th": "คนงานเหมือง",
   "kind": "mob",
   "note": "ทางการ mob 'นักขุดเหมือง' ปน 'คนงานเหมือง' (ชุด)",
+  "approved": true
+ },
+ {
+  "en": "Pawnbroker",
+  "th": "ผู้รับจำนำ",
+  "kind": "mob",
+  "note": "",
   "approved": true
  },
  {
@@ -1117,6 +1306,20 @@
   "th": "ราชาอีกา",
   "kind": "mob",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Scourge Knight",
+  "th": "อัศวินหายนะ",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Sentinel",
+  "th": "ผู้เฝ้ายาม",
+  "kind": "mob",
+  "note": "Dryad Sentinel=ดรายแอดผู้เฝ้ายาม · Frost Sentry=เสาเยือกแข็ง (ป้อมนิ่ง)",
   "approved": true
  },
  {
@@ -1162,6 +1365,13 @@
   "approved": true
  },
  {
+  "en": "Will-o'-Wisp",
+  "th": "วิล-โอ-วิสป์",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Witch",
   "th": "แม่มด",
   "kind": "mob",
@@ -1176,10 +1386,24 @@
   "approved": true
  },
  {
+  "en": "Wrath Knight",
+  "th": "อัศวินพิโรธ",
+  "kind": "mob",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Zombie",
   "th": "ซอมบี้",
   "kind": "mob",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Babylon",
+  "th": "บาเบล",
+  "kind": "name",
+  "note": "Aphorea · มังกร Babylon / หอคอยบาเบล",
   "approved": true
  },
  {
@@ -1211,6 +1435,20 @@
   "approved": true
  },
  {
+  "en": "Exotic",
+  "th": "ต่างแดน",
+  "kind": "other",
+  "note": "Exotic Merchant=พ่อค้าต่างแดน",
+  "approved": true
+ },
+ {
+  "en": "Locked",
+  "th": "ล็อก",
+  "kind": "other",
+  "note": "ต่อท้ายชื่อ เช่น Locked Arcanic Door=ประตูลึกลับล็อก",
+  "approved": true
+ },
+ {
   "en": "Alchemy Table",
   "th": "โต๊ะปรุงยา",
   "kind": "place",
@@ -1228,7 +1466,7 @@
   "en": "Chest",
   "th": "กล่อง",
   "kind": "place",
-  "note": "ช่องสวมใส่ 'Chest slot' = ช่องอก",
+  "note": "กล่องเก็บของ · ช่องสวมใส่ 'Chest slot' = ช่องลำตัว (ดู Chest slot)",
   "approved": true
  },
  {
@@ -1236,6 +1474,13 @@
   "th": "ที่ปรุงอาหาร",
   "kind": "place",
   "note": "ทางการ: ฐานปรุงอาหาร / ที่ปรุงอาหาร",
+  "approved": true
+ },
+ {
+  "en": "Crate",
+  "th": "ลัง",
+  "kind": "place",
+  "note": "",
   "approved": true
  },
  {
@@ -1295,6 +1540,13 @@
   "approved": true
  },
  {
+  "en": "Void Dungeon",
+  "th": "ดันเจี้ยนแห่งความมืด",
+  "kind": "place",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Waystone",
   "th": "เวย์สโตน",
   "kind": "place",
@@ -1309,8 +1561,22 @@
   "approved": true
  },
  {
+  "en": "Adrenaline",
+  "th": "อะดรีนาลีน",
+  "kind": "system",
+  "note": "Aphorea",
+  "approved": true
+ },
+ {
   "en": "Adventure Journal",
   "th": "บันทึกการผจญภัย",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Adventure Party",
+  "th": "ปาร์ตี้ผจญภัย",
   "kind": "system",
   "note": "",
   "approved": true
@@ -1341,6 +1607,13 @@
   "th": "รูนพื้นฐาน",
   "kind": "system",
   "note": "Aphorea",
+  "approved": true
+ },
+ {
+  "en": "Berserker Rush",
+  "th": "โหมดคลั่ง",
+  "kind": "system",
+  "note": "บัฟ",
   "approved": true
  },
  {
@@ -1379,10 +1652,31 @@
   "approved": true
  },
  {
+  "en": "Chest slot",
+  "th": "ช่องลำตัว",
+  "kind": "system",
+  "note": "ช่องสวมใส่เกราะลำตัว · Cosmetic chest slot=ช่องลำตัวแฟชั่น · ไม่ใช่ ช่องอก",
+  "approved": true
+ },
+ {
+  "en": "Claim (settlement)",
+  "th": "อ้างสิทธิ์",
+  "kind": "system",
+  "note": "อ้างสิทธิ์นิคม · Claim reward=รับรางวัล · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
   "en": "Consumable",
   "th": "ของสิ้นเปลือง",
   "kind": "system",
   "note": "ทางการ: ของใช้ได้ครั้งเดียว",
+  "approved": true
+ },
+ {
+  "en": "Content (mood)",
+  "th": "พอใจ",
+  "kind": "system",
+  "note": "อารมณ์ชาวนิคม · content ที่แปลว่า เนื้อหา ไม่เกี่ยว · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
   "approved": true
  },
  {
@@ -1404,6 +1698,20 @@
   "th": "ประดิษฐ์",
   "kind": "system",
   "note": "jobs ใช้ 'ผลิต' ปน",
+  "approved": true
+ },
+ {
+  "en": "Crafting station",
+  "th": "สถานีประดิษฐ์",
+  "kind": "system",
+  "note": "คำเรียกรวมของโต๊ะ/เตา/ทั่งที่ใช้ประดิษฐ์ · หมวด Crafting Stations · workstation แบบคำรวม (ชาวนิคมใช้งาน) ก็ใช้คำนี้ · ชื่อวัตถุ Workstation=โต๊ะประดิษฐ์",
+  "approved": true
+ },
+ {
+  "en": "Crash",
+  "th": "แครช",
+  "kind": "system",
+  "note": "เกม/เซิร์ฟเวอร์แครช",
   "approved": true
  },
  {
@@ -1484,6 +1792,13 @@
   "approved": true
  },
  {
+  "en": "Dryad Haunted",
+  "th": "ดรายแอดหลอกหลอน",
+  "kind": "system",
+  "note": "ดีบัฟ",
+  "approved": true
+ },
+ {
   "en": "Empowered",
   "th": "เพิ่มพลัง",
   "kind": "system",
@@ -1506,9 +1821,9 @@
  },
  {
   "en": "Equipment",
-  "th": "อุปกรณ์สวมใส่",
+  "th": "อุปกรณ์",
   "kind": "system",
-  "note": "หมวด itemcategory ทางการ 'ของสวมใส่'",
+  "note": "ชื่อหมวด/หัวข้อใช้ อุปกรณ์สวมใส่ (ทางการ 'ของสวมใส่') · ในประโยคบรรยายใช้ อุปกรณ์ ได้",
   "approved": true
  },
  {
@@ -1516,6 +1831,34 @@
   "th": "การสำรวจ",
   "kind": "system",
   "note": "บทพูดทางการใช้ 'การเดินทาง' ปน",
+  "approved": true
+ },
+ {
+  "en": "Fishing line",
+  "th": "สายเบ็ด",
+  "kind": "system",
+  "note": "จำนวนสายเบ็ด",
+  "approved": true
+ },
+ {
+  "en": "Fishing power",
+  "th": "พลังตกปลา",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Freeze",
+  "th": "แช่แข็ง",
+  "kind": "system",
+  "note": "ดีบัฟหยุดนิ่ง (ดู Frozen) · Freezing=เยือกแข็ง",
+  "approved": true
+ },
+ {
+  "en": "Frostslow",
+  "th": "เยือกแข็ง",
+  "kind": "system",
+  "note": "ดีบัฟลดความเร็ว · บัฟ Frost Slow=เยือกแข็งจนช้าลง",
   "approved": true
  },
  {
@@ -1530,6 +1873,13 @@
   "th": "ตรา",
   "kind": "system",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Greater (potion)",
+  "th": "ขั้นสูง",
+  "kind": "system",
+  "note": "ระดับน้ำยา/ยา เช่น Greater Health Potion=น้ำยาฟื้นฟูพลังชีวิตขั้นสูง · Greater Bone Spike=หนามกระดูกใหญ่ · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
   "approved": true
  },
  {
@@ -1561,10 +1911,24 @@
   "approved": true
  },
  {
+  "en": "Host (server)",
+  "th": "โฮสต์",
+  "kind": "system",
+  "note": "ผู้เปิดเซิร์ฟ/โฮสต์เกม · achievement Complete Host=รวมกันเราอยู่ (คนละความหมาย) · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
   "en": "Hostile",
   "th": "ไม่เป็นมิตร",
   "kind": "system",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Hostile mob",
+  "th": "มอนสเตอร์ที่ไม่เป็นมิตร",
+  "kind": "system",
+  "note": "ในคำอธิบายไอเทม/tooltip ใช้ ศัตรู ได้เมื่อสั้นกว่า",
   "approved": true
  },
  {
@@ -1648,7 +2012,7 @@
   "en": "Logic gate",
   "th": "ลอจิกเกต",
   "kind": "system",
-  "note": "ทางการทิ้งเป็นอังกฤษ",
+  "note": "ทางการทิ้งเป็นอังกฤษ · gate เดี่ยว ๆ ในหมวด logic = เกต · Fence Gate=ประตูรั้ว",
   "approved": true
  },
  {
@@ -1663,6 +2027,13 @@
   "th": "เวทมนตร์",
   "kind": "system",
   "note": "ทางการสะกดผิด: เวทมนต์ / เวทยมนต์",
+  "approved": true
+ },
+ {
+  "en": "Magic healing",
+  "th": "การรักษาด้วยเวทมนตร์",
+  "kind": "system",
+  "note": "Aphorea · กริยา Magic Heal yourself=รักษาตัวเองด้วยเวทมนตร์",
   "approved": true
  },
  {
@@ -1715,6 +2086,27 @@
   "approved": true
  },
  {
+  "en": "Mod",
+  "th": "มอด",
+  "kind": "system",
+  "note": "ห้าม ม็อด · Mob=มอนสเตอร์ (คนละคำ)",
+  "approved": true
+ },
+ {
+  "en": "Modifier (buff/stat)",
+  "th": "ค่าปรับ",
+  "kind": "system",
+  "note": "ผลที่บัฟ/ไอเทมปรับค่าสถานะ · Modifier Rune=รูนดัดแปลง · Key modifiers=ปุ่มปรับเปลี่ยน · เลือกตามบริบท · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
+  "en": "Modifier (incursion)",
+  "th": "ตัวปรับ",
+  "kind": "system",
+  "note": "ตัวปรับของอินเคอร์ชัน · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
   "en": "Modifier Rune",
   "th": "รูนดัดแปลง",
   "kind": "system",
@@ -1747,6 +2139,20 @@
   "th": "ติดไฟ",
   "kind": "system",
   "note": "ทางการ buff: ไฟไหม้",
+  "approved": true
+ },
+ {
+  "en": "Overcharged",
+  "th": "พลังงานล้นเกิน",
+  "kind": "system",
+  "note": "บัฟของเซ็ต Arcanic · ข้อเสนอเดิม 'โอเวอร์ชาร์จ' ไม่ใช้ · Overcharged Mana=มานาปะทุ (แยกบัฟ)",
+  "approved": true
+ },
+ {
+  "en": "Overcharged Mana",
+  "th": "มานาปะทุ",
+  "kind": "system",
+  "note": "บัฟสแต็กของเซ็ต Arcanic",
   "approved": true
  },
  {
@@ -1785,10 +2191,24 @@
   "approved": true
  },
  {
+  "en": "Preset",
+  "th": "พรีเซ็ต",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Projectile",
   "th": "กระสุน",
   "kind": "system",
   "note": "ใช้คำเดียวกับ Bullet/Ammo ตามทางการ",
+  "approved": true
+ },
+ {
+  "en": "Quality levels",
+  "th": "ต่ำ / ปานกลาง / พอใช้ / ดี / น่าประทับใจ / ยอดเยี่ยม / ไร้เทียมทาน",
+  "kind": "system",
+  "note": "Low / Mediocre / Decent / Good / Impressive / Wonderful / Unrivaled (คุณภาพนิคม) · ระดับขนาด/ห้องของนิคมใช้คำเล่น ๆ ต่างออกไปได้ · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
   "approved": true
  },
  {
@@ -1803,6 +2223,13 @@
   "th": "ภารกิจ",
   "kind": "system",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Quick Tinker",
+  "th": "ช่างซ่อมจอมไว",
+  "kind": "system",
+  "note": "บัฟ/สแต็กของเซ็ต Makeshift · ข้อเสนอเดิม 'ช่างซ่อมด่วน' ไม่ใช้",
   "approved": true
  },
  {
@@ -1862,6 +2289,13 @@
   "approved": true
  },
  {
+  "en": "Resilience gain",
+  "th": "อัตราได้รับความทนทาน",
+  "kind": "system",
+  "note": "ทางการ buffmodifiers: อัตราการเพิ่มความทนทาน",
+  "approved": true
+ },
+ {
   "en": "Resistance",
   "th": "ต้านทาน",
   "kind": "system",
@@ -1894,6 +2328,20 @@
   "th": "ย่อย",
   "kind": "system",
   "note": "ทางการ: ย่อยสลาย / แยกส่วนของเหลือใช้ — ใช้ 'ย่อย' สั้นและตรง",
+  "approved": true
+ },
+ {
+  "en": "Server",
+  "th": "เซิร์ฟเวอร์",
+  "kind": "system",
+  "note": "ห้าม เซิฟเวอร์",
+  "approved": true
+ },
+ {
+  "en": "Set ability",
+  "th": "ความสามารถเซ็ต",
+  "kind": "system",
+  "note": "Use armor set ability=ใช้ความสามารถเซ็ตเกราะ",
   "approved": true
  },
  {
@@ -1947,9 +2395,16 @@
  },
  {
   "en": "Spawn",
+  "th": "เกิด",
+  "kind": "system",
+  "note": "มอนสเตอร์เกิด / การเกิดของมอนสเตอร์ · จุดเกิดของผู้เล่น=จุดเกิด (ดู Spawn point) · สิ่งที่ผู้เล่นปล่อยออกมาใช้ ปล่อย/อัญเชิญ ได้",
+  "approved": true
+ },
+ {
+  "en": "Spawn point",
   "th": "จุดเกิด",
   "kind": "system",
-  "note": "ใช้กับจุดเกิดผู้เล่น · การเกิดของมอนสเตอร์ใช้ 'เกิด'",
+  "note": "จุดเกิดของผู้เล่น (ดู Spawn)",
   "approved": true
  },
  {
@@ -1957,6 +2412,13 @@
   "th": "ส่องแร่",
   "kind": "system",
   "note": "บัฟ/ยา spelunker (ไฮไลต์แร่) · ทางการ: นักสำรวจ / ไฮไลต์",
+  "approved": true
+ },
+ {
+  "en": "Squire",
+  "th": "ผู้ติดตาม",
+  "kind": "system",
+  "note": "สมาชิกปาร์ตี้ผจญภัย · follower ก็ใช้ ผู้ติดตาม",
   "approved": true
  },
  {
@@ -1971,6 +2433,13 @@
   "th": "พลังกาย",
   "kind": "system",
   "note": "Aphorea ใช้ 'ความแข็งแกร่ง' 1 ที่",
+  "approved": true
+ },
+ {
+  "en": "Stats (statistics)",
+  "th": "สถิติ",
+  "kind": "system",
+  "note": "เมนู/ข้อมูลสถิติผู้เล่น-โลก · stats ของไอเทม/ตัวละครในแง่พลัง = ค่าสถานะ · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
   "approved": true
  },
  {
@@ -2002,6 +2471,13 @@
   "approved": true
  },
  {
+  "en": "Summon slot",
+  "th": "ช่องอัญเชิญ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Summoner",
   "th": "ผู้อัญเชิญ",
   "kind": "system",
@@ -2009,10 +2485,31 @@
   "approved": true
  },
  {
+  "en": "Summons (noun)",
+  "th": "สิ่งที่อัญเชิญ",
+  "kind": "system",
+  "note": "คำนาม = ยูนิตที่อัญเชิญมา · max summons=จำนวนอัญเชิญสูงสุด · กริยา summons=อัญเชิญ · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
+  "en": "Superior (potion)",
+  "th": "ขั้นสูงมาก",
+  "kind": "system",
+  "note": "ระดับน้ำยาเหนือ Greater · Aphorea Superior Pickaxe=อีเต้อชั้นยอด · คำกำกวม — en มีวงเล็บบอกบริบท ชุดตรวจจึงไม่จับอัตโนมัติ",
+  "approved": true
+ },
+ {
   "en": "Survival mode",
   "th": "โหมดเอาชีวิตรอด",
   "kind": "system",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Tablet Reward",
+  "th": "รางวัลแผ่นศิลา",
+  "kind": "system",
+  "note": "รางวัลจากแผ่นศิลาอินเคอร์ชัน",
   "approved": true
  },
  {
@@ -2051,10 +2548,31 @@
   "approved": true
  },
  {
+  "en": "Trinket ability slot",
+  "th": "ช่องความสามารถเครื่องประดับ",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
+  "en": "Unclaim",
+  "th": "สละสิทธิ์",
+  "kind": "system",
+  "note": "",
+  "approved": true
+ },
+ {
   "en": "Upgrade",
   "th": "อัปเกรด",
   "kind": "system",
   "note": "",
+  "approved": true
+ },
+ {
+  "en": "Version",
+  "th": "เวอร์ชัน",
+  "kind": "system",
+  "note": "ไม่ใช้ รุ่น / เวอร์ชั่น",
   "approved": true
  },
  {
@@ -2075,7 +2593,7 @@
   "en": "Workstation",
   "th": "โต๊ะประดิษฐ์",
   "kind": "system",
-  "note": "",
+  "note": "ชื่อวัตถุ (โต๊ะประดิษฐ์ปีศาจ/ทังสเตน/ร้าง) · workstation แบบคำรวมที่ชาวนิคมใช้ = สถานีประดิษฐ์ (ดู Crafting station)",
   "approved": true
  },
  {

@@ -1365,9 +1365,9 @@
    "key": "arcanicpylon",
    "en": "Arcanic Pylon",
    "official": "เสาหินอาร์เคน",
-   "th": "เสาหินอาร์เคน",
-   "status": "kept",
-   "note": ""
+   "th": "เสาหินลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "battlechef",

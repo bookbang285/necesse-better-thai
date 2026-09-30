@@ -245,9 +245,9 @@
    "key": "bamboosapling",
    "en": "Bamboo Sapling",
    "official": "หน่ออ่อนไผ่",
-   "th": "หน่ออ่อนไผ่",
-   "status": "kept",
-   "note": ""
+   "th": "ต้นกล้าไผ่",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "bamboologbench",

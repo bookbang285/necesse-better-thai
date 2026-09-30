@@ -1029,9 +1029,9 @@
    "key": "fallingicicle3",
    "en": "<victim> got severe brain freeze from a <attacker>",
    "official": "<victim> กลายเป็นคนหัวเย็น ด้วยผลจาก <attacker>",
-   "th": "<victim> สมองแข็งเพราะ <attacker>",
+   "th": "<victim> สมองแช่แข็งอย่างแรงเพราะ <attacker>",
    "status": "fixed",
-   "note": "ลื่นขึ้น"
+   "note": "ลื่นขึ้น · ศัพท์ตามคลัง"
   },
   {
    "key": "flamelingshooter1",

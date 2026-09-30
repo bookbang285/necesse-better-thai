@@ -909,9 +909,9 @@
    "key": "converteaworld2",
    "en": "The world you're trying to load is from the early access version of Necesse.",
    "official": "โลกที่คุณพยายามโหลดนั้นมาจากเวอร์ชัน Early Access ของ Necesse",
-   "th": "โลกที่คุณกำลังโหลดมาจาก Necesse รุ่น Early Access",
+   "th": "โลกที่คุณกำลังโหลดมาจาก Necesse เวอร์ชัน Early Access",
    "status": "fixed",
-   "note": "ลื่นขึ้น"
+   "note": "ลื่นขึ้น · ศัพท์ตามคลัง"
   },
   {
    "key": "converteaworld3",
@@ -1069,9 +1069,9 @@
    "key": "steamdeckcursornotice",
    "en": "Notice:\\nDue to a bug in newer versions of SteamOS, the game will render the cursor manually instead of using the system cursor.\\n\\nIf you experience double cursors, you can turn this off in the interface settings.",
    "official": "Notice:\\nDue to a bug in newer versions of SteamOS, the game will render the cursor manually instead of using the system cursor.\\n\\nIf you experience double cursors, you can turn this off in the interface settings.",
-   "th": "ประกาศ:\\nเนื่องจากบั๊กใน SteamOS รุ่นใหม่ เกมจะวาดเคอร์เซอร์เองแทนการใช้เคอร์เซอร์ของระบบ\\n\\nถ้าเห็นเคอร์เซอร์ซ้อนกันสองอัน ปิดตัวเลือกนี้ได้ในการตั้งค่าอินเทอร์เฟซ",
+   "th": "ประกาศ:\\nเนื่องจากบั๊กใน SteamOS เวอร์ชันใหม่ เกมจะวาดเคอร์เซอร์เองแทนการใช้เคอร์เซอร์ของระบบ\\n\\nถ้าเห็นเคอร์เซอร์ซ้อนกันสองอัน ปิดตัวเลือกนี้ได้ในการตั้งค่าอินเทอร์เฟซ",
    "status": "fixed",
-   "note": "ทางการเป็นอังกฤษ"
+   "note": "ทางการเป็นอังกฤษ · ศัพท์ตามคลัง"
   },
   {
    "key": "steamfailed",

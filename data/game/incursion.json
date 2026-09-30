@@ -525,7 +525,7 @@
    "key": "arcanicinvadersdesc",
    "en": "Incursions now have a chance to be invaded by Arcanic Constructions",
    "official": "อินเคอชั่นต่อไปนี้จะมีโอกาสถูกรุกรานโดยเสาหินอาร์เคน",
-   "th": "อินเคอร์ชันมีโอกาสถูกบุกโดยสิ่งก่อสร้างอาร์เคน",
+   "th": "อินเคอร์ชันมีโอกาสถูกบุกโดยสิ่งก่อสร้างลึกลับ",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },
@@ -557,41 +557,41 @@
    "key": "moremeleeweaponsrewarddesc",
    "en": "Tablets dropped in your Incursions are now more likely to have higher tier Melee Weapons as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธระยะประชิดระดับสูงขึ้น มากขึ้น",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธระยะประชิดระดับสูงขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มที่รางวัลแผ่นศิลาจะเป็นอาวุธระยะประชิดระดับสูงขึ้น",
    "status": "fixed",
-   "note": "ศัพท์ตามคลัง + สำนวน"
+   "note": "ศัพท์ตามคลัง + สำนวน · ศัพท์ตามคลัง"
   },
   {
    "key": "morerangedweaponsrewarddesc",
    "en": "Tablets dropped in your Incursions are now more likely to have higher tier Ranged Weapons as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธระยะไกลระดับสูงขึ้น มากขึ้น",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธระยะไกลระดับสูงขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มที่รางวัลแผ่นศิลาจะเป็นอาวุธระยะไกลระดับสูงขึ้น",
    "status": "fixed",
-   "note": "ศัพท์ตามคลัง + สำนวน"
+   "note": "ศัพท์ตามคลัง + สำนวน · ศัพท์ตามคลัง"
   },
   {
    "key": "moremagicweaponsrewarddesc",
    "en": "Tablets dropped in your Incursions are now more likely to have higher tier Magic Weapons as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธเวทยมนต์ระดับสูงขึ้น มากขึ้น",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธเวทมนตร์ระดับสูงขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มที่รางวัลแผ่นศิลาจะเป็นอาวุธเวทมนตร์ระดับสูงขึ้น",
    "status": "fixed",
-   "note": "ศัพท์ตามคลัง + สะกด"
+   "note": "ศัพท์ตามคลัง + สะกด · ศัพท์ตามคลัง"
   },
   {
    "key": "moresummonweaponsrewarddesc",
    "en": "Tablets dropped in your Incursions are now more likely to have higher tier Summon Weapons as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นอาวุธอัญเชิญระดับสูงขึ้น มากขึ้น",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นอาวุธอัญเชิญระดับสูงขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มที่รางวัลแผ่นศิลาจะเป็นอาวุธอัญเชิญระดับสูงขึ้น",
    "status": "fixed",
-   "note": "ศัพท์ตามคลัง + สำนวน"
+   "note": "ศัพท์ตามคลัง + สำนวน · ศัพท์ตามคลัง"
   },
   {
    "key": "cosmeticarmorrewarddesc",
    "en": "Tablets dropped in your Incursions now have a chance to have Cosmetic Armor as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ มีแนวโน้มที่จะมีรางวัลจากแผ่นศิลาเป็นเกราะระดับสูงขึ้น มากขึ้น",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นชุดเกราะแฟชั่น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสที่รางวัลแผ่นศิลาจะเป็นชุดเกราะแฟชั่น",
    "status": "fixed",
-   "note": "ผิดความ (Cosmetic)"
+   "note": "ผิดความ (Cosmetic) · ศัพท์ตามคลัง"
   },
   {
    "key": "slimecavetabletcandropdesc",
@@ -685,9 +685,9 @@
    "key": "petsrewarddesc1",
    "en": "Tablets dropped in your Incursion now have a chance to have Pets as their Tablet Reward",
    "official": "",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นสัตว์เลี้ยง",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสที่รางวัลแผ่นศิลาจะเป็นสัตว์เลี้ยง",
    "status": "new",
-   "note": ""
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "petsrewarddesc2",
@@ -701,15 +701,15 @@
    "key": "morecoinsrewarddesc",
    "en": "Tablets dropped in your Incursions are now more likely to have Coins as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ในตอนนี้มีแนวโน้มที่จะมีเหรียญเป็นรางวัลจากแผ่นศิลา",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มให้รางวัลเป็นเหรียญมากขึ้น",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีแนวโน้มที่รางวัลแผ่นศิลาจะเป็นเหรียญมากขึ้น",
    "status": "fixed",
-   "note": "ศัพท์ตามคลัง + สำนวน"
+   "note": "ศัพท์ตามคลัง + สำนวน · ศัพท์ตามคลัง"
   },
   {
    "key": "enchantsrewarddesc",
    "en": "Tablets dropped in your Incursion now have a chance to have Enchanting Scrolls as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ตอนนี้มีโอกาสที่จะมีม้วนคัมภีร์เสริมพลังเป็นรางวัลจากแผ่นศิลา",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นคัมภีร์เสริมพลัง",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสที่รางวัลแผ่นศิลาจะเป็นคัมภีร์เสริมพลัง",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },
@@ -741,15 +741,15 @@
    "key": "fivetimesmorecoinschancedesc",
    "en": "Tablets with Coins as their Tablet Reward has a low chance to drop 5 times as many coins",
    "official": "แผ่นศิลา ที่มีเหรียญเป็นรางวัลจากแผ่นศิลา มีโอกาสที่จะดรอปเหรียญเพิ่มขึ้น 5 เท่า",
-   "th": "แผ่นศิลาที่ให้รางวัลเป็นเหรียญมีโอกาสเล็กน้อยที่จะดรอปเหรียญเพิ่มเป็น 5 เท่า",
+   "th": "แผ่นศิลาที่มีรางวัลแผ่นศิลาเป็นเหรียญมีโอกาสเล็กน้อยที่จะดรอปเหรียญเพิ่มเป็น 5 เท่า",
    "status": "fixed",
-   "note": "ตกคำ low"
+   "note": "ตกคำ low · ศัพท์ตามคลัง"
   },
   {
    "key": "rescuesettlerrewarddesc",
    "en": "Tablets dropped in your Incursions now have a chance to have a Settler as their Tablet Reward",
    "official": "แผ่นศิลา ที่ดรอปใน อินเคอชั่น ของคุณ ตอนนี้มีโอกาสที่จะมีผู้อพยพเป็นรางวัลจากแผ่นศิลา",
-   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสให้รางวัลเป็นชาวนิคม",
+   "th": "แผ่นศิลาที่ดรอปในอินเคอร์ชันของคุณมีโอกาสที่รางวัลแผ่นศิลาจะเป็นชาวนิคม",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },
@@ -821,7 +821,7 @@
    "key": "empowermentbuffsdesc",
    "en": "Random Empowerment buffs will now spawn in your Incursions that can be picked up by players",
    "official": "บัฟเสริมพลังแบบสุ่มจะปรากฏในอินเคอชั่นของคุณ และสามารถเก็บได้โดยผู้เล่น",
-   "th": "บัฟเพิ่มพลังแบบสุ่มจะปรากฏในอินเคอร์ชันของคุณให้ผู้เล่นเก็บได้",
+   "th": "บัฟเพิ่มพลังแบบสุ่มจะเกิดขึ้นในอินเคอร์ชันของคุณให้ผู้เล่นเก็บได้",
    "status": "fixed",
    "note": "ศัพท์ตามคลัง"
   },

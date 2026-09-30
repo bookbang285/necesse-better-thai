@@ -6101,17 +6101,17 @@
    "key": "cornseedammotip",
    "en": "Seed Gun has increased resilience gain",
    "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มการทนทาน",
-   "th": "ปืนยิงเมล็ดได้รับความทนทานเพิ่มขึ้น",
+   "th": "ปืนยิงเมล็ดมีอัตราได้รับความทนทานเพิ่มขึ้น",
    "status": "fixed",
-   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun"
+   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun · ศัพท์ตามคลัง"
   },
   {
    "key": "wheatseedammotip",
    "en": "Seed Gun has increased resilience gain",
    "official": "เมื่อยิงด้วยปืนเมล็ด เพื่มการทนทาน",
-   "th": "ปืนยิงเมล็ดได้รับความทนทานเพิ่มขึ้น",
+   "th": "ปืนยิงเมล็ดมีอัตราได้รับความทนทานเพิ่มขึ้น",
    "status": "fixed",
-   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun"
+   "note": "สะกด + ความหมาย · ชื่อไอเทมตาม item: Seed Gun · ศัพท์ตามคลัง"
   },
   {
    "key": "pumpkinseedammotip",

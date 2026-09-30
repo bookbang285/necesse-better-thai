@@ -5597,25 +5597,25 @@
    "key": "arcanichelmet",
    "en": "Arcanic Helmet",
    "official": "หมวกอาร์คานิค",
-   "th": "หมวกอาร์คานิค",
-   "status": "kept",
-   "note": ""
+   "th": "หมวกลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "arcanicchestplate",
    "en": "Arcanic Chestplate",
    "official": "เกราะอาร์คานิค",
-   "th": "เกราะอาร์คานิค",
-   "status": "kept",
-   "note": ""
+   "th": "เกราะลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "arcanicboots",
    "en": "Arcanic Boots",
    "official": "รองเท้าอาร์คานิค",
-   "th": "รองเท้าอาร์คานิค",
-   "status": "kept",
-   "note": ""
+   "th": "รองเท้าลึกลับ",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "runeboundcrown",
@@ -9141,9 +9141,9 @@
    "key": "anysapling",
    "en": "Any Sapling",
    "official": "ต้นอ่อนอะไรก็ได้",
-   "th": "ต้นอ่อนอะไรก็ได้",
-   "status": "kept",
-   "note": ""
+   "th": "ต้นกล้าอะไรก็ได้",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "anygrassseed",

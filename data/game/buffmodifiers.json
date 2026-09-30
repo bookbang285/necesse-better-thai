@@ -333,9 +333,9 @@
    "key": "resiliencegain",
    "en": "<mod>% resilience gain",
    "official": "<mod>% อัตราการเพิ่มความทนทาน",
-   "th": "<mod>% อัตราการเพิ่มความทนทาน",
-   "status": "kept",
-   "note": ""
+   "th": "<mod>% อัตราได้รับความทนทาน",
+   "status": "fixed",
+   "note": "ศัพท์ตามคลัง"
   },
   {
    "key": "resiliencedecay",

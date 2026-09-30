@@ -445,9 +445,9 @@
    "key": "manuallydrawcursorinfo",
    "en": "Newer versions of SteamOS have a bug with the cursor being hidden. Turn this on if you don't see your cursor or off if you see double cursors.",
    "official": "Newer versions of SteamOS have a bug with the cursor being hidden. Turn this on if you don't see your cursor or off if you see double cursors.",
-   "th": "SteamOS รุ่นใหม่มีบั๊กที่ทำให้เคอร์เซอร์หายไป เปิดตัวเลือกนี้ถ้ามองไม่เห็นเคอร์เซอร์ หรือปิดถ้าเห็นเคอร์เซอร์ซ้อนสองอัน",
+   "th": "SteamOS เวอร์ชันใหม่มีบั๊กที่ทำให้เคอร์เซอร์หายไป เปิดตัวเลือกนี้ถ้ามองไม่เห็นเคอร์เซอร์ หรือปิดถ้าเห็นเคอร์เซอร์ซ้อนสองอัน",
    "status": "fixed",
-   "note": "ทางการเป็นอังกฤษ"
+   "note": "ทางการเป็นอังกฤษ · ศัพท์ตามคลัง"
   },
   {
    "key": "interfacesize",
